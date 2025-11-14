@@ -25,7 +25,7 @@ As the island's population grew and administrative needs became more complex, fo
 
 ## 1955: The Administrative Districts Act
 
-The Administrative Districts Act (No. 22 of 1955) took effect on 14 April 1955, formally establishing the district system for the first time in Sri Lankan law. This act created 21 administrative districts, providing a middle tier between provinces and smaller divisions. Districts became the key unit for coordinating government services, elections, and development planning.
+The Administrative Districts Act (No. 22 of 1955) took effect on 14 April 1955, formally establishing the district system for the first time in Sri Lankan law. This act created 20 administrative districts, providing a middle tier between provinces and smaller divisions. Districts became the key unit for coordinating government services, elections, and development planning.
 
 The 20 original districts were:
 
@@ -33,26 +33,27 @@ The 20 original districts were:
 - Kandy (LK-21), Matale (LK-22), Nuwara Eliya (LK-23)
 - Galle (LK-31), Matara (LK-32), Hambantota (LK-33)
 - Jaffna (LK-41), Mannar (LK-43), Vavuniya (LK-44)
-- Batticaloa (LK-51),Trincomalee (LK-53)
+- Batticaloa (LK-51), Trincomalee (LK-53)
 - Kurunegala (LK-61), Puttalam (LK-62)
 - Anuradhapura (LK-71), Polonnaruwa (LK-72)
 - Badulla (LK-81)
 - Ratnapura (LK-91), Kegalle (LK-92)
 
-## 1978: Decentralization Era
+## 1959 to 1984: Five New Districts
 
-The adoption of the 1978 Constitution brought significant administrative reforms, including the establishment of district development councils. Two new districts were created to better serve rapidly growing populations:
+Between 1959 and 1984, five new administrative districts were carved out by demarcating relevant district boundaries:
 
-- Gampaha District (LK-12) – Split from Colombo District to accommodate the rapidly urbanizing areas north of Colombo, reflecting the expansion of the Greater Colombo Metropolitan Region.
-- Mullaitivu District (LK-44) – Formed from parts of Jaffna (LK-41), Mannar (LK-42), and Vavuniya (LK-44) to provide better administrative coverage in the northern region.
+- Monaragala District (LK-82) – Created in 1959 from parts of Badulla District to serve the southern areas of Uva Province.
+- Ampara District (LK-52) – Established in 1961 from parts of Batticaloa District to provide better administration in the southern Eastern Province.
+- Gampaha District (LK-12) – Created in 1978 from Colombo District to accommodate the rapidly urbanizing areas north of Colombo, reflecting the expansion of the Greater Colombo Metropolitan Region.
+- Mullaitivu District (LK-45) – Formed in 1978 from parts of Jaffna, Mannar, and Vavuniya districts to provide better administrative coverage in the northern coastal region.
+- Kilinochchi District (LK-42) – Established in 1984, carved out from Jaffna District to provide more focused administration in the northern interior.
 
-## 1984: Northern Province Reorganization
+There has been no increase in the number of districts after 1984. At present, there are 25 administrative districts in Sri Lanka.
 
-- Kilinochchi District (LK-45) – Carved out from Jaffna District (LK-41) to provide more focused administration in the northern interior.
+## 1987: Provincial Councils System
 
-## 1988: Provincial Councils System
-
-The Thirteenth Amendment to the Constitution (1987) and the Provincial Councils Act (No. 42 of 1987) established the current Provincial Councils system, devolving certain powers to the nine provinces. 
+The Thirteenth Amendment to the Constitution (1987) and the Provincial Councils Act (No. 42 of 1987) established the current Provincial Councils system, devolving certain powers to the nine provinces. This created the administrative structure that remains in place today, with 9 provinces and 25 districts. 
 
 ## References
 
