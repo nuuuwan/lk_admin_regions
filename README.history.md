@@ -33,7 +33,7 @@ The 21 original districts were:
 - Kandy (LK-21), Matale (LK-22), Nuwara Eliya (LK-23)
 - Galle (LK-31), Matara (LK-32), Hambantota (LK-33)
 - Jaffna (LK-41), Mannar (LK-43), Vavuniya (LK-44)
-- Batticaloa (LK-51), Ampara (LK-52), Trincomalee (LK-53)
+- Batticaloa (LK-51),Trincomalee (LK-53)
 - Kurunegala (LK-61), Puttalam (LK-62)
 - Anuradhapura (LK-71), Polonnaruwa (LK-72)
 - Badulla (LK-81)
@@ -44,11 +44,11 @@ The 21 original districts were:
 The adoption of the 1978 Constitution brought significant administrative reforms, including the establishment of district development councils. Two new districts were created to better serve rapidly growing populations:
 
 - Gampaha District (LK-12) – Split from Colombo District to accommodate the rapidly urbanizing areas north of Colombo, reflecting the expansion of the Greater Colombo Metropolitan Region.
-- Mullaitivu District (LK-45) – Formed from parts of Jaffna (LK-41), Mannar (LK-42), and Vavuniya (LK-44) to provide better administrative coverage in the northern region.
+- Mullaitivu District (LK-44) – Formed from parts of Jaffna (LK-41), Mannar (LK-42), and Vavuniya (LK-44) to provide better administrative coverage in the northern region.
 
 ## 1984: Northern Province Reorganization
 
-- Kilinochchi District (LK-42) – Carved out from Jaffna District (LK-41) to provide more focused administration in the northern interior.
+- Kilinochchi District (LK-45) – Carved out from Jaffna District (LK-41) to provide more focused administration in the northern interior.
 
 ## 1988: Provincial Councils System
 
@@ -68,4 +68,4 @@ The Thirteenth Amendment to the Constitution (1987) and the Provincial Councils 
 - Wikipedia: Administrative divisions of Sri Lanka: [https://en.wikipedia.org/wiki/Administrative_divisions_of_Sri_Lanka](https://en.wikipedia.org/wiki/Administrative_divisions_of_Sri_Lanka)
 - Wikipedia: Districts of Sri Lanka: [https://en.wikipedia.org/wiki/Districts_of_Sri_Lanka](https://en.wikipedia.org/wiki/Districts_of_Sri_Lanka)
 - Wikipedia: Provinces of Sri Lanka: [https://en.wikipedia.org/wiki/Provinces_of_Sri_Lanka](https://en.wikipedia.org/wiki/Provinces_of_Sri_Lanka)
- 
+- The National Atlas of Sri Lanka, 2nd Edition
