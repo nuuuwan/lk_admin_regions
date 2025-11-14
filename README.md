@@ -24,9 +24,9 @@ This repository uses the ISO 3166-1 alpha-2 codes as the primary key for every r
 
 The ISO 3166-2 standard, which defines codes for the principal subdivisions of countries, was first published in December 1998. This established the framework for standardized region identifiers used in this repository.
 
-### Example Regions and Code
+### Example Regions and Codes
 
-| Level    | id pattern         | Example                                             |
+| Level    | ID Pattern         | Example                                             |
 | -------- | ------------------ | --------------------------------------------------- |
 | Country  | `LK`               | Sri Lanka `LK`                                      |
 | Province | `LK-P`             | Western Province `LK-1`                             |
@@ -35,9 +35,32 @@ The ISO 3166-2 standard, which defines codes for the principal subdivisions of c
 | GND      | `LK-P-D-DSD-GND`   | Kollupitiya `LK-1-1-27-005` or `LK1127005`          |
 | Village  | `LK-P-D-DSD-GND-V` | Rotunda Gardens `LK-1-1-27-005-02` or `LK112700502` |
 
+
+## How Region IDs Were Assigned
+
+While numbering began after December 1998, the current order of numbering reflects the history of Sri Lanka's administrative divisions. 
+
+
+### 1833
+
+Following the recommendations of the Colebrooke-Cameron Commission, five provinces under one administration came into being: 
+
+- LK-1: Western Province – The maritime districts of Colombo, Chilaw and Puttalam, and the Kandyan provinces of Three Korales, Four Korales, Seven Korales and Lower Bulathgama.
+- LK-2: Central Province – The central Kandyan Provinces.
+- LK-3: Southern Province – The maritime districts of Galle, Hambantota, Matara and Tangalle, and the Kandyan provinces of Lower Uva, Saffragam and Wellassa.
+- LK-4: Northern Province – The maritime districts of Jaffna, Mannar and Vanni, and the Kandyan province of Nuwara Kalawiya.
+- LK-5: Eastern Province – The maritime districts of Batticaloa and Trincomalee, and the Kandyan provinces of Bintenna and Tamankaduwa.
+
+### 1845 to 1889
+
+- LK-6: The North Western Province was created in 1845, from northern parts of the Western Province (the districts of Chilaw, Puttalam and Seven Korales).
+- LK-7: The North Central Province was created in 1873 from southern parts of the Northern Province (district of Nuwara Kalawiya) and north western parts of the Eastern Province (district of Tamankaduwa).
+- LK-8: The Uva Province was created in 1886 from parts of the Central Province, Eastern Province (district of Bintenna) and Southern Province (district of Wellassa).
+- LK-9: The Sabaragamuwa Province was created in 1889, from modern day Ratnapura District, which was part of the Southern Province, and Kegalle, which was part of the Western Province.
+
 ## Repository Scope
 
-This repository contains the administrative hierarchy of Sri Lanka and a small set of core attributes for each region, such as population and land area where available. 
+This repository contains the administrative hierarchy of Sri Lanka and a small set of core attributes for each region, such as population and land area where available.
 
 It does not include geospatial boundary data, shapefiles, coordinates, or maps. 
 
