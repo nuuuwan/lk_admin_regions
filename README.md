@@ -22,6 +22,8 @@ Sri Lanka’s territorial administration follows a fixed hierarchy used in gover
 
 This repository uses the ISO 3166-1 alpha-2 codes as the primary key for every region. A region's code comprises its parent region's code followed by a numerical code. These segments reflect the nested administrative hierarchy and ensure consistent ordering.
 
+The ISO 3166-2 standard, which defines codes for the principal subdivisions of countries, was first published in December 1998. This established the framework for standardized region identifiers used in this repository.
+
 ### Example Regions and Code
 
 | Level    | id pattern         | Example                                             |
