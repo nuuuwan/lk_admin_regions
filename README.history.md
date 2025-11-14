@@ -53,11 +53,25 @@ There has been no increase in the number of districts after 1984. At present, th
 
 ## 1987: Provincial Councils System
 
-The Thirteenth Amendment to the Constitution (1987) and the Provincial Councils Act (No. 42 of 1987) established the current Provincial Councils system, devolving certain powers to the nine provinces. This created the administrative structure that remains in place today, with 9 provinces and 25 districts. 
+The Thirteenth Amendment to the Constitution of the Democratic Socialist Republic of Sri Lanka, adopted in November 1987, resulted in the establishment of Provincial Councils as sub-national-level legislatures to attend to a variety of central government functions. The Provincial Councils Act No. 42 of 1987 provided the mechanism to set up the councils to be elected for five-year terms.
 
-## References
+The Provincial Councils (Consequential Provisions) Act No. 12 of 1989 empowered the councils to invoke the available laws earlier enforced by government to attend to their legal powers. The power to frame statutes was the mechanism prescribed to adopt Provincial Council laws on the subjects assigned to them.
 
-- Colebrooke-Cameron Commission Report (1833): [https://en.wikipedia.org/wiki/Colebrooke%E2%80%93Cameron_Commission](https://en.wikipedia.org/wiki/Colebrooke%E2%80%93Cameron_Commission)
+Seven Provincial Councils commenced functioning from the early part of 1988. The two provinces of the North and the East were temporarily merged to form one province, with the intention to decide on de-merger subsequently. However, the Supreme Court ruled that the two provinces should be de-merged as the original temporary merger was declared unconstitutional (2006).
+
+The Provincial Council elected to office in 1988 for the Northern and Eastern Provinces functioned only for a brief period of one year and was dissolved and brought under the control of Parliament. Elections for the seven Provincial Councils for the North Central, North Western, Western, Central, Uva, Sabaragamuwa, and Southern provinces are conducted under the respective laws.
+
+This created the administrative structure that remains in place today, with 9 provinces and 25 districts.
+
+## Grama Niladhari Divisions: Grassroots Administration
+
+Another important feature in the study of administrative divisions is the establishment of Grama Niladhari Divisions (GNDs) as the lowest unit of administration at the grassroots level. Prior to 1963, these areas were under Village Headmen. The designation of Village Headman was changed to Grama Sevaka, and later to Grama Seva Niladhari. Subsequently, this was again changed to Grama Niladhari.
+
+In 1987, the total number of Grama Seva Niladhari in the island was 4,451. At present, the total number of cadre is 14,016. This increase occurred as a result of the absorption of 2,402 Special Service Officers to the cadre of Grama Seva Niladhari in 1987, 4,532 cultivation officers in 1988, and 3,348 agriculture extension officers in 1989.
+
+According to the village list compiled after the census of 2001, there are 35,697 villages. Grama Niladhari attend to functions of government at the village level, serving as the state's representative at the community level for population records, household enumeration, certificates, and local administration.
+
+## References- Colebrooke-Cameron Commission Report (1833): [https://en.wikipedia.org/wiki/Colebrooke%E2%80%93Cameron_Commission](https://en.wikipedia.org/wiki/Colebrooke%E2%80%93Cameron_Commission)
 - Administrative Districts Act, No. 22 of 1955: [http://www.commonlii.org/lk/legis/num_act/ada22o1955232/](http://www.commonlii.org/lk/legis/num_act/ada22o1955232/)
 - Constitution of the Democratic Socialist Republic of Sri Lanka (1978): [https://www.parliament.lk/en/constitution](https://www.parliament.lk/en/constitution)
 - Provincial Councils Act, No. 42 of 1987: [https://www.lawnet.gov.lk/provincial-councils-act-2/](https://www.lawnet.gov.lk/provincial-councils-act-2/)
