@@ -29,35 +29,15 @@ The Administrative Districts Act (No. 22 of 1955) took effect on 14 April 1955, 
 
 The 21 original districts were:
 
-- Colombo (LK-11)  ￼
-- Kalutara (LK-13)  ￼
-
-- Kandy (LK-21)  ￼
-- Matale (LK-22)  ￼
-- Nuwara Eliya (LK-23)  
-￼
-- Galle (LK-31)  ￼
-- Matara (LK-32)  ￼
-- Hambantota (LK-33)  ￼
-
-- Jaffna (LK-41)  ￼
-- Mannar (LK-43)  ￼
-- Vavuniya (LK-44) 
- ￼
-- Batticaloa (LK-51)  ￼
-- Ampara (LK-52)  ￼
-- Trincomalee (LK-53)  ￼
-
-- Kurunegala (LK-61)  ￼
-- Puttalam (LK-62)  ￼
-
-- Anuradhapura (LK-71)  ￼
-- Polonnaruwa (LK-72)  ￼
-
-- Badulla (LK-81)  ￼
-
-- Ratnapura (LK-91)  ￼
-- Kegalle (LK-92)  ￼
+- Colombo (LK-11), Kalutara (LK-13)
+- Kandy (LK-21), Matale (LK-22), Nuwara Eliya (LK-23)
+- Galle (LK-31), Matara (LK-32), Hambantota (LK-33)
+- Jaffna (LK-41), Mannar (LK-43), Vavuniya (LK-44)
+- Batticaloa (LK-51), Ampara (LK-52), Trincomalee (LK-53)
+- Kurunegala (LK-61), Puttalam (LK-62)
+- Anuradhapura (LK-71), Polonnaruwa (LK-72)
+- Badulla (LK-81)
+- Ratnapura (LK-91), Kegalle (LK-92)
 
 ## 1978: Decentralization Era
 
