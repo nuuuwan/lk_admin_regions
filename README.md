@@ -53,6 +53,8 @@ Following the recommendations of the Colebrooke-Cameron Commission, five provinc
 
 ### 1845 to 1889
 
+Since, 4 additional provinces were created by carving out parts of existing provinces.
+
 - LK-6: The North Western Province was created in 1845, from northern parts of the Western Province (the districts of Chilaw, Puttalam and Seven Korales).
 - LK-7: The North Central Province was created in 1873 from southern parts of the Northern Province (district of Nuwara Kalawiya) and north western parts of the Eastern Province (district of Tamankaduwa).
 - LK-8: The Uva Province was created in 1886 from parts of the Central Province, Eastern Province (district of Bintenna) and Southern Province (district of Wellassa).
