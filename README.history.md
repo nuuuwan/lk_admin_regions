@@ -27,7 +27,7 @@ As the island's population grew and administrative needs became more complex, fo
 
 The Administrative Districts Act (No. 22 of 1955) took effect on 14 April 1955, formally establishing the district system for the first time in Sri Lankan law. This act created 21 administrative districts, providing a middle tier between provinces and smaller divisions. Districts became the key unit for coordinating government services, elections, and development planning.
 
-The 21 original districts were:
+The 20 original districts were:
 
 - Colombo (LK-11), Kalutara (LK-13)
 - Kandy (LK-21), Matale (LK-22), Nuwara Eliya (LK-23)
