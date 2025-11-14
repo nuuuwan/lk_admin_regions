@@ -20,9 +20,9 @@ Sri Lanka’s territorial administration follows a fixed hierarchy used in gover
 
 ## Region ID Structure
 
-This repository uses the ISO 3166-1 alpha-2 codes as the primary key for every region. A region's code comprises its parent region's code followed by a numerical code. These segments reflect the nested administrative hierarchy and ensure consistent ordering.
+This repository uses codes defined by Sri Lanka's Department of Census and Statistics (DCS) as the primary key for every region. A region's code comprises its parent region's code followed by a numerical code. These segments reflect the nested administrative hierarchy and ensure consistent ordering.
 
-The ISO 3166-2 standard, which defines codes for the principal subdivisions of countries, was first published in December 1998. This established the framework for standardized region identifiers used in this repository.
+The DCS coding system is similar to ISO 3166-2, which was first published in December 1998. Province codes are identical between the two systems, as are most district codes (except for the Northern Province). However, ISO 3166-2 only defines codes for provinces and districts, while the DCS system extends the hierarchy to include districts, DSDs, GNDs, and villages.
 
 ### Example Regions and Codes
 
@@ -36,9 +36,7 @@ The ISO 3166-2 standard, which defines codes for the principal subdivisions of c
 | Village  | `LK-P-D-DSD-GND-V` | Rotunda Gardens `LK-1-1-27-005-02` or `LK112700502` |
 
 
-## How Region IDs Were Assigned
-
-While numbering began after December 1998, the current order of numbering reflects the history of Sri Lanka's administrative divisions. 
+## Brief History of Administrative Regions in Sri Lanka
 
 
 ### 1833
@@ -114,4 +112,5 @@ The focus is on a clean, structured hierarchy and essential non-geometric metada
 - ISO 3166-2 Standard Overview: [https://www.iso.org/iso-3166-country-codes.html](https://www.iso.org/iso-3166-country-codes.html)
 - Wikipedia: ISO 3166-2 LK: [https://en.wikipedia.org/wiki/ISO_3166-2:LK](https://en.wikipedia.org/wiki/ISO_3166-2:LK)
 - Wikipedia: Administrative divisions of Sri Lanka: [https://en.wikipedia.org/wiki/Administrative_divisions_of_Sri_Lanka](https://en.wikipedia.org/wiki/Administrative_divisions_of_Sri_Lanka)
+- Administrative Districts Act (No. 22 of 1955) - [https://survey.gov.lk/sdweb/pdf/surveydocuments/22%20of%201955.pdf](https://survey.gov.lk/sdweb/pdf/surveydocuments/22%20of%201955.pdf)
 
