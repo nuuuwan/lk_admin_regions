@@ -11,14 +11,15 @@ log = Log("GNDListFinalXLSX")
 
 
 class GNDListFinalXLSX:
-    PATH = os.path.join(
+    GROUND_TRUTH_PATH = os.path.join(
         "data_ground_truth", "gnd_list_final", "GNDList_Final.xlsx"
     )
+    DATA_PATH = os.path.join("data", "gnd.tsv")
 
     @classmethod
     def to_list_of_dicts(cls):
 
-        df = pd.read_excel(cls.PATH)
+        df = pd.read_excel(cls.GROUND_TRUTH_PATH)
         return df.to_dict(orient="records")
 
     @classmethod
@@ -100,10 +101,17 @@ class GNDListFinalXLSX:
     def build_gnd_table(cls):
         gnd_list = [cls.get_d_gnd_from_row(d) for d in cls.to_list_of_dicts()]
         gnd_list = [d for d in gnd_list if d is not None]
-        gnd_path = os.path.join("data", "gnd.tsv")
-        gnd_file = TSVFile(gnd_path)
+        gnd_file = TSVFile(cls.DATA_PATH)
         gnd_file.write(gnd_list)
         log.info(f"Wrote {len(gnd_list):,} rows to {gnd_file}")
+
+    @classmethod
+    def get_data_list(cls) -> list[dict]:
+        return TSVFile(cls.DATA_PATH).read()
+
+    @classmethod
+    def get_idx(cls):
+        return {d["gnd_id"]: d for d in cls.get_data_list()}
 
 
 if __name__ == "__main__":
