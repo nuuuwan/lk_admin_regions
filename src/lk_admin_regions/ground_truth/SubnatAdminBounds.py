@@ -57,24 +57,30 @@ class SubnatAdminBounds:
         glf_minus_sab = ids_from_glf - ids_from_sab
         if glf_minus_sab:
             log.warning(
-                f"⚠️ {len(glf_minus_sab)} GNDListFinal but not in SubnatAdminBounds"
+                f"⚠️ {
+                    len(glf_minus_sab)} GNDListFinal but not in SubnatAdminBounds"
             )
             for gnd_id in sorted(glf_minus_sab)[:10]:
                 gnd_name = idx_from_glf[gnd_id]["gnd_name"]
                 log.debug(f"  - {gnd_id} {gnd_name}")
         else:
-            log.info("✅ All GND IDs in GNDListFinal are in SubnatAdminBounds")
+            log.info(
+                "✅ All GND IDs in GNDListFinal are in SubnatAdminBounds"
+            )
 
         sab_minus_glf = ids_from_sab - ids_from_glf
         if sab_minus_glf:
             log.warning(
-                f"⚠️ {len(sab_minus_glf)} In SubnatAdminBounds but not in GNDListFinal"
+                f"⚠️ {
+                    len(sab_minus_glf)} In SubnatAdminBounds but not in GNDListFinal"
             )
             for gnd_id in sorted(sab_minus_glf)[:10]:
                 gnd_name = idx_from_sab[gnd_id]["gnd_name"]
                 log.debug(f"  - {gnd_id} {gnd_name}")
         else:
-            log.info("✅ All GND IDs in SubnatAdminBounds are in GNDListFinal")
+            log.info(
+                "✅ All GND IDs in SubnatAdminBounds are in GNDListFinal"
+            )
 
 
 if __name__ == "__main__":
