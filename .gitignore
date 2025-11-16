@@ -1,5 +1,8 @@
-*lka_admbnda_adm4_slsd_20220816* # HACK Ignore until we find a better way to manage large files
+# HACK Ignore until we find a better way to manage large files
+*lka_admbnda_adm4_slsd_20220816* 
+
 .DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
