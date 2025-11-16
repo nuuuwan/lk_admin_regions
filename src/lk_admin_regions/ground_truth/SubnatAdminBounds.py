@@ -35,8 +35,7 @@ class SubnatAdminBounds:
         area_km = sum(d["area_km"] for d in gnd_list)
         log.debug(f"{area_km=:,}")
 
-        gnd_path = os.path.join("data", "gnd-geo.tsv")
-        gnd_file = TSVFile(gnd_path)
+        gnd_file = TSVFile(cls.DATA_PATH)
         gnd_file.write(gnd_list)
         log.info(f"Wrote {len(gnd_list):,} rows to {gnd_file}")
 
@@ -48,10 +47,24 @@ class SubnatAdminBounds:
     def get_idx(cls):
         return {d["gnd_id"]: d for d in cls.get_data_list()}
 
+    @staticmethod
+    def append_gnd_id2(d_idx: dict[dict]) -> dict[dict]:
+        d_idx2 = {}
+        for d in d_idx.values():
+            gnd_id = d["gnd_id"]
+            gnd_id2 = gnd_id
+            d["gnd_id2"] = gnd_id2
+            d_idx2[gnd_id2] = d
+        return d_idx2
+
     @classmethod
     def compare_to_gnd_list_final(cls):
-        idx_from_glf = GNDListFinalXLSX.get_idx()
-        idx_from_sab = cls.get_idx()
+        idx_from_glf = SubnatAdminBounds.append_gnd_id2(
+            GNDListFinalXLSX.get_idx()
+        )
+        idx_from_sab = SubnatAdminBounds.append_gnd_id2(
+            SubnatAdminBounds.get_idx()
+        )
         ids_from_glf = set(idx_from_glf.keys())
         ids_from_sab = set(idx_from_sab.keys())
         glf_minus_sab = ids_from_glf - ids_from_sab
@@ -64,9 +77,7 @@ class SubnatAdminBounds:
                 gnd_name = idx_from_glf[gnd_id]["gnd_name"]
                 log.debug(f"  - {gnd_id} {gnd_name}")
         else:
-            log.info(
-                "✅ All GND IDs in GNDListFinal are in SubnatAdminBounds"
-            )
+            log.info("✅ All GND IDs in GNDListFinal are in SubnatAdminBounds")
 
         sab_minus_glf = ids_from_sab - ids_from_glf
         if sab_minus_glf:
@@ -78,9 +89,7 @@ class SubnatAdminBounds:
                 gnd_name = idx_from_sab[gnd_id]["gnd_name"]
                 log.debug(f"  - {gnd_id} {gnd_name}")
         else:
-            log.info(
-                "✅ All GND IDs in SubnatAdminBounds are in GNDListFinal"
-            )
+            log.info("✅ All GND IDs in SubnatAdminBounds are in GNDListFinal")
 
 
 if __name__ == "__main__":
