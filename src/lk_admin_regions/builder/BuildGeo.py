@@ -17,9 +17,7 @@ class BuildGeo:
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(
-        cls, json_type, dir_name_simplified, ent_type_name
-    ):
+    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -181,3 +179,7 @@ class BuildGeo:
             if not json_file.exists:
                 json_file.write(flattened_coordinates)
                 log.info(f"✅ Wrote {json_file}")
+
+    @staticmethod
+    def _HACK_delete_large_files():
+        os.system("find data -type f -size +25M -delete")
