@@ -16,7 +16,7 @@ class BuildEnts:
         ("province", 1, 1),
         ("district", 2, 2),
         ("dsd", 3, 4),
-        ("gnd", 4, 7),
+        # ("gnd", 4, 7),
     ]
 
     @classmethod
