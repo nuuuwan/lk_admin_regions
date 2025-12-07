@@ -1,0 +1,227 @@
+[
+  {
+    "id": "LK-11",
+    "name": "Colombo",
+    "name_si": "\u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a",
+    "name_ta": "\u0b95\u0bca\u0bb4\u0bc1\u0bae\u0bcd\u0baa\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 688.16591506,
+    "center_lat": 6.84823723,
+    "center_lon": 80.02863578
+  },
+  {
+    "id": "LK-12",
+    "name": "Gampaha",
+    "name_si": "\u0d9c\u0db8\u0dca\u0db4\u0dc4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca",
+    "name_ta": "\u0b95\u0bae\u0bcd\u0baa\u0bb9\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 1416.40030692,
+    "center_lat": 7.11868674,
+    "center_lon": 80.02093188
+  },
+  {
+    "id": "LK-13",
+    "name": "Kalutara",
+    "name_si": "\u0d9a\u0db5\u0dad\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a",
+    "name_ta": "\u0b95\u0bb3\u0bc1\u0ba4\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae",
+    "area_sqkm": 1646.99120094,
+    "center_lat": 6.57564893,
+    "center_lon": 80.13452058
+  },
+  {
+    "id": "LK-21",
+    "name": "Kandy",
+    "name_si": "\u0db8\u0dc4\u0db1\u0dd4\u0dc0\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a",
+    "name_ta": "\u0b95\u0ba3\u0bcd\u0b9f\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 1927.6854698,
+    "center_lat": 7.21502511,
+    "center_lon": 80.64056262
+  },
+  {
+    "id": "LK-22",
+    "name": "Matale",
+    "name_si": "\u0db8\u0dcf\u0dad\u0dbd\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca",
+    "name_ta": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb3\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 2058.74838488,
+    "center_lat": 7.69790222,
+    "center_lon": 80.66033493
+  },
+  {
+    "id": "LK-23",
+    "name": "Nuwara Eliya",
+    "name_si": "\u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb",
+    "name_ta": "\u0ba8\u0bc1\u0bb5\u0bb0\u0bc7\u0bb2\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae",
+    "area_sqkm": 1744.81483583,
+    "center_lat": 7.01327661,
+    "center_lon": 80.75704144
+  },
+  {
+    "id": "LK-31",
+    "name": "Galle",
+    "name_si": "\u0d9c\u0dcf\u0dbd\u0dca\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca",
+    "name_ta": "\u0b95\u0bbe\u0bb2\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 1613.4885819,
+    "center_lat": 6.20417288,
+    "center_lon": 80.23092237
+  },
+  {
+    "id": "LK-32",
+    "name": "Matara",
+    "name_si": "\u0db8\u0dcf\u0dad\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a",
+    "name_ta": "\u0bae\u0bbe\u0ba4\u0bcd\u0ba4\u0bb1\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 1306.37001864,
+    "center_lat": 6.1582224,
+    "center_lon": 80.51940682
+  },
+  {
+    "id": "LK-33",
+    "name": "Hambantota",
+    "name_si": "\u0dc4\u0db8\u0dca\u0db6\u0db1\u0dca\u0dad\u0ddc\u0da7 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d",
+    "name_ta": "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0ba8\u0bcd\u0ba4\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8 \u0bae\u0bbe\u0bb5",
+    "area_sqkm": 2625.06413247,
+    "center_lat": 6.27590894,
+    "center_lon": 81.17796149
+  },
+  {
+    "id": "LK-41",
+    "name": "Jaffna",
+    "name_si": "\u0dba\u0dcf\u0db4\u0db1\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca",
+    "name_ta": "\u0baf\u0bbe\u0bb4\u0bcd\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd",
+    "area_sqkm": 1091.23880692,
+    "center_lat": 9.64395027,
+    "center_lon": 79.90838019
+  },
+  {
+    "id": "LK-42",
+    "name": "Mannar",
+    "name_si": "\u0db8\u0db1\u0dca\u0db1\u0dcf\u0dbb\u0db8 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0bae\u0ba9\u0bcd\u0ba9\u0bbe\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 2010.82924856,
+    "center_lat": 8.88089835,
+    "center_lon": 80.1633428
+  },
+  {
+    "id": "LK-43",
+    "name": "Vavuniya",
+    "name_si": "\u0dc0\u0dc0\u0dd4\u0db1\u0dd2\u0dba\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0bb5\u0bb5\u0bc1\u0ba9\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 1934.9087819,
+    "center_lat": 8.83615187,
+    "center_lon": 80.48643485
+  },
+  {
+    "id": "LK-44",
+    "name": "Mullaitivu",
+    "name_si": "\u0db8\u0dd4\u0dbd\u0dad\u0dd2\u0dc0\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0bae\u0bc1\u0bb2\u0bcd\u0bb2\u0bc8\u0ba4\u0bcd\u0ba4\u0bc0\u0bb5\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f",
+    "area_sqkm": 2681.14833978,
+    "center_lat": 9.18102023,
+    "center_lon": 80.52648228
+  },
+  {
+    "id": "LK-45",
+    "name": "Kilinochchi",
+    "name_si": "\u0d9a\u0dd2\u0dbd\u0dd2\u0db1\u0ddc\u0da0\u0dca\u0da0\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca",
+    "name_ta": "\u0b95\u0bbf\u0bb3\u0bbf\u0ba8\u0bca\u0b9a\u0bcd\u0b9a\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f",
+    "area_sqkm": 1319.2903411,
+    "center_lat": 9.44765191,
+    "center_lon": 80.38569529
+  },
+  {
+    "id": "LK-51",
+    "name": "Batticaloa",
+    "name_si": "\u0db8\u0da9\u0d9a\u0dbd\u0db4\u0dd4\u0dc0 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0bae\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bb3\u0baa\u0bcd\u0baa\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f",
+    "area_sqkm": 2480.50227079,
+    "center_lat": 7.8342014,
+    "center_lon": 81.38553422
+  },
+  {
+    "id": "LK-52",
+    "name": "Ampara",
+    "name_si": "\u0d85\u0db8\u0dca\u0db4\u0dcf\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a",
+    "name_ta": "\u0b85\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 4474.65656606,
+    "center_lat": 7.12509974,
+    "center_lon": 81.68550912
+  },
+  {
+    "id": "LK-53",
+    "name": "Trincomalee",
+    "name_si": "\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dd4\u0dab\u0dcf\u0db8\u0dc5\u0dba \u0daf\u0dd2\u0dc3\u0dca",
+    "name_ta": "\u0ba4\u0bbf\u0bb0\u0bc1\u0b95\u0bcb\u0ba3\u0bae\u0bb2\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f",
+    "area_sqkm": 2692.10623294,
+    "center_lat": 8.56827393,
+    "center_lon": 81.06290663
+  },
+  {
+    "id": "LK-61",
+    "name": "Kurunegala",
+    "name_si": "\u0d9a\u0dd4\u0dbb\u0dd4\u0dab\u0dd1\u0d9c\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb",
+    "name_ta": "\u0b95\u0bc1\u0bb0\u0bc1\u0ba8\u0bbe\u0b95\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae",
+    "area_sqkm": 4905.70704421,
+    "center_lat": 7.72795301,
+    "center_lon": 80.25743281
+  },
+  {
+    "id": "LK-62",
+    "name": "Puttalam",
+    "name_si": "\u0db4\u0dd4\u0dad\u0dca\u0dad\u0dbd\u0db8 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb3\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 3159.93794248,
+    "center_lat": 7.9161926,
+    "center_lon": 79.91290159
+  },
+  {
+    "id": "LK-71",
+    "name": "Anuradhapura",
+    "name_si": "\u0d85\u0db1\u0dd4\u0dbb\u0dcf\u0db0\u0db4\u0dd4\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d",
+    "name_ta": "\u0b85\u0ba9\u0bc1\u0bb0\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd",
+    "area_sqkm": 7218.28722087,
+    "center_lat": 8.36940484,
+    "center_lon": 80.4398676
+  },
+  {
+    "id": "LK-72",
+    "name": "Polonnaruwa",
+    "name_si": "\u0db4\u0ddc\u0dc5\u0ddc\u0db1\u0dca\u0db1\u0dbb\u0dd4\u0dc0 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca",
+    "name_ta": "\u0baa\u0bca\u0bb2\u0ba9\u0bcd\u0ba9\u0bb1\u0bc1\u0bb5\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f",
+    "area_sqkm": 3469.71640746,
+    "center_lat": 7.99389161,
+    "center_lon": 81.05057482
+  },
+  {
+    "id": "LK-81",
+    "name": "Badulla",
+    "name_si": "\u0db6\u0daf\u0dd4\u0dbd\u0dca\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a",
+    "name_ta": "\u0baa\u0ba4\u0bc1\u0bb3\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 2871.95592779,
+    "center_lat": 7.08201712,
+    "center_lon": 81.08871712
+  },
+  {
+    "id": "LK-82",
+    "name": "Monaragala",
+    "name_si": "\u0db8\u0ddc\u0dab\u0dbb\u0dcf\u0d9c\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0bae\u0bca\u0ba3\u0bb0\u0bbe\u0b95\u0bb2\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 5757.9888915,
+    "center_lat": 6.87260111,
+    "center_lon": 81.37070159
+  },
+  {
+    "id": "LK-91",
+    "name": "Ratnapura",
+    "name_si": "\u0dbb\u0dad\u0dca\u0db1\u0db4\u0dd4\u0dbb \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2",
+    "name_ta": "\u0b87\u0bb0\u0ba4\u0bcd\u0ba4\u0bbf\u0ba9\u0baa\u0bc1\u0bb0\u0bae\u0bcd \u0bae\u0bbe\u0bb5\u0b9f",
+    "area_sqkm": 3287.07575047,
+    "center_lat": 6.57988046,
+    "center_lon": 80.59000103
+  },
+  {
+    "id": "LK-92",
+    "name": "Kegalle",
+    "name_si": "\u0d9a\u0dd1\u0d9c\u0dbd\u0dca\u0dbd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a",
+    "name_ta": "\u0b95\u0bc7\u0b95\u0bbe\u0bb2\u0bc8 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd",
+    "area_sqkm": 1657.73209228,
+    "center_lat": 7.11288961,
+    "center_lon": 80.32145399
+  }
+]
