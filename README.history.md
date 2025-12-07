@@ -32,7 +32,7 @@ The 20 original districts were:
 - Colombo (LK-11), Kalutara (LK-13)
 - Kandy (LK-21), Matale (LK-22), Nuwara Eliya (LK-23)
 - Galle (LK-31), Matara (LK-32), Hambantota (LK-33)
-- Jaffna (LK-41), Mannar (LK-43), Vavuniya (LK-44)
+- Jaffna (LK-41), Mannar (LK-42), Vavuniya (LK-43)
 - Batticaloa (LK-51), Trincomalee (LK-53)
 - Kurunegala (LK-61), Puttalam (LK-62)
 - Anuradhapura (LK-71), Polonnaruwa (LK-72)
@@ -46,8 +46,8 @@ Between 1959 and 1984, five new districts were created:
 - Monaragala (LK-82) – 1959, from Badulla District.
 - Ampara (LK-52) – 1961, from Batticaloa District.
 - Gampaha (LK-12) – 1978, from Colombo District.
-- Mullaitivu (LK-45) – 1978, from parts of Jaffna, Mannar, and Vavuniya districts.
-- Kilinochchi (LK-42) – 1984, from Jaffna District.
+- Mullaitivu (LK-44) – 1978, from parts of Jaffna, Mannar, and Vavuniya districts.
+- Kilinochchi (LK-45) – 1984, from Jaffna District.
 
 No new districts have been created since 1984, bringing the total to 25 districts.
 
