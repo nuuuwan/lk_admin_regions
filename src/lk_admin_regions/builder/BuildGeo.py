@@ -6,6 +6,9 @@ import topojson as tp
 from utils import File, JSONFile, Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
+    LKAAdminBoundariesXLSX,
+)
 
 log = Log("ModuleName")
 
@@ -28,18 +31,11 @@ class BuildGeo:
         )
 
     @classmethod
-    def get_ground_truth_geojson_path(cls, level):
-        return os.path.join(
-            "data_ground_truth",
-            "humdata_cod_ab_lka",
-            "lka_admin_boundaries",
-            f"lka_admin{level}.geojson",
-        )
-
-    @classmethod
     def build_all(cls):
         for ent_type_name, level, id_len in BuildEnts.ENT_CONFIG:
-            geojson_path = cls.get_ground_truth_geojson_path(level)
+            geojson_path = (
+                LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level)
+            )
             os.makedirs(cls.DIR_DATA_GEO, exist_ok=True)
             new_geojson_path = cls.get_ent_xjson_path(
                 "geojson", "original", ent_type_name
@@ -72,8 +68,8 @@ class BuildGeo:
 
             if precision_label != "original":
 
-                original_geojson_path = cls.get_ground_truth_geojson_path(
-                    level
+                original_geojson_path = (
+                    LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level)
                 )
                 topojson_file = JSONFile(
                     cls.get_ent_xjson_path(
@@ -142,7 +138,9 @@ class BuildGeo:
         cls, ent_type_name, level, id_len, precision_label
     ):
         if precision_label == "original":
-            geojson_path = cls.get_ground_truth_geojson_path(level)
+            geojson_path = (
+                LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level)
+            )
         else:
             geojson_path = cls.get_ent_xjson_path(
                 "geojson", precision_label, ent_type_name

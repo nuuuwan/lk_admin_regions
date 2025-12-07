@@ -2,7 +2,7 @@ import json
 import os
 
 import pandas as pd
-from utils import Log
+from utils import File, JSONFile, Log
 
 log = Log("LKAAdminBoundariesXLSX")
 
@@ -65,3 +65,24 @@ class LKAAdminBoundariesXLSX:
             d_list = df.to_dict(orient="records")
             idx[sheet_name.lower().strip()] = cls.correct_d_list(d_list)
         return idx
+
+    @classmethod
+    def get_ground_truth_geojson_path(cls, level):
+        geojson_path = os.path.join(
+            "data_ground_truth",
+            "humdata_cod_ab_lka",
+            "lka_admin_boundaries",
+            f"lka_admin{level}.geojson",
+        )
+        geojson_corrected_path = geojson_path.replace(
+            ".geojson", ".corrected.geojson"
+        )
+        if not os.path.exists(geojson_corrected_path):
+            input_file = File(geojson_path)
+            output_file = File(geojson_corrected_path)
+            data = input_file.read()
+            corrected_data = cls.correct_v(data)
+            output_file.write(corrected_data)
+            log.info(f"✅ Wrote {output_file}")
+
+        return geojson_corrected_path
