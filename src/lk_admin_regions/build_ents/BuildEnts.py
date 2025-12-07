@@ -11,6 +11,24 @@ class BuildEnts:
     DIR_DATA = "data"
     DIR_DATA_ENTS = os.path.join(DIR_DATA, "ents")
 
+    ENT_CONFIG = [
+        ("country", 0, 0),
+        ("province", 1, 1),
+        ("district", 2, 2),
+        ("dsd", 3, 4),
+        ("gnd", 4, 7),
+    ]
+
+    @classmethod
+    def get_id_field(cls, level):
+        return f"adm{level}_pcode"
+
+    @classmethod
+    def get_id(cls, raw_d, level, id_len):
+        if id_len == 0:
+            return "LK"
+        return f"LK-{int(raw_d[cls.get_id_field(level)][-id_len:])}"
+
     @classmethod
     def build_generic_ent(
         cls,
@@ -22,11 +40,7 @@ class BuildEnts:
 
         def func_raw_d_to_ent_d(raw_d):
             return {
-                "id": (
-                    f"LK-{int(raw_d[f'adm{level}_pcode'][-id_len:])}"
-                    if id_len > 0
-                    else "LK"
-                ),
+                "id": cls.get_id(raw_d, level, id_len),
                 "name": raw_d[f"adm{level}_name"],
                 "name_si": raw_d[f"adm{level}_name1"],
                 "name_ta": raw_d[f"adm{level}_name2"],
@@ -49,40 +63,14 @@ class BuildEnts:
                 os.path.join(cls.DIR_DATA_ENTS, f"{ent_type_name}s.{ext}")
             )
             file.write(d_list)
-            log.info(f"Wrote {n:,} ents to {file}")
+            log.info(f"✅  Wrote {n:,} ents to {file}")
 
     @classmethod
     def build_all(cls):
         sheet_name_to_d_list = (
             LKAAdminBoundariesXLSX.get_sheet_name_to_d_list()
         )
-        for ent_type_name, sheet_name, func_raw_d_to_ent_d in [
-            (
-                "country",
-                0,
-                0,
-            ),
-            (
-                "province",
-                1,
-                1,
-            ),
-            (
-                "district",
-                2,
-                2,
-            ),
-            (
-                "dsd",
-                3,
-                4,
-            ),
-            (
-                "gnd",
-                4,
-                7,
-            ),
-        ]:
+        for ent_type_name, sheet_name, func_raw_d_to_ent_d in cls.ENT_CONFIG:
             cls.build_generic_ent(
                 sheet_name_to_d_list,
                 ent_type_name,
