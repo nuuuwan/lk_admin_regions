@@ -15,6 +15,7 @@ class BuildGeo:
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
     DIR_DATA_GEOJSON = os.path.join(DIR_DATA_GEO, "geojson")
     DIR_DATA_JSON = os.path.join(DIR_DATA_GEO, "json")
+    DIR_DATA_TOPOJSON = os.path.join(DIR_DATA_GEO, "topojson")
     MAX_FILE_SIZE_M = 25
 
     @classmethod
@@ -59,7 +60,7 @@ class BuildGeo:
 
             cls.build_multipolygon_json(ent_type_name, level, id_len)
             cls.build_small_geojson(ent_type_name, level)
-            cls.build_topjson(new_geojson_path)
+            cls.build_topjson(ent_type_name, level)
 
     @classmethod
     def build_multipolygon_json(cls, ent_type_name, level, id_len):
@@ -140,7 +141,7 @@ class BuildGeo:
                     > cls.MAX_FILE_SIZE_M * 1_000_000
                 ):
                     log.warning(
-                        f"⚠️  Not writing {simplified_geojson_file}."
+                        f"⚠️ Not writing {simplified_geojson_file}."
                         + f" {simplified_geojson_file}"
                         + " is too large even after simplification"
                         + f" with tolerance={tolerance}."
@@ -153,8 +154,14 @@ class BuildGeo:
                     )
 
     @classmethod
-    def build_topjson(cls, geojson_path):
-        topojson_path = geojson_path.replace(".geojson", ".topojson")
+    def build_topjson(cls, ent_type_name, level):
+        geojson_path = cls.get_ground_truth_geojson_path(level)
+        os.makedirs(cls.DIR_DATA_TOPOJSON, exist_ok=True)
+        topojson_path = os.path.join(
+            cls.DIR_DATA_TOPOJSON,
+            f"{ent_type_name}s.topojson",
+        )
+
         topojson_file = JSONFile(topojson_path)
         if topojson_file.exists:
             return
@@ -165,3 +172,18 @@ class BuildGeo:
         topojson_file = JSONFile(topojson_path)
         topojson_file.write(topojson_data)
         log.info(f"✅ Converted {geojson_file} to {topojson_file}")
+
+        compression_p = topojson_file.size / geojson_file.size
+
+        if topojson_file.size > cls.MAX_FILE_SIZE_M * 1_000_000:
+            log.warning(
+                f"⚠️ Not writing {topojson_file}."
+                + f" {topojson_file}"
+                + " is too large."
+            )
+            os.remove(topojson_file.path)
+        else:
+            log.info(
+                f"✅ Wrote {topojson_file}"
+                + f" ({compression_p:.1%} of original)"
+            )
