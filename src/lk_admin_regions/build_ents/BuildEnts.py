@@ -15,7 +15,7 @@ class BuildEnts:
         ("country", 0, 0),
         ("province", 1, 1),
         ("district", 2, 2),
-        ("dsd", 3, 4),
+        # ("dsd", 3, 4),
         # ("gnd", 4, 7),
     ]
 
@@ -63,7 +63,7 @@ class BuildEnts:
                 os.path.join(cls.DIR_DATA_ENTS, f"{ent_type_name}s.{ext}")
             )
             file.write(d_list)
-            log.info(f"✅  Wrote {n:,} ents to {file}")
+            log.info(f"✅ Wrote {n:,} ents to {file}")
 
     @classmethod
     def build_all(cls):
