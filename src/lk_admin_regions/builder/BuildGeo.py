@@ -5,7 +5,7 @@ import shutil
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.build_ents.BuildEnts import BuildEnts
+from lk_admin_regions.builder.BuildEnts import BuildEnts
 
 log = Log("ModuleName")
 
@@ -17,7 +17,9 @@ class BuildGeo:
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
+    def get_ent_xjson_path(
+        cls, json_type, dir_name_simplified, ent_type_name
+    ):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
