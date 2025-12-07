@@ -178,6 +178,30 @@ class BuildGeo:
                 json_file.write(flattened_coordinates)
                 log.info(f"✅ Wrote {json_file}")
 
-    @staticmethod
-    def HACK_delete_large_files():
+    @classmethod
+    def HACK_delete_large_files(cls):
         os.system("find data -type f -size +25M -delete")
+
+    @classmethod
+    def validate(cls):
+        n_all = 0
+        n_success = 0
+        for ent_type_name, _, __ in BuildEnts.ENT_CONFIG:
+            ents = JSONFile(
+                os.path.join(BuildEnts.DIR_DATA_ENTS, f"{ent_type_name}s.json")
+            ).read()
+            for ent in ents:
+                plain_json_path = os.path.join(
+                    BuildGeo.get_ent_xjson_path(
+                        "json",
+                        "original",
+                        ent_type_name,
+                    ),
+                    f"{ent['id']}.json",
+                )
+                n_all += 1
+                if JSONFile(plain_json_path).exists:
+                    n_success += 1
+        logger = log.info if n_success == n_all else log.error
+        emoji = "✅" if n_success == n_all else "❌"
+        logger(f"{emoji} {n_success} / {n_all} checks succeeded.")
