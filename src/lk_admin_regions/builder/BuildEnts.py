@@ -30,6 +30,15 @@ class BuildEnts:
         return f"LK-{int(raw_d[cls.get_id_field(level)][-id_len:])}"
 
     @classmethod
+    def validate(cls, d_list):
+        id_list = [d["id"] for d in d_list]
+        unique_id_list = list(set(id_list))
+        assert len(id_list) == len(unique_id_list)
+
+        total_area = int(sum(d["area_sqkm"] for d in d_list))
+        assert 65_983 <= total_area <= 66_040, total_area
+
+    @classmethod
     def build_generic_ent(
         cls,
         sheet_name_to_d_list,
@@ -54,6 +63,7 @@ class BuildEnts:
 
         d_list = [func_raw_d_to_ent_d(raw_d) for raw_d in raw_d_list]
         d_list.sort(key=lambda d: d["id"])
+        cls.validate(d_list)
 
         os.makedirs(cls.DIR_DATA_ENTS, exist_ok=True)
 
