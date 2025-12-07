@@ -22,7 +22,11 @@ class BuildEnts:
 
         def func_raw_d_to_ent_d(raw_d):
             return {
-                "id": f"LK-{int(raw_d[f'adm{level}_pcode'][-id_len:])}",
+                "id": (
+                    f"LK-{int(raw_d[f'adm{level}_pcode'][-id_len:])}"
+                    if id_len > 0
+                    else "LK"
+                ),
                 "name": raw_d[f"adm{level}_name"],
                 "name_si": raw_d[f"adm{level}_name1"],
                 "name_ta": raw_d[f"adm{level}_name2"],
@@ -53,6 +57,11 @@ class BuildEnts:
             LKAAdminBoundariesXLSX.get_sheet_name_to_d_list()
         )
         for ent_type_name, sheet_name, func_raw_d_to_ent_d in [
+            (
+                "country",
+                0,
+                0,
+            ),
             (
                 "province",
                 1,
