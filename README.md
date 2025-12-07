@@ -45,6 +45,12 @@ The DCS coding system is similar to ISO 3166-2, first published in December 1998
 | GND      | `LK-P-D-DSD-GND`   | Kollupitiya `LK-1-1-27-005` or `LK1127005`          |
 | Village  | `LK-P-D-DSD-GND-V` | Rotunda Gardens `LK-1-1-27-005-02` or `LK-112700502` |
 
+## Ground Truth Data Sources
+
+- [Humanitarian Data Exchange](https://data.humdata.org) - Sri Lanka - Subnational Administrative Boundaries: [https://data.humdata.org/dataset/cod-ab-lka](https://data.humdata.org/dataset/cod-ab-lka)
+- Department of Census and Statistics, Sri Lanka: [https://www.statistics.gov.lk](https://www.statistics.gov.lk)
+- Ministry of Public Administration, Provincial Councils and Local Government - Browse LIFe Location Codes -[http://moha.gov.lk:8090/lifecode/](http://moha.gov.lk:8090/lifecode/)
+
 ## 📚 Reference Sources
 
 - Department of Census and Statistics, Sri Lanka: [https://www.statistics.gov.lk](https://www.statistics.gov.lk)
@@ -54,11 +60,7 @@ The DCS coding system is similar to ISO 3166-2, first published in December 1998
 - Wikipedia: ISO 3166-2 LK: [https://en.wikipedia.org/wiki/ISO_3166-2:LK](https://en.wikipedia.org/wiki/ISO_3166-2:LK)
 - Wikipedia: Administrative divisions of Sri Lanka: [https://en.wikipedia.org/wiki/Administrative_divisions_of_Sri_Lanka](https://en.wikipedia.org/wiki/Administrative_divisions_of_Sri_Lanka)
 - Administrative Districts Act (No. 22 of 1955): [https://survey.gov.lk/sdweb/pdf/surveydocuments/22%20of%201955.pdf](https://survey.gov.lk/sdweb/pdf/surveydocuments/22%20of%201955.pdf)
-
-## Ground Truth Data Sources
-
-- [Humanitarian Data Exchange](https://data.humdata.org) - Sri Lanka - Subnational Administrative Boundaries: [https://data.humdata.org/dataset/cod-ab-lka](https://data.humdata.org/dataset/cod-ab-lka)
-- Department of Census and Statistics, Sri Lanka: [https://www.statistics.gov.lk](https://www.statistics.gov.lk)
+- <https://documents.gov.lk/view/gazettes/2025/10/2025-10-24(I-IIA)E.pdf>
 
 ## 📖 Appendix: Other Resources
 
