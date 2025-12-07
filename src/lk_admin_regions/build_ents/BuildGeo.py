@@ -1,8 +1,8 @@
+import json
 import os
 import shutil
 
 import topojson as tp
-from shapely.geometry import mapping, shape
 from utils import File, JSONFile, Log
 
 from lk_admin_regions.build_ents.BuildEnts import BuildEnts
@@ -13,14 +13,14 @@ log = Log("ModuleName")
 class BuildGeo:
     DIR_DATA = BuildEnts.DIR_DATA
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
-    DIR_DATA_GEOJSON = os.path.join(DIR_DATA_GEO, "geojson")
-    DIR_DATA_JSON = os.path.join(DIR_DATA_GEO, "json")
-    DIR_DATA_TOPOJSON = os.path.join(DIR_DATA_GEO, "topojson")
+
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_geojson_path(cls, dir_name_simplified, ent_type_name):
-        dir_geo = os.path.join(cls.DIR_DATA_GEOJSON, dir_name_simplified)
+    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
+        dir_geo = os.path.join(
+            cls.DIR_DATA_GEO, json_type, dir_name_simplified
+        )
         os.makedirs(dir_geo, exist_ok=True)
         return os.path.join(
             dir_geo,
@@ -41,8 +41,8 @@ class BuildGeo:
         for ent_type_name, level, id_len in BuildEnts.ENT_CONFIG:
             geojson_path = cls.get_ground_truth_geojson_path(level)
             os.makedirs(cls.DIR_DATA_GEO, exist_ok=True)
-            new_geojson_path = cls.get_ent_geojson_path(
-                "original", ent_type_name
+            new_geojson_path = cls.get_ent_xjson_path(
+                "geojson", "original", ent_type_name
             )
             if not os.path.exists(new_geojson_path):
                 if (
@@ -60,7 +60,6 @@ class BuildGeo:
 
             cls.build_multipolygon_json(ent_type_name, level, id_len)
             cls.build_small_geojson(ent_type_name, level)
-            cls.build_topjson(ent_type_name, level)
 
     @classmethod
     def build_multipolygon_json(cls, ent_type_name, level, id_len):
@@ -87,8 +86,8 @@ class BuildGeo:
                         [[point[0], point[1]] for point in ring]
                     )
 
-            dir_data_geo_json_ents = os.path.join(
-                cls.DIR_DATA_JSON, f"{ent_type_name}s"
+            dir_data_geo_json_ents = cls.get_ent_xjson_path(
+                "json", "original", ent_type_name
             )
             os.makedirs(dir_data_geo_json_ents, exist_ok=True)
 
@@ -100,90 +99,50 @@ class BuildGeo:
                 log.info(f"✅ Wrote {json_file}")
 
     @classmethod
-    def build_small_geojson(cls, ent_type_name, level, tolerance=0.001):
-
+    def build_small_geojson(cls, ent_type_name, level):
         for [tolerance, label] in [
             [0.0001, "small"],
             [0.001, "smaller"],
             [0.01, "smallest"],
+            [0.1, "smallestest"],
         ]:
-            geojson_path = cls.get_ground_truth_geojson_path(level)
-            geojson_data = JSONFile(geojson_path).read()
 
-            simplified_features = []
-            for feature in geojson_data.get("features", []):
-                geometry = feature.get("geometry", {})
-                shapely_geom = shape(geometry)
-                simplified_geom = shapely_geom.simplify(
-                    tolerance, preserve_topology=True
+            original_geojson_path = cls.get_ground_truth_geojson_path(level)
+            topojson_file = JSONFile(
+                cls.get_ent_xjson_path("topojson", label, ent_type_name)
+            )
+
+            if not topojson_file.exists:
+                original_geojson_file = JSONFile(original_geojson_path)
+                geojson_data = original_geojson_file.read()
+                topojson_data = tp.Topology(geojson_data).to_dict()
+                topojson_file.write(topojson_data)
+                p_compression = topojson_file.size / original_geojson_file.size
+                log.info(
+                    f"✅ Wrote {topojson_file}"
+                    + f" ({p_compression:.1%} of geojson)"
                 )
 
-                feature["geometry"] = mapping(simplified_geom)
-                simplified_features.append(feature)
+            topojson_data = topojson_file.read()
+            simplified_topojson = (
+                tp.Topology(topojson_data)
+                .toposimplify(epsilon=tolerance)
+                .to_dict()
+            )
 
-            simplified_geojson = {
-                "type": "FeatureCollection",
-                "features": simplified_features,
-            }
+            simplified_geojson = tp.Topology(simplified_topojson).to_geojson()
 
             simplified_geojson_file = JSONFile(
-                cls.get_ent_geojson_path(label, ent_type_name)
+                cls.get_ent_xjson_path("geojson", label, ent_type_name)
             )
-            if not simplified_geojson_file.exists:
-                simplified_geojson_file.write(simplified_geojson)
 
-                size_before = os.path.getsize(geojson_path)
-                size_after = os.path.getsize(simplified_geojson_file.path)
-                compression_p = size_after / size_before
+            simplified_geojson_file.write(json.loads(simplified_geojson))
 
-                if (
-                    simplified_geojson_file.size
-                    > cls.MAX_FILE_SIZE_M * 1_000_000
-                ):
-                    log.warning(
-                        f"⚠️ Not writing {simplified_geojson_file}."
-                        + f" {simplified_geojson_file}"
-                        + " is too large even after simplification"
-                        + f" with tolerance={tolerance}."
-                    )
-                    os.remove(simplified_geojson_file.path)
-                else:
-                    log.info(
-                        f"✅ Wrote {simplified_geojson_file}"
-                        + f" ({compression_p:.1%} of original)"
-                    )
+            size_before = os.path.getsize(original_geojson_path)
+            size_after = os.path.getsize(simplified_geojson_file.path)
+            compression_p = size_after / size_before
 
-    @classmethod
-    def build_topjson(cls, ent_type_name, level):
-        geojson_path = cls.get_ground_truth_geojson_path(level)
-        os.makedirs(cls.DIR_DATA_TOPOJSON, exist_ok=True)
-        topojson_path = os.path.join(
-            cls.DIR_DATA_TOPOJSON,
-            f"{ent_type_name}s.topojson",
-        )
-
-        topojson_file = JSONFile(topojson_path)
-        if topojson_file.exists:
-            return
-
-        geojson_file = File(geojson_path)
-        geojson_data = geojson_file.read()
-        topojson_data = tp.Topology(geojson_data).to_dict()
-        topojson_file = JSONFile(topojson_path)
-        topojson_file.write(topojson_data)
-        log.info(f"✅ Converted {geojson_file} to {topojson_file}")
-
-        compression_p = topojson_file.size / geojson_file.size
-
-        if topojson_file.size > cls.MAX_FILE_SIZE_M * 1_000_000:
-            log.warning(
-                f"⚠️ Not writing {topojson_file}."
-                + f" {topojson_file}"
-                + " is too large."
-            )
-            os.remove(topojson_file.path)
-        else:
             log.info(
-                f"✅ Wrote {topojson_file}"
+                f"✅ Wrote {simplified_geojson_file}"
                 + f" ({compression_p:.1%} of original)"
             )
