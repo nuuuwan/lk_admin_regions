@@ -38475,6 +38475,447 @@
     "center_lon": 80.65196146
   },
   {
+    "id": "LK-2304005",
+    "name": "Doruwadeniya",
+    "name_si": "\u0daf\u0ddc\u0dbb\u0dc0\u0daf\u0dd9\u0dab\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 0.65740129,
+    "center_lat": 7.07496799,
+    "center_lon": 80.54809315
+  },
+  {
+    "id": "LK-2304010",
+    "name": "Polwathura",
+    "name_si": "\u0db4\u0ddc\u0dbd\u0dca\u0dc0\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.73775749,
+    "center_lat": 7.07604161,
+    "center_lon": 80.55673554
+  },
+  {
+    "id": "LK-2304015",
+    "name": "Pahala Gorakaoya",
+    "name_si": "\u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dbb\u0d9a\u0d94\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.22338376,
+    "center_lat": 7.07335091,
+    "center_lon": 80.56323267
+  },
+  {
+    "id": "LK-2304020",
+    "name": "Dambagalla",
+    "name_si": "\u0daf\u0db9\u0d9c\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.52850078,
+    "center_lat": 7.07465229,
+    "center_lon": 80.57213353
+  },
+  {
+    "id": "LK-2304025",
+    "name": "Nayapana",
+    "name_si": "\u0db1\u0dba\u0dcf\u0db4\u0dcf\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 1.65684711,
+    "center_lat": 7.07212122,
+    "center_lon": 80.59418517
+  },
+  {
+    "id": "LK-2304030",
+    "name": "Kadadora",
+    "name_si": "\u0d9a\u0da9\u0daf\u0ddc\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 3.78556948,
+    "center_lat": 7.06940488,
+    "center_lon": 80.6061006
+  },
+  {
+    "id": "LK-2304035",
+    "name": "Kotagepitiya North",
+    "name_si": "\u0d9a\u0ddc\u0da7\u0d9c\u0dda\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.77961552,
+    "center_lat": 7.0788543,
+    "center_lon": 80.62121537
+  },
+  {
+    "id": "LK-2304115",
+    "name": "Kotagepitiya South",
+    "name_si": "\u0d9a\u0ddc\u0da7\u0d9c\u0dda\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 1.55134446,
+    "center_lat": 7.07086382,
+    "center_lon": 80.62012546
+  },
+  {
+    "id": "LK-2304120",
+    "name": "Ranwanthalawa",
+    "name_si": "\u0dbb\u0db1\u0dca\u0dc0\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.60071889,
+    "center_lat": 7.06419038,
+    "center_lon": 80.62200061
+  },
+  {
+    "id": "LK-2304125",
+    "name": "Thispane Kanda",
+    "name_si": "\u0dad\u0dd2\u0dc3\u0dca\u0db4\u0db1\u0dda \u0d9a\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 3.79792829,
+    "center_lat": 7.05171509,
+    "center_lon": 80.61009966
+  },
+  {
+    "id": "LK-2304130",
+    "name": "Harangala",
+    "name_si": "\u0dc4\u0dbb\u0db1\u0dca\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.28454101,
+    "center_lat": 7.05653749,
+    "center_lon": 80.58916516
+  },
+  {
+    "id": "LK-2304135",
+    "name": "Hapugasthalawa",
+    "name_si": "\u0dc4\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.62657041,
+    "center_lat": 7.06397727,
+    "center_lon": 80.57250186
+  },
+  {
+    "id": "LK-2304140",
+    "name": "Kaludemada",
+    "name_si": "\u0d9a\u0dc5\u0dd4\u0daf\u0dd9\u0db8\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 1.20103159,
+    "center_lat": 7.06138098,
+    "center_lon": 80.57953688
+  },
+  {
+    "id": "LK-2304145",
+    "name": "Ihala Gorakaoya",
+    "name_si": "\u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dbb\u0d9a\u0d94\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.17232827,
+    "center_lat": 7.06385241,
+    "center_lon": 80.55703422
+  },
+  {
+    "id": "LK-2304150",
+    "name": "Mallanda",
+    "name_si": "\u0db8\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 1.4299819,
+    "center_lat": 7.06615956,
+    "center_lon": 80.54560069
+  },
+  {
+    "id": "LK-2304155",
+    "name": "Ruwanpura",
+    "name_si": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 4.01488643,
+    "center_lat": 7.04744104,
+    "center_lon": 80.56474663
+  },
+  {
+    "id": "LK-2304160",
+    "name": "Werella Pathana",
+    "name_si": "\u0dc0\u0dd0\u0dbb\u0dd0\u0dbd\u0dca\u0dbd \u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 1.2039897,
+    "center_lat": 7.03276357,
+    "center_lon": 80.57476866
+  },
+  {
+    "id": "LK-2304165",
+    "name": "Halgolla",
+    "name_si": "\u0dc4\u0dbd\u0dca\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.29558433,
+    "center_lat": 7.04639556,
+    "center_lon": 80.57753768
+  },
+  {
+    "id": "LK-2304170",
+    "name": "Harangala South",
+    "name_si": "\u0dc4\u0dbb\u0db1\u0dca\u0d9c\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 2.31089889,
+    "center_lat": 7.04580813,
+    "center_lon": 80.58875888
+  },
+  {
+    "id": "LK-2304175",
+    "name": "Kirimetiyawa",
+    "name_si": "\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0dd0\u0da7\u0dd2\u0dba\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.6053601,
+    "center_lat": 7.04918038,
+    "center_lon": 80.59612794
+  },
+  {
+    "id": "LK-2304180",
+    "name": "Hunugaloya",
+    "name_si": "\u0d8b\u0dab\u0dd4\u0d9c\u0dbd\u0dca\u0d94\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 2.04314638,
+    "center_lat": 7.03420058,
+    "center_lon": 80.60163118
+  },
+  {
+    "id": "LK-2304185",
+    "name": "Godamaditta",
+    "name_si": "\u0d9c\u0ddc\u0da9\u0db8\u0da9\u0dd2\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 1.96484269,
+    "center_lat": 7.03447801,
+    "center_lon": 80.62074917
+  },
+  {
+    "id": "LK-2304190",
+    "name": "Wataddara",
+    "name_si": "\u0dc0\u0da7\u0daf\u0dca\u0daf\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 3.26545166,
+    "center_lat": 7.0525403,
+    "center_lon": 80.62923253
+  },
+  {
+    "id": "LK-2304200",
+    "name": "Nawangama",
+    "name_si": "\u0db1\u0dc0\u0db1\u0dca\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 1.28060149,
+    "center_lat": 7.05554636,
+    "center_lon": 80.64470721
+  },
+  {
+    "id": "LK-2304210",
+    "name": "Wethalawa",
+    "name_si": "\u0dc0\u0dd1\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.49192103,
+    "center_lat": 7.06262155,
+    "center_lon": 80.65774904
+  },
+  {
+    "id": "LK-2304260",
+    "name": "Hedunuwewa",
+    "name_si": "\u0dc4\u0dd0\u0daf\u0dd4\u0db1\u0dd4\u0dc0\u0dd0\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.0682839,
+    "center_lat": 7.05670683,
+    "center_lon": 80.65522119
+  },
+  {
+    "id": "LK-2304265",
+    "name": "Kalapitiya East",
+    "name_si": "\u0d9a\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.7125768,
+    "center_lat": 7.04411135,
+    "center_lon": 80.65054656
+  },
+  {
+    "id": "LK-2304270",
+    "name": "Kottunugoda",
+    "name_si": "\u0d9a\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0db1\u0dd4\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.49524029,
+    "center_lat": 7.05040412,
+    "center_lon": 80.64562815
+  },
+  {
+    "id": "LK-2304275",
+    "name": "Kalapitiya West",
+    "name_si": "\u0d9a\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.50119997,
+    "center_lat": 7.04418072,
+    "center_lon": 80.64327304
+  },
+  {
+    "id": "LK-2304280",
+    "name": "Weerasekarapura",
+    "name_si": "\u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.60080094,
+    "center_lat": 7.0416589,
+    "center_lon": 80.63735838
+  },
+  {
+    "id": "LK-2304285",
+    "name": "Rojersangama South",
+    "name_si": "\u0dbb\u0ddc\u0da2\u0dc3\u0db1\u0dca\u0d9c\u0db8 \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 1.41207753,
+    "center_lat": 7.03734632,
+    "center_lon": 80.63459076
+  },
+  {
+    "id": "LK-2304290",
+    "name": "Rojersangama North",
+    "name_si": "\u0dbb\u0ddc\u0da2\u0dc3\u0db1\u0dca\u0d9c\u0db8 \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.55811506,
+    "center_lat": 7.03770803,
+    "center_lon": 80.62863511
+  },
+  {
+    "id": "LK-2304295",
+    "name": "Dombagasthalawa",
+    "name_si": "\u0daf\u0ddc\u0db9\u0d9c\u0dc3\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 2.01803178,
+    "center_lat": 7.0241797,
+    "center_lon": 80.62356568
+  },
+  {
+    "id": "LK-2304300",
+    "name": "Katugolla",
+    "name_si": "\u0d9a\u0da7\u0dd4\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.27933032,
+    "center_lat": 7.03412727,
+    "center_lon": 80.61360207
+  },
+  {
+    "id": "LK-2304305",
+    "name": "Thelissagala",
+    "name_si": "\u0dad\u0dd9\u0dbd\u0dd2\u0dc3\u0dca\u0dc3\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.86413901,
+    "center_lat": 7.0263324,
+    "center_lon": 80.59570629
+  },
+  {
+    "id": "LK-2304310",
+    "name": "Ketabulawa",
+    "name_si": "\u0d9a\u0dd0\u0da7\u0db6\u0dd4\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 6.04833885,
+    "center_lat": 7.01682907,
+    "center_lon": 80.59992502
+  },
+  {
+    "id": "LK-2304315",
+    "name": "Wijayabahu Kanda",
+    "name_si": "\u0dc0\u0dd2\u0da2\u0dba\u0db6\u0dcf\u0dc4\u0dd4\u0d9a\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 1.16417458,
+    "center_lat": 7.00816669,
+    "center_lon": 80.61767138
+  },
+  {
+    "id": "LK-2304320",
+    "name": "Rawanagoda West",
+    "name_si": "\u0dbb\u0dcf\u0dc0\u0dab\u0dcf\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.02253306,
+    "center_lat": 7.01635357,
+    "center_lon": 80.62417107
+  },
+  {
+    "id": "LK-2304325",
+    "name": "Udagama",
+    "name_si": "\u0d8b\u0da9\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 0.83310228,
+    "center_lat": 7.00825475,
+    "center_lon": 80.62883656
+  },
+  {
+    "id": "LK-2304330",
+    "name": "Rawanagoda East",
+    "name_si": "\u0dbb\u0dcf\u0dc0\u0dab\u0dcf\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.65675558,
+    "center_lat": 7.01300407,
+    "center_lon": 80.63330025
+  },
+  {
+    "id": "LK-2304335",
+    "name": "Methagama",
+    "name_si": "\u0db8\u0dd1\u0dad\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 1.39870341,
+    "center_lat": 7.02273202,
+    "center_lon": 80.63362962
+  },
+  {
+    "id": "LK-2304340",
+    "name": "Maldeniya",
+    "name_si": "\u0db8\u0dbd\u0dca\u0daf\u0dd9\u0dab\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.08668734,
+    "center_lat": 7.02701069,
+    "center_lon": 80.64505286
+  },
+  {
+    "id": "LK-2304345",
+    "name": "Katarandana",
+    "name_si": "\u0d9a\u0da7\u0dcf\u0dbb\u0db1\u0dca\u0daf\u0dd9\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.96988158,
+    "center_lat": 7.03448216,
+    "center_lon": 80.64564337
+  },
+  {
+    "id": "LK-2304445",
+    "name": "Beramana",
+    "name_si": "\u0db6\u0dd9\u0dbb\u0db8\u0dcf\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 1.30825854,
+    "center_lat": 6.99617868,
+    "center_lon": 80.62979728
+  },
+  {
+    "id": "LK-2304450",
+    "name": "Beramana North",
+    "name_si": "\u0db6\u0dd9\u0dbb\u0db8\u0dcf\u0db1 \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.86075132,
+    "center_lat": 6.99938664,
+    "center_lon": 80.61859892
+  },
+  {
+    "id": "LK-2304455",
+    "name": "Kolapathana",
+    "name_si": "\u0d9a\u0ddc\u0dc5\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 4.71196643,
+    "center_lat": 6.99795584,
+    "center_lon": 80.60681301
+  },
+  {
+    "id": "LK-2304460",
+    "name": "Queensberry",
+    "name_si": "\u0d9a\u0dd4\u0dc0\u0dd3\u0db1\u0dca\u0dc3\u0dca\u0db6\u0dd9\u0dbb\u0dd2",
+    "name_ta": NaN,
+    "area_sqkm": 2.04475831,
+    "center_lat": 6.98123816,
+    "center_lon": 80.59693212
+  },
+  {
+    "id": "LK-2304465",
+    "name": "Beramana South",
+    "name_si": "\u0db6\u0dd9\u0dbb\u0db8\u0dcf\u0db1 \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 1.58751074,
+    "center_lat": 6.97901886,
+    "center_lon": 80.62375078
+  },
+  {
+    "id": "LK-2304470",
+    "name": "Weerapura",
+    "name_si": "\u0dc0\u0dd3\u0dbb\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.07875611,
+    "center_lat": 6.98800725,
+    "center_lon": 80.62589099
+  },
+  {
     "id": "LK-2306005",
     "name": "Hingurukaduwa",
     "name_si": "\u0dc4\u0dd2\u0d9f\u0dd4\u0dbb\u0dd4\u0d9a\u0da9\u0dd4\u0dc0",
@@ -39186,7 +39627,1033 @@
     "center_lon": 80.74992971
   },
   {
-    "id": "LK-2309010",
+    "id": "LK-2307110",
+    "name": "Happawara",
+    "name_si": "\u0dc4\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.71647415,
+    "center_lat": 7.16481195,
+    "center_lon": 80.83510809
+  },
+  {
+    "id": "LK-2307210",
+    "name": "Illagolla",
+    "name_si": "\u0d89\u0dbd\u0dca\u0dbd\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 3.06080941,
+    "center_lat": 7.15389674,
+    "center_lon": 80.83159432
+  },
+  {
+    "id": "LK-2307215",
+    "name": "Rammalakandura",
+    "name_si": "\u0dbb\u0db8\u0dca\u0db8\u0dbd\u0d9a\u0db3\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.29257802,
+    "center_lat": 7.14206727,
+    "center_lon": 80.82827572
+  },
+  {
+    "id": "LK-2307220",
+    "name": "Moragolla",
+    "name_si": "\u0db8\u0ddc\u0dbb\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.75197549,
+    "center_lat": 7.14887272,
+    "center_lon": 80.81826085
+  },
+  {
+    "id": "LK-2307305",
+    "name": "Udawela Pathana",
+    "name_si": "\u0d8b\u0da9\u0dc0\u0dd9\u0dbd\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.34181833,
+    "center_lat": 7.14027737,
+    "center_lon": 80.78093804
+  },
+  {
+    "id": "LK-2307310",
+    "name": "Welampagoda",
+    "name_si": "\u0dc0\u0dda\u0dbd\u0db8\u0dca\u0db4\u0dcf\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.43610471,
+    "center_lat": 7.1340445,
+    "center_lon": 80.78493158
+  },
+  {
+    "id": "LK-2307315",
+    "name": "Denike",
+    "name_si": "\u0daf\u0dd9\u0db1\u0dd2\u0d9a\u0dd9",
+    "name_ta": NaN,
+    "area_sqkm": 0.44556718,
+    "center_lat": 7.13960658,
+    "center_lon": 80.78531319
+  },
+  {
+    "id": "LK-2307325",
+    "name": "Alawattegama",
+    "name_si": "\u0d85\u0dbd\u0dc0\u0dad\u0dca\u0dad\u0dda\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 0.64931648,
+    "center_lat": 7.1352559,
+    "center_lon": 80.79077145
+  },
+  {
+    "id": "LK-2307330",
+    "name": "Uda Makuruppa",
+    "name_si": "\u0d8b\u0da9\u0db8\u0d9a\u0dd4\u0dbb\u0dd4\u0db4\u0dca\u0db4",
+    "name_ta": NaN,
+    "area_sqkm": 0.54065716,
+    "center_lat": 7.14304634,
+    "center_lon": 80.79038061
+  },
+  {
+    "id": "LK-2307335",
+    "name": "Palle Makuruppa",
+    "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0db8\u0d9a\u0dd4\u0dbb\u0dd4\u0db4\u0dca\u0db4",
+    "name_ta": NaN,
+    "area_sqkm": 0.47826272,
+    "center_lat": 7.13544604,
+    "center_lon": 80.79716626
+  },
+  {
+    "id": "LK-2307340",
+    "name": "Bogamuwa",
+    "name_si": "\u0db6\u0ddd\u0d9c\u0db8\u0dd4\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.7736563,
+    "center_lat": 7.14077185,
+    "center_lon": 80.79910318
+  },
+  {
+    "id": "LK-2307350",
+    "name": "Bodhiwela",
+    "name_si": "\u0db6\u0ddd\u0db0\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 3.00870537,
+    "center_lat": 7.13378234,
+    "center_lon": 80.81899329
+  },
+  {
+    "id": "LK-2307355",
+    "name": "Pallewela",
+    "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0dc0\u0dd9\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.67150113,
+    "center_lat": 7.12975195,
+    "center_lon": 80.80405847
+  },
+  {
+    "id": "LK-2307360",
+    "name": "Kaluattanagolla",
+    "name_si": "\u0d9a\u0dc5\u0dd4\u0d85\u0dad\u0dca\u0dad\u0db1\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.66113254,
+    "center_lat": 7.12465964,
+    "center_lon": 80.79613716
+  },
+  {
+    "id": "LK-2307365",
+    "name": "Wadawala",
+    "name_si": "\u0dc0\u0daf\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.81799835,
+    "center_lat": 7.12778129,
+    "center_lon": 80.79942432
+  },
+  {
+    "id": "LK-2307370",
+    "name": "Udalumada",
+    "name_si": "\u0d8b\u0daf\u0dc5\u0dd4\u0db8\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.5398203,
+    "center_lat": 7.13143231,
+    "center_lon": 80.7801065
+  },
+  {
+    "id": "LK-2307470",
+    "name": "Ehelamalpe",
+    "name_si": "\u0d87\u0dc4\u0dd0\u0dbd\u0db8\u0dbd\u0dca\u0db4\u0dd9",
+    "name_ta": NaN,
+    "area_sqkm": 0.87089419,
+    "center_lat": 7.12503996,
+    "center_lon": 80.78219505
+  },
+  {
+    "id": "LK-2307475",
+    "name": "Rathukurusa Janapadaya",
+    "name_si": "\u0dbb\u0dad\u0dd4\u0d9a\u0dd4\u0dbb\u0dd4\u0dc3 \u0da2\u0db1\u0db4\u0daf\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 0.91840082,
+    "center_lat": 7.11609886,
+    "center_lon": 80.78020189
+  },
+  {
+    "id": "LK-2307480",
+    "name": "Wilwala",
+    "name_si": "\u0dc0\u0dd2\u0dbd\u0dca\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.39130974,
+    "center_lat": 7.12562644,
+    "center_lon": 80.78802655
+  },
+  {
+    "id": "LK-2307485",
+    "name": "Dehipe",
+    "name_si": "\u0daf\u0dd9\u0dc4\u0dd2\u0db4\u0dd9",
+    "name_ta": NaN,
+    "area_sqkm": 0.68774467,
+    "center_lat": 7.11997859,
+    "center_lon": 80.79314618
+  },
+  {
+    "id": "LK-2307490",
+    "name": "Deniyagama",
+    "name_si": "\u0daf\u0dd9\u0dab\u0dd2\u0dba\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 1.80713448,
+    "center_lat": 7.10834331,
+    "center_lon": 80.78315307
+  },
+  {
+    "id": "LK-2307495",
+    "name": "Bodhimalkada",
+    "name_si": "\u0db6\u0ddd\u0db0\u0dd2\u0db8\u0dbd\u0dca\u0d9a\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 1.25911814,
+    "center_lat": 7.11056002,
+    "center_lon": 80.79432864
+  },
+  {
+    "id": "LK-2307500",
+    "name": "Welapahala",
+    "name_si": "\u0dc0\u0dd9\u0dbd\u0db4\u0dc4\u0dc5",
+    "name_ta": NaN,
+    "area_sqkm": 1.57286327,
+    "center_lat": 7.11306527,
+    "center_lon": 80.80106263
+  },
+  {
+    "id": "LK-2307505",
+    "name": "Uda Padiyapelella",
+    "name_si": "\u0d8b\u0da9\u0db4\u0daf\u0dd2\u0dba\u0db4\u0dd0\u0dbd\u0dd0\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.89834504,
+    "center_lat": 7.09672685,
+    "center_lon": 80.79768063
+  },
+  {
+    "id": "LK-2307510",
+    "name": "Okandagala",
+    "name_si": "\u0d94\u0d9a\u0db3\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.86506662,
+    "center_lat": 7.09363601,
+    "center_lon": 80.79001667
+  },
+  {
+    "id": "LK-2307525",
+    "name": "Rathyaya",
+    "name_si": "\u0dbb\u0dad\u0dca\u0dba\u0dcf\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 0.41613315,
+    "center_lat": 7.08318242,
+    "center_lon": 80.77955133
+  },
+  {
+    "id": "LK-2307530",
+    "name": "Godigamuwa",
+    "name_si": "\u0d9c\u0ddc\u0da9\u0dd2\u0d9c\u0db8\u0dd4\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 5.30875759,
+    "center_lat": 7.07496531,
+    "center_lon": 80.7619513
+  },
+  {
+    "id": "LK-2307535",
+    "name": "Manakola",
+    "name_si": "\u0db8\u0dcf\u0db1\u0d9a\u0ddc\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.39564791,
+    "center_lat": 7.07208917,
+    "center_lon": 80.78382154
+  },
+  {
+    "id": "LK-2307540",
+    "name": "Marthuwela",
+    "name_si": "\u0db8\u0dbb\u0dcf\u0da7\u0dd4\u0dc0\u0dd9\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.79205701,
+    "center_lat": 7.08341202,
+    "center_lon": 80.78707531
+  },
+  {
+    "id": "LK-2307545",
+    "name": "Idampitiya",
+    "name_si": "\u0d89\u0da9\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 0.23381654,
+    "center_lat": 7.08306676,
+    "center_lon": 80.79330739
+  },
+  {
+    "id": "LK-2307550",
+    "name": "Mathurata",
+    "name_si": "\u0db8\u0dad\u0dd4\u0dbb\u0da7",
+    "name_ta": NaN,
+    "area_sqkm": 0.42383048,
+    "center_lat": 7.07796303,
+    "center_lon": 80.80081967
+  },
+  {
+    "id": "LK-2307555",
+    "name": "Udagama",
+    "name_si": "\u0d8b\u0da9\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 0.24226709,
+    "center_lat": 7.06813895,
+    "center_lon": 80.80500095
+  },
+  {
+    "id": "LK-2307560",
+    "name": "Merrygoll",
+    "name_si": "\u0db8\u0dd0\u0dbb\u0dd2\u0d9c\u0ddd\u0dbd\u0dca\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 0.16113494,
+    "center_lat": 7.06694362,
+    "center_lon": 80.81263095
+  },
+  {
+    "id": "LK-2307565",
+    "name": "Ketayapathana",
+    "name_si": "\u0d9a\u0dd0\u0da7\u0dba\u0dcf\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.28439917,
+    "center_lat": 7.07243705,
+    "center_lon": 80.8052746
+  },
+  {
+    "id": "LK-2307570",
+    "name": "Gonakele",
+    "name_si": "\u0d9c\u0ddd\u0db1\u0d9a\u0dd0\u0dbd\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 0.92874866,
+    "center_lat": 7.06439375,
+    "center_lon": 80.80605621
+  },
+  {
+    "id": "LK-2307575",
+    "name": "Gonapitiya",
+    "name_si": "\u0d9c\u0ddd\u0db1\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 2.63411567,
+    "center_lat": 7.0537256,
+    "center_lon": 80.80343681
+  },
+  {
+    "id": "LK-2307580",
+    "name": "Bomellagoda",
+    "name_si": "\u0db6\u0ddd\u0db8\u0dd0\u0dbd\u0dca\u0dbd\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 2.12884801,
+    "center_lat": 7.06045179,
+    "center_lon": 80.81761489
+  },
+  {
+    "id": "LK-2307585",
+    "name": "Dunukebedda",
+    "name_si": "\u0daf\u0dd4\u0db1\u0dd4\u0d9a\u0dd9\u0db6\u0dd0\u0daf\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 0.87815499,
+    "center_lat": 7.06850782,
+    "center_lon": 80.79976409
+  },
+  {
+    "id": "LK-2307590",
+    "name": "Wellagiriya",
+    "name_si": "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 9.21055601,
+    "center_lat": 7.04051675,
+    "center_lon": 80.80617704
+  },
+  {
+    "id": "LK-2307595",
+    "name": "Ampitigoda",
+    "name_si": "\u0d85\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.88217323,
+    "center_lat": 7.07239166,
+    "center_lon": 80.79440583
+  },
+  {
+    "id": "LK-2307600",
+    "name": "Wewathenna",
+    "name_si": "\u0dc0\u0dd0\u0dc0\u0dad\u0dd0\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.71164682,
+    "center_lat": 7.06145531,
+    "center_lon": 80.78868576
+  },
+  {
+    "id": "LK-2307605",
+    "name": "Metibembiya",
+    "name_si": "\u0db8\u0dd0\u0da7\u0dd2\u0db6\u0dd0\u0db9\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.93728592,
+    "center_lat": 7.06942206,
+    "center_lon": 80.78600542
+  },
+  {
+    "id": "LK-2307610",
+    "name": "Goodwood",
+    "name_si": "\u0d9c\u0dd4\u0da9\u0dca\u0dc0\u0dd4\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 0.96300947,
+    "center_lat": 7.05321119,
+    "center_lon": 80.78707275
+  },
+  {
+    "id": "LK-2307615",
+    "name": "Hunukotuwa",
+    "name_si": "\u0dc4\u0dd4\u0dab\u0dd4\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.78883459,
+    "center_lat": 7.04113064,
+    "center_lon": 80.78535743
+  },
+  {
+    "id": "LK-2307620",
+    "name": "Medawela",
+    "name_si": "\u0db8\u0dd0\u0daf\u0dc0\u0dd9\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.96923321,
+    "center_lat": 7.04874808,
+    "center_lon": 80.78021141
+  },
+  {
+    "id": "LK-2307625",
+    "name": "Labuhenwala",
+    "name_si": "\u0dbd\u0db6\u0dd4\u0dc4\u0dda\u0db1\u0dca\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.23498792,
+    "center_lat": 7.06055163,
+    "center_lon": 80.78103943
+  },
+  {
+    "id": "LK-2307630",
+    "name": "Ketahira",
+    "name_si": "\u0d9a\u0dd0\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.14620143,
+    "center_lat": 7.06440135,
+    "center_lon": 80.77164646
+  },
+  {
+    "id": "LK-2307635",
+    "name": "Deegalahinna",
+    "name_si": "\u0daf\u0dd3\u0d9c\u0dbd\u0dc4\u0dd2\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 9.28042392,
+    "center_lat": 7.04942694,
+    "center_lon": 80.75214096
+  },
+  {
+    "id": "LK-2307640",
+    "name": "Elamulla",
+    "name_si": "\u0d91\u0dc5\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 9.25590416,
+    "center_lat": 7.03370299,
+    "center_lon": 80.75993393
+  },
+  {
+    "id": "LK-2307645",
+    "name": "Udawela",
+    "name_si": "\u0d8b\u0da9\u0dc0\u0dd9\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 3.90246158,
+    "center_lat": 7.02766437,
+    "center_lon": 80.7743953
+  },
+  {
+    "id": "LK-2307650",
+    "name": "Mandaram Nuwara",
+    "name_si": "\u0db8\u0db1\u0dca\u0daf\u0dcf\u0dbb\u0db8\u0dca \u0db1\u0dd4\u0dc0\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 5.63992725,
+    "center_lat": 7.01911837,
+    "center_lon": 80.78100175
+  },
+  {
+    "id": "LK-2307655",
+    "name": "Malsara Nuwara",
+    "name_si": "\u0db8\u0dbd\u0dca\u0dc3\u0dbb\u0dcf\u0db1\u0dd4\u0dc0\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.63201856,
+    "center_lat": 7.03151042,
+    "center_lon": 80.79405115
+  },
+  {
+    "id": "LK-2309005",
+    "name": "Serasunthenna",
+    "name_si": "\u0dc3\u0dd0\u0dbb\u0dc3\u0dd4\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 25.64011922,
+    "center_lat": 7.16572996,
+    "center_lon": 80.86707062
+  },
+  {
+    "id": "LK-2309065",
+    "name": "Ketakandura",
+    "name_si": "\u0d9a\u0dd0\u0da7\u0d9a\u0db3\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.51133827,
+    "center_lat": 7.10621936,
+    "center_lon": 80.87636406
+  },
+  {
+    "id": "LK-2309070",
+    "name": "Batagolla",
+    "name_si": "\u0db6\u0da7\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.3122848,
+    "center_lat": 7.11561609,
+    "center_lon": 80.87228333
+  },
+  {
+    "id": "LK-2309075",
+    "name": "Thennehenwala",
+    "name_si": "\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dc4\u0dda\u0db1\u0dca\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.38621827,
+    "center_lat": 7.1090101,
+    "center_lon": 80.86350663
+  },
+  {
+    "id": "LK-2309080",
+    "name": "Deliwela South",
+    "name_si": "\u0daf\u0dd0\u0dbd\u0dd2\u0dc0\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 3.55228575,
+    "center_lat": 7.13073917,
+    "center_lon": 80.86793636
+  },
+  {
+    "id": "LK-2309085",
+    "name": "Deliwala North",
+    "name_si": "\u0daf\u0dd0\u0dbd\u0dd2\u0dc0\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.25760495,
+    "center_lat": 7.12639013,
+    "center_lon": 80.85721194
+  },
+  {
+    "id": "LK-2309090",
+    "name": "Pannala",
+    "name_si": "\u0db4\u0db1\u0dca\u0db1\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.31677,
+    "center_lat": 7.15426415,
+    "center_lon": 80.84721232
+  },
+  {
+    "id": "LK-2309095",
+    "name": "Serupitiya",
+    "name_si": "\u0dc3\u0dda\u0dbb\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.64882377,
+    "center_lat": 7.15086298,
+    "center_lon": 80.84443157
+  },
+  {
+    "id": "LK-2309100",
+    "name": "Mailagasthenna",
+    "name_si": "\u0db8\u0dba\u0dd2\u0dbd\u0d9c\u0dc3\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 1.89050292,
+    "center_lat": 7.1387938,
+    "center_lon": 80.84219672
+  },
+  {
+    "id": "LK-2309105",
+    "name": "Andawala",
+    "name_si": "\u0d86\u0db3\u0dcf\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.89482861,
+    "center_lat": 7.129983,
+    "center_lon": 80.83332677
+  },
+  {
+    "id": "LK-2309110",
+    "name": "Naranthalawa",
+    "name_si": "\u0db1\u0dcf\u0dbb\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.89465695,
+    "center_lat": 7.1220153,
+    "center_lon": 80.83647136
+  },
+  {
+    "id": "LK-2309115",
+    "name": "Ihala Pannala",
+    "name_si": "\u0d89\u0dc4\u0dc5 \u0db4\u0db1\u0dca\u0db1\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.43334431,
+    "center_lat": 7.13735805,
+    "center_lon": 80.85350788
+  },
+  {
+    "id": "LK-2309120",
+    "name": "Wewakele",
+    "name_si": "\u0dc0\u0dd0\u0dc0\u0d9a\u0dd0\u0dc5\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 2.27643266,
+    "center_lat": 7.12813707,
+    "center_lon": 80.8474937
+  },
+  {
+    "id": "LK-2309125",
+    "name": "Kumbalgamuwa",
+    "name_si": "\u0d9a\u0dd4\u0db9\u0dbd\u0dca\u0d9c\u0db8\u0dd4\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 2.28375495,
+    "center_lat": 7.11151002,
+    "center_lon": 80.84992492
+  },
+  {
+    "id": "LK-2309130",
+    "name": "Kumbalgamuwa East",
+    "name_si": "\u0d9a\u0dd4\u0db9\u0dbd\u0dca\u0d9c\u0db8\u0dd4\u0dc0 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2",
+    "name_ta": NaN,
+    "area_sqkm": 0.70004824,
+    "center_lat": 7.11120605,
+    "center_lon": 80.85691856
+  },
+  {
+    "id": "LK-2309135",
+    "name": "Mulhalkele",
+    "name_si": "\u0db8\u0dd4\u0dbd\u0dca\u0dc4\u0dcf\u0dbd\u0dca\u0d9a\u0dd0\u0dbd\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 2.22350825,
+    "center_lat": 7.10194882,
+    "center_lon": 80.85403543
+  },
+  {
+    "id": "LK-2309140",
+    "name": "Manelwala",
+    "name_si": "\u0db8\u0dcf\u0db1\u0dd9\u0dbd\u0dca\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.78071261,
+    "center_lat": 7.10629002,
+    "center_lon": 80.86787159
+  },
+  {
+    "id": "LK-2309145",
+    "name": "Wathumulla",
+    "name_si": "\u0dc0\u0dad\u0dd4\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.63417269,
+    "center_lat": 7.09823282,
+    "center_lon": 80.86470282
+  },
+  {
+    "id": "LK-2309150",
+    "name": "Kendagolla",
+    "name_si": "\u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.30733155,
+    "center_lat": 7.09726154,
+    "center_lon": 80.87452119
+  },
+  {
+    "id": "LK-2309255",
+    "name": "Egodakanda",
+    "name_si": "\u0d91\u0d9c\u0ddc\u0da9\u0d9a\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 0.61600193,
+    "center_lat": 7.08525378,
+    "center_lon": 80.86978769
+  },
+  {
+    "id": "LK-2309260",
+    "name": "Kandegama",
+    "name_si": "\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 2.11950488,
+    "center_lat": 7.08729504,
+    "center_lon": 80.85406313
+  },
+  {
+    "id": "LK-2309265",
+    "name": "Walapane",
+    "name_si": "\u0dc0\u0dbd\u0db4\u0db1\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 0.28892089,
+    "center_lat": 7.09481476,
+    "center_lon": 80.85823257
+  },
+  {
+    "id": "LK-2309270",
+    "name": "Kurunduoya",
+    "name_si": "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4 \u0d94\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 4.19724078,
+    "center_lat": 7.08188092,
+    "center_lon": 80.83003276
+  },
+  {
+    "id": "LK-2309275",
+    "name": "Liyanwela Ihalagama",
+    "name_si": "\u0dbd\u0dd2\u0dba\u0db1\u0dca\u0dc0\u0dbd \u0d89\u0dc4\u0dc5",
+    "name_ta": NaN,
+    "area_sqkm": 1.55391744,
+    "center_lat": 7.10663707,
+    "center_lon": 80.83573889
+  },
+  {
+    "id": "LK-2309280",
+    "name": "Madumana",
+    "name_si": "\u0db8\u0da9\u0dd4\u0db8\u0dcf\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 1.26888488,
+    "center_lat": 7.11623422,
+    "center_lon": 80.83065949
+  },
+  {
+    "id": "LK-2309285",
+    "name": "Ilukpelessa",
+    "name_si": "\u0d89\u0dbd\u0dd4\u0d9a\u0dca \u0db4\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0dc3",
+    "name_ta": NaN,
+    "area_sqkm": 0.76176609,
+    "center_lat": 7.12564021,
+    "center_lon": 80.8194972
+  },
+  {
+    "id": "LK-2309290",
+    "name": "Unagolla",
+    "name_si": "\u0d8b\u0dab\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.12491413,
+    "center_lat": 7.11515333,
+    "center_lon": 80.81777042
+  },
+  {
+    "id": "LK-2309295",
+    "name": "Liyanwala Pahalagama",
+    "name_si": "\u0dbd\u0dd2\u0dba\u0db1\u0dca\u0dc0\u0dbd \u0db4\u0dc4\u0dc5",
+    "name_ta": NaN,
+    "area_sqkm": 0.97418178,
+    "center_lat": 7.11461064,
+    "center_lon": 80.82422144
+  },
+  {
+    "id": "LK-2309300",
+    "name": "Medakandura",
+    "name_si": "\u0db8\u0dd0\u0daf\u0d9a\u0db3\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 4.30748247,
+    "center_lat": 7.09400379,
+    "center_lon": 80.83652843
+  },
+  {
+    "id": "LK-2309305",
+    "name": "Galabada",
+    "name_si": "\u0d9c\u0dbd\u0db6\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 2.70246104,
+    "center_lat": 7.09274013,
+    "center_lon": 80.81849177
+  },
+  {
+    "id": "LK-2309310",
+    "name": "Ambagaspitiya",
+    "name_si": "\u0d85\u0db9\u0d9c\u0dc3\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.49458109,
+    "center_lat": 7.10377185,
+    "center_lon": 80.81577428
+  },
+  {
+    "id": "LK-2309315",
+    "name": "Munwatta",
+    "name_si": "\u0db8\u0dd4\u0d82\u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 1.34021734,
+    "center_lat": 7.11467237,
+    "center_lon": 80.81031615
+  },
+  {
+    "id": "LK-2309320",
+    "name": "Landupita",
+    "name_si": "\u0dbd\u0db3\u0dd4\u0db4\u0dd2\u0da7",
+    "name_ta": NaN,
+    "area_sqkm": 0.83681809,
+    "center_lat": 7.10627249,
+    "center_lon": 80.80838215
+  },
+  {
+    "id": "LK-2309325",
+    "name": "Wetekegama",
+    "name_si": "\u0dc0\u0dd0\u0da7\u0d9a\u0dda\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 0.4170315,
+    "center_lat": 7.10285951,
+    "center_lon": 80.8045405
+  },
+  {
+    "id": "LK-2309330",
+    "name": "Padiyapelella",
+    "name_si": "\u0db4\u0daf\u0dd2\u0dba\u0db4\u0dd0\u0dbd\u0dd0\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.42423544,
+    "center_lat": 7.0922713,
+    "center_lon": 80.79972263
+  },
+  {
+    "id": "LK-2309335",
+    "name": "Napatawela",
+    "name_si": "\u0db1\u0dcf\u0db4\u0da7\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.72543616,
+    "center_lat": 7.09413712,
+    "center_lon": 80.80632109
+  },
+  {
+    "id": "LK-2309340",
+    "name": "Ukuthule",
+    "name_si": "\u0d8b\u0d9a\u0dd4\u0dad\u0dd4\u0dbd\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 0.51414828,
+    "center_lat": 7.08753045,
+    "center_lon": 80.8051099
+  },
+  {
+    "id": "LK-2309345",
+    "name": "Yatiwella",
+    "name_si": "\u0dba\u0da7\u0dd2\u0dc0\u0dd0\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.52641614,
+    "center_lat": 7.08537222,
+    "center_lon": 80.79846411
+  },
+  {
+    "id": "LK-2309350",
+    "name": "Wetakepatha",
+    "name_si": "\u0dc0\u0dd0\u0da7\u0d9a\u0dda\u0db4\u0ddc\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 0.71649502,
+    "center_lat": 7.08106128,
+    "center_lon": 80.80454257
+  },
+  {
+    "id": "LK-2309355",
+    "name": "Ukuthule East",
+    "name_si": "\u0d8b\u0d9a\u0dd4\u0dad\u0dd4\u0dbd\u0dda \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.97301708,
+    "center_lat": 7.07800324,
+    "center_lon": 80.8174897
+  },
+  {
+    "id": "LK-2309360",
+    "name": "Alakolawewa",
+    "name_si": "\u0d85\u0dbd\u0d9a\u0ddc\u0dc5\u0dc0\u0dd0\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.59113541,
+    "center_lat": 7.07291656,
+    "center_lon": 80.81090718
+  },
+  {
+    "id": "LK-2309365",
+    "name": "High Forest",
+    "name_si": "\u0dc4\u0dba\u0dd2\u0dc6\u0ddc\u0dbb\u0dc3\u0dca\u0da7\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 3.81512906,
+    "center_lat": 7.05783809,
+    "center_lon": 80.83090731
+  },
+  {
+    "id": "LK-2309370",
+    "name": "Mahakudugala",
+    "name_si": "\u0db8\u0dc4\u0d9a\u0dd4\u0da9\u0dd4\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 4.90857258,
+    "center_lat": 7.03199304,
+    "center_lon": 80.8264751
+  },
+  {
+    "id": "LK-2309375",
+    "name": "Brookside",
+    "name_si": "\u0db6\u0df2\u0d9a\u0dca\u0dc3\u0dba\u0dd2\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 7.41430815,
+    "center_lat": 7.03074952,
+    "center_lon": 80.84398954
+  },
+  {
+    "id": "LK-2309380",
+    "name": "High Forest",
+    "name_si": "\u0dc4\u0dba\u0dd2\u0dc6\u0ddc\u0dbb\u0dc3\u0dca\u0da7\u0dca \u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 2.52782464,
+    "center_lat": 7.06139941,
+    "center_lon": 80.83902785
+  },
+  {
+    "id": "LK-2309385",
+    "name": "Binganthalawa",
+    "name_si": "\u0db6\u0dd2\u0d82\u0d9c\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 7.93009345,
+    "center_lat": 7.05889663,
+    "center_lon": 80.85784219
+  },
+  {
+    "id": "LK-2309390",
+    "name": "Maha Uva",
+    "name_si": "\u0db8\u0dc4\u0d8c\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 4.80437649,
+    "center_lat": 7.0738449,
+    "center_lon": 80.86557896
+  },
+  {
+    "id": "LK-2309395",
+    "name": "Werellapathana",
+    "name_si": "\u0dc0\u0dd0\u0dbb\u0dbd\u0dca\u0dbd\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 2.08157626,
+    "center_lat": 7.07267877,
+    "center_lon": 80.87928059
+  },
+  {
+    "id": "LK-2309485",
+    "name": "Morabedda",
+    "name_si": "\u0db8\u0ddc\u0dbb\u0db6\u0dd0\u0daf\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 2.15724156,
+    "center_lat": 7.05065356,
+    "center_lon": 80.88740479
+  },
+  {
+    "id": "LK-2309490",
+    "name": "Harasbedda North",
+    "name_si": "\u0dc4\u0dbb\u0dc3\u0dca\u0db6\u0dd0\u0daf\u0dca\u0daf \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.49576789,
+    "center_lat": 7.04413931,
+    "center_lon": 80.87731727
+  },
+  {
+    "id": "LK-2309495",
+    "name": "Mahapathana",
+    "name_si": "\u0db8\u0dc4\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.78224909,
+    "center_lat": 7.0605391,
+    "center_lon": 80.87670336
+  },
+  {
+    "id": "LK-2309500",
+    "name": "Harasbedda South",
+    "name_si": "\u0dc4\u0dbb\u0dc3\u0dca\u0db6\u0dd0\u0daf\u0dca\u0daf \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 1.29266195,
+    "center_lat": 7.05145814,
+    "center_lon": 80.87149082
+  },
+  {
+    "id": "LK-2309505",
+    "name": "Palalpathana",
+    "name_si": "\u0db4\u0dbd\u0dbd\u0dca\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 2.01328939,
+    "center_lat": 7.04050355,
+    "center_lon": 80.86298096
+  },
+  {
+    "id": "LK-2309510",
+    "name": "Rathnayakapura",
+    "name_si": "\u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 3.94839969,
+    "center_lat": 7.02575509,
+    "center_lon": 80.85781871
+  },
+  {
+    "id": "LK-2309515",
+    "name": "Ragala Watta",
+    "name_si": "\u0dbb\u0dcf\u0d9c\u0dbd\u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 3.20039893,
+    "center_lat": 7.00724995,
+    "center_lon": 80.85182159
+  },
+  {
+    "id": "LK-2309520",
+    "name": "Manthreethenna",
+    "name_si": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dad\u0dd0\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 2.16670697,
+    "center_lat": 7.02754943,
+    "center_lon": 80.87848956
+  },
+  {
+    "id": "LK-2309525",
+    "name": "Pandithaya Kumbura",
+    "name_si": "\u0db4\u0dab\u0dca\u0da9\u0dd2\u0dad\u0dba\u0dcf\u0d9a\u0dd4\u0db9\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.77210812,
+    "center_lat": 7.0325161,
+    "center_lon": 80.88955615
+  },
+  {
+    "id": "LK-2309575",
+    "name": "Senarathpura",
+    "name_si": "\u0dc3\u0dd9\u0db1\u0dbb\u0dad\u0dca\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 4.10178595,
+    "center_lat": 7.01666686,
+    "center_lon": 80.88240268
+  },
+  {
+    "id": "LK-2309580",
+    "name": "St. Leonard",
+    "name_si": "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dca \u0dbd\u0dd9\u0db1\u0dcf\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 3.96507024,
+    "center_lat": 7.00410945,
+    "center_lon": 80.86450306
+  },
+  {
+    "id": "LK-2309585",
+    "name": "Ragala",
+    "name_si": "\u0dbb\u0dcf\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.41096095,
+    "center_lat": 7.01214779,
+    "center_lon": 80.85834906
+  },
+  {
+    "id": "LK-2309590",
+    "name": "Ekangapura",
+    "name_si": "\u0d91\u0d9a\u0d9f\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 2.94620651,
+    "center_lat": 6.99932762,
+    "center_lon": 80.8374763
+  },
+  {
+    "id": "LK-2309595",
+    "name": "Samagipura",
+    "name_si": "\u0dc3\u0db8\u0d9c\u0dd2\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.49182489,
+    "center_lat": 6.98860581,
+    "center_lon": 80.85625962
+  },
+  {
+    "id": "LK-2310010",
     "name": "Morangathenna",
     "name_si": "\u0db8\u0ddd\u0dbb\u0db1\u0dca\u0d9c\u0dcf\u0dad\u0dd0\u0db1\u0dca\u0db1",
     "name_ta": NaN,
@@ -39195,7 +40662,7 @@
     "center_lon": 80.89510241
   },
   {
-    "id": "LK-2309015",
+    "id": "LK-2310015",
     "name": "Hegasulla",
     "name_si": "\u0dc4\u0dd1\u0d9c\u0dc3\u0dca\u0dc0\u0dd4\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39204,7 +40671,7 @@
     "center_lon": 80.93161171
   },
   {
-    "id": "LK-2309020",
+    "id": "LK-2310020",
     "name": "Bolagandawela",
     "name_si": "\u0db6\u0ddc\u0dbd\u0d9c\u0db1\u0dca\u0daf\u0dcf\u0dc0\u0dd9\u0dbd",
     "name_ta": NaN,
@@ -39213,7 +40680,7 @@
     "center_lon": 80.94641182
   },
   {
-    "id": "LK-2309025",
+    "id": "LK-2310025",
     "name": "Ambagahathenna",
     "name_si": "\u0d85\u0db9\u0d9c\u0dc4\u0dad\u0dd0\u0db1\u0dca\u0db1",
     "name_ta": NaN,
@@ -39222,7 +40689,7 @@
     "center_lon": 80.92647937
   },
   {
-    "id": "LK-2309030",
+    "id": "LK-2310030",
     "name": "Helagama",
     "name_si": "\u0dc4\u0dd9\u0dbd\u0d9c\u0db8",
     "name_ta": NaN,
@@ -39231,7 +40698,7 @@
     "center_lon": 80.92366544
   },
   {
-    "id": "LK-2309035",
+    "id": "LK-2310035",
     "name": "Mallagama",
     "name_si": "\u0db8\u0dbd\u0dca\u0dbd\u0dd1\u0d9c\u0db8",
     "name_ta": NaN,
@@ -39240,7 +40707,7 @@
     "center_lon": 80.90934395
   },
   {
-    "id": "LK-2309040",
+    "id": "LK-2310040",
     "name": "Dulana",
     "name_si": "\u0daf\u0dd4\u0dbd\u0db1",
     "name_ta": NaN,
@@ -39249,7 +40716,7 @@
     "center_lon": 80.91987034
   },
   {
-    "id": "LK-2309045",
+    "id": "LK-2310045",
     "name": "Galketiwela",
     "name_si": "\u0d9c\u0dbd\u0dca\u0d9a\u0dd0\u0da7\u0dd2\u0dc0\u0dd9\u0dbd",
     "name_ta": NaN,
@@ -39258,7 +40725,7 @@
     "center_lon": 80.89992154
   },
   {
-    "id": "LK-2309050",
+    "id": "LK-2310050",
     "name": "Ellakumbura",
     "name_si": "\u0d87\u0dbd\u0dca\u0dbd\u0dda\u0d9a\u0dd4\u0db9\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -39267,7 +40734,7 @@
     "center_lon": 80.90309064
   },
   {
-    "id": "LK-2309055",
+    "id": "LK-2310055",
     "name": "Muganagahapitiya",
     "name_si": "\u0db8\u0dd4\u0d9c\u0dd4\u0db1\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
     "name_ta": NaN,
@@ -39276,7 +40743,7 @@
     "center_lon": 80.89449375
   },
   {
-    "id": "LK-2309060",
+    "id": "LK-2310060",
     "name": "Hapugahapitiya",
     "name_si": "\u0dc4\u0db4\u0dd4\u0d9c\u0dc4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
     "name_ta": NaN,
@@ -39285,7 +40752,7 @@
     "center_lon": 80.88783843
   },
   {
-    "id": "LK-2309155",
+    "id": "LK-2310155",
     "name": "Arampitiya",
     "name_si": "\u0d85\u0dbb\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba",
     "name_ta": NaN,
@@ -39294,7 +40761,7 @@
     "center_lon": 80.88763939
   },
   {
-    "id": "LK-2309160",
+    "id": "LK-2310160",
     "name": "Yombuwelthenna",
     "name_si": "\u0dba\u0ddc\u0db9\u0dd4\u0dc0\u0dd0\u0dbd\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
     "name_ta": NaN,
@@ -39303,7 +40770,7 @@
     "center_lon": 80.88917841
   },
   {
-    "id": "LK-2309165",
+    "id": "LK-2310165",
     "name": "Udawela",
     "name_si": "\u0d8b\u0da9\u0dc0\u0dd9\u0dbd",
     "name_ta": NaN,
@@ -39312,7 +40779,7 @@
     "center_lon": 80.90044499
   },
   {
-    "id": "LK-2309170",
+    "id": "LK-2310170",
     "name": "Kalaganwatta",
     "name_si": "\u0d9a\u0dbd\u0d9c\u0db1\u0dca\u0dc0\u0dad\u0dca\u0dad",
     "name_ta": NaN,
@@ -39321,7 +40788,7 @@
     "center_lon": 80.90562477
   },
   {
-    "id": "LK-2309175",
+    "id": "LK-2310175",
     "name": "Theripehe",
     "name_si": "\u0dad\u0dd9\u0dbb\u0dd2\u0db4\u0dd0\u0dc4\u0dd0",
     "name_ta": NaN,
@@ -39330,7 +40797,7 @@
     "center_lon": 80.91413087
   },
   {
-    "id": "LK-2309180",
+    "id": "LK-2310180",
     "name": "Udamadura North",
     "name_si": "\u0d8b\u0da9\u0db8\u0dcf\u0daf\u0dd4\u0dbb \u0d8b\u0dad\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -39339,7 +40806,7 @@
     "center_lon": 80.92027392
   },
   {
-    "id": "LK-2309185",
+    "id": "LK-2310185",
     "name": "Galkadawela",
     "name_si": "\u0d9c\u0dbd\u0dca\u0d9a\u0da9\u0dc0\u0dbd",
     "name_ta": NaN,
@@ -39348,7 +40815,7 @@
     "center_lon": 80.93099885
   },
   {
-    "id": "LK-2309190",
+    "id": "LK-2310190",
     "name": "Yatimadura",
     "name_si": "\u0dba\u0da7\u0dd2\u0db8\u0dcf\u0daf\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -39357,7 +40824,7 @@
     "center_lon": 80.93361877
   },
   {
-    "id": "LK-2309195",
+    "id": "LK-2310195",
     "name": "Kandeyaya",
     "name_si": "\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0dba\u0dcf\u0dba",
     "name_ta": NaN,
@@ -39366,7 +40833,7 @@
     "center_lon": 80.94947308
   },
   {
-    "id": "LK-2309200",
+    "id": "LK-2310200",
     "name": "Madulla North",
     "name_si": "\u0db8\u0da9\u0dd4\u0dbd\u0dca\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -39375,7 +40842,7 @@
     "center_lon": 80.9223272
   },
   {
-    "id": "LK-2309205",
+    "id": "LK-2310205",
     "name": "Thunhitiyawa",
     "name_si": "\u0dad\u0dd4\u0db1\u0dca\u0dc4\u0dd2\u0da7\u0dd2\u0dba\u0dcf\u0dc0",
     "name_ta": NaN,
@@ -39384,7 +40851,7 @@
     "center_lon": 80.92234477
   },
   {
-    "id": "LK-2309210",
+    "id": "LK-2310210",
     "name": "Wewathenna",
     "name_si": "\u0dc0\u0dd0\u0dc0\u0dad\u0dd0\u0db1\u0dca\u0db1",
     "name_ta": NaN,
@@ -39393,7 +40860,7 @@
     "center_lon": 80.91927408
   },
   {
-    "id": "LK-2309215",
+    "id": "LK-2310215",
     "name": "Kosgolla",
     "name_si": "\u0d9a\u0ddc\u0dc3\u0dca\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39402,7 +40869,7 @@
     "center_lon": 80.92311045
   },
   {
-    "id": "LK-2309220",
+    "id": "LK-2310220",
     "name": "Udamadura",
     "name_si": "\u0d8b\u0da9\u0db8\u0dcf\u0daf\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -39411,7 +40878,7 @@
     "center_lon": 80.91121698
   },
   {
-    "id": "LK-2309225",
+    "id": "LK-2310225",
     "name": "Ambanella",
     "name_si": "\u0d85\u0db9\u0db1\u0dca\u0d87\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39420,7 +40887,7 @@
     "center_lon": 80.91149219
   },
   {
-    "id": "LK-2309230",
+    "id": "LK-2310230",
     "name": "Dabbare",
     "name_si": "\u0daf\u0db8\u0dca\u0db6\u0dbb\u0dda",
     "name_ta": NaN,
@@ -39429,7 +40896,7 @@
     "center_lon": 80.90278249
   },
   {
-    "id": "LK-2309235",
+    "id": "LK-2310235",
     "name": "Nildandaheenna",
     "name_si": "\u0db1\u0dd2\u0dbd\u0dca\u0daf\u0dab\u0dca\u0da9\u0dcf\u0dc4\u0dd2\u0db1\u0dca\u0db1",
     "name_ta": NaN,
@@ -39438,7 +40905,7 @@
     "center_lon": 80.89537866
   },
   {
-    "id": "LK-2309240",
+    "id": "LK-2310240",
     "name": "Rambuke",
     "name_si": "\u0dbb\u0db9\u0dd4\u0d9a\u0dd9",
     "name_ta": NaN,
@@ -39447,7 +40914,7 @@
     "center_lon": 80.88699089
   },
   {
-    "id": "LK-2309245",
+    "id": "LK-2310245",
     "name": "Watambe",
     "name_si": "\u0dc0\u0da7\u0db9\u0dda",
     "name_ta": NaN,
@@ -39456,7 +40923,7 @@
     "center_lon": 80.87834943
   },
   {
-    "id": "LK-2309250",
+    "id": "LK-2310250",
     "name": "Thibbatugoda",
     "name_si": "\u0dad\u0dd2\u0db6\u0dca\u0db6\u0da7\u0dd4\u0d9c\u0ddc\u0da9",
     "name_ta": NaN,
@@ -39465,7 +40932,7 @@
     "center_lon": 80.87759165
   },
   {
-    "id": "LK-2309400",
+    "id": "LK-2310400",
     "name": "Thibbatugoda South",
     "name_si": "\u0dad\u0dd2\u0db6\u0dca\u0db6\u0da7\u0dd4\u0d9c\u0ddc\u0da9 \u0daf\u0d9a\u0dd4\u0dab",
     "name_ta": NaN,
@@ -39474,7 +40941,7 @@
     "center_lon": 80.88593935
   },
   {
-    "id": "LK-2309405",
+    "id": "LK-2310405",
     "name": "Goradiyagolla",
     "name_si": "\u0d9c\u0ddc\u0dbb\u0dac\u0dd2\u0dba\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39483,7 +40950,7 @@
     "center_lon": 80.88483045
   },
   {
-    "id": "LK-2309410",
+    "id": "LK-2310410",
     "name": "Denambure",
     "name_si": "\u0daf\u0dd9\u0db1\u0db9\u0dd4\u0dbb\u0dda",
     "name_ta": NaN,
@@ -39492,7 +40959,7 @@
     "center_lon": 80.89536529
   },
   {
-    "id": "LK-2309415",
+    "id": "LK-2310415",
     "name": "Purankumbura",
     "name_si": "\u0db4\u0dd4\u0dbb\u0db1\u0dca\u0d9a\u0dd4\u0db9\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -39501,7 +40968,7 @@
     "center_lon": 80.89661957
   },
   {
-    "id": "LK-2309420",
+    "id": "LK-2310420",
     "name": "Hegama",
     "name_si": "\u0dc4\u0dd1\u0d9c\u0db8",
     "name_ta": NaN,
@@ -39510,7 +40977,7 @@
     "center_lon": 80.90467329
   },
   {
-    "id": "LK-2309425",
+    "id": "LK-2310425",
     "name": "Dambagolla",
     "name_si": "\u0daf\u0db9\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39519,7 +40986,7 @@
     "center_lon": 80.90193763
   },
   {
-    "id": "LK-2309430",
+    "id": "LK-2310430",
     "name": "Demataarawa",
     "name_si": "\u0daf\u0dd9\u0db8\u0da7\u0d85\u0dbb\u0dcf\u0dc0",
     "name_ta": NaN,
@@ -39528,7 +40995,7 @@
     "center_lon": 80.91105364
   },
   {
-    "id": "LK-2309435",
+    "id": "LK-2310435",
     "name": "Madulla South",
     "name_si": "\u0db8\u0da9\u0dd4\u0dbd\u0dca\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
     "name_ta": NaN,
@@ -39537,7 +41004,7 @@
     "center_lon": 80.92052543
   },
   {
-    "id": "LK-2309440",
+    "id": "LK-2310440",
     "name": "Morahela",
     "name_si": "\u0db8\u0ddc\u0dbb\u0dc4\u0dd9\u0dbd",
     "name_ta": NaN,
@@ -39546,7 +41013,7 @@
     "center_lon": 80.93454874
   },
   {
-    "id": "LK-2309445",
+    "id": "LK-2310445",
     "name": "Meepanawa",
     "name_si": "\u0db8\u0dd3\u0db4\u0db1\u0dcf\u0dc0",
     "name_ta": NaN,
@@ -39555,7 +41022,7 @@
     "center_lon": 80.92481718
   },
   {
-    "id": "LK-2309450",
+    "id": "LK-2310450",
     "name": "Roopaha East",
     "name_si": "\u0dbb\u0dd4\u0db4\u0dc4 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
     "name_ta": NaN,
@@ -39564,7 +41031,7 @@
     "center_lon": 80.91490745
   },
   {
-    "id": "LK-2309455",
+    "id": "LK-2310455",
     "name": "Pallewela",
     "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0dc0\u0dd9\u0dbd",
     "name_ta": NaN,
@@ -39573,7 +41040,7 @@
     "center_lon": 80.90777796
   },
   {
-    "id": "LK-2309460",
+    "id": "LK-2310460",
     "name": "Palugama",
     "name_si": "\u0db4\u0dcf\u0dc5\u0dd4\u0d9c\u0db8",
     "name_ta": NaN,
@@ -39582,7 +41049,7 @@
     "center_lon": 80.90397513
   },
   {
-    "id": "LK-2309465",
+    "id": "LK-2310465",
     "name": "Kotambe",
     "name_si": "\u0d9a\u0ddc\u0da7\u0db9\u0dda",
     "name_ta": NaN,
@@ -39591,7 +41058,7 @@
     "center_lon": 80.90573385
   },
   {
-    "id": "LK-2309470",
+    "id": "LK-2310470",
     "name": "Karandagolla",
     "name_si": "\u0d9a\u0dbb\u0db3\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39600,7 +41067,7 @@
     "center_lon": 80.90328961
   },
   {
-    "id": "LK-2309475",
+    "id": "LK-2310475",
     "name": "Udagama",
     "name_si": "\u0d8b\u0da9\u0d9c\u0db8",
     "name_ta": NaN,
@@ -39609,7 +41076,7 @@
     "center_lon": 80.89368954
   },
   {
-    "id": "LK-2309480",
+    "id": "LK-2310480",
     "name": "Kumbukwela",
     "name_si": "\u0d9a\u0dd4\u0db9\u0dd4\u0d9a\u0dca\u0dc0\u0dbd",
     "name_ta": NaN,
@@ -39618,7 +41085,7 @@
     "center_lon": 80.89011189
   },
   {
-    "id": "LK-2309530",
+    "id": "LK-2310530",
     "name": "Roopaha",
     "name_si": "\u0dbb\u0dd4\u0db4\u0dc4",
     "name_ta": NaN,
@@ -39627,7 +41094,7 @@
     "center_lon": 80.90036475
   },
   {
-    "id": "LK-2309535",
+    "id": "LK-2310535",
     "name": "Mathetilla",
     "name_si": "\u0db8\u0dcf\u0dad\u0dd0\u0da7\u0dd2\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -39636,7 +41103,7 @@
     "center_lon": 80.90452687
   },
   {
-    "id": "LK-2309540",
+    "id": "LK-2310540",
     "name": "Embulampaha",
     "name_si": "\u0d87\u0db9\u0dd4\u0dbd\u0db1\u0dca\u0db4\u0dc4",
     "name_ta": NaN,
@@ -39645,7 +41112,7 @@
     "center_lon": 80.90718063
   },
   {
-    "id": "LK-2309545",
+    "id": "LK-2310545",
     "name": "Maliyadda",
     "name_si": "\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0daf\u0dca\u0daf",
     "name_ta": NaN,
@@ -39654,7 +41121,7 @@
     "center_lon": 80.92296436
   },
   {
-    "id": "LK-2309550",
+    "id": "LK-2310550",
     "name": "Kurupanawela",
     "name_si": "\u0d9a\u0dd4\u0dbb\u0dd4\u0db4\u0db1\u0dcf\u0dc0\u0dd9\u0dbd",
     "name_ta": NaN,
@@ -39663,7 +41130,7 @@
     "center_lon": 80.92249283
   },
   {
-    "id": "LK-2309555",
+    "id": "LK-2310555",
     "name": "Wathulanda East",
     "name_si": "\u0dc0\u0dad\u0dd4\u0dbd\u0db1\u0dca\u0daf \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
     "name_ta": NaN,
@@ -39672,7 +41139,7 @@
     "center_lon": 80.92034885
   },
   {
-    "id": "LK-2309560",
+    "id": "LK-2310560",
     "name": "Wathulanda West",
     "name_si": "\u0dc0\u0dad\u0dd4\u0dbd\u0db1\u0dca\u0daf \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
     "name_ta": NaN,
@@ -39681,7 +41148,7 @@
     "center_lon": 80.90912158
   },
   {
-    "id": "LK-2309565",
+    "id": "LK-2310565",
     "name": "Ambaliyadda",
     "name_si": "\u0d85\u0db9\u0dbd\u0dd2\u0dba\u0daf\u0dca\u0daf",
     "name_ta": NaN,
@@ -39690,7 +41157,7 @@
     "center_lon": 80.9053167
   },
   {
-    "id": "LK-2309570",
+    "id": "LK-2310570",
     "name": "Galkadapathana",
     "name_si": "\u0d9c\u0dbd\u0dca\u0d9a\u0da9\u0db4\u0dad\u0db1",
     "name_ta": NaN,
@@ -39699,7 +41166,7 @@
     "center_lon": 80.89197786
   },
   {
-    "id": "LK-2309600",
+    "id": "LK-2310600",
     "name": "Delmar",
     "name_si": "\u0da9\u0dd9\u0dbd\u0dca\u0db8\u0dcf\u0dbb\u0dca",
     "name_ta": NaN,
@@ -39708,7 +41175,7 @@
     "center_lon": 80.87588834
   },
   {
-    "id": "LK-2309605",
+    "id": "LK-2310605",
     "name": "Sooriyagahapathana Ihala",
     "name_si": "\u0dc3\u0dd6\u0dbb\u0dd2\u0dba\u0d9c\u0dc4\u0db4\u0dad\u0db1 \u0d89\u0dc4\u0dc5",
     "name_ta": NaN,
@@ -39717,7 +41184,7 @@
     "center_lon": 80.88694187
   },
   {
-    "id": "LK-2309610",
+    "id": "LK-2310610",
     "name": "Sooriyagahapathana Pahala",
     "name_si": "\u0dc3\u0dd6\u0dbb\u0dd2\u0dba\u0d9c\u0dc4\u0db4\u0dad\u0db1 \u0db4\u0dc4\u0dc5",
     "name_ta": NaN,
@@ -39726,7 +41193,7 @@
     "center_lon": 80.89799196
   },
   {
-    "id": "LK-2309615",
+    "id": "LK-2310615",
     "name": "Udapussellawa South",
     "name_si": "\u0d8b\u0da9\u0dd4\u0db4\u0dd4\u0dc3\u0dca\u0dc3\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0dc0 \u0daf",
     "name_ta": NaN,
@@ -39735,7 +41202,7 @@
     "center_lon": 80.89194194
   },
   {
-    "id": "LK-2309620",
+    "id": "LK-2310620",
     "name": "St. Magret",
     "name_si": "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dca \u0db8\u0dcf\u0d9c\u0dca\u200d\u0dbb\u0da7\u0dca",
     "name_ta": NaN,
@@ -39744,7 +41211,7 @@
     "center_lon": 80.90905257
   },
   {
-    "id": "LK-2309625",
+    "id": "LK-2310625",
     "name": "Udapussellawa North",
     "name_si": "\u0d8b\u0da9\u0dd4\u0db4\u0dd4\u0dc3\u0dca\u0dc3\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0dc0 \u0d8b\u0dad",
     "name_ta": NaN,
@@ -40095,6 +41562,312 @@
     "center_lon": 80.80933423
   },
   {
+    "id": "LK-2313005",
+    "name": "Bogahawatta",
+    "name_si": "\u0db6\u0ddd\u0d9c\u0dc4\u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 7.67910181,
+    "center_lat": 6.9711355,
+    "center_lon": 80.612054
+  },
+  {
+    "id": "LK-2313010",
+    "name": "Mount Vernon",
+    "name_si": "\u0db8\u0dc0\u0dd4\u0db1\u0dca\u0da7\u0dca \u0dc0\u0dbb\u0dca\u0db1\u0ddd\u0db1\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 3.34766888,
+    "center_lat": 6.95912122,
+    "center_lon": 80.6225962
+  },
+  {
+    "id": "LK-2313015",
+    "name": "Watagoda",
+    "name_si": "\u0dc0\u0da7\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 5.58029916,
+    "center_lat": 6.96127945,
+    "center_lon": 80.64559346
+  },
+  {
+    "id": "LK-2313020",
+    "name": "Hollyrood",
+    "name_si": "\u0dc4\u0ddc\u0dbd\u0dd2\u0dbb\u0dd6\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 3.70501996,
+    "center_lat": 6.94919346,
+    "center_lon": 80.66464792
+  },
+  {
+    "id": "LK-2313025",
+    "name": "Great Western",
+    "name_si": "\u0d9c\u0dca\u200d\u0dbb\u0dda\u0da7\u0dca\u0dc0\u0dd9\u0dc3\u0dca\u0da7\u0db1\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 8.96983027,
+    "center_lat": 6.96067735,
+    "center_lon": 80.68263665
+  },
+  {
+    "id": "LK-2313085",
+    "name": "Bearwell",
+    "name_si": "\u0db6\u0dd9\u0dba\u0dcf\u0dc0\u0dd9\u0dbd\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 7.34458241,
+    "center_lat": 6.95057563,
+    "center_lon": 80.69933
+  },
+  {
+    "id": "LK-2313090",
+    "name": "Thalawakele",
+    "name_si": "\u0dad\u0dbd\u0dc0\u0d9a\u0dd0\u0dbd\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 2.86563309,
+    "center_lat": 6.93564799,
+    "center_lon": 80.65428841
+  },
+  {
+    "id": "LK-2313095",
+    "name": "Devon",
+    "name_si": "\u0da9\u0dd9\u0dc0\u0ddd\u0db1\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 4.96889811,
+    "center_lat": 6.94412658,
+    "center_lon": 80.64571863
+  },
+  {
+    "id": "LK-2313100",
+    "name": "Dimbula",
+    "name_si": "\u0daf\u0dd2\u0db9\u0dd4\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 5.64730467,
+    "center_lat": 6.94495884,
+    "center_lon": 80.62249945
+  },
+  {
+    "id": "LK-2313105",
+    "name": "Stonycliff",
+    "name_si": "\u0dc3\u0dca\u0da7\u0ddd\u0db1\u0dd2\u0d9a\u0dca\u0dbd\u0dd2\u0db4\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 6.40488726,
+    "center_lat": 6.95115099,
+    "center_lon": 80.59328393
+  },
+  {
+    "id": "LK-2313110",
+    "name": "Kuduoya",
+    "name_si": "\u0d9a\u0dd4\u0da9\u0dcf\u0d94\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 7.83326103,
+    "center_lat": 6.93034341,
+    "center_lon": 80.59161312
+  },
+  {
+    "id": "LK-2313115",
+    "name": "Kotagala",
+    "name_si": "\u0d9a\u0ddc\u0da7\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.80460302,
+    "center_lat": 6.93098561,
+    "center_lon": 80.60607795
+  },
+  {
+    "id": "LK-2313120",
+    "name": "Drayton",
+    "name_si": "\u0da9\u0dca\u200d\u0dbb\u0dda\u0da7\u0ddd\u0db1\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 5.21414325,
+    "center_lat": 6.92498371,
+    "center_lon": 80.62206586
+  },
+  {
+    "id": "LK-2313125",
+    "name": "Yulefield",
+    "name_si": "\u0d89\u0dba\u0dd4\u0dc6\u0dd2\u0dbd\u0dca\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 7.27715358,
+    "center_lat": 6.90918642,
+    "center_lon": 80.62011131
+  },
+  {
+    "id": "LK-2313130",
+    "name": "Coombewood",
+    "name_si": "\u0d9a\u0dd6\u0db8\u0dca\u0db6\u0dca\u0dc0\u0dd4\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 7.4365229,
+    "center_lat": 6.92160125,
+    "center_lon": 80.65485392
+  },
+  {
+    "id": "LK-2313135",
+    "name": "Lindula",
+    "name_si": "\u0dbd\u0dd2\u0db3\u0dd4\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 4.35497607,
+    "center_lat": 6.92056966,
+    "center_lon": 80.68271996
+  },
+  {
+    "id": "LK-2313145",
+    "name": "Waltrim",
+    "name_si": "\u0dc0\u0ddd\u0dbd\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db8\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 8.49672376,
+    "center_lat": 6.91641282,
+    "center_lon": 80.70691544
+  },
+  {
+    "id": "LK-2313255",
+    "name": "Nagasena",
+    "name_si": "\u0db1\u0dcf\u0d9c\u0dc3\u0dda\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 7.31839506,
+    "center_lat": 6.90016765,
+    "center_lon": 80.68752418
+  },
+  {
+    "id": "LK-2313260",
+    "name": "Eildonhall",
+    "name_si": "\u0d91\u0dbd\u0dca\u0da9\u0db1\u0dca\u0dc4\u0ddd\u0dbd\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 6.75110373,
+    "center_lat": 6.89820528,
+    "center_lon": 80.66785892
+  },
+  {
+    "id": "LK-2313265",
+    "name": "Rahanwatta",
+    "name_si": "\u0dbb\u0dc4\u0db1\u0dca\u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 5.47004963,
+    "center_lat": 6.89607761,
+    "center_lon": 80.64887271
+  },
+  {
+    "id": "LK-2313270",
+    "name": "Balmoral",
+    "name_si": "\u0db6\u0dd0\u0dbd\u0dca\u0db8\u0ddc\u0dbb\u0dbd\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 5.96991118,
+    "center_lat": 6.87833587,
+    "center_lon": 80.67210083
+  },
+  {
+    "id": "LK-2313275",
+    "name": "Hallbrook",
+    "name_si": "\u0dc4\u0ddd\u0dbd\u0dca\u0db6\u0dd8\u0d9a\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 2.63509902,
+    "center_lat": 6.89079852,
+    "center_lon": 80.70596117
+  },
+  {
+    "id": "LK-2313280",
+    "name": "Henfold",
+    "name_si": "\u0dc4\u0dd9\u0db1\u0dca\u0dc6\u0ddd\u0dbd\u0dca\u0da9\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 5.74494907,
+    "center_lat": 6.89417917,
+    "center_lon": 80.71629712
+  },
+  {
+    "id": "LK-2313285",
+    "name": "Thangakele",
+    "name_si": "\u0dad\u0db1\u0dca\u0d9c\u0d9a\u0dd0\u0dbd\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 4.10956258,
+    "center_lat": 6.90276957,
+    "center_lon": 80.73873936
+  },
+  {
+    "id": "LK-2313315",
+    "name": "Lippakelle",
+    "name_si": "\u0dbd\u0dd2\u0db4\u0d9a\u0dd0\u0dbd\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 8.3040033,
+    "center_lat": 6.88575625,
+    "center_lon": 80.74946658
+  },
+  {
+    "id": "LK-2313320",
+    "name": "Dayagama West",
+    "name_si": "\u0da9\u0dba\u0d9c\u0db8 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 7.02505391,
+    "center_lat": 6.86552907,
+    "center_lon": 80.75279466
+  },
+  {
+    "id": "LK-2313325",
+    "name": "Sandrinham",
+    "name_si": "\u0dc3\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 17.74758053,
+    "center_lat": 6.82734349,
+    "center_lon": 80.75968887
+  },
+  {
+    "id": "LK-2313330",
+    "name": "Glasgow",
+    "name_si": "\u0d9c\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0d9c\u0ddd",
+    "name_ta": NaN,
+    "area_sqkm": 6.95270555,
+    "center_lat": 6.86423516,
+    "center_lon": 80.71917449
+  },
+  {
+    "id": "LK-2313335",
+    "name": "Braemore",
+    "name_si": "\u0db6\u0dda\u0db8\u0ddd\u0dbb\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 4.07304112,
+    "center_lat": 6.87480555,
+    "center_lon": 80.70721883
+  },
+  {
+    "id": "LK-2313340",
+    "name": "Albion",
+    "name_si": "\u0d87\u0dbd\u0dca\u0db6\u0dd2\u0d94\u0db1\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 7.56303304,
+    "center_lat": 6.86193608,
+    "center_lon": 80.66472722
+  },
+  {
+    "id": "LK-2313345",
+    "name": "Elbedda",
+    "name_si": "\u0d87\u0dbd\u0db6\u0dd0\u0daf\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 10.93660731,
+    "center_lat": 6.85092,
+    "center_lon": 80.68431926
+  },
+  {
+    "id": "LK-2313350",
+    "name": "Agarapathana",
+    "name_si": "\u0d86\u0d9c\u0dbb\u0db4\u0dad\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 35.8968329,
+    "center_lat": 6.82395972,
+    "center_lon": 80.71193069
+  },
+  {
+    "id": "LK-2313355",
+    "name": "Weverly",
+    "name_si": "\u0dc0\u0dd0\u0dc0\u0dbb\u0dca\u0dbd\u0dd2",
+    "name_ta": NaN,
+    "area_sqkm": 4.4176314,
+    "center_lat": 6.86258561,
+    "center_lon": 80.73847213
+  },
+  {
+    "id": "LK-2313360",
+    "name": "Dayagama East",
+    "name_si": "\u0da9\u0dba\u0d9c\u0db8 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 19.67500183,
+    "center_lat": 6.84264378,
+    "center_lon": 80.78412945
+  },
+  {
     "id": "LK-2315005",
     "name": "Kalugala",
     "name_si": "\u0d9a\u0dc5\u0dd4\u0d9c\u0dbd",
@@ -40383,1780 +42156,7 @@
     "center_lon": 80.53502881
   },
   {
-    "id": "LK-2318110",
-    "name": "Happawara",
-    "name_si": "\u0dc4\u0db4\u0dca\u0db4\u0dcf\u0dc0\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.71647415,
-    "center_lat": 7.16481195,
-    "center_lon": 80.83510809
-  },
-  {
-    "id": "LK-2318210",
-    "name": "Illagolla",
-    "name_si": "\u0d89\u0dbd\u0dca\u0dbd\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 3.06080941,
-    "center_lat": 7.15389674,
-    "center_lon": 80.83159432
-  },
-  {
-    "id": "LK-2318215",
-    "name": "Rammalakandura",
-    "name_si": "\u0dbb\u0db8\u0dca\u0db8\u0dbd\u0d9a\u0db3\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.29257802,
-    "center_lat": 7.14206727,
-    "center_lon": 80.82827572
-  },
-  {
-    "id": "LK-2318220",
-    "name": "Moragolla",
-    "name_si": "\u0db8\u0ddc\u0dbb\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.75197549,
-    "center_lat": 7.14887272,
-    "center_lon": 80.81826085
-  },
-  {
-    "id": "LK-2318305",
-    "name": "Udawela Pathana",
-    "name_si": "\u0d8b\u0da9\u0dc0\u0dd9\u0dbd\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.34181833,
-    "center_lat": 7.14027737,
-    "center_lon": 80.78093804
-  },
-  {
-    "id": "LK-2318310",
-    "name": "Welampagoda",
-    "name_si": "\u0dc0\u0dda\u0dbd\u0db8\u0dca\u0db4\u0dcf\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.43610471,
-    "center_lat": 7.1340445,
-    "center_lon": 80.78493158
-  },
-  {
-    "id": "LK-2318315",
-    "name": "Denike",
-    "name_si": "\u0daf\u0dd9\u0db1\u0dd2\u0d9a\u0dd9",
-    "name_ta": NaN,
-    "area_sqkm": 0.44556718,
-    "center_lat": 7.13960658,
-    "center_lon": 80.78531319
-  },
-  {
-    "id": "LK-2318325",
-    "name": "Alawattegama",
-    "name_si": "\u0d85\u0dbd\u0dc0\u0dad\u0dca\u0dad\u0dda\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 0.64931648,
-    "center_lat": 7.1352559,
-    "center_lon": 80.79077145
-  },
-  {
-    "id": "LK-2318330",
-    "name": "Uda Makuruppa",
-    "name_si": "\u0d8b\u0da9\u0db8\u0d9a\u0dd4\u0dbb\u0dd4\u0db4\u0dca\u0db4",
-    "name_ta": NaN,
-    "area_sqkm": 0.54065716,
-    "center_lat": 7.14304634,
-    "center_lon": 80.79038061
-  },
-  {
-    "id": "LK-2318335",
-    "name": "Palle Makuruppa",
-    "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0db8\u0d9a\u0dd4\u0dbb\u0dd4\u0db4\u0dca\u0db4",
-    "name_ta": NaN,
-    "area_sqkm": 0.47826272,
-    "center_lat": 7.13544604,
-    "center_lon": 80.79716626
-  },
-  {
-    "id": "LK-2318340",
-    "name": "Bogamuwa",
-    "name_si": "\u0db6\u0ddd\u0d9c\u0db8\u0dd4\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.7736563,
-    "center_lat": 7.14077185,
-    "center_lon": 80.79910318
-  },
-  {
-    "id": "LK-2318350",
-    "name": "Bodhiwela",
-    "name_si": "\u0db6\u0ddd\u0db0\u0dd2\u0dba\u0dcf\u0dc0\u0dd9\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 3.00870537,
-    "center_lat": 7.13378234,
-    "center_lon": 80.81899329
-  },
-  {
-    "id": "LK-2318355",
-    "name": "Pallewela",
-    "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd9\u0dc0\u0dd9\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.67150113,
-    "center_lat": 7.12975195,
-    "center_lon": 80.80405847
-  },
-  {
-    "id": "LK-2318360",
-    "name": "Kaluattanagolla",
-    "name_si": "\u0d9a\u0dc5\u0dd4\u0d85\u0dad\u0dca\u0dad\u0db1\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.66113254,
-    "center_lat": 7.12465964,
-    "center_lon": 80.79613716
-  },
-  {
-    "id": "LK-2318365",
-    "name": "Wadawala",
-    "name_si": "\u0dc0\u0daf\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.81799835,
-    "center_lat": 7.12778129,
-    "center_lon": 80.79942432
-  },
-  {
-    "id": "LK-2318370",
-    "name": "Udalumada",
-    "name_si": "\u0d8b\u0daf\u0dc5\u0dd4\u0db8\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.5398203,
-    "center_lat": 7.13143231,
-    "center_lon": 80.7801065
-  },
-  {
-    "id": "LK-2318470",
-    "name": "Ehelamalpe",
-    "name_si": "\u0d87\u0dc4\u0dd0\u0dbd\u0db8\u0dbd\u0dca\u0db4\u0dd9",
-    "name_ta": NaN,
-    "area_sqkm": 0.87089419,
-    "center_lat": 7.12503996,
-    "center_lon": 80.78219505
-  },
-  {
-    "id": "LK-2318475",
-    "name": "Rathukurusa Janapadaya",
-    "name_si": "\u0dbb\u0dad\u0dd4\u0d9a\u0dd4\u0dbb\u0dd4\u0dc3 \u0da2\u0db1\u0db4\u0daf\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 0.91840082,
-    "center_lat": 7.11609886,
-    "center_lon": 80.78020189
-  },
-  {
-    "id": "LK-2318480",
-    "name": "Wilwala",
-    "name_si": "\u0dc0\u0dd2\u0dbd\u0dca\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.39130974,
-    "center_lat": 7.12562644,
-    "center_lon": 80.78802655
-  },
-  {
-    "id": "LK-2318485",
-    "name": "Dehipe",
-    "name_si": "\u0daf\u0dd9\u0dc4\u0dd2\u0db4\u0dd9",
-    "name_ta": NaN,
-    "area_sqkm": 0.68774467,
-    "center_lat": 7.11997859,
-    "center_lon": 80.79314618
-  },
-  {
-    "id": "LK-2318490",
-    "name": "Deniyagama",
-    "name_si": "\u0daf\u0dd9\u0dab\u0dd2\u0dba\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 1.80713448,
-    "center_lat": 7.10834331,
-    "center_lon": 80.78315307
-  },
-  {
-    "id": "LK-2318495",
-    "name": "Bodhimalkada",
-    "name_si": "\u0db6\u0ddd\u0db0\u0dd2\u0db8\u0dbd\u0dca\u0d9a\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 1.25911814,
-    "center_lat": 7.11056002,
-    "center_lon": 80.79432864
-  },
-  {
-    "id": "LK-2318500",
-    "name": "Welapahala",
-    "name_si": "\u0dc0\u0dd9\u0dbd\u0db4\u0dc4\u0dc5",
-    "name_ta": NaN,
-    "area_sqkm": 1.57286327,
-    "center_lat": 7.11306527,
-    "center_lon": 80.80106263
-  },
-  {
-    "id": "LK-2318505",
-    "name": "Uda Padiyapelella",
-    "name_si": "\u0d8b\u0da9\u0db4\u0daf\u0dd2\u0dba\u0db4\u0dd0\u0dbd\u0dd0\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.89834504,
-    "center_lat": 7.09672685,
-    "center_lon": 80.79768063
-  },
-  {
-    "id": "LK-2318510",
-    "name": "Okandagala",
-    "name_si": "\u0d94\u0d9a\u0db3\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.86506662,
-    "center_lat": 7.09363601,
-    "center_lon": 80.79001667
-  },
-  {
-    "id": "LK-2318525",
-    "name": "Rathyaya",
-    "name_si": "\u0dbb\u0dad\u0dca\u0dba\u0dcf\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 0.41613315,
-    "center_lat": 7.08318242,
-    "center_lon": 80.77955133
-  },
-  {
-    "id": "LK-2318530",
-    "name": "Godigamuwa",
-    "name_si": "\u0d9c\u0ddc\u0da9\u0dd2\u0d9c\u0db8\u0dd4\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 5.30875759,
-    "center_lat": 7.07496531,
-    "center_lon": 80.7619513
-  },
-  {
-    "id": "LK-2318535",
-    "name": "Manakola",
-    "name_si": "\u0db8\u0dcf\u0db1\u0d9a\u0ddc\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.39564791,
-    "center_lat": 7.07208917,
-    "center_lon": 80.78382154
-  },
-  {
-    "id": "LK-2318540",
-    "name": "Marthuwela",
-    "name_si": "\u0db8\u0dbb\u0dcf\u0da7\u0dd4\u0dc0\u0dd9\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.79205701,
-    "center_lat": 7.08341202,
-    "center_lon": 80.78707531
-  },
-  {
-    "id": "LK-2318545",
-    "name": "Idampitiya",
-    "name_si": "\u0d89\u0da9\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 0.23381654,
-    "center_lat": 7.08306676,
-    "center_lon": 80.79330739
-  },
-  {
-    "id": "LK-2318550",
-    "name": "Mathurata",
-    "name_si": "\u0db8\u0dad\u0dd4\u0dbb\u0da7",
-    "name_ta": NaN,
-    "area_sqkm": 0.42383048,
-    "center_lat": 7.07796303,
-    "center_lon": 80.80081967
-  },
-  {
-    "id": "LK-2318555",
-    "name": "Udagama",
-    "name_si": "\u0d8b\u0da9\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 0.24226709,
-    "center_lat": 7.06813895,
-    "center_lon": 80.80500095
-  },
-  {
-    "id": "LK-2318560",
-    "name": "Merrygoll",
-    "name_si": "\u0db8\u0dd0\u0dbb\u0dd2\u0d9c\u0ddd\u0dbd\u0dca\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 0.16113494,
-    "center_lat": 7.06694362,
-    "center_lon": 80.81263095
-  },
-  {
-    "id": "LK-2318565",
-    "name": "Ketayapathana",
-    "name_si": "\u0d9a\u0dd0\u0da7\u0dba\u0dcf\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.28439917,
-    "center_lat": 7.07243705,
-    "center_lon": 80.8052746
-  },
-  {
-    "id": "LK-2318570",
-    "name": "Gonakele",
-    "name_si": "\u0d9c\u0ddd\u0db1\u0d9a\u0dd0\u0dbd\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 0.92874866,
-    "center_lat": 7.06439375,
-    "center_lon": 80.80605621
-  },
-  {
-    "id": "LK-2318575",
-    "name": "Gonapitiya",
-    "name_si": "\u0d9c\u0ddd\u0db1\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 2.63411567,
-    "center_lat": 7.0537256,
-    "center_lon": 80.80343681
-  },
-  {
-    "id": "LK-2318580",
-    "name": "Bomellagoda",
-    "name_si": "\u0db6\u0ddd\u0db8\u0dd0\u0dbd\u0dca\u0dbd\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 2.12884801,
-    "center_lat": 7.06045179,
-    "center_lon": 80.81761489
-  },
-  {
-    "id": "LK-2318585",
-    "name": "Dunukebedda",
-    "name_si": "\u0daf\u0dd4\u0db1\u0dd4\u0d9a\u0dd9\u0db6\u0dd0\u0daf\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 0.87815499,
-    "center_lat": 7.06850782,
-    "center_lon": 80.79976409
-  },
-  {
-    "id": "LK-2318590",
-    "name": "Wellagiriya",
-    "name_si": "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0d9c\u0dd2\u0dbb\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 9.21055601,
-    "center_lat": 7.04051675,
-    "center_lon": 80.80617704
-  },
-  {
-    "id": "LK-2318595",
-    "name": "Ampitigoda",
-    "name_si": "\u0d85\u0db8\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.88217323,
-    "center_lat": 7.07239166,
-    "center_lon": 80.79440583
-  },
-  {
-    "id": "LK-2318600",
-    "name": "Wewathenna",
-    "name_si": "\u0dc0\u0dd0\u0dc0\u0dad\u0dd0\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.71164682,
-    "center_lat": 7.06145531,
-    "center_lon": 80.78868576
-  },
-  {
-    "id": "LK-2318605",
-    "name": "Metibembiya",
-    "name_si": "\u0db8\u0dd0\u0da7\u0dd2\u0db6\u0dd0\u0db9\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.93728592,
-    "center_lat": 7.06942206,
-    "center_lon": 80.78600542
-  },
-  {
-    "id": "LK-2318610",
-    "name": "Goodwood",
-    "name_si": "\u0d9c\u0dd4\u0da9\u0dca\u0dc0\u0dd4\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 0.96300947,
-    "center_lat": 7.05321119,
-    "center_lon": 80.78707275
-  },
-  {
-    "id": "LK-2318615",
-    "name": "Hunukotuwa",
-    "name_si": "\u0dc4\u0dd4\u0dab\u0dd4\u0d9a\u0ddc\u0da7\u0dd4\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.78883459,
-    "center_lat": 7.04113064,
-    "center_lon": 80.78535743
-  },
-  {
-    "id": "LK-2318620",
-    "name": "Medawela",
-    "name_si": "\u0db8\u0dd0\u0daf\u0dc0\u0dd9\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.96923321,
-    "center_lat": 7.04874808,
-    "center_lon": 80.78021141
-  },
-  {
-    "id": "LK-2318625",
-    "name": "Labuhenwala",
-    "name_si": "\u0dbd\u0db6\u0dd4\u0dc4\u0dda\u0db1\u0dca\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.23498792,
-    "center_lat": 7.06055163,
-    "center_lon": 80.78103943
-  },
-  {
-    "id": "LK-2318630",
-    "name": "Ketahira",
-    "name_si": "\u0d9a\u0dd0\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.14620143,
-    "center_lat": 7.06440135,
-    "center_lon": 80.77164646
-  },
-  {
-    "id": "LK-2318635",
-    "name": "Deegalahinna",
-    "name_si": "\u0daf\u0dd3\u0d9c\u0dbd\u0dc4\u0dd2\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 9.28042392,
-    "center_lat": 7.04942694,
-    "center_lon": 80.75214096
-  },
-  {
-    "id": "LK-2318640",
-    "name": "Elamulla",
-    "name_si": "\u0d91\u0dc5\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 9.25590416,
-    "center_lat": 7.03370299,
-    "center_lon": 80.75993393
-  },
-  {
-    "id": "LK-2318645",
-    "name": "Udawela",
-    "name_si": "\u0d8b\u0da9\u0dc0\u0dd9\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 3.90246158,
-    "center_lat": 7.02766437,
-    "center_lon": 80.7743953
-  },
-  {
-    "id": "LK-2318650",
-    "name": "Mandaram Nuwara",
-    "name_si": "\u0db8\u0db1\u0dca\u0daf\u0dcf\u0dbb\u0db8\u0dca \u0db1\u0dd4\u0dc0\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 5.63992725,
-    "center_lat": 7.01911837,
-    "center_lon": 80.78100175
-  },
-  {
-    "id": "LK-2318655",
-    "name": "Malsara Nuwara",
-    "name_si": "\u0db8\u0dbd\u0dca\u0dc3\u0dbb\u0dcf\u0db1\u0dd4\u0dc0\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.63201856,
-    "center_lat": 7.03151042,
-    "center_lon": 80.79405115
-  },
-  {
-    "id": "LK-2321005",
-    "name": "Doruwadeniya",
-    "name_si": "\u0daf\u0ddc\u0dbb\u0dc0\u0daf\u0dd9\u0dab\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 0.65740129,
-    "center_lat": 7.07496799,
-    "center_lon": 80.54809315
-  },
-  {
-    "id": "LK-2321010",
-    "name": "Polwathura",
-    "name_si": "\u0db4\u0ddc\u0dbd\u0dca\u0dc0\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.73775749,
-    "center_lat": 7.07604161,
-    "center_lon": 80.55673554
-  },
-  {
-    "id": "LK-2321015",
-    "name": "Pahala Gorakaoya",
-    "name_si": "\u0db4\u0dc4\u0dc5 \u0d9c\u0ddc\u0dbb\u0d9a\u0d94\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.22338376,
-    "center_lat": 7.07335091,
-    "center_lon": 80.56323267
-  },
-  {
-    "id": "LK-2321020",
-    "name": "Dambagalla",
-    "name_si": "\u0daf\u0db9\u0d9c\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.52850078,
-    "center_lat": 7.07465229,
-    "center_lon": 80.57213353
-  },
-  {
-    "id": "LK-2321025",
-    "name": "Nayapana",
-    "name_si": "\u0db1\u0dba\u0dcf\u0db4\u0dcf\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 1.65684711,
-    "center_lat": 7.07212122,
-    "center_lon": 80.59418517
-  },
-  {
-    "id": "LK-2321030",
-    "name": "Kadadora",
-    "name_si": "\u0d9a\u0da9\u0daf\u0ddc\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 3.78556948,
-    "center_lat": 7.06940488,
-    "center_lon": 80.6061006
-  },
-  {
-    "id": "LK-2321035",
-    "name": "Kotagepitiya North",
-    "name_si": "\u0d9a\u0ddc\u0da7\u0d9c\u0dda\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.77961552,
-    "center_lat": 7.0788543,
-    "center_lon": 80.62121537
-  },
-  {
-    "id": "LK-2321115",
-    "name": "Kotagepitiya South",
-    "name_si": "\u0d9a\u0ddc\u0da7\u0d9c\u0dda\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 1.55134446,
-    "center_lat": 7.07086382,
-    "center_lon": 80.62012546
-  },
-  {
-    "id": "LK-2321120",
-    "name": "Ranwanthalawa",
-    "name_si": "\u0dbb\u0db1\u0dca\u0dc0\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.60071889,
-    "center_lat": 7.06419038,
-    "center_lon": 80.62200061
-  },
-  {
-    "id": "LK-2321125",
-    "name": "Thispane Kanda",
-    "name_si": "\u0dad\u0dd2\u0dc3\u0dca\u0db4\u0db1\u0dda \u0d9a\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 3.79792829,
-    "center_lat": 7.05171509,
-    "center_lon": 80.61009966
-  },
-  {
-    "id": "LK-2321130",
-    "name": "Harangala",
-    "name_si": "\u0dc4\u0dbb\u0db1\u0dca\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.28454101,
-    "center_lat": 7.05653749,
-    "center_lon": 80.58916516
-  },
-  {
-    "id": "LK-2321135",
-    "name": "Hapugasthalawa",
-    "name_si": "\u0dc4\u0db4\u0dd4\u0d9c\u0dc3\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.62657041,
-    "center_lat": 7.06397727,
-    "center_lon": 80.57250186
-  },
-  {
-    "id": "LK-2321140",
-    "name": "Kaludemada",
-    "name_si": "\u0d9a\u0dc5\u0dd4\u0daf\u0dd9\u0db8\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 1.20103159,
-    "center_lat": 7.06138098,
-    "center_lon": 80.57953688
-  },
-  {
-    "id": "LK-2321145",
-    "name": "Ihala Gorakaoya",
-    "name_si": "\u0d89\u0dc4\u0dc5 \u0d9c\u0ddc\u0dbb\u0d9a\u0d94\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.17232827,
-    "center_lat": 7.06385241,
-    "center_lon": 80.55703422
-  },
-  {
-    "id": "LK-2321150",
-    "name": "Mallanda",
-    "name_si": "\u0db8\u0dbd\u0dca\u0dbd\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 1.4299819,
-    "center_lat": 7.06615956,
-    "center_lon": 80.54560069
-  },
-  {
-    "id": "LK-2321155",
-    "name": "Ruwanpura",
-    "name_si": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 4.01488643,
-    "center_lat": 7.04744104,
-    "center_lon": 80.56474663
-  },
-  {
-    "id": "LK-2321160",
-    "name": "Werella Pathana",
-    "name_si": "\u0dc0\u0dd0\u0dbb\u0dd0\u0dbd\u0dca\u0dbd \u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 1.2039897,
-    "center_lat": 7.03276357,
-    "center_lon": 80.57476866
-  },
-  {
-    "id": "LK-2321165",
-    "name": "Halgolla",
-    "name_si": "\u0dc4\u0dbd\u0dca\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.29558433,
-    "center_lat": 7.04639556,
-    "center_lon": 80.57753768
-  },
-  {
-    "id": "LK-2321170",
-    "name": "Harangala South",
-    "name_si": "\u0dc4\u0dbb\u0db1\u0dca\u0d9c\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 2.31089889,
-    "center_lat": 7.04580813,
-    "center_lon": 80.58875888
-  },
-  {
-    "id": "LK-2321175",
-    "name": "Kirimetiyawa",
-    "name_si": "\u0d9a\u0dd2\u0dbb\u0dd2\u0db8\u0dd0\u0da7\u0dd2\u0dba\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.6053601,
-    "center_lat": 7.04918038,
-    "center_lon": 80.59612794
-  },
-  {
-    "id": "LK-2321180",
-    "name": "Hunugaloya",
-    "name_si": "\u0d8b\u0dab\u0dd4\u0d9c\u0dbd\u0dca\u0d94\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 2.04314638,
-    "center_lat": 7.03420058,
-    "center_lon": 80.60163118
-  },
-  {
-    "id": "LK-2321185",
-    "name": "Godamaditta",
-    "name_si": "\u0d9c\u0ddc\u0da9\u0db8\u0da9\u0dd2\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 1.96484269,
-    "center_lat": 7.03447801,
-    "center_lon": 80.62074917
-  },
-  {
-    "id": "LK-2321190",
-    "name": "Wataddara",
-    "name_si": "\u0dc0\u0da7\u0daf\u0dca\u0daf\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 3.26545166,
-    "center_lat": 7.0525403,
-    "center_lon": 80.62923253
-  },
-  {
-    "id": "LK-2321200",
-    "name": "Nawangama",
-    "name_si": "\u0db1\u0dc0\u0db1\u0dca\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 1.28060149,
-    "center_lat": 7.05554636,
-    "center_lon": 80.64470721
-  },
-  {
-    "id": "LK-2321210",
-    "name": "Wethalawa",
-    "name_si": "\u0dc0\u0dd1\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.49192103,
-    "center_lat": 7.06262155,
-    "center_lon": 80.65774904
-  },
-  {
-    "id": "LK-2321260",
-    "name": "Hedunuwewa",
-    "name_si": "\u0dc4\u0dd0\u0daf\u0dd4\u0db1\u0dd4\u0dc0\u0dd0\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.0682839,
-    "center_lat": 7.05670683,
-    "center_lon": 80.65522119
-  },
-  {
-    "id": "LK-2321265",
-    "name": "Kalapitiya East",
-    "name_si": "\u0d9a\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.7125768,
-    "center_lat": 7.04411135,
-    "center_lon": 80.65054656
-  },
-  {
-    "id": "LK-2321270",
-    "name": "Kottunugoda",
-    "name_si": "\u0d9a\u0ddc\u0dad\u0dca\u0dad\u0dd4\u0db1\u0dd4\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.49524029,
-    "center_lat": 7.05040412,
-    "center_lon": 80.64562815
-  },
-  {
-    "id": "LK-2321275",
-    "name": "Kalapitiya West",
-    "name_si": "\u0d9a\u0dbd\u0db4\u0dd2\u0da7\u0dd2\u0dba \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.50119997,
-    "center_lat": 7.04418072,
-    "center_lon": 80.64327304
-  },
-  {
-    "id": "LK-2321280",
-    "name": "Weerasekarapura",
-    "name_si": "\u0dc0\u0dd3\u0dbb\u0dc3\u0dda\u0d9a\u0dbb\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.60080094,
-    "center_lat": 7.0416589,
-    "center_lon": 80.63735838
-  },
-  {
-    "id": "LK-2321285",
-    "name": "Rojersangama South",
-    "name_si": "\u0dbb\u0ddc\u0da2\u0dc3\u0db1\u0dca\u0d9c\u0db8 \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 1.41207753,
-    "center_lat": 7.03734632,
-    "center_lon": 80.63459076
-  },
-  {
-    "id": "LK-2321290",
-    "name": "Rojersangama North",
-    "name_si": "\u0dbb\u0ddc\u0da2\u0dc3\u0db1\u0dca\u0d9c\u0db8 \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.55811506,
-    "center_lat": 7.03770803,
-    "center_lon": 80.62863511
-  },
-  {
-    "id": "LK-2321295",
-    "name": "Dombagasthalawa",
-    "name_si": "\u0daf\u0ddc\u0db9\u0d9c\u0dc3\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 2.01803178,
-    "center_lat": 7.0241797,
-    "center_lon": 80.62356568
-  },
-  {
-    "id": "LK-2321300",
-    "name": "Katugolla",
-    "name_si": "\u0d9a\u0da7\u0dd4\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.27933032,
-    "center_lat": 7.03412727,
-    "center_lon": 80.61360207
-  },
-  {
-    "id": "LK-2321305",
-    "name": "Thelissagala",
-    "name_si": "\u0dad\u0dd9\u0dbd\u0dd2\u0dc3\u0dca\u0dc3\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.86413901,
-    "center_lat": 7.0263324,
-    "center_lon": 80.59570629
-  },
-  {
-    "id": "LK-2321310",
-    "name": "Ketabulawa",
-    "name_si": "\u0d9a\u0dd0\u0da7\u0db6\u0dd4\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 6.04833885,
-    "center_lat": 7.01682907,
-    "center_lon": 80.59992502
-  },
-  {
-    "id": "LK-2321315",
-    "name": "Wijayabahu Kanda",
-    "name_si": "\u0dc0\u0dd2\u0da2\u0dba\u0db6\u0dcf\u0dc4\u0dd4\u0d9a\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 1.16417458,
-    "center_lat": 7.00816669,
-    "center_lon": 80.61767138
-  },
-  {
-    "id": "LK-2321320",
-    "name": "Rawanagoda West",
-    "name_si": "\u0dbb\u0dcf\u0dc0\u0dab\u0dcf\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.02253306,
-    "center_lat": 7.01635357,
-    "center_lon": 80.62417107
-  },
-  {
-    "id": "LK-2321325",
-    "name": "Udagama",
-    "name_si": "\u0d8b\u0da9\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 0.83310228,
-    "center_lat": 7.00825475,
-    "center_lon": 80.62883656
-  },
-  {
-    "id": "LK-2321330",
-    "name": "Rawanagoda East",
-    "name_si": "\u0dbb\u0dcf\u0dc0\u0dab\u0dcf\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.65675558,
-    "center_lat": 7.01300407,
-    "center_lon": 80.63330025
-  },
-  {
-    "id": "LK-2321335",
-    "name": "Methagama",
-    "name_si": "\u0db8\u0dd1\u0dad\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 1.39870341,
-    "center_lat": 7.02273202,
-    "center_lon": 80.63362962
-  },
-  {
-    "id": "LK-2321340",
-    "name": "Maldeniya",
-    "name_si": "\u0db8\u0dbd\u0dca\u0daf\u0dd9\u0dab\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.08668734,
-    "center_lat": 7.02701069,
-    "center_lon": 80.64505286
-  },
-  {
-    "id": "LK-2321345",
-    "name": "Katarandana",
-    "name_si": "\u0d9a\u0da7\u0dcf\u0dbb\u0db1\u0dca\u0daf\u0dd9\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.96988158,
-    "center_lat": 7.03448216,
-    "center_lon": 80.64564337
-  },
-  {
-    "id": "LK-2321445",
-    "name": "Beramana",
-    "name_si": "\u0db6\u0dd9\u0dbb\u0db8\u0dcf\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 1.30825854,
-    "center_lat": 6.99617868,
-    "center_lon": 80.62979728
-  },
-  {
-    "id": "LK-2321450",
-    "name": "Beramana North",
-    "name_si": "\u0db6\u0dd9\u0dbb\u0db8\u0dcf\u0db1 \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.86075132,
-    "center_lat": 6.99938664,
-    "center_lon": 80.61859892
-  },
-  {
-    "id": "LK-2321455",
-    "name": "Kolapathana",
-    "name_si": "\u0d9a\u0ddc\u0dc5\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 4.71196643,
-    "center_lat": 6.99795584,
-    "center_lon": 80.60681301
-  },
-  {
-    "id": "LK-2321460",
-    "name": "Queensberry",
-    "name_si": "\u0d9a\u0dd4\u0dc0\u0dd3\u0db1\u0dca\u0dc3\u0dca\u0db6\u0dd9\u0dbb\u0dd2",
-    "name_ta": NaN,
-    "area_sqkm": 2.04475831,
-    "center_lat": 6.98123816,
-    "center_lon": 80.59693212
-  },
-  {
-    "id": "LK-2321465",
-    "name": "Beramana South",
-    "name_si": "\u0db6\u0dd9\u0dbb\u0db8\u0dcf\u0db1 \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 1.58751074,
-    "center_lat": 6.97901886,
-    "center_lon": 80.62375078
-  },
-  {
-    "id": "LK-2321470",
-    "name": "Weerapura",
-    "name_si": "\u0dc0\u0dd3\u0dbb\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.07875611,
-    "center_lat": 6.98800725,
-    "center_lon": 80.62589099
-  },
-  {
-    "id": "LK-2324005",
-    "name": "Serasunthenna",
-    "name_si": "\u0dc3\u0dd0\u0dbb\u0dc3\u0dd4\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 25.64011922,
-    "center_lat": 7.16572996,
-    "center_lon": 80.86707062
-  },
-  {
-    "id": "LK-2324065",
-    "name": "Ketakandura",
-    "name_si": "\u0d9a\u0dd0\u0da7\u0d9a\u0db3\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.51133827,
-    "center_lat": 7.10621936,
-    "center_lon": 80.87636406
-  },
-  {
-    "id": "LK-2324070",
-    "name": "Batagolla",
-    "name_si": "\u0db6\u0da7\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.3122848,
-    "center_lat": 7.11561609,
-    "center_lon": 80.87228333
-  },
-  {
-    "id": "LK-2324075",
-    "name": "Thennehenwala",
-    "name_si": "\u0dad\u0dd0\u0db1\u0dca\u0db1\u0dc4\u0dda\u0db1\u0dca\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.38621827,
-    "center_lat": 7.1090101,
-    "center_lon": 80.86350663
-  },
-  {
-    "id": "LK-2324080",
-    "name": "Deliwela South",
-    "name_si": "\u0daf\u0dd0\u0dbd\u0dd2\u0dc0\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 3.55228575,
-    "center_lat": 7.13073917,
-    "center_lon": 80.86793636
-  },
-  {
-    "id": "LK-2324085",
-    "name": "Deliwala North",
-    "name_si": "\u0daf\u0dd0\u0dbd\u0dd2\u0dc0\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.25760495,
-    "center_lat": 7.12639013,
-    "center_lon": 80.85721194
-  },
-  {
-    "id": "LK-2324090",
-    "name": "Pannala",
-    "name_si": "\u0db4\u0db1\u0dca\u0db1\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.31677,
-    "center_lat": 7.15426415,
-    "center_lon": 80.84721232
-  },
-  {
-    "id": "LK-2324095",
-    "name": "Serupitiya",
-    "name_si": "\u0dc3\u0dda\u0dbb\u0dd4\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.64882377,
-    "center_lat": 7.15086298,
-    "center_lon": 80.84443157
-  },
-  {
-    "id": "LK-2324100",
-    "name": "Mailagasthenna",
-    "name_si": "\u0db8\u0dba\u0dd2\u0dbd\u0d9c\u0dc3\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 1.89050292,
-    "center_lat": 7.1387938,
-    "center_lon": 80.84219672
-  },
-  {
-    "id": "LK-2324105",
-    "name": "Andawala",
-    "name_si": "\u0d86\u0db3\u0dcf\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.89482861,
-    "center_lat": 7.129983,
-    "center_lon": 80.83332677
-  },
-  {
-    "id": "LK-2324110",
-    "name": "Naranthalawa",
-    "name_si": "\u0db1\u0dcf\u0dbb\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.89465695,
-    "center_lat": 7.1220153,
-    "center_lon": 80.83647136
-  },
-  {
-    "id": "LK-2324115",
-    "name": "Ihala Pannala",
-    "name_si": "\u0d89\u0dc4\u0dc5 \u0db4\u0db1\u0dca\u0db1\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.43334431,
-    "center_lat": 7.13735805,
-    "center_lon": 80.85350788
-  },
-  {
-    "id": "LK-2324120",
-    "name": "Wewakele",
-    "name_si": "\u0dc0\u0dd0\u0dc0\u0d9a\u0dd0\u0dc5\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 2.27643266,
-    "center_lat": 7.12813707,
-    "center_lon": 80.8474937
-  },
-  {
-    "id": "LK-2324125",
-    "name": "Kumbalgamuwa",
-    "name_si": "\u0d9a\u0dd4\u0db9\u0dbd\u0dca\u0d9c\u0db8\u0dd4\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 2.28375495,
-    "center_lat": 7.11151002,
-    "center_lon": 80.84992492
-  },
-  {
-    "id": "LK-2324130",
-    "name": "Kumbalgamuwa East",
-    "name_si": "\u0d9a\u0dd4\u0db9\u0dbd\u0dca\u0d9c\u0db8\u0dd4\u0dc0 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2",
-    "name_ta": NaN,
-    "area_sqkm": 0.70004824,
-    "center_lat": 7.11120605,
-    "center_lon": 80.85691856
-  },
-  {
-    "id": "LK-2324135",
-    "name": "Mulhalkele",
-    "name_si": "\u0db8\u0dd4\u0dbd\u0dca\u0dc4\u0dcf\u0dbd\u0dca\u0d9a\u0dd0\u0dbd\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 2.22350825,
-    "center_lat": 7.10194882,
-    "center_lon": 80.85403543
-  },
-  {
-    "id": "LK-2324140",
-    "name": "Manelwala",
-    "name_si": "\u0db8\u0dcf\u0db1\u0dd9\u0dbd\u0dca\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.78071261,
-    "center_lat": 7.10629002,
-    "center_lon": 80.86787159
-  },
-  {
-    "id": "LK-2324145",
-    "name": "Wathumulla",
-    "name_si": "\u0dc0\u0dad\u0dd4\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.63417269,
-    "center_lat": 7.09823282,
-    "center_lon": 80.86470282
-  },
-  {
-    "id": "LK-2324150",
-    "name": "Kendagolla",
-    "name_si": "\u0d9a\u0dd0\u0db1\u0dca\u0daf\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.30733155,
-    "center_lat": 7.09726154,
-    "center_lon": 80.87452119
-  },
-  {
-    "id": "LK-2324255",
-    "name": "Egodakanda",
-    "name_si": "\u0d91\u0d9c\u0ddc\u0da9\u0d9a\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 0.61600193,
-    "center_lat": 7.08525378,
-    "center_lon": 80.86978769
-  },
-  {
-    "id": "LK-2324260",
-    "name": "Kandegama",
-    "name_si": "\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 2.11950488,
-    "center_lat": 7.08729504,
-    "center_lon": 80.85406313
-  },
-  {
-    "id": "LK-2324265",
-    "name": "Walapane",
-    "name_si": "\u0dc0\u0dbd\u0db4\u0db1\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 0.28892089,
-    "center_lat": 7.09481476,
-    "center_lon": 80.85823257
-  },
-  {
-    "id": "LK-2324270",
-    "name": "Kurunduoya",
-    "name_si": "\u0d9a\u0dd4\u0dbb\u0dd4\u0db3\u0dd4 \u0d94\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 4.19724078,
-    "center_lat": 7.08188092,
-    "center_lon": 80.83003276
-  },
-  {
-    "id": "LK-2324275",
-    "name": "Liyanwela Ihalagama",
-    "name_si": "\u0dbd\u0dd2\u0dba\u0db1\u0dca\u0dc0\u0dbd \u0d89\u0dc4\u0dc5",
-    "name_ta": NaN,
-    "area_sqkm": 1.55391744,
-    "center_lat": 7.10663707,
-    "center_lon": 80.83573889
-  },
-  {
-    "id": "LK-2324280",
-    "name": "Madumana",
-    "name_si": "\u0db8\u0da9\u0dd4\u0db8\u0dcf\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 1.26888488,
-    "center_lat": 7.11623422,
-    "center_lon": 80.83065949
-  },
-  {
-    "id": "LK-2324285",
-    "name": "Ilukpelessa",
-    "name_si": "\u0d89\u0dbd\u0dd4\u0d9a\u0dca \u0db4\u0dd0\u0dbd\u0dd0\u0dc3\u0dca\u0dc3",
-    "name_ta": NaN,
-    "area_sqkm": 0.76176609,
-    "center_lat": 7.12564021,
-    "center_lon": 80.8194972
-  },
-  {
-    "id": "LK-2324290",
-    "name": "Unagolla",
-    "name_si": "\u0d8b\u0dab\u0d9c\u0ddc\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.12491413,
-    "center_lat": 7.11515333,
-    "center_lon": 80.81777042
-  },
-  {
-    "id": "LK-2324295",
-    "name": "Liyanwala Pahalagama",
-    "name_si": "\u0dbd\u0dd2\u0dba\u0db1\u0dca\u0dc0\u0dbd \u0db4\u0dc4\u0dc5",
-    "name_ta": NaN,
-    "area_sqkm": 0.97418178,
-    "center_lat": 7.11461064,
-    "center_lon": 80.82422144
-  },
-  {
-    "id": "LK-2324300",
-    "name": "Medakandura",
-    "name_si": "\u0db8\u0dd0\u0daf\u0d9a\u0db3\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 4.30748247,
-    "center_lat": 7.09400379,
-    "center_lon": 80.83652843
-  },
-  {
-    "id": "LK-2324305",
-    "name": "Galabada",
-    "name_si": "\u0d9c\u0dbd\u0db6\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 2.70246104,
-    "center_lat": 7.09274013,
-    "center_lon": 80.81849177
-  },
-  {
-    "id": "LK-2324310",
-    "name": "Ambagaspitiya",
-    "name_si": "\u0d85\u0db9\u0d9c\u0dc3\u0dca\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.49458109,
-    "center_lat": 7.10377185,
-    "center_lon": 80.81577428
-  },
-  {
-    "id": "LK-2324315",
-    "name": "Munwatta",
-    "name_si": "\u0db8\u0dd4\u0d82\u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 1.34021734,
-    "center_lat": 7.11467237,
-    "center_lon": 80.81031615
-  },
-  {
-    "id": "LK-2324320",
-    "name": "Landupita",
-    "name_si": "\u0dbd\u0db3\u0dd4\u0db4\u0dd2\u0da7",
-    "name_ta": NaN,
-    "area_sqkm": 0.83681809,
-    "center_lat": 7.10627249,
-    "center_lon": 80.80838215
-  },
-  {
-    "id": "LK-2324325",
-    "name": "Wetekegama",
-    "name_si": "\u0dc0\u0dd0\u0da7\u0d9a\u0dda\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 0.4170315,
-    "center_lat": 7.10285951,
-    "center_lon": 80.8045405
-  },
-  {
-    "id": "LK-2324330",
-    "name": "Padiyapelella",
-    "name_si": "\u0db4\u0daf\u0dd2\u0dba\u0db4\u0dd0\u0dbd\u0dd0\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.42423544,
-    "center_lat": 7.0922713,
-    "center_lon": 80.79972263
-  },
-  {
-    "id": "LK-2324335",
-    "name": "Napatawela",
-    "name_si": "\u0db1\u0dcf\u0db4\u0da7\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.72543616,
-    "center_lat": 7.09413712,
-    "center_lon": 80.80632109
-  },
-  {
-    "id": "LK-2324340",
-    "name": "Ukuthule",
-    "name_si": "\u0d8b\u0d9a\u0dd4\u0dad\u0dd4\u0dbd\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 0.51414828,
-    "center_lat": 7.08753045,
-    "center_lon": 80.8051099
-  },
-  {
-    "id": "LK-2324345",
-    "name": "Yatiwella",
-    "name_si": "\u0dba\u0da7\u0dd2\u0dc0\u0dd0\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.52641614,
-    "center_lat": 7.08537222,
-    "center_lon": 80.79846411
-  },
-  {
-    "id": "LK-2324350",
-    "name": "Wetakepatha",
-    "name_si": "\u0dc0\u0dd0\u0da7\u0d9a\u0dda\u0db4\u0ddc\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 0.71649502,
-    "center_lat": 7.08106128,
-    "center_lon": 80.80454257
-  },
-  {
-    "id": "LK-2324355",
-    "name": "Ukuthule East",
-    "name_si": "\u0d8b\u0d9a\u0dd4\u0dad\u0dd4\u0dbd\u0dda \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.97301708,
-    "center_lat": 7.07800324,
-    "center_lon": 80.8174897
-  },
-  {
-    "id": "LK-2324360",
-    "name": "Alakolawewa",
-    "name_si": "\u0d85\u0dbd\u0d9a\u0ddc\u0dc5\u0dc0\u0dd0\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.59113541,
-    "center_lat": 7.07291656,
-    "center_lon": 80.81090718
-  },
-  {
-    "id": "LK-2324365",
-    "name": "High Forest",
-    "name_si": "\u0dc4\u0dba\u0dd2\u0dc6\u0ddc\u0dbb\u0dc3\u0dca\u0da7\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 3.81512906,
-    "center_lat": 7.05783809,
-    "center_lon": 80.83090731
-  },
-  {
-    "id": "LK-2324370",
-    "name": "Mahakudugala",
-    "name_si": "\u0db8\u0dc4\u0d9a\u0dd4\u0da9\u0dd4\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 4.90857258,
-    "center_lat": 7.03199304,
-    "center_lon": 80.8264751
-  },
-  {
-    "id": "LK-2324375",
-    "name": "Brookside",
-    "name_si": "\u0db6\u0df2\u0d9a\u0dca\u0dc3\u0dba\u0dd2\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 7.41430815,
-    "center_lat": 7.03074952,
-    "center_lon": 80.84398954
-  },
-  {
-    "id": "LK-2324380",
-    "name": "High Forest",
-    "name_si": "\u0dc4\u0dba\u0dd2\u0dc6\u0ddc\u0dbb\u0dc3\u0dca\u0da7\u0dca \u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 2.52782464,
-    "center_lat": 7.06139941,
-    "center_lon": 80.83902785
-  },
-  {
-    "id": "LK-2324385",
-    "name": "Binganthalawa",
-    "name_si": "\u0db6\u0dd2\u0d82\u0d9c\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 7.93009345,
-    "center_lat": 7.05889663,
-    "center_lon": 80.85784219
-  },
-  {
-    "id": "LK-2324390",
-    "name": "Maha Uva",
-    "name_si": "\u0db8\u0dc4\u0d8c\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 4.80437649,
-    "center_lat": 7.0738449,
-    "center_lon": 80.86557896
-  },
-  {
-    "id": "LK-2324395",
-    "name": "Werellapathana",
-    "name_si": "\u0dc0\u0dd0\u0dbb\u0dbd\u0dca\u0dbd\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 2.08157626,
-    "center_lat": 7.07267877,
-    "center_lon": 80.87928059
-  },
-  {
-    "id": "LK-2324485",
-    "name": "Morabedda",
-    "name_si": "\u0db8\u0ddc\u0dbb\u0db6\u0dd0\u0daf\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 2.15724156,
-    "center_lat": 7.05065356,
-    "center_lon": 80.88740479
-  },
-  {
-    "id": "LK-2324490",
-    "name": "Harasbedda North",
-    "name_si": "\u0dc4\u0dbb\u0dc3\u0dca\u0db6\u0dd0\u0daf\u0dca\u0daf \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.49576789,
-    "center_lat": 7.04413931,
-    "center_lon": 80.87731727
-  },
-  {
-    "id": "LK-2324495",
-    "name": "Mahapathana",
-    "name_si": "\u0db8\u0dc4\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.78224909,
-    "center_lat": 7.0605391,
-    "center_lon": 80.87670336
-  },
-  {
-    "id": "LK-2324500",
-    "name": "Harasbedda South",
-    "name_si": "\u0dc4\u0dbb\u0dc3\u0dca\u0db6\u0dd0\u0daf\u0dca\u0daf \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 1.29266195,
-    "center_lat": 7.05145814,
-    "center_lon": 80.87149082
-  },
-  {
-    "id": "LK-2324505",
-    "name": "Palalpathana",
-    "name_si": "\u0db4\u0dbd\u0dbd\u0dca\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 2.01328939,
-    "center_lat": 7.04050355,
-    "center_lon": 80.86298096
-  },
-  {
-    "id": "LK-2324510",
-    "name": "Rathnayakapura",
-    "name_si": "\u0dbb\u0dad\u0dca\u0db1\u0dcf\u0dba\u0d9a\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 3.94839969,
-    "center_lat": 7.02575509,
-    "center_lon": 80.85781871
-  },
-  {
-    "id": "LK-2324515",
-    "name": "Ragala Watta",
-    "name_si": "\u0dbb\u0dcf\u0d9c\u0dbd\u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 3.20039893,
-    "center_lat": 7.00724995,
-    "center_lon": 80.85182159
-  },
-  {
-    "id": "LK-2324520",
-    "name": "Manthreethenna",
-    "name_si": "\u0db8\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd3\u0dad\u0dd0\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 2.16670697,
-    "center_lat": 7.02754943,
-    "center_lon": 80.87848956
-  },
-  {
-    "id": "LK-2324525",
-    "name": "Pandithaya Kumbura",
-    "name_si": "\u0db4\u0dab\u0dca\u0da9\u0dd2\u0dad\u0dba\u0dcf\u0d9a\u0dd4\u0db9\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.77210812,
-    "center_lat": 7.0325161,
-    "center_lon": 80.88955615
-  },
-  {
-    "id": "LK-2324575",
-    "name": "Senarathpura",
-    "name_si": "\u0dc3\u0dd9\u0db1\u0dbb\u0dad\u0dca\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 4.10178595,
-    "center_lat": 7.01666686,
-    "center_lon": 80.88240268
-  },
-  {
-    "id": "LK-2324580",
-    "name": "St. Leonard",
-    "name_si": "\u0dc3\u0dd9\u0db1\u0dca\u0da7\u0dca \u0dbd\u0dd9\u0db1\u0dcf\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 3.96507024,
-    "center_lat": 7.00410945,
-    "center_lon": 80.86450306
-  },
-  {
-    "id": "LK-2324585",
-    "name": "Ragala",
-    "name_si": "\u0dbb\u0dcf\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.41096095,
-    "center_lat": 7.01214779,
-    "center_lon": 80.85834906
-  },
-  {
-    "id": "LK-2324590",
-    "name": "Ekangapura",
-    "name_si": "\u0d91\u0d9a\u0d9f\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 2.94620651,
-    "center_lat": 6.99932762,
-    "center_lon": 80.8374763
-  },
-  {
-    "id": "LK-2324595",
-    "name": "Samagipura",
-    "name_si": "\u0dc3\u0db8\u0d9c\u0dd2\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.49182489,
-    "center_lat": 6.98860581,
-    "center_lon": 80.85625962
-  },
-  {
-    "id": "LK-2327005",
-    "name": "Bogahawatta",
-    "name_si": "\u0db6\u0ddd\u0d9c\u0dc4\u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 7.67910181,
-    "center_lat": 6.9711355,
-    "center_lon": 80.612054
-  },
-  {
-    "id": "LK-2327010",
-    "name": "Mount Vernon",
-    "name_si": "\u0db8\u0dc0\u0dd4\u0db1\u0dca\u0da7\u0dca \u0dc0\u0dbb\u0dca\u0db1\u0ddd\u0db1\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 3.34766888,
-    "center_lat": 6.95912122,
-    "center_lon": 80.6225962
-  },
-  {
-    "id": "LK-2327015",
-    "name": "Watagoda",
-    "name_si": "\u0dc0\u0da7\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 5.58029916,
-    "center_lat": 6.96127945,
-    "center_lon": 80.64559346
-  },
-  {
-    "id": "LK-2327020",
-    "name": "Hollyrood",
-    "name_si": "\u0dc4\u0ddc\u0dbd\u0dd2\u0dbb\u0dd6\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 3.70501996,
-    "center_lat": 6.94919346,
-    "center_lon": 80.66464792
-  },
-  {
-    "id": "LK-2327025",
-    "name": "Great Western",
-    "name_si": "\u0d9c\u0dca\u200d\u0dbb\u0dda\u0da7\u0dca\u0dc0\u0dd9\u0dc3\u0dca\u0da7\u0db1\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 8.96983027,
-    "center_lat": 6.96067735,
-    "center_lon": 80.68263665
-  },
-  {
-    "id": "LK-2327085",
-    "name": "Bearwell",
-    "name_si": "\u0db6\u0dd9\u0dba\u0dcf\u0dc0\u0dd9\u0dbd\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 7.34458241,
-    "center_lat": 6.95057563,
-    "center_lon": 80.69933
-  },
-  {
-    "id": "LK-2327090",
-    "name": "Thalawakele",
-    "name_si": "\u0dad\u0dbd\u0dc0\u0d9a\u0dd0\u0dbd\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 2.86563309,
-    "center_lat": 6.93564799,
-    "center_lon": 80.65428841
-  },
-  {
-    "id": "LK-2327095",
-    "name": "Devon",
-    "name_si": "\u0da9\u0dd9\u0dc0\u0ddd\u0db1\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 4.96889811,
-    "center_lat": 6.94412658,
-    "center_lon": 80.64571863
-  },
-  {
-    "id": "LK-2327100",
-    "name": "Dimbula",
-    "name_si": "\u0daf\u0dd2\u0db9\u0dd4\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 5.64730467,
-    "center_lat": 6.94495884,
-    "center_lon": 80.62249945
-  },
-  {
-    "id": "LK-2327105",
-    "name": "Stonycliff",
-    "name_si": "\u0dc3\u0dca\u0da7\u0ddd\u0db1\u0dd2\u0d9a\u0dca\u0dbd\u0dd2\u0db4\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 6.40488726,
-    "center_lat": 6.95115099,
-    "center_lon": 80.59328393
-  },
-  {
-    "id": "LK-2327110",
-    "name": "Kuduoya",
-    "name_si": "\u0d9a\u0dd4\u0da9\u0dcf\u0d94\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 7.83326103,
-    "center_lat": 6.93034341,
-    "center_lon": 80.59161312
-  },
-  {
-    "id": "LK-2327115",
-    "name": "Kotagala",
-    "name_si": "\u0d9a\u0ddc\u0da7\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.80460302,
-    "center_lat": 6.93098561,
-    "center_lon": 80.60607795
-  },
-  {
-    "id": "LK-2327120",
-    "name": "Drayton",
-    "name_si": "\u0da9\u0dca\u200d\u0dbb\u0dda\u0da7\u0ddd\u0db1\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 5.21414325,
-    "center_lat": 6.92498371,
-    "center_lon": 80.62206586
-  },
-  {
-    "id": "LK-2327125",
-    "name": "Yulefield",
-    "name_si": "\u0d89\u0dba\u0dd4\u0dc6\u0dd2\u0dbd\u0dca\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 7.27715358,
-    "center_lat": 6.90918642,
-    "center_lon": 80.62011131
-  },
-  {
-    "id": "LK-2327130",
-    "name": "Coombewood",
-    "name_si": "\u0d9a\u0dd6\u0db8\u0dca\u0db6\u0dca\u0dc0\u0dd4\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 7.4365229,
-    "center_lat": 6.92160125,
-    "center_lon": 80.65485392
-  },
-  {
-    "id": "LK-2327135",
-    "name": "Lindula",
-    "name_si": "\u0dbd\u0dd2\u0db3\u0dd4\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 4.35497607,
-    "center_lat": 6.92056966,
-    "center_lon": 80.68271996
-  },
-  {
-    "id": "LK-2327145",
-    "name": "Waltrim",
-    "name_si": "\u0dc0\u0ddd\u0dbd\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db8\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 8.49672376,
-    "center_lat": 6.91641282,
-    "center_lon": 80.70691544
-  },
-  {
-    "id": "LK-2327255",
-    "name": "Nagasena",
-    "name_si": "\u0db1\u0dcf\u0d9c\u0dc3\u0dda\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 7.31839506,
-    "center_lat": 6.90016765,
-    "center_lon": 80.68752418
-  },
-  {
-    "id": "LK-2327260",
-    "name": "Eildonhall",
-    "name_si": "\u0d91\u0dbd\u0dca\u0da9\u0db1\u0dca\u0dc4\u0ddd\u0dbd\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 6.75110373,
-    "center_lat": 6.89820528,
-    "center_lon": 80.66785892
-  },
-  {
-    "id": "LK-2327265",
-    "name": "Rahanwatta",
-    "name_si": "\u0dbb\u0dc4\u0db1\u0dca\u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 5.47004963,
-    "center_lat": 6.89607761,
-    "center_lon": 80.64887271
-  },
-  {
-    "id": "LK-2327270",
-    "name": "Balmoral",
-    "name_si": "\u0db6\u0dd0\u0dbd\u0dca\u0db8\u0ddc\u0dbb\u0dbd\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 5.96991118,
-    "center_lat": 6.87833587,
-    "center_lon": 80.67210083
-  },
-  {
-    "id": "LK-2327275",
-    "name": "Hallbrook",
-    "name_si": "\u0dc4\u0ddd\u0dbd\u0dca\u0db6\u0dd8\u0d9a\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 2.63509902,
-    "center_lat": 6.89079852,
-    "center_lon": 80.70596117
-  },
-  {
-    "id": "LK-2327280",
-    "name": "Henfold",
-    "name_si": "\u0dc4\u0dd9\u0db1\u0dca\u0dc6\u0ddd\u0dbd\u0dca\u0da9\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 5.74494907,
-    "center_lat": 6.89417917,
-    "center_lon": 80.71629712
-  },
-  {
-    "id": "LK-2327285",
-    "name": "Thangakele",
-    "name_si": "\u0dad\u0db1\u0dca\u0d9c\u0d9a\u0dd0\u0dbd\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 4.10956258,
-    "center_lat": 6.90276957,
-    "center_lon": 80.73873936
-  },
-  {
-    "id": "LK-2327315",
-    "name": "Lippakelle",
-    "name_si": "\u0dbd\u0dd2\u0db4\u0d9a\u0dd0\u0dbd\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 8.3040033,
-    "center_lat": 6.88575625,
-    "center_lon": 80.74946658
-  },
-  {
-    "id": "LK-2327320",
-    "name": "Dayagama West",
-    "name_si": "\u0da9\u0dba\u0d9c\u0db8 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 7.02505391,
-    "center_lat": 6.86552907,
-    "center_lon": 80.75279466
-  },
-  {
-    "id": "LK-2327325",
-    "name": "Sandrinham",
-    "name_si": "\u0dc3\u0db1\u0dca\u0daf\u0dd2\u0dbb\u0dd2\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 17.74758053,
-    "center_lat": 6.82734349,
-    "center_lon": 80.75968887
-  },
-  {
-    "id": "LK-2327330",
-    "name": "Glasgow",
-    "name_si": "\u0d9c\u0dca\u0dbd\u0dcf\u0dc3\u0dca\u0d9c\u0ddd",
-    "name_ta": NaN,
-    "area_sqkm": 6.95270555,
-    "center_lat": 6.86423516,
-    "center_lon": 80.71917449
-  },
-  {
-    "id": "LK-2327335",
-    "name": "Braemore",
-    "name_si": "\u0db6\u0dda\u0db8\u0ddd\u0dbb\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 4.07304112,
-    "center_lat": 6.87480555,
-    "center_lon": 80.70721883
-  },
-  {
-    "id": "LK-2327340",
-    "name": "Albion",
-    "name_si": "\u0d87\u0dbd\u0dca\u0db6\u0dd2\u0d94\u0db1\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 7.56303304,
-    "center_lat": 6.86193608,
-    "center_lon": 80.66472722
-  },
-  {
-    "id": "LK-2327345",
-    "name": "Elbedda",
-    "name_si": "\u0d87\u0dbd\u0db6\u0dd0\u0daf\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 10.93660731,
-    "center_lat": 6.85092,
-    "center_lon": 80.68431926
-  },
-  {
-    "id": "LK-2327350",
-    "name": "Agarapathana",
-    "name_si": "\u0d86\u0d9c\u0dbb\u0db4\u0dad\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 35.8968329,
-    "center_lat": 6.82395972,
-    "center_lon": 80.71193069
-  },
-  {
-    "id": "LK-2327355",
-    "name": "Weverly",
-    "name_si": "\u0dc0\u0dd0\u0dc0\u0dbb\u0dca\u0dbd\u0dd2",
-    "name_ta": NaN,
-    "area_sqkm": 4.4176314,
-    "center_lat": 6.86258561,
-    "center_lon": 80.73847213
-  },
-  {
-    "id": "LK-2327360",
-    "name": "Dayagama East",
-    "name_si": "\u0da9\u0dba\u0d9c\u0db8 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 19.67500183,
-    "center_lat": 6.84264378,
-    "center_lon": 80.78412945
-  },
-  {
-    "id": "LK-2330165",
+    "id": "LK-2316165",
     "name": "Rosella",
     "name_si": "\u0dbb\u0ddc\u0dc3\u0dd0\u0dbd\u0dca\u0dbd",
     "name_ta": NaN,
@@ -42165,7 +42165,7 @@
     "center_lon": 80.54986225
   },
   {
-    "id": "LK-2330170",
+    "id": "LK-2316170",
     "name": "Welioya",
     "name_si": "\u0dc0\u0dd0\u0dbd\u0dd2\u0d94\u0dba",
     "name_ta": NaN,
@@ -42174,7 +42174,7 @@
     "center_lon": 80.52371547
   },
   {
-    "id": "LK-2330175",
+    "id": "LK-2316175",
     "name": "Maussakele",
     "name_si": "\u0db8\u0dcf\u0dc0\u0dd4\u0dc3\u0dca\u0dc3\u0dcf\u0d9a\u0dd0\u0dbd\u0dda",
     "name_ta": NaN,
@@ -42183,7 +42183,7 @@
     "center_lon": 80.53289836
   },
   {
-    "id": "LK-2330180",
+    "id": "LK-2316180",
     "name": "Lethant",
     "name_si": "\u0dbd\u0dd9\u0dad\u0db1\u0dca (\u0db8\u0dd2\u0da9\u0dca\u0dc6\u0ddd\u0da9\u0dca)",
     "name_ta": NaN,
@@ -42192,7 +42192,7 @@
     "center_lon": 80.55855428
   },
   {
-    "id": "LK-2330185",
+    "id": "LK-2316185",
     "name": "Shanon",
     "name_si": "\u0dc3\u0dd0\u0db1\u0ddc\u0db1\u0dca",
     "name_ta": NaN,
@@ -42201,7 +42201,7 @@
     "center_lon": 80.5758231
   },
   {
-    "id": "LK-2330190",
+    "id": "LK-2316190",
     "name": "Hatton East",
     "name_si": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
     "name_ta": NaN,
@@ -42210,7 +42210,7 @@
     "center_lon": 80.58960166
   },
   {
-    "id": "LK-2330195",
+    "id": "LK-2316195",
     "name": "Hatton South",
     "name_si": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0daf\u0d9a\u0dd4\u0dab",
     "name_ta": NaN,
@@ -42219,7 +42219,7 @@
     "center_lon": 80.5952059
   },
   {
-    "id": "LK-2330200",
+    "id": "LK-2316200",
     "name": "Panmur",
     "name_si": "\u0db4\u0db1\u0dca\u0db8\u0dd6\u0dbb\u0dca",
     "name_ta": NaN,
@@ -42228,7 +42228,7 @@
     "center_lon": 80.58081687
   },
   {
-    "id": "LK-2330205",
+    "id": "LK-2316205",
     "name": "Ruwanpura",
     "name_si": "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0db4\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -42237,7 +42237,7 @@
     "center_lon": 80.575239
   },
   {
-    "id": "LK-2330210",
+    "id": "LK-2316210",
     "name": "Hatton West",
     "name_si": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
     "name_ta": NaN,
@@ -42246,7 +42246,7 @@
     "center_lon": 80.58866494
   },
   {
-    "id": "LK-2330215",
+    "id": "LK-2316215",
     "name": "Hatton North",
     "name_si": "\u0dc4\u0dd0\u0da7\u0db1\u0dca \u0d8b\u0dad\u0dd4\u0dbb",
     "name_ta": NaN,
@@ -42255,7 +42255,7 @@
     "center_lon": 80.60116953
   },
   {
-    "id": "LK-2330220",
+    "id": "LK-2316220",
     "name": "Dickoya",
     "name_si": "\u0daf\u0dd2\u0d9a\u0dca\u0d94\u0dba",
     "name_ta": NaN,
@@ -42264,7 +42264,7 @@
     "center_lon": 80.62733582
   },
   {
-    "id": "LK-2330225",
+    "id": "LK-2316225",
     "name": "Annfield",
     "name_si": "\u0d87\u0db1\u0dd2\u0dc6\u0dd2\u0dbd\u0dca\u0da9\u0dca",
     "name_ta": NaN,
@@ -42273,7 +42273,7 @@
     "center_lon": 80.63227748
   },
   {
-    "id": "LK-2330230",
+    "id": "LK-2316230",
     "name": "Dickoya South",
     "name_si": "\u0daf\u0dd2\u0d9a\u0dca\u0d94\u0dba",
     "name_ta": NaN,
@@ -42282,7 +42282,7 @@
     "center_lon": 80.60559568
   },
   {
-    "id": "LK-2330235",
+    "id": "LK-2316235",
     "name": "Injuster",
     "name_si": "\u0d89\u0db1\u0dca\u0da2\u0dc3\u0dca\u0da7\u0dbb\u0dca",
     "name_ta": NaN,
@@ -42291,7 +42291,7 @@
     "center_lon": 80.63266848
   },
   {
-    "id": "LK-2330240",
+    "id": "LK-2316240",
     "name": "Wanarajah",
     "name_si": "\u0dc0\u0db1\u0dbb\u0dcf\u0da2",
     "name_ta": NaN,
@@ -42300,7 +42300,7 @@
     "center_lon": 80.59859217
   },
   {
-    "id": "LK-2330245",
+    "id": "LK-2316245",
     "name": "Newvalleygama",
     "name_si": "\u0db1\u0dc0\u0dc0\u0dd0\u0dbd\u0dd2\u0d9c\u0db8",
     "name_ta": NaN,
@@ -42309,7 +42309,7 @@
     "center_lon": 80.61569152
   },
   {
-    "id": "LK-2330250",
+    "id": "LK-2316250",
     "name": "Norwood",
     "name_si": "\u0db1\u0ddd\u0dbb\u0dca\u0dc0\u0dd4\u0da9\u0dca",
     "name_ta": NaN,
@@ -42318,7 +42318,7 @@
     "center_lon": 80.595384
   },
   {
-    "id": "LK-2330255",
+    "id": "LK-2316255",
     "name": "Maskeliya",
     "name_si": "\u0db8\u0dc3\u0dca\u0d9a\u0dd9\u0dc5\u0dd2\u0dba",
     "name_ta": NaN,
@@ -42327,7 +42327,7 @@
     "center_lon": 80.57474847
   },
   {
-    "id": "LK-2330260",
+    "id": "LK-2316260",
     "name": "Brownlow",
     "name_si": "\u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dbd\u0ddd",
     "name_ta": NaN,
@@ -42336,7 +42336,7 @@
     "center_lon": 80.56582152
   },
   {
-    "id": "LK-2330265",
+    "id": "LK-2316265",
     "name": "Seethagangula",
     "name_si": "\u0dc3\u0dd3\u0dad\u0d9c\u0d9f\u0dd4\u0dbd",
     "name_ta": NaN,
@@ -42345,7 +42345,7 @@
     "center_lon": 80.52508751
   },
   {
-    "id": "LK-2330270",
+    "id": "LK-2316270",
     "name": "Moray",
     "name_si": "\u0db8\u0ddc\u0d9a\u0dcf",
     "name_ta": NaN,
@@ -42354,7 +42354,7 @@
     "center_lon": 80.5633148
   },
   {
-    "id": "LK-2330275",
+    "id": "LK-2316275",
     "name": "Mocha",
     "name_si": "\u0db8\u0ddc\u0dbb\u0dda",
     "name_ta": NaN,
@@ -42363,7 +42363,7 @@
     "center_lon": 80.51400545
   },
   {
-    "id": "LK-2330280",
+    "id": "LK-2316280",
     "name": "Brownswick",
     "name_si": "\u0db6\u0dca\u200d\u0dbb\u0dc0\u0dd4\u0db1\u0dca\u0dc3\u0dca\u0dc0\u0dd2\u0d9a\u0dca",
     "name_ta": NaN,
@@ -42372,7 +42372,7 @@
     "center_lon": 80.57872536
   },
   {
-    "id": "LK-2330285",
+    "id": "LK-2316285",
     "name": "Gawarawila",
     "name_si": "\u0d9c\u0dc0\u0dbb\u0dc0\u0dd2\u0dbd",
     "name_ta": NaN,
@@ -42381,7 +42381,7 @@
     "center_lon": 80.59868142
   },
   {
-    "id": "LK-2330290",
+    "id": "LK-2316290",
     "name": "Mahanelu",
     "name_si": "\u0db8\u0dc4\u0db1\u0dd9\u0dbd\u0dd4",
     "name_ta": NaN,
@@ -42390,7 +42390,7 @@
     "center_lon": 80.6117932
   },
   {
-    "id": "LK-2330295",
+    "id": "LK-2316295",
     "name": "Venture",
     "name_si": "\u0dc0\u0dd9\u0db1\u0dca\u0da0\u0dbb\u0dca",
     "name_ta": NaN,
@@ -42399,7 +42399,7 @@
     "center_lon": 80.63869013
   },
   {
-    "id": "LK-2330300",
+    "id": "LK-2316300",
     "name": "Tillary",
     "name_si": "\u0da7\u0dd2\u0dbd\u0dbb\u0dd2",
     "name_ta": NaN,
@@ -42408,7 +42408,7 @@
     "center_lon": 80.66282207
   },
   {
-    "id": "LK-2330305",
+    "id": "LK-2316305",
     "name": "Kirkoswald",
     "name_si": "\u0d9a\u0dbb\u0dca\u0d9a\u0dc3\u0dca\u0dc0\u0dbb\u0dca\u0dbd\u0dca\u0da9\u0dca",
     "name_ta": NaN,
@@ -42417,7 +42417,7 @@
     "center_lon": 80.66079753
   },
   {
-    "id": "LK-2330310",
+    "id": "LK-2316310",
     "name": "Bogawana",
     "name_si": "\u0db6\u0ddc\u0d9c\u0dc0\u0db1",
     "name_ta": NaN,
@@ -42426,7 +42426,7 @@
     "center_lon": 80.73467371
   },
   {
-    "id": "LK-2330315",
+    "id": "LK-2316315",
     "name": "Loinon",
     "name_si": "\u0dbd\u0ddc\u0dba\u0dd2\u0db1\u0db1\u0dca",
     "name_ta": NaN,
@@ -42435,7 +42435,7 @@
     "center_lon": 80.70482707
   },
   {
-    "id": "LK-2330320",
+    "id": "LK-2316320",
     "name": "Kotiyagala",
     "name_si": "\u0d9a\u0ddc\u0da7\u0dd2\u0dba\u0dcf\u0d9c\u0dbd",
     "name_ta": NaN,
@@ -42444,7 +42444,7 @@
     "center_lon": 80.68690319
   },
   {
-    "id": "LK-2330325",
+    "id": "LK-2316325",
     "name": "Bagawanthalawa South",
     "name_si": "\u0db6\u0ddc\u0d9c\u0dc0\u0db1\u0dca\u0dad\u0dbd\u0dcf\u0dc0",
     "name_ta": NaN,
@@ -42453,7 +42453,7 @@
     "center_lon": 80.66233584
   },
   {
-    "id": "LK-2330330",
+    "id": "LK-2316330",
     "name": "Aulton Watta",
     "name_si": "\u0d95\u0dbd\u0dca\u0da7\u0db1\u0dca\u0dc0\u0dad\u0dca\u0dad",
     "name_ta": NaN,
@@ -42462,7 +42462,7 @@
     "center_lon": 80.6238002
   },
   {
-    "id": "LK-2330335",
+    "id": "LK-2316335",
     "name": "Strathspey",
     "name_si": "\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dd9\u0dad\u0dca\u0dc3\u0dca\u0db4\u0dd9",
     "name_ta": NaN,
@@ -46053,6 +46053,204 @@
     "center_lon": 80.18495541
   },
   {
+    "id": "LK-3128115",
+    "name": "Weihena",
+    "name_si": "\u0dc0\u0dd0\u0dba\u0dd2\u0dc4\u0dda\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 2.00409674,
+    "center_lat": 6.15744697,
+    "center_lon": 80.21232831
+  },
+  {
+    "id": "LK-3128125",
+    "name": "Polgahavila",
+    "name_si": "\u0db4\u0ddc\u0dbd\u0dca\u0d9c\u0dc4\u0dc0\u0dd2\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.40641173,
+    "center_lat": 6.15314192,
+    "center_lon": 80.23600199
+  },
+  {
+    "id": "LK-3128130",
+    "name": "Indurupathvila",
+    "name_si": "\u0d89\u0db3\u0dd4\u0dbb\u0dd4\u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.80765194,
+    "center_lat": 6.15186238,
+    "center_lon": 80.22389508
+  },
+  {
+    "id": "LK-3128205",
+    "name": "Kirindalahena",
+    "name_si": "\u0d9a\u0dd2\u0dbb\u0dd2\u0db1\u0dca\u0daf\u0dbd\u0dc4\u0dda\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.75876361,
+    "center_lat": 6.14197776,
+    "center_lon": 80.2268197
+  },
+  {
+    "id": "LK-3128210",
+    "name": "Pahala Lelwala",
+    "name_si": "\u0db4\u0dc4\u0dc5 \u0dbd\u0dda\u0dbd\u0dca\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.99147598,
+    "center_lat": 6.14073916,
+    "center_lon": 80.23754741
+  },
+  {
+    "id": "LK-3128215",
+    "name": "Ihala Lelwala",
+    "name_si": "\u0d89\u0dc4\u0dc5 \u0dbd\u0dda\u0dbd\u0dca\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.87657011,
+    "center_lat": 6.14037869,
+    "center_lon": 80.24581945
+  },
+  {
+    "id": "LK-3128220",
+    "name": "Kumbalamalahena",
+    "name_si": "\u0d9a\u0dd4\u0db9\u0dbd\u0db8\u0dbd\u0dc4\u0dda\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 1.19096983,
+    "center_lat": 6.14608394,
+    "center_lon": 80.2487299
+  },
+  {
+    "id": "LK-3128225",
+    "name": "Wanduramba",
+    "name_si": "\u0dc0\u0daf\u0dd4\u0dbb\u0db9",
+    "name_ta": NaN,
+    "area_sqkm": 1.74208741,
+    "center_lat": 6.13618018,
+    "center_lon": 80.25646726
+  },
+  {
+    "id": "LK-3128230",
+    "name": "Gulugahakanda",
+    "name_si": "\u0d9c\u0dd4\u0dc5\u0dd4\u0d9c\u0dc4\u0d9a\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 1.71393891,
+    "center_lat": 6.1365317,
+    "center_lon": 80.26757877
+  },
+  {
+    "id": "LK-3128235",
+    "name": "Panvila",
+    "name_si": "\u0db4\u0db1\u0dca\u0dc0\u0dd2\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.92748182,
+    "center_lat": 6.12872349,
+    "center_lon": 80.24868201
+  },
+  {
+    "id": "LK-3128240",
+    "name": "Kokawala",
+    "name_si": "\u0d9a\u0ddc\u0d9a\u0dcf\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.40379562,
+    "center_lat": 6.12938568,
+    "center_lon": 80.23472432
+  },
+  {
+    "id": "LK-3128300",
+    "name": "Meda Keembiya",
+    "name_si": "\u0db8\u0dd0\u0daf\u0d9a\u0dd3\u0db9\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 1.76729809,
+    "center_lat": 6.11439187,
+    "center_lon": 80.24371885
+  },
+  {
+    "id": "LK-3128305",
+    "name": "Deiyandara",
+    "name_si": "\u0daf\u0dd9\u0dba\u0dd2\u0dba\u0db1\u0dca\u0daf\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.2046103,
+    "center_lat": 6.12096739,
+    "center_lon": 80.24720519
+  },
+  {
+    "id": "LK-3128310",
+    "name": "Wanduramba South",
+    "name_si": "\u0dc0\u0daf\u0dd4\u0dbb\u0db9 \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 1.90259414,
+    "center_lat": 6.12817051,
+    "center_lon": 80.26212071
+  },
+  {
+    "id": "LK-3128315",
+    "name": "Thalawa",
+    "name_si": "\u0dad\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 2.66615284,
+    "center_lat": 6.1419706,
+    "center_lon": 80.29472685
+  },
+  {
+    "id": "LK-3128320",
+    "name": "Mabotuwana",
+    "name_si": "\u0db8\u0dcf\u0db6\u0ddc\u0da7\u0dd4\u0dc0\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 4.91589117,
+    "center_lat": 6.12288392,
+    "center_lon": 80.29333508
+  },
+  {
+    "id": "LK-3128325",
+    "name": "Nattewela",
+    "name_si": "\u0db1\u0dcf\u0dad\u0dca\u0dad\u0dd9\u0dc0\u0dd9\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 3.11023301,
+    "center_lat": 6.11456944,
+    "center_lon": 80.28370633
+  },
+  {
+    "id": "LK-3128330",
+    "name": "Thiruwanaketiya",
+    "name_si": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0d9a\u0dd0\u0da7\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 2.08095017,
+    "center_lat": 6.11189888,
+    "center_lon": 80.27408301
+  },
+  {
+    "id": "LK-3128335",
+    "name": "Pitiharawa",
+    "name_si": "\u0db4\u0dd2\u0da7\u0dd2\u0dc4\u0dbb\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 2.75535157,
+    "center_lat": 6.1134997,
+    "center_lon": 80.25807846
+  },
+  {
+    "id": "LK-3128340",
+    "name": "Meda Keembiya East",
+    "name_si": "\u0db8\u0dd0\u0daf\u0d9a\u0dd3\u0db9\u0dd2\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.67828352,
+    "center_lat": 6.10321695,
+    "center_lon": 80.25614979
+  },
+  {
+    "id": "LK-3128345",
+    "name": "Ihala Keembiya South",
+    "name_si": "\u0d89\u0dc4\u0dc5 \u0d9a\u0dd3\u0db9\u0dd2\u0dba \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 2.61411007,
+    "center_lat": 6.09288392,
+    "center_lon": 80.2675992
+  },
+  {
+    "id": "LK-3128350",
+    "name": "Ihala Keembiya",
+    "name_si": "\u0d89\u0dc4\u0dc5 \u0d9a\u0dd3\u0db9\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 3.66426553,
+    "center_lat": 6.0997198,
+    "center_lon": 80.27933239
+  },
+  {
     "id": "LK-3130005",
     "name": "Ethkandura",
     "name_si": "\u0d87\u0dad\u0dca\u0d9a\u0db3\u0dd4\u0dbb",
@@ -46969,6 +47167,636 @@
     "area_sqkm": 0.31489016,
     "center_lat": 6.09986574,
     "center_lon": 80.12971248
+  },
+  {
+    "id": "LK-3137310",
+    "name": "Thotavila",
+    "name_si": "\u0dad\u0ddc\u0da7\u0dc0\u0dd2\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 2.13444496,
+    "center_lat": 6.12489937,
+    "center_lon": 80.14747725
+  },
+  {
+    "id": "LK-3137315",
+    "name": "Mawadavila",
+    "name_si": "\u0db8\u0dcf\u0dc0\u0da9\u0dc0\u0dd2\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.65465654,
+    "center_lat": 6.12611684,
+    "center_lon": 80.15944563
+  },
+  {
+    "id": "LK-3137320",
+    "name": "Panvila Pahalagoda",
+    "name_si": "\u0db4\u0db1\u0dca\u0dc0\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 1.8945555,
+    "center_lat": 6.11874132,
+    "center_lon": 80.16393057
+  },
+  {
+    "id": "LK-3137325",
+    "name": "Rejjipura",
+    "name_si": "\u0dbb\u0dd9\u0da2\u0dca\u0da2\u0dd2\u0db4\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.96637689,
+    "center_lat": 6.10867001,
+    "center_lon": 80.17182394
+  },
+  {
+    "id": "LK-3137330",
+    "name": "Imbula",
+    "name_si": "\u0d89\u0db9\u0dd4\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.64010622,
+    "center_lat": 6.11085006,
+    "center_lon": 80.14884607
+  },
+  {
+    "id": "LK-3137335",
+    "name": "Katudampe",
+    "name_si": "\u0d9a\u0da7\u0dd4\u0daf\u0db8\u0dca\u0db4\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 2.52496065,
+    "center_lat": 6.10974606,
+    "center_lon": 80.1384428
+  },
+  {
+    "id": "LK-3137360",
+    "name": "Karawegoda",
+    "name_si": "\u0d9a\u0dbb\u0dcf\u0dc0\u0dda\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.32400959,
+    "center_lat": 6.09724137,
+    "center_lon": 80.13394738
+  },
+  {
+    "id": "LK-3137365",
+    "name": "Devinigoda",
+    "name_si": "\u0daf\u0dda\u0dc0\u0dd2\u0db1\u0dd2\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.38311916,
+    "center_lat": 6.09428369,
+    "center_lon": 80.13787543
+  },
+  {
+    "id": "LK-3137370",
+    "name": "Bopagoda",
+    "name_si": "\u0db6\u0ddd\u0db4\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.84259388,
+    "center_lat": 6.09934208,
+    "center_lon": 80.14373544
+  },
+  {
+    "id": "LK-3137375",
+    "name": "Kandegoda",
+    "name_si": "\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.29283108,
+    "center_lat": 6.10061544,
+    "center_lon": 80.1501576
+  },
+  {
+    "id": "LK-3137380",
+    "name": "Ranapanadeniya",
+    "name_si": "\u0dbb\u0db1\u0db4\u0db1\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 2.06476442,
+    "center_lat": 6.10532614,
+    "center_lon": 80.15836012
+  },
+  {
+    "id": "LK-3137385",
+    "name": "Mahahegoda",
+    "name_si": "\u0db8\u0dc4 \u0dc4\u0dd1\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.8048279,
+    "center_lat": 6.09442029,
+    "center_lon": 80.16837918
+  },
+  {
+    "id": "LK-3137390",
+    "name": "Medawala",
+    "name_si": "\u0db8\u0dd0\u0daf\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.55628753,
+    "center_lat": 6.10241862,
+    "center_lon": 80.17415438
+  },
+  {
+    "id": "LK-3137395",
+    "name": "Hegoda",
+    "name_si": "\u0dc4\u0dd1\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 1.5038332,
+    "center_lat": 6.09113153,
+    "center_lon": 80.17656143
+  },
+  {
+    "id": "LK-3137400",
+    "name": "Palanthriyagoda",
+    "name_si": "\u0db4\u0dcf\u0dbd\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.37771145,
+    "center_lat": 6.08604237,
+    "center_lon": 80.16474366
+  },
+  {
+    "id": "LK-3137405",
+    "name": "Maliduwa",
+    "name_si": "\u0db8\u0dbd\u0dd2\u0daf\u0dd6\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.81910003,
+    "center_lat": 6.09496879,
+    "center_lon": 80.16061472
+  },
+  {
+    "id": "LK-3137410",
+    "name": "Rathna Udagama",
+    "name_si": "\u0dbb\u0dad\u0dca\u0db1\u0d8b\u0daf\u0dcf\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 0.28290026,
+    "center_lat": 6.08801129,
+    "center_lon": 80.15797923
+  },
+  {
+    "id": "LK-3137415",
+    "name": "Ganegoda",
+    "name_si": "\u0d9c\u0db1\u0dda\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.72997442,
+    "center_lat": 6.09329826,
+    "center_lon": 80.15467255
+  },
+  {
+    "id": "LK-3137420",
+    "name": "Rathgama Hegoda",
+    "name_si": "\u0dbb\u0dad\u0dca\u0d9c\u0db8 \u0dc4\u0dd1\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.224661,
+    "center_lat": 6.09405585,
+    "center_lon": 80.14908304
+  },
+  {
+    "id": "LK-3137425",
+    "name": "Palliyapitiya",
+    "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba\u0db4\u0dd2\u0da7\u0dd2\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 0.19388184,
+    "center_lat": 6.09250412,
+    "center_lon": 80.14555997
+  },
+  {
+    "id": "LK-3137430",
+    "name": "Gammeddegoda",
+    "name_si": "\u0d9c\u0db8\u0dca\u0db8\u0dd0\u0daf\u0dca\u0daf\u0dda\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.13456511,
+    "center_lat": 6.08998771,
+    "center_lon": 80.14535841
+  },
+  {
+    "id": "LK-3137435",
+    "name": "Gammeddegoda East",
+    "name_si": "\u0d9c\u0db8\u0dca\u0db8\u0dd0\u0daf\u0dca\u0daf\u0dda\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9",
+    "name_ta": NaN,
+    "area_sqkm": 0.04856944,
+    "center_lat": 6.08945859,
+    "center_lon": 80.1438441
+  },
+  {
+    "id": "LK-3137440",
+    "name": "Gammeddegoda-Rajgama",
+    "name_si": "\u0dbb\u0dad\u0dca\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 0.15573857,
+    "center_lat": 6.08732971,
+    "center_lon": 80.14434911
+  },
+  {
+    "id": "LK-3137445",
+    "name": "Owakanda",
+    "name_si": "\u0d95\u0dc0\u0d9a\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 0.2471381,
+    "center_lat": 6.08680821,
+    "center_lon": 80.14806832
+  },
+  {
+    "id": "LK-3137450",
+    "name": "Kapumulugoda",
+    "name_si": "\u0d9a\u0db4\u0dd4\u0db8\u0dd4\u0dbd\u0dd4\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.90544746,
+    "center_lat": 6.08284661,
+    "center_lon": 80.15223265
+  },
+  {
+    "id": "LK-3137455",
+    "name": "Dolikanda",
+    "name_si": "\u0daf\u0ddd\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 0.29028888,
+    "center_lat": 6.0790001,
+    "center_lon": 80.15826543
+  },
+  {
+    "id": "LK-3137460",
+    "name": "Boossa",
+    "name_si": "\u0db6\u0dd6\u0dc3\u0dca\u0dc3",
+    "name_ta": NaN,
+    "area_sqkm": 0.63882234,
+    "center_lat": 6.07502436,
+    "center_lon": 80.15903452
+  },
+  {
+    "id": "LK-3137465",
+    "name": "Rupeewala",
+    "name_si": "\u0dbb\u0dd6\u0db4\u0dd2\u0dc0\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.47781946,
+    "center_lat": 6.08531482,
+    "center_lon": 80.15979558
+  },
+  {
+    "id": "LK-3137470",
+    "name": "Kedala",
+    "name_si": "\u0d9a\u0dd0\u0daf\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.97632836,
+    "center_lat": 6.07879056,
+    "center_lon": 80.16627602
+  },
+  {
+    "id": "LK-3137475",
+    "name": "Pitiwella South",
+    "name_si": "\u0db4\u0dd2\u0da7\u0dd2\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 0.11670956,
+    "center_lat": 6.06951977,
+    "center_lon": 80.16778869
+  },
+  {
+    "id": "LK-3137480",
+    "name": "Pitiwella North",
+    "name_si": "\u0db4\u0dd2\u0da7\u0dd2\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.3353768,
+    "center_lat": 6.06696426,
+    "center_lon": 80.17013827
+  },
+  {
+    "id": "LK-3137485",
+    "name": "Kadurupe",
+    "name_si": "\u0d9a\u0daf\u0dd4\u0dbb\u0dd4\u0db4\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 1.20082772,
+    "center_lat": 6.07363713,
+    "center_lon": 80.17371864
+  },
+  {
+    "id": "LK-3138005",
+    "name": "Urawatta",
+    "name_si": "\u0d8c\u0dbb\u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 0.46489257,
+    "center_lat": 6.2242609,
+    "center_lon": 80.05675595
+  },
+  {
+    "id": "LK-3138010",
+    "name": "Dewagoda West",
+    "name_si": "\u0daf\u0dda\u0dc0\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.2577488,
+    "center_lat": 6.22308448,
+    "center_lon": 80.06029932
+  },
+  {
+    "id": "LK-3138015",
+    "name": "Dewagoda East",
+    "name_si": "\u0daf\u0dda\u0dc0\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.38418247,
+    "center_lat": 6.22177434,
+    "center_lon": 80.06256905
+  },
+  {
+    "id": "LK-3138020",
+    "name": "Deldoowa",
+    "name_si": "\u0daf\u0dd9\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.66566012,
+    "center_lat": 6.2314236,
+    "center_lon": 80.0679995
+  },
+  {
+    "id": "LK-3138025",
+    "name": "Idanthota",
+    "name_si": "\u0d89\u0da9\u0db1\u0dca\u0dad\u0ddc\u0da7",
+    "name_ta": NaN,
+    "area_sqkm": 0.89953942,
+    "center_lat": 6.22062302,
+    "center_lon": 80.0691911
+  },
+  {
+    "id": "LK-3138030",
+    "name": "Kuleegoda West",
+    "name_si": "\u0d9a\u0dd4\u0dbd\u0dd3\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.65686053,
+    "center_lat": 6.21801975,
+    "center_lon": 80.07426101
+  },
+  {
+    "id": "LK-3138035",
+    "name": "Galagoda East",
+    "name_si": "\u0d9c\u0dbd\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 1.44593738,
+    "center_lat": 6.21589095,
+    "center_lon": 80.08140422
+  },
+  {
+    "id": "LK-3138040",
+    "name": "Galagoda West",
+    "name_si": "\u0d9c\u0dbd\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.30760303,
+    "center_lat": 6.21049822,
+    "center_lon": 80.08097129
+  },
+  {
+    "id": "LK-3138045",
+    "name": "Kuleegoda East",
+    "name_si": "\u0d9a\u0dd4\u0dbd\u0dd3\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.73236478,
+    "center_lat": 6.21002284,
+    "center_lon": 80.07584351
+  },
+  {
+    "id": "LK-3138050",
+    "name": "Wellabada",
+    "name_si": "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0db6\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.29712128,
+    "center_lat": 6.21725793,
+    "center_lon": 80.06120657
+  },
+  {
+    "id": "LK-3138055",
+    "name": "Usmudulawa",
+    "name_si": "\u0d8b\u0dc3\u0dca\u0db8\u0dd4\u0daf\u0dd4\u0dbd\u0dcf\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.43177546,
+    "center_lat": 6.21497435,
+    "center_lon": 80.06411092
+  },
+  {
+    "id": "LK-3138060",
+    "name": "Wenamulla",
+    "name_si": "\u0dc0\u0dda\u0db1\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.37937369,
+    "center_lat": 6.21090984,
+    "center_lon": 80.06420751
+  },
+  {
+    "id": "LK-3138065",
+    "name": "Dimbuldoowa",
+    "name_si": "\u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.75878664,
+    "center_lat": 6.2059417,
+    "center_lon": 80.06639029
+  },
+  {
+    "id": "LK-3138070",
+    "name": "Andurangoda",
+    "name_si": "\u0d85\u0db3\u0dd4\u0dbb\u0db1\u0dca\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.38537908,
+    "center_lat": 6.20884501,
+    "center_lon": 80.07090529
+  },
+  {
+    "id": "LK-3138075",
+    "name": "Galdoowa",
+    "name_si": "\u0d9c\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.85692949,
+    "center_lat": 6.1987989,
+    "center_lon": 80.07798945
+  },
+  {
+    "id": "LK-3138080",
+    "name": "Akurala",
+    "name_si": "\u0d85\u0d9a\u0dd4\u0dbb\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 1.10273468,
+    "center_lat": 6.19471918,
+    "center_lon": 80.06815509
+  },
+  {
+    "id": "LK-3138085",
+    "name": "Akurala North",
+    "name_si": "\u0d85\u0d9a\u0dd4\u0dbb\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.20443965,
+    "center_lat": 6.1964088,
+    "center_lon": 80.06308782
+  },
+  {
+    "id": "LK-3138090",
+    "name": "Akurala South",
+    "name_si": "\u0d85\u0d9a\u0dd4\u0dbb\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 0.16818288,
+    "center_lat": 6.18953622,
+    "center_lon": 80.0658353
+  },
+  {
+    "id": "LK-3138095",
+    "name": "Uduwaragoda North",
+    "name_si": "\u0d8b\u0da9\u0dd4\u0dc0\u0dbb\u0dcf\u0d9c\u0ddc\u0da9 \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.35506081,
+    "center_lat": 6.18865099,
+    "center_lon": 80.07385739
+  },
+  {
+    "id": "LK-3138100",
+    "name": "Uduwaragoda South",
+    "name_si": "\u0d8b\u0da9\u0dd4\u0dc0\u0dbb\u0dcf\u0d9c\u0ddc\u0da9 \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 0.210496,
+    "center_lat": 6.18478033,
+    "center_lon": 80.07265999
+  },
+  {
+    "id": "LK-3138105",
+    "name": "Kahawa",
+    "name_si": "\u0d9a\u0dc4\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 1.13344996,
+    "center_lat": 6.18488058,
+    "center_lon": 80.0796904
+  },
+  {
+    "id": "LK-3138110",
+    "name": "Weragoda",
+    "name_si": "\u0dc0\u0dda\u0dbb\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.79108574,
+    "center_lat": 6.18810915,
+    "center_lon": 80.08494177
+  },
+  {
+    "id": "LK-3138115",
+    "name": "Delmar Colony",
+    "name_si": "\u0da9\u0dd9\u0dbd\u0dca\u0db8\u0dcf\u0dbb\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 0.56181873,
+    "center_lat": 6.19534376,
+    "center_lon": 80.08544585
+  },
+  {
+    "id": "LK-3138120",
+    "name": "Harannagala",
+    "name_si": "\u0dc4\u0dbb\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.4871029,
+    "center_lat": 6.18254967,
+    "center_lon": 80.09014068
+  },
+  {
+    "id": "LK-3138125",
+    "name": "Godagama South",
+    "name_si": "\u0d9c\u0ddc\u0da9\u0d9c\u0db8 \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 0.23726047,
+    "center_lat": 6.1766084,
+    "center_lon": 80.08198589
+  },
+  {
+    "id": "LK-3138130",
+    "name": "Godagama North",
+    "name_si": "\u0d9c\u0ddc\u0da9\u0d9c\u0db8 \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.2073646,
+    "center_lat": 6.17914353,
+    "center_lon": 80.08059078
+  },
+  {
+    "id": "LK-3138135",
+    "name": "Daluwathumulla",
+    "name_si": "\u0daf\u0dc5\u0dd4\u0dc0\u0dad\u0dd4\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.30476147,
+    "center_lat": 6.17509315,
+    "center_lon": 80.08549505
+  },
+  {
+    "id": "LK-3138140",
+    "name": "Thelwatta",
+    "name_si": "\u0dad\u0dd9\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad",
+    "name_ta": NaN,
+    "area_sqkm": 0.497115,
+    "center_lat": 6.17195926,
+    "center_lon": 80.08854886
+  },
+  {
+    "id": "LK-3138145",
+    "name": "Pereliya North",
+    "name_si": "\u0db4\u0dd0\u0dbb\u0dd1\u0dbd\u0dd2\u0dba \u0d8b\u0dad\u0dd4\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.1670178,
+    "center_lat": 6.16809917,
+    "center_lon": 80.0897484
+  },
+  {
+    "id": "LK-3138150",
+    "name": "Pereliya South",
+    "name_si": "\u0db4\u0dd0\u0dbb\u0dd1\u0dbd\u0dd2\u0dba \u0daf\u0d9a\u0dd4\u0dab",
+    "name_ta": NaN,
+    "area_sqkm": 0.213926,
+    "center_lat": 6.16486941,
+    "center_lon": 80.09184457
+  },
+  {
+    "id": "LK-3138155",
+    "name": "Seenigama",
+    "name_si": "\u0dc3\u0dd3\u0db1\u0dd2\u0d9c\u0db8 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.21559848,
+    "center_lat": 6.15940666,
+    "center_lon": 80.09291502
+  },
+  {
+    "id": "LK-3138160",
+    "name": "Seenigama East",
+    "name_si": "\u0dc3\u0dd3\u0db1\u0dd2\u0d9c\u0db8 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
+    "name_ta": NaN,
+    "area_sqkm": 0.41486534,
+    "center_lat": 6.15964374,
+    "center_lon": 80.09771138
+  },
+  {
+    "id": "LK-3138165",
+    "name": "Malawenna",
+    "name_si": "\u0db8\u0dbd\u0dc0\u0dd0\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 2.56932368,
+    "center_lat": 6.16781157,
+    "center_lon": 80.10477225
+  },
+  {
+    "id": "LK-3138170",
+    "name": "Kalupe",
+    "name_si": "\u0d9a\u0dc5\u0dd4\u0db4\u0dd9",
+    "name_ta": NaN,
+    "area_sqkm": 1.94729586,
+    "center_lat": 6.15728824,
+    "center_lon": 80.11256337
+  },
+  {
+    "id": "LK-3138175",
+    "name": "Udumulla",
+    "name_si": "\u0d8b\u0da9\u0dd4\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 0.7847151,
+    "center_lat": 6.1530335,
+    "center_lon": 80.10577904
+  },
+  {
+    "id": "LK-3138180",
+    "name": "Medagoda",
+    "name_si": "\u0db8\u0dd0\u0daf\u0d9c\u0ddc\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 0.3905761,
+    "center_lat": 6.1584596,
+    "center_lon": 80.10325194
+  },
+  {
+    "id": "LK-3138185",
+    "name": "Werellana",
+    "name_si": "\u0dc0\u0dd0\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 0.18136846,
+    "center_lat": 6.15514863,
+    "center_lon": 80.09602699
+  },
+  {
+    "id": "LK-3138190",
+    "name": "Thotagamuwa",
+    "name_si": "\u0dad\u0ddc\u0da7\u0d9c\u0db8\u0dd4\u0dc0",
+    "name_ta": NaN,
+    "area_sqkm": 0.31588755,
+    "center_lat": 6.15104498,
+    "center_lon": 80.09977663
   },
   {
     "id": "LK-3139005",
@@ -49696,834 +50524,6 @@
     "area_sqkm": 0.31758242,
     "center_lat": 5.96896512,
     "center_lon": 80.37526866
-  },
-  {
-    "id": "LK-3157115",
-    "name": "Weihena",
-    "name_si": "\u0dc0\u0dd0\u0dba\u0dd2\u0dc4\u0dda\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 2.00409674,
-    "center_lat": 6.15744697,
-    "center_lon": 80.21232831
-  },
-  {
-    "id": "LK-3157125",
-    "name": "Polgahavila",
-    "name_si": "\u0db4\u0ddc\u0dbd\u0dca\u0d9c\u0dc4\u0dc0\u0dd2\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.40641173,
-    "center_lat": 6.15314192,
-    "center_lon": 80.23600199
-  },
-  {
-    "id": "LK-3157130",
-    "name": "Indurupathvila",
-    "name_si": "\u0d89\u0db3\u0dd4\u0dbb\u0dd4\u0db4\u0dad\u0dca\u0dc0\u0dd2\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.80765194,
-    "center_lat": 6.15186238,
-    "center_lon": 80.22389508
-  },
-  {
-    "id": "LK-3157205",
-    "name": "Kirindalahena",
-    "name_si": "\u0d9a\u0dd2\u0dbb\u0dd2\u0db1\u0dca\u0daf\u0dbd\u0dc4\u0dda\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.75876361,
-    "center_lat": 6.14197776,
-    "center_lon": 80.2268197
-  },
-  {
-    "id": "LK-3157210",
-    "name": "Pahala Lelwala",
-    "name_si": "\u0db4\u0dc4\u0dc5 \u0dbd\u0dda\u0dbd\u0dca\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.99147598,
-    "center_lat": 6.14073916,
-    "center_lon": 80.23754741
-  },
-  {
-    "id": "LK-3157215",
-    "name": "Ihala Lelwala",
-    "name_si": "\u0d89\u0dc4\u0dc5 \u0dbd\u0dda\u0dbd\u0dca\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.87657011,
-    "center_lat": 6.14037869,
-    "center_lon": 80.24581945
-  },
-  {
-    "id": "LK-3157220",
-    "name": "Kumbalamalahena",
-    "name_si": "\u0d9a\u0dd4\u0db9\u0dbd\u0db8\u0dbd\u0dc4\u0dda\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 1.19096983,
-    "center_lat": 6.14608394,
-    "center_lon": 80.2487299
-  },
-  {
-    "id": "LK-3157225",
-    "name": "Wanduramba",
-    "name_si": "\u0dc0\u0daf\u0dd4\u0dbb\u0db9",
-    "name_ta": NaN,
-    "area_sqkm": 1.74208741,
-    "center_lat": 6.13618018,
-    "center_lon": 80.25646726
-  },
-  {
-    "id": "LK-3157230",
-    "name": "Gulugahakanda",
-    "name_si": "\u0d9c\u0dd4\u0dc5\u0dd4\u0d9c\u0dc4\u0d9a\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 1.71393891,
-    "center_lat": 6.1365317,
-    "center_lon": 80.26757877
-  },
-  {
-    "id": "LK-3157235",
-    "name": "Panvila",
-    "name_si": "\u0db4\u0db1\u0dca\u0dc0\u0dd2\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.92748182,
-    "center_lat": 6.12872349,
-    "center_lon": 80.24868201
-  },
-  {
-    "id": "LK-3157240",
-    "name": "Kokawala",
-    "name_si": "\u0d9a\u0ddc\u0d9a\u0dcf\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.40379562,
-    "center_lat": 6.12938568,
-    "center_lon": 80.23472432
-  },
-  {
-    "id": "LK-3157300",
-    "name": "Meda Keembiya",
-    "name_si": "\u0db8\u0dd0\u0daf\u0d9a\u0dd3\u0db9\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 1.76729809,
-    "center_lat": 6.11439187,
-    "center_lon": 80.24371885
-  },
-  {
-    "id": "LK-3157305",
-    "name": "Deiyandara",
-    "name_si": "\u0daf\u0dd9\u0dba\u0dd2\u0dba\u0db1\u0dca\u0daf\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.2046103,
-    "center_lat": 6.12096739,
-    "center_lon": 80.24720519
-  },
-  {
-    "id": "LK-3157310",
-    "name": "Wanduramba South",
-    "name_si": "\u0dc0\u0daf\u0dd4\u0dbb\u0db9 \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 1.90259414,
-    "center_lat": 6.12817051,
-    "center_lon": 80.26212071
-  },
-  {
-    "id": "LK-3157315",
-    "name": "Thalawa",
-    "name_si": "\u0dad\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 2.66615284,
-    "center_lat": 6.1419706,
-    "center_lon": 80.29472685
-  },
-  {
-    "id": "LK-3157320",
-    "name": "Mabotuwana",
-    "name_si": "\u0db8\u0dcf\u0db6\u0ddc\u0da7\u0dd4\u0dc0\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 4.91589117,
-    "center_lat": 6.12288392,
-    "center_lon": 80.29333508
-  },
-  {
-    "id": "LK-3157325",
-    "name": "Nattewela",
-    "name_si": "\u0db1\u0dcf\u0dad\u0dca\u0dad\u0dd9\u0dc0\u0dd9\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 3.11023301,
-    "center_lat": 6.11456944,
-    "center_lon": 80.28370633
-  },
-  {
-    "id": "LK-3157330",
-    "name": "Thiruwanaketiya",
-    "name_si": "\u0dad\u0dd2\u0dbb\u0dd4\u0dc0\u0dcf\u0db1\u0d9a\u0dd0\u0da7\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 2.08095017,
-    "center_lat": 6.11189888,
-    "center_lon": 80.27408301
-  },
-  {
-    "id": "LK-3157335",
-    "name": "Pitiharawa",
-    "name_si": "\u0db4\u0dd2\u0da7\u0dd2\u0dc4\u0dbb\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 2.75535157,
-    "center_lat": 6.1134997,
-    "center_lon": 80.25807846
-  },
-  {
-    "id": "LK-3157340",
-    "name": "Meda Keembiya East",
-    "name_si": "\u0db8\u0dd0\u0daf\u0d9a\u0dd3\u0db9\u0dd2\u0dba \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.67828352,
-    "center_lat": 6.10321695,
-    "center_lon": 80.25614979
-  },
-  {
-    "id": "LK-3157345",
-    "name": "Ihala Keembiya South",
-    "name_si": "\u0d89\u0dc4\u0dc5 \u0d9a\u0dd3\u0db9\u0dd2\u0dba \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 2.61411007,
-    "center_lat": 6.09288392,
-    "center_lon": 80.2675992
-  },
-  {
-    "id": "LK-3157350",
-    "name": "Ihala Keembiya",
-    "name_si": "\u0d89\u0dc4\u0dc5 \u0d9a\u0dd3\u0db9\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 3.66426553,
-    "center_lat": 6.0997198,
-    "center_lon": 80.27933239
-  },
-  {
-    "id": "LK-3160005",
-    "name": "Urawatta",
-    "name_si": "\u0d8c\u0dbb\u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 0.46489257,
-    "center_lat": 6.2242609,
-    "center_lon": 80.05675595
-  },
-  {
-    "id": "LK-3160010",
-    "name": "Dewagoda West",
-    "name_si": "\u0daf\u0dda\u0dc0\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.2577488,
-    "center_lat": 6.22308448,
-    "center_lon": 80.06029932
-  },
-  {
-    "id": "LK-3160015",
-    "name": "Dewagoda East",
-    "name_si": "\u0daf\u0dda\u0dc0\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.38418247,
-    "center_lat": 6.22177434,
-    "center_lon": 80.06256905
-  },
-  {
-    "id": "LK-3160020",
-    "name": "Deldoowa",
-    "name_si": "\u0daf\u0dd9\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.66566012,
-    "center_lat": 6.2314236,
-    "center_lon": 80.0679995
-  },
-  {
-    "id": "LK-3160025",
-    "name": "Idanthota",
-    "name_si": "\u0d89\u0da9\u0db1\u0dca\u0dad\u0ddc\u0da7",
-    "name_ta": NaN,
-    "area_sqkm": 0.89953942,
-    "center_lat": 6.22062302,
-    "center_lon": 80.0691911
-  },
-  {
-    "id": "LK-3160030",
-    "name": "Kuleegoda West",
-    "name_si": "\u0d9a\u0dd4\u0dbd\u0dd3\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.65686053,
-    "center_lat": 6.21801975,
-    "center_lon": 80.07426101
-  },
-  {
-    "id": "LK-3160035",
-    "name": "Galagoda East",
-    "name_si": "\u0d9c\u0dbd\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.44593738,
-    "center_lat": 6.21589095,
-    "center_lon": 80.08140422
-  },
-  {
-    "id": "LK-3160040",
-    "name": "Galagoda West",
-    "name_si": "\u0d9c\u0dbd\u0d9c\u0ddc\u0da9 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.30760303,
-    "center_lat": 6.21049822,
-    "center_lon": 80.08097129
-  },
-  {
-    "id": "LK-3160045",
-    "name": "Kuleegoda East",
-    "name_si": "\u0d9a\u0dd4\u0dbd\u0dd3\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.73236478,
-    "center_lat": 6.21002284,
-    "center_lon": 80.07584351
-  },
-  {
-    "id": "LK-3160050",
-    "name": "Wellabada",
-    "name_si": "\u0dc0\u0dd0\u0dbd\u0dca\u0dbd\u0db6\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.29712128,
-    "center_lat": 6.21725793,
-    "center_lon": 80.06120657
-  },
-  {
-    "id": "LK-3160055",
-    "name": "Usmudulawa",
-    "name_si": "\u0d8b\u0dc3\u0dca\u0db8\u0dd4\u0daf\u0dd4\u0dbd\u0dcf\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.43177546,
-    "center_lat": 6.21497435,
-    "center_lon": 80.06411092
-  },
-  {
-    "id": "LK-3160060",
-    "name": "Wenamulla",
-    "name_si": "\u0dc0\u0dda\u0db1\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.37937369,
-    "center_lat": 6.21090984,
-    "center_lon": 80.06420751
-  },
-  {
-    "id": "LK-3160065",
-    "name": "Dimbuldoowa",
-    "name_si": "\u0daf\u0dd2\u0db9\u0dd4\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.75878664,
-    "center_lat": 6.2059417,
-    "center_lon": 80.06639029
-  },
-  {
-    "id": "LK-3160070",
-    "name": "Andurangoda",
-    "name_si": "\u0d85\u0db3\u0dd4\u0dbb\u0db1\u0dca\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.38537908,
-    "center_lat": 6.20884501,
-    "center_lon": 80.07090529
-  },
-  {
-    "id": "LK-3160075",
-    "name": "Galdoowa",
-    "name_si": "\u0d9c\u0dbd\u0dca\u0daf\u0dd6\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.85692949,
-    "center_lat": 6.1987989,
-    "center_lon": 80.07798945
-  },
-  {
-    "id": "LK-3160080",
-    "name": "Akurala",
-    "name_si": "\u0d85\u0d9a\u0dd4\u0dbb\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.10273468,
-    "center_lat": 6.19471918,
-    "center_lon": 80.06815509
-  },
-  {
-    "id": "LK-3160085",
-    "name": "Akurala North",
-    "name_si": "\u0d85\u0d9a\u0dd4\u0dbb\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.20443965,
-    "center_lat": 6.1964088,
-    "center_lon": 80.06308782
-  },
-  {
-    "id": "LK-3160090",
-    "name": "Akurala South",
-    "name_si": "\u0d85\u0d9a\u0dd4\u0dbb\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 0.16818288,
-    "center_lat": 6.18953622,
-    "center_lon": 80.0658353
-  },
-  {
-    "id": "LK-3160095",
-    "name": "Uduwaragoda North",
-    "name_si": "\u0d8b\u0da9\u0dd4\u0dc0\u0dbb\u0dcf\u0d9c\u0ddc\u0da9 \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.35506081,
-    "center_lat": 6.18865099,
-    "center_lon": 80.07385739
-  },
-  {
-    "id": "LK-3160100",
-    "name": "Uduwaragoda South",
-    "name_si": "\u0d8b\u0da9\u0dd4\u0dc0\u0dbb\u0dcf\u0d9c\u0ddc\u0da9 \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 0.210496,
-    "center_lat": 6.18478033,
-    "center_lon": 80.07265999
-  },
-  {
-    "id": "LK-3160105",
-    "name": "Kahawa",
-    "name_si": "\u0d9a\u0dc4\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 1.13344996,
-    "center_lat": 6.18488058,
-    "center_lon": 80.0796904
-  },
-  {
-    "id": "LK-3160110",
-    "name": "Weragoda",
-    "name_si": "\u0dc0\u0dda\u0dbb\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.79108574,
-    "center_lat": 6.18810915,
-    "center_lon": 80.08494177
-  },
-  {
-    "id": "LK-3160115",
-    "name": "Delmar Colony",
-    "name_si": "\u0da9\u0dd9\u0dbd\u0dca\u0db8\u0dcf\u0dbb\u0dca \u0da2\u0db1\u0db4\u0daf\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 0.56181873,
-    "center_lat": 6.19534376,
-    "center_lon": 80.08544585
-  },
-  {
-    "id": "LK-3160120",
-    "name": "Harannagala",
-    "name_si": "\u0dc4\u0dbb\u0db1\u0dca\u0db1\u0dcf\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.4871029,
-    "center_lat": 6.18254967,
-    "center_lon": 80.09014068
-  },
-  {
-    "id": "LK-3160125",
-    "name": "Godagama South",
-    "name_si": "\u0d9c\u0ddc\u0da9\u0d9c\u0db8 \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 0.23726047,
-    "center_lat": 6.1766084,
-    "center_lon": 80.08198589
-  },
-  {
-    "id": "LK-3160130",
-    "name": "Godagama North",
-    "name_si": "\u0d9c\u0ddc\u0da9\u0d9c\u0db8 \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.2073646,
-    "center_lat": 6.17914353,
-    "center_lon": 80.08059078
-  },
-  {
-    "id": "LK-3160135",
-    "name": "Daluwathumulla",
-    "name_si": "\u0daf\u0dc5\u0dd4\u0dc0\u0dad\u0dd4\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.30476147,
-    "center_lat": 6.17509315,
-    "center_lon": 80.08549505
-  },
-  {
-    "id": "LK-3160140",
-    "name": "Thelwatta",
-    "name_si": "\u0dad\u0dd9\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad",
-    "name_ta": NaN,
-    "area_sqkm": 0.497115,
-    "center_lat": 6.17195926,
-    "center_lon": 80.08854886
-  },
-  {
-    "id": "LK-3160145",
-    "name": "Pereliya North",
-    "name_si": "\u0db4\u0dd0\u0dbb\u0dd1\u0dbd\u0dd2\u0dba \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.1670178,
-    "center_lat": 6.16809917,
-    "center_lon": 80.0897484
-  },
-  {
-    "id": "LK-3160150",
-    "name": "Pereliya South",
-    "name_si": "\u0db4\u0dd0\u0dbb\u0dd1\u0dbd\u0dd2\u0dba \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 0.213926,
-    "center_lat": 6.16486941,
-    "center_lon": 80.09184457
-  },
-  {
-    "id": "LK-3160155",
-    "name": "Seenigama",
-    "name_si": "\u0dc3\u0dd3\u0db1\u0dd2\u0d9c\u0db8 \u0db6\u0da7\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.21559848,
-    "center_lat": 6.15940666,
-    "center_lon": 80.09291502
-  },
-  {
-    "id": "LK-3160160",
-    "name": "Seenigama East",
-    "name_si": "\u0dc3\u0dd3\u0db1\u0dd2\u0d9c\u0db8 \u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.41486534,
-    "center_lat": 6.15964374,
-    "center_lon": 80.09771138
-  },
-  {
-    "id": "LK-3160165",
-    "name": "Malawenna",
-    "name_si": "\u0db8\u0dbd\u0dc0\u0dd0\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 2.56932368,
-    "center_lat": 6.16781157,
-    "center_lon": 80.10477225
-  },
-  {
-    "id": "LK-3160170",
-    "name": "Kalupe",
-    "name_si": "\u0d9a\u0dc5\u0dd4\u0db4\u0dd9",
-    "name_ta": NaN,
-    "area_sqkm": 1.94729586,
-    "center_lat": 6.15728824,
-    "center_lon": 80.11256337
-  },
-  {
-    "id": "LK-3160175",
-    "name": "Udumulla",
-    "name_si": "\u0d8b\u0da9\u0dd4\u0db8\u0dd4\u0dbd\u0dca\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.7847151,
-    "center_lat": 6.1530335,
-    "center_lon": 80.10577904
-  },
-  {
-    "id": "LK-3160180",
-    "name": "Medagoda",
-    "name_si": "\u0db8\u0dd0\u0daf\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.3905761,
-    "center_lat": 6.1584596,
-    "center_lon": 80.10325194
-  },
-  {
-    "id": "LK-3160185",
-    "name": "Werellana",
-    "name_si": "\u0dc0\u0dd0\u0dbb\u0dd0\u0dbd\u0dca\u0dbd\u0dcf\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 0.18136846,
-    "center_lat": 6.15514863,
-    "center_lon": 80.09602699
-  },
-  {
-    "id": "LK-3160190",
-    "name": "Thotagamuwa",
-    "name_si": "\u0dad\u0ddc\u0da7\u0d9c\u0db8\u0dd4\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.31588755,
-    "center_lat": 6.15104498,
-    "center_lon": 80.09977663
-  },
-  {
-    "id": "LK-3163310",
-    "name": "Thotavila",
-    "name_si": "\u0dad\u0ddc\u0da7\u0dc0\u0dd2\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 2.13444496,
-    "center_lat": 6.12489937,
-    "center_lon": 80.14747725
-  },
-  {
-    "id": "LK-3163315",
-    "name": "Mawadavila",
-    "name_si": "\u0db8\u0dcf\u0dc0\u0da9\u0dc0\u0dd2\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.65465654,
-    "center_lat": 6.12611684,
-    "center_lon": 80.15944563
-  },
-  {
-    "id": "LK-3163320",
-    "name": "Panvila Pahalagoda",
-    "name_si": "\u0db4\u0db1\u0dca\u0dc0\u0dd2\u0dbd \u0db4\u0dc4\u0dc5\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 1.8945555,
-    "center_lat": 6.11874132,
-    "center_lon": 80.16393057
-  },
-  {
-    "id": "LK-3163325",
-    "name": "Rejjipura",
-    "name_si": "\u0dbb\u0dd9\u0da2\u0dca\u0da2\u0dd2\u0db4\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 1.96637689,
-    "center_lat": 6.10867001,
-    "center_lon": 80.17182394
-  },
-  {
-    "id": "LK-3163330",
-    "name": "Imbula",
-    "name_si": "\u0d89\u0db9\u0dd4\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 1.64010622,
-    "center_lat": 6.11085006,
-    "center_lon": 80.14884607
-  },
-  {
-    "id": "LK-3163335",
-    "name": "Katudampe",
-    "name_si": "\u0d9a\u0da7\u0dd4\u0daf\u0db8\u0dca\u0db4\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 2.52496065,
-    "center_lat": 6.10974606,
-    "center_lon": 80.1384428
-  },
-  {
-    "id": "LK-3163360",
-    "name": "Karawegoda",
-    "name_si": "\u0d9a\u0dbb\u0dcf\u0dc0\u0dda\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.32400959,
-    "center_lat": 6.09724137,
-    "center_lon": 80.13394738
-  },
-  {
-    "id": "LK-3163365",
-    "name": "Devinigoda",
-    "name_si": "\u0daf\u0dda\u0dc0\u0dd2\u0db1\u0dd2\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.38311916,
-    "center_lat": 6.09428369,
-    "center_lon": 80.13787543
-  },
-  {
-    "id": "LK-3163370",
-    "name": "Bopagoda",
-    "name_si": "\u0db6\u0ddd\u0db4\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.84259388,
-    "center_lat": 6.09934208,
-    "center_lon": 80.14373544
-  },
-  {
-    "id": "LK-3163375",
-    "name": "Kandegoda",
-    "name_si": "\u0d9a\u0db1\u0dca\u0daf\u0dd9\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.29283108,
-    "center_lat": 6.10061544,
-    "center_lon": 80.1501576
-  },
-  {
-    "id": "LK-3163380",
-    "name": "Ranapanadeniya",
-    "name_si": "\u0dbb\u0db1\u0db4\u0db1\u0dcf\u0daf\u0dd9\u0dab\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 2.06476442,
-    "center_lat": 6.10532614,
-    "center_lon": 80.15836012
-  },
-  {
-    "id": "LK-3163385",
-    "name": "Mahahegoda",
-    "name_si": "\u0db8\u0dc4 \u0dc4\u0dd1\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.8048279,
-    "center_lat": 6.09442029,
-    "center_lon": 80.16837918
-  },
-  {
-    "id": "LK-3163390",
-    "name": "Medawala",
-    "name_si": "\u0db8\u0dd0\u0daf\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.55628753,
-    "center_lat": 6.10241862,
-    "center_lon": 80.17415438
-  },
-  {
-    "id": "LK-3163395",
-    "name": "Hegoda",
-    "name_si": "\u0dc4\u0dd1\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 1.5038332,
-    "center_lat": 6.09113153,
-    "center_lon": 80.17656143
-  },
-  {
-    "id": "LK-3163400",
-    "name": "Palanthriyagoda",
-    "name_si": "\u0db4\u0dcf\u0dbd\u0dad\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.37771145,
-    "center_lat": 6.08604237,
-    "center_lon": 80.16474366
-  },
-  {
-    "id": "LK-3163405",
-    "name": "Maliduwa",
-    "name_si": "\u0db8\u0dbd\u0dd2\u0daf\u0dd6\u0dc0",
-    "name_ta": NaN,
-    "area_sqkm": 0.81910003,
-    "center_lat": 6.09496879,
-    "center_lon": 80.16061472
-  },
-  {
-    "id": "LK-3163410",
-    "name": "Rathna Udagama",
-    "name_si": "\u0dbb\u0dad\u0dca\u0db1\u0d8b\u0daf\u0dcf\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 0.28290026,
-    "center_lat": 6.08801129,
-    "center_lon": 80.15797923
-  },
-  {
-    "id": "LK-3163415",
-    "name": "Ganegoda",
-    "name_si": "\u0d9c\u0db1\u0dda\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.72997442,
-    "center_lat": 6.09329826,
-    "center_lon": 80.15467255
-  },
-  {
-    "id": "LK-3163420",
-    "name": "Rathgama Hegoda",
-    "name_si": "\u0dbb\u0dad\u0dca\u0d9c\u0db8 \u0dc4\u0dd1\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.224661,
-    "center_lat": 6.09405585,
-    "center_lon": 80.14908304
-  },
-  {
-    "id": "LK-3163425",
-    "name": "Palliyapitiya",
-    "name_si": "\u0db4\u0dbd\u0dca\u0dbd\u0dd2\u0dba\u0db4\u0dd2\u0da7\u0dd2\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 0.19388184,
-    "center_lat": 6.09250412,
-    "center_lon": 80.14555997
-  },
-  {
-    "id": "LK-3163430",
-    "name": "Gammeddegoda",
-    "name_si": "\u0d9c\u0db8\u0dca\u0db8\u0dd0\u0daf\u0dca\u0daf\u0dda\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.13456511,
-    "center_lat": 6.08998771,
-    "center_lon": 80.14535841
-  },
-  {
-    "id": "LK-3163435",
-    "name": "Gammeddegoda East",
-    "name_si": "\u0d9c\u0db8\u0dca\u0db8\u0dd0\u0daf\u0dca\u0daf\u0dda\u0d9c\u0ddc\u0da9 \u0db1\u0dd0\u0d9c\u0dd9",
-    "name_ta": NaN,
-    "area_sqkm": 0.04856944,
-    "center_lat": 6.08945859,
-    "center_lon": 80.1438441
-  },
-  {
-    "id": "LK-3163440",
-    "name": "Gammeddegoda-Rajgama",
-    "name_si": "\u0dbb\u0dad\u0dca\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 0.15573857,
-    "center_lat": 6.08732971,
-    "center_lon": 80.14434911
-  },
-  {
-    "id": "LK-3163445",
-    "name": "Owakanda",
-    "name_si": "\u0d95\u0dc0\u0d9a\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 0.2471381,
-    "center_lat": 6.08680821,
-    "center_lon": 80.14806832
-  },
-  {
-    "id": "LK-3163450",
-    "name": "Kapumulugoda",
-    "name_si": "\u0d9a\u0db4\u0dd4\u0db8\u0dd4\u0dbd\u0dd4\u0d9c\u0ddc\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 0.90544746,
-    "center_lat": 6.08284661,
-    "center_lon": 80.15223265
-  },
-  {
-    "id": "LK-3163455",
-    "name": "Dolikanda",
-    "name_si": "\u0daf\u0ddd\u0dbd\u0dd2\u0d9a\u0db1\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 0.29028888,
-    "center_lat": 6.0790001,
-    "center_lon": 80.15826543
-  },
-  {
-    "id": "LK-3163460",
-    "name": "Boossa",
-    "name_si": "\u0db6\u0dd6\u0dc3\u0dca\u0dc3",
-    "name_ta": NaN,
-    "area_sqkm": 0.63882234,
-    "center_lat": 6.07502436,
-    "center_lon": 80.15903452
-  },
-  {
-    "id": "LK-3163465",
-    "name": "Rupeewala",
-    "name_si": "\u0dbb\u0dd6\u0db4\u0dd2\u0dc0\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.47781946,
-    "center_lat": 6.08531482,
-    "center_lon": 80.15979558
-  },
-  {
-    "id": "LK-3163470",
-    "name": "Kedala",
-    "name_si": "\u0d9a\u0dd0\u0daf\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 0.97632836,
-    "center_lat": 6.07879056,
-    "center_lon": 80.16627602
-  },
-  {
-    "id": "LK-3163475",
-    "name": "Pitiwella South",
-    "name_si": "\u0db4\u0dd2\u0da7\u0dd2\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0daf\u0d9a\u0dd4\u0dab",
-    "name_ta": NaN,
-    "area_sqkm": 0.11670956,
-    "center_lat": 6.06951977,
-    "center_lon": 80.16778869
-  },
-  {
-    "id": "LK-3163480",
-    "name": "Pitiwella North",
-    "name_si": "\u0db4\u0dd2\u0da7\u0dd2\u0dc0\u0dd0\u0dbd\u0dca\u0dbd \u0d8b\u0dad\u0dd4\u0dbb",
-    "name_ta": NaN,
-    "area_sqkm": 0.3353768,
-    "center_lat": 6.06696426,
-    "center_lon": 80.17013827
-  },
-  {
-    "id": "LK-3163485",
-    "name": "Kadurupe",
-    "name_si": "\u0d9a\u0daf\u0dd4\u0dbb\u0dd4\u0db4\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 1.20082772,
-    "center_lat": 6.07363713,
-    "center_lon": 80.17371864
   },
   {
     "id": "LK-3203005",
@@ -118251,6 +118251,114 @@
     "center_lon": 80.67225148
   },
   {
+    "id": "LK-9119060",
+    "name": "Thanjanthenna",
+    "name_si": "\u0dad\u0db1\u0dca\u0da2\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 11.87326154,
+    "center_lat": 6.64402023,
+    "center_lon": 80.8576099
+  },
+  {
+    "id": "LK-9119065",
+    "name": "Kalthota",
+    "name_si": "\u0d9a\u0dbd\u0dca\u0dad\u0ddc\u0da7",
+    "name_ta": NaN,
+    "area_sqkm": 6.73008205,
+    "center_lat": 6.64288471,
+    "center_lon": 80.88168819
+  },
+  {
+    "id": "LK-9119070",
+    "name": "Uggalkalthota Left Bank South",
+    "name_si": "\u0d8b\u0d9c\u0dca\u0d9c\u0dbd\u0dca\u0d9a\u0dbd\u0dca\u0dad\u0ddc\u0da7 (\u0dc0\u0db8\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 2.9127243,
+    "center_lat": 6.64188908,
+    "center_lon": 80.89294844
+  },
+  {
+    "id": "LK-9119075",
+    "name": "Medabedda",
+    "name_si": "\u0db8\u0dd0\u0daf\u0db6\u0dd0\u0daf\u0dca\u0daf",
+    "name_ta": NaN,
+    "area_sqkm": 2.52142182,
+    "center_lat": 6.66329044,
+    "center_lon": 80.89982331
+  },
+  {
+    "id": "LK-9119080",
+    "name": "Neluyaya",
+    "name_si": "\u0db1\u0dd9\u0dc5\u0dd4\u0dba\u0dcf\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 4.8078744,
+    "center_lat": 6.67381774,
+    "center_lon": 80.90907038
+  },
+  {
+    "id": "LK-9119085",
+    "name": "Uggalkalthota Left Bank Left",
+    "name_si": "\u0d8b\u0d9c\u0dca\u0d9c\u0dbd\u0dca\u0d9a\u0dbd\u0dca\u0dad\u0ddc\u0da7 (\u0dc0\u0db8\u0dca",
+    "name_ta": NaN,
+    "area_sqkm": 2.42601388,
+    "center_lat": 6.63740764,
+    "center_lon": 80.89530524
+  },
+  {
+    "id": "LK-9119090",
+    "name": "Welipathayaya",
+    "name_si": "\u0dc0\u0dd0\u0dbd\u0dd2\u0db4\u0dad\u0dba\u0dcf\u0dba",
+    "name_ta": NaN,
+    "area_sqkm": 3.02318307,
+    "center_lat": 6.62051724,
+    "center_lon": 80.87506501
+  },
+  {
+    "id": "LK-9119095",
+    "name": "Kuragala",
+    "name_si": "\u0d9a\u0dd6\u0dbb\u0d9c\u0dbd",
+    "name_ta": NaN,
+    "area_sqkm": 5.93079728,
+    "center_lat": 6.62219462,
+    "center_lon": 80.85461384
+  },
+  {
+    "id": "LK-9119100",
+    "name": "Molamura",
+    "name_si": "\u0db8\u0ddc\u0dbd\u0db8\u0dd4\u0dbb\u0dda",
+    "name_ta": NaN,
+    "area_sqkm": 10.80381595,
+    "center_lat": 6.6073885,
+    "center_lon": 80.8375665
+  },
+  {
+    "id": "LK-9119215",
+    "name": "Kongahamankada",
+    "name_si": "\u0d9a\u0ddd\u0db1\u0dca\u0d9c\u0dc4\u0db8\u0d82\u0d9a\u0da9",
+    "name_ta": NaN,
+    "area_sqkm": 8.63117043,
+    "center_lat": 6.59375924,
+    "center_lon": 80.86494658
+  },
+  {
+    "id": "LK-9119220",
+    "name": "Kalupedigama",
+    "name_si": "\u0d9a\u0dbd\u0dd4\u0db4\u0dda\u0da9\u0dd2\u0d9c\u0db8",
+    "name_ta": NaN,
+    "area_sqkm": 5.73604708,
+    "center_lat": 6.57823161,
+    "center_lon": 80.84906309
+  },
+  {
+    "id": "LK-9119225",
+    "name": "Diyavinna",
+    "name_si": "\u0daf\u0dd2\u0dba\u0dc0\u0dd2\u0db1\u0dca\u0db1",
+    "name_ta": NaN,
+    "area_sqkm": 32.23897731,
+    "center_lat": 6.55048205,
+    "center_lon": 80.83549665
+  },
+  {
     "id": "LK-9121005",
     "name": "Polwattahena",
     "name_si": "\u0db4\u0ddc\u0dbd\u0dca\u0dc0\u0dad\u0dca\u0dad\u0dc4\u0dda\u0db1",
@@ -121120,114 +121228,6 @@
     "area_sqkm": 7.32473198,
     "center_lat": 6.32962977,
     "center_lon": 80.72330464
-  },
-  {
-    "id": "LK-9154060",
-    "name": "Thanjanthenna",
-    "name_si": "\u0dad\u0db1\u0dca\u0da2\u0db1\u0dca\u0dad\u0dd0\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 11.87326154,
-    "center_lat": 6.64402023,
-    "center_lon": 80.8576099
-  },
-  {
-    "id": "LK-9154065",
-    "name": "Kalthota",
-    "name_si": "\u0d9a\u0dbd\u0dca\u0dad\u0ddc\u0da7",
-    "name_ta": NaN,
-    "area_sqkm": 6.73008205,
-    "center_lat": 6.64288471,
-    "center_lon": 80.88168819
-  },
-  {
-    "id": "LK-9154070",
-    "name": "Uggalkalthota Left Bank South",
-    "name_si": "\u0d8b\u0d9c\u0dca\u0d9c\u0dbd\u0dca\u0d9a\u0dbd\u0dca\u0dad\u0ddc\u0da7 (\u0dc0\u0db8\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 2.9127243,
-    "center_lat": 6.64188908,
-    "center_lon": 80.89294844
-  },
-  {
-    "id": "LK-9154075",
-    "name": "Medabedda",
-    "name_si": "\u0db8\u0dd0\u0daf\u0db6\u0dd0\u0daf\u0dca\u0daf",
-    "name_ta": NaN,
-    "area_sqkm": 2.52142182,
-    "center_lat": 6.66329044,
-    "center_lon": 80.89982331
-  },
-  {
-    "id": "LK-9154080",
-    "name": "Neluyaya",
-    "name_si": "\u0db1\u0dd9\u0dc5\u0dd4\u0dba\u0dcf\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 4.8078744,
-    "center_lat": 6.67381774,
-    "center_lon": 80.90907038
-  },
-  {
-    "id": "LK-9154085",
-    "name": "Uggalkalthota Left Bank Left",
-    "name_si": "\u0d8b\u0d9c\u0dca\u0d9c\u0dbd\u0dca\u0d9a\u0dbd\u0dca\u0dad\u0ddc\u0da7 (\u0dc0\u0db8\u0dca",
-    "name_ta": NaN,
-    "area_sqkm": 2.42601388,
-    "center_lat": 6.63740764,
-    "center_lon": 80.89530524
-  },
-  {
-    "id": "LK-9154090",
-    "name": "Welipathayaya",
-    "name_si": "\u0dc0\u0dd0\u0dbd\u0dd2\u0db4\u0dad\u0dba\u0dcf\u0dba",
-    "name_ta": NaN,
-    "area_sqkm": 3.02318307,
-    "center_lat": 6.62051724,
-    "center_lon": 80.87506501
-  },
-  {
-    "id": "LK-9154095",
-    "name": "Kuragala",
-    "name_si": "\u0d9a\u0dd6\u0dbb\u0d9c\u0dbd",
-    "name_ta": NaN,
-    "area_sqkm": 5.93079728,
-    "center_lat": 6.62219462,
-    "center_lon": 80.85461384
-  },
-  {
-    "id": "LK-9154100",
-    "name": "Molamura",
-    "name_si": "\u0db8\u0ddc\u0dbd\u0db8\u0dd4\u0dbb\u0dda",
-    "name_ta": NaN,
-    "area_sqkm": 10.80381595,
-    "center_lat": 6.6073885,
-    "center_lon": 80.8375665
-  },
-  {
-    "id": "LK-9154215",
-    "name": "Kongahamankada",
-    "name_si": "\u0d9a\u0ddd\u0db1\u0dca\u0d9c\u0dc4\u0db8\u0d82\u0d9a\u0da9",
-    "name_ta": NaN,
-    "area_sqkm": 8.63117043,
-    "center_lat": 6.59375924,
-    "center_lon": 80.86494658
-  },
-  {
-    "id": "LK-9154220",
-    "name": "Kalupedigama",
-    "name_si": "\u0d9a\u0dbd\u0dd4\u0db4\u0dda\u0da9\u0dd2\u0d9c\u0db8",
-    "name_ta": NaN,
-    "area_sqkm": 5.73604708,
-    "center_lat": 6.57823161,
-    "center_lon": 80.84906309
-  },
-  {
-    "id": "LK-9154225",
-    "name": "Diyavinna",
-    "name_si": "\u0daf\u0dd2\u0dba\u0dc0\u0dd2\u0db1\u0dca\u0db1",
-    "name_ta": NaN,
-    "area_sqkm": 32.23897731,
-    "center_lat": 6.55048205,
-    "center_lon": 80.83549665
   },
   {
     "id": "LK-9203005",
