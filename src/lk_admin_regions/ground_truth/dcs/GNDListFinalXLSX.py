@@ -1,3 +1,4 @@
+import json
 import os
 
 import pandas as pd
@@ -5,25 +6,20 @@ from utils import Log, TSVFile
 
 log = Log("GNDListFinalXLSX")
 
-"""
-{'Serial Number': 1, 'GND_UID': 1103005.0, 'Province_Code': 1.0, 'Province_Name': 'Western', 'District_Code': 11.0, 'District_Name': 'Colombo', 'DSD_ Code': 3.0, 'DSD_Name': 'Colombo', 'GND_ Code': 5.0, 'GND_Name': 'Sammanthranapura', 'GND_NUM': ' ', 'LGD_Code': 11, 'LGD_Name': 'Colombo MC', 'Polling Division_Code': 1, 'Polling Division_Name': 'Clombo North'}
-"""
-
 
 class GNDListFinalXLSX:
     GROUND_TRUTH_PATH = os.path.join(
-        "data_ground_truth", "gnd_list_final", "GNDList_Final.xlsx"
+        "data_ground_truth", "dsc_gnd_list_final", "GNDList_Final.xlsx"
     )
-    DATA_PATH = os.path.join("data", "gnd.tsv")
+    DATA_PATH = os.path.join("data_temp", "gnd-dcs.tsv")
 
     @classmethod
     def to_list_of_dicts(cls):
-
         df = pd.read_excel(cls.GROUND_TRUTH_PATH)
         return df.to_dict(orient="records")
 
     @classmethod
-    def get_d_gnd_from_row(cls, d):
+    def get_d_gnd_from_row(cls, d):  # noqa: CFQ001
         if str(d["GND_UID"]) in ["", "nan"]:
             return None
         gnd_uid = f"{int(d["GND_UID"])}"
@@ -99,8 +95,11 @@ class GNDListFinalXLSX:
 
     @classmethod
     def build_gnd_table(cls):
-        gnd_list = [cls.get_d_gnd_from_row(d) for d in cls.to_list_of_dicts()]
+        raw_d_list = cls.to_list_of_dicts()
+        log.debug(f"d={json.dumps(raw_d_list[0], indent=2)}")
+        gnd_list = [cls.get_d_gnd_from_row(d) for d in raw_d_list]
         gnd_list = [d for d in gnd_list if d is not None]
+
         gnd_file = TSVFile(cls.DATA_PATH)
         gnd_file.write(gnd_list)
         log.info(f"Wrote {len(gnd_list):,} rows to {gnd_file}")

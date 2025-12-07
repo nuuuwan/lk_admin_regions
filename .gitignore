@@ -1,6 +1,5 @@
-# HACK Ignore until we find a better way to manage large files
-*lka_admbnda_adm4_slsd_20220816* 
-*_local.*
+*.geojson.zip
+data_ground_truth/humdata_cod_ab_lka/lka_admin_boundaries
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
