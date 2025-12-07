@@ -1,6 +1,6 @@
 import os
 
-from utils import Log, TSVFile
+from utils import JSONFile, Log, TSVFile
 
 from lk_admin_regions.ground_truth.humdata import LKAAdminBoundariesXLSX
 
@@ -38,11 +38,19 @@ class BuildEnts:
         d_list.sort(key=lambda d: d["id"])
 
         os.makedirs(cls.DIR_DATA_ENTS, exist_ok=True)
+
+        # tsv
         tsv_path = os.path.join(cls.DIR_DATA_ENTS, f"{ent_type_name}s.tsv")
         tsv_file = TSVFile(tsv_path)
         tsv_file.write(d_list)
         n = len(d_list)
         log.info(f"Wrote {n} ents to {tsv_file}")
+
+        # JSON
+        json_path = os.path.join(cls.DIR_DATA_ENTS, f"{ent_type_name}s.json")
+        json_file = JSONFile(json_path)
+        json_file.write(d_list)
+        log.info(f"Wrote {n} ents to {json_file}")
 
     @classmethod
     def build_all(cls):
