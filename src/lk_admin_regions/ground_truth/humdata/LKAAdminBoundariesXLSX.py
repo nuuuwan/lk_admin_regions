@@ -1,8 +1,7 @@
-import json
 import os
 
 import pandas as pd
-from utils import File, JSONFile, Log
+from utils import File, Log
 
 log = Log("LKAAdminBoundariesXLSX")
 

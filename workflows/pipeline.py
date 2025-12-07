@@ -1,4 +1,4 @@
-from lk_admin_regions import BuildEnts, BuildGeo
+from lk_admin_regions import BuildGeo
 
 if __name__ == "__main__":
     # BuildEnts.build_all()
