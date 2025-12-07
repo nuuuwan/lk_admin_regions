@@ -4,3 +4,4 @@ geopandas
 RapidFuzz
 topojson
 geojson
+rapidfuzz

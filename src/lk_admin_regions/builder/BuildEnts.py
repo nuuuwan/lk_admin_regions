@@ -1,10 +1,15 @@
 import os
 
+from rapidfuzz import fuzz
 from utils import JSONFile, Log, TSVFile
 
+from lk_admin_regions.ground_truth.dcs.GNDListFinalXLSX import GNDListFinalXLSX
 from lk_admin_regions.ground_truth.humdata import LKAAdminBoundariesXLSX
 
 log = Log("BuildEnts")
+
+LIM_FUZZ_RATIO = 80
+LIM_FUZZ_RATIO2 = 60
 
 
 class BuildEnts:
@@ -88,6 +93,82 @@ class BuildEnts:
                 func_raw_d_to_ent_d,
             )
 
+    @staticmethod
+    def fuzzy_match(a, b):
+        # replace non alphanumeric characters with space
+        a = "".join(c if c.isalnum() else "" for c in str(a))
+        a = a.lower()
+        b = "".join(c if c.isalnum() else "" for c in str(b))
+        b = b.lower()
+        return fuzz.ratio(a, b)
 
-if __name__ == "__main__":
-    BuildEnts.build_all()
+    @classmethod
+    def merge_pds(cls):
+        gnd_dcs_d_list = GNDListFinalXLSX.load_all()
+        gnd_dcs_idx = {d["gnd_id"]: d for d in gnd_dcs_d_list}
+        gnd_ent_list = JSONFile(
+            os.path.join(cls.DIR_DATA_ENTS, "gnds.json")
+        ).read()
+        gnd_ent_idx = {d["id"]: d for d in gnd_ent_list}
+
+        n_all = 0
+        ent_minus_dcs_ent_list = []
+        ent_and_dcs_ent_list = []
+        for gnd_id, gnd_ent in gnd_ent_idx.items():
+            gnd_dcs = gnd_dcs_idx.get(gnd_id)
+
+            n_all += 1
+            if gnd_dcs is not None and (
+                cls.fuzzy_match(gnd_ent["name"], gnd_dcs["gnd_name"])
+                >= LIM_FUZZ_RATIO2
+                or str(gnd_ent["name"]) == "nan"
+            ):
+                ent_and_dcs_ent_list.append(gnd_ent | gnd_dcs)
+            else:
+                ent_minus_dcs_ent_list.append(gnd_ent)
+
+        n_ent_minus_dcs = len(ent_minus_dcs_ent_list)
+        log.info(f"{n_all=}")
+        log.error(f"{n_ent_minus_dcs=}")
+
+        dcs_minus_gnd_ent_list = []
+        for gnd_id, gnd_dcs in gnd_dcs_idx.items():
+            gnd_ent = gnd_ent_idx.get(gnd_id)
+            if not (
+                gnd_ent is not None
+                and cls.fuzzy_match(gnd_ent["name"], gnd_dcs["gnd_name"])
+                >= LIM_FUZZ_RATIO
+            ):
+                dcs_minus_gnd_ent_list.append(gnd_dcs)
+
+        n_dcs_minus_ent = len(dcs_minus_gnd_ent_list)
+        log.error(f"{n_dcs_minus_ent=}")
+
+        ent_and_dcs_ent_list_name_match = []
+        ent_minus_dcs_no_name_match = []
+        for gnd_ent in ent_minus_dcs_ent_list:
+
+            matches = []
+            for gnd_dcs in dcs_minus_gnd_ent_list:
+                if gnd_dcs["district_id"] == gnd_ent["id"][:5]:
+                    fuzz_ratio = cls.fuzzy_match(
+                        gnd_ent["name"], gnd_dcs["gnd_name"]
+                    )
+                    if fuzz_ratio >= LIM_FUZZ_RATIO:
+                        matches.append((fuzz_ratio, gnd_ent))
+
+            if matches:
+                matches.sort(reverse=True, key=lambda x: x[0])
+                _, best_match = matches[0]
+                ent_and_dcs_ent_list_name_match.append(best_match | gnd_dcs)
+            else:
+                ent_minus_dcs_no_name_match.append(gnd_ent)
+
+        n_name_match = len(ent_and_dcs_ent_list_name_match)
+        log.info(f"{n_name_match=}")
+
+        n_no_name_match = len(ent_minus_dcs_no_name_match)
+        log.error(f"{n_no_name_match=}")
+
+        # for gnd_ent in ent_minus_dcs_no_name_match:
+        #     print(gnd_ent["id"], gnd_ent["name"])
