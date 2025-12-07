@@ -181,5 +181,5 @@ class BuildGeo:
                 log.info(f"✅ Wrote {json_file}")
 
     @staticmethod
-    def _HACK_delete_large_files():
+    def HACK_delete_large_files():
         os.system("find data -type f -size +25M -delete")
