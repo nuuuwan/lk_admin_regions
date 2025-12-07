@@ -1,6 +1,7 @@
 import os
 import shutil
 
+import topojson as tp
 from shapely.geometry import mapping, shape
 from utils import File, JSONFile, Log
 
@@ -42,21 +43,23 @@ class BuildGeo:
             new_geojson_path = cls.get_ent_geojson_path(
                 "original", ent_type_name
             )
-            if (
-                os.path.getsize(geojson_path)
-                <= cls.MAX_FILE_SIZE_M * 1_000_000
-            ):
+            if not os.path.exists(new_geojson_path):
+                if (
+                    os.path.getsize(geojson_path)
+                    <= cls.MAX_FILE_SIZE_M * 1_000_000
+                ):
 
-                shutil.copyfile(geojson_path, new_geojson_path)
-                log.info(f"✅ Wrote {File(new_geojson_path)}")
-            else:
-                log.warning(
-                    f"⚠️ Not writing {new_geojson_path}."
-                    + f" {File(geojson_path)} is too large."
-                )
+                    shutil.copyfile(geojson_path, new_geojson_path)
+                    log.info(f"✅ Wrote {File(new_geojson_path)}")
+                else:
+                    log.warning(
+                        f"⚠️ Not writing {new_geojson_path}."
+                        + f" {File(geojson_path)} is too large."
+                    )
 
             cls.build_multipolygon_json(ent_type_name, level, id_len)
             cls.build_small_geojson(ent_type_name, level)
+            cls.build_topjson(new_geojson_path)
 
     @classmethod
     def build_multipolygon_json(cls, ent_type_name, level, id_len):
@@ -138,7 +141,7 @@ class BuildGeo:
                 ):
                     log.warning(
                         f"⚠️  Not writing {simplified_geojson_file}."
-                        + f" Size {simplified_geojson_file.size / 1_000_000:.1f}MB"
+                        + f" {simplified_geojson_file}"
                         + " is too large even after simplification"
                         + f" with tolerance={tolerance}."
                     )
@@ -148,3 +151,17 @@ class BuildGeo:
                         f"✅ Wrote {simplified_geojson_file}"
                         + f" ({compression_p:.1%} of original)"
                     )
+
+    @classmethod
+    def build_topjson(cls, geojson_path):
+        topojson_path = geojson_path.replace(".geojson", ".topojson")
+        topojson_file = JSONFile(topojson_path)
+        if topojson_file.exists:
+            return
+
+        geojson_file = File(geojson_path)
+        geojson_data = geojson_file.read()
+        topojson_data = tp.Topology(geojson_data).to_dict()
+        topojson_file = JSONFile(topojson_path)
+        topojson_file.write(topojson_data)
+        log.info(f"✅ Converted {geojson_file} to {topojson_file}")
