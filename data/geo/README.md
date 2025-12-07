@@ -1,5 +1,7 @@
 # Geo Data
 
+## Regions
+
 This repository contains geographic information for five levels of administrative regions:
 
 0. Country
@@ -7,6 +9,10 @@ This repository contains geographic information for five levels of administrativ
 2. Administrative District
 3. Divisional Secretariat Division (DSD)
 4. Grama Niladhari Division (GND)
+
+To avoid violating GitHub's file size limits, files **exceeding 20MB** have been excluded from this repo.
+
+## File Formats
 
 The geographic data is represented in three file formats:
 
