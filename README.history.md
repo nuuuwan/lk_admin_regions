@@ -1,4 +1,4 @@
-# A Brief History of Administrative Regions in Sri Lanka
+# History of Administrative Regions in Sri Lanka
 
 ## Pre-1833: Before Unification
 
