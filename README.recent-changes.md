@@ -8,7 +8,7 @@
 
 **Ampara (`LK-52`)**
 
-- Kalmunai North (`LK-5221`) + Kalmunai (`LK-5224`) → Kalmunai (`LK-5224`)
+- Kalmunai North (`LK-5221`) + Kalmunai (`LK-5224`) → Kalmunai (`LK-5221`)
 
 Kalmunai North (the Tamil Division) was never cleanly merged or abolished — it was created without the land and financial powers other DSDs hold. The imbalance traces to 1987 (Gazette 453/19), when Kalmunai's councils were amalgamated with the Muslim sub-office controlling land and finance, and to 1993, when Kalmunai North was nominally upgraded to DSD status but blocked from exercising those powers by political decisions. The grievance flared again in March 2024, when a government move to formally subordinate it under Kalmunai South triggered protests. So the subordination dates to inception (1987/1993) rather than any single later event.
 
