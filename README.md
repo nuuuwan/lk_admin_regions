@@ -64,7 +64,8 @@ The DCS coding system is similar to ISO 3166-2, first published in December 1998
 
 ## 📖 Appendix: Other Resources
 
-- [A Brief History of Administrative Regions in Sri Lanka](README.history.md).
+- [History of Administrative Regions in Sri Lanka](README.history.md).
+- [Recent Changes to Administrative Regions](README.recent-changes.md).
 
 ### [More Datasets about 🇱🇰 #SriLanka](https://github.com/nuuuwan/lk_datasets)
 
