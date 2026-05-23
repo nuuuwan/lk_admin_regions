@@ -6,9 +6,8 @@ import topojson as tp
 from utils import File, JSONFile, Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
-    LKAAdminBoundariesXLSX,
-)
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
+    LKAAdminBoundariesXLSX
 
 log = Log("ModuleName")
 
@@ -20,7 +19,9 @@ class BuildGeo:
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
+    def get_ent_xjson_path(
+        cls, json_type, dir_name_simplified, ent_type_name
+    ):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -69,7 +70,9 @@ class BuildGeo:
             if precision_label != "original":
 
                 original_geojson_path = (
-                    LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level)
+                    LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(
+                        level
+                    )
                 )
                 topojson_file = JSONFile(
                     cls.get_ent_xjson_path(
@@ -188,7 +191,9 @@ class BuildGeo:
         n_success = 0
         for ent_type_name, _, __ in BuildEnts.ENT_CONFIG:
             ents = JSONFile(
-                os.path.join(BuildEnts.DIR_DATA_ENTS, f"{ent_type_name}s.json")
+                os.path.join(
+                    BuildEnts.DIR_DATA_ENTS, f"{ent_type_name}s.json"
+                )
             ).read()
             for ent in ents:
                 plain_json_path = os.path.join(
