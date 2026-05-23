@@ -63,7 +63,7 @@ def compare(dcs_region_label, hum_admin_level):
             len(data_hum[hum_sheet_name]),
         )
     region_id_to_name_hum = {
-        d[dcs_region_id_key]: d[hum_region_name_key]
+        d[dcs_region_id_key]: str(d[hum_region_name_key])
         for d in data_hum_corrected
     }
 
@@ -93,10 +93,6 @@ def compare(dcs_region_label, hum_admin_level):
         match_score = fuzz.ratio(dcs_name, hum_name)
         if match_score < NAME_MATCH_THRESHOLD:
             hum_minus_dcs.add(hum_id)
-
-    print("DCS ^ HUM = ", n_match_0)
-    print("DCS - HUM = ", len(dcs_minus_hum))
-    print("HUM - DCS = ", len(hum_minus_dcs))
 
     parent_id_to_hum_ids = {}
     for hum_id in hum_minus_dcs:
@@ -162,7 +158,7 @@ def compare(dcs_region_label, hum_admin_level):
                 continue
             # 1.c
             dcs_name = region_id_to_name_dcs[dcs_id]
-            match_score = fuzz.ratio(dcs_name, str(hum_name))
+            match_score = fuzz.ratio(dcs_name, hum_name)
             if match_score < 80:
                 continue
             match_list.append((dcs_id, dcs_name, match_score))
@@ -220,7 +216,7 @@ def compare(dcs_region_label, hum_admin_level):
             for hum_id, dcs_id in zip(hum_ids, dcs_ids):
                 hum_name = region_id_to_name_hum[hum_id]
                 dcs_name = region_id_to_name_dcs[dcs_id]
-                match_score = fuzz.ratio(dcs_name, str(hum_name))
+                match_score = fuzz.ratio(dcs_name, hum_name)
                 n_match_2 += 1
                 lines.append(
                     "    "
@@ -265,12 +261,18 @@ def compare(dcs_region_label, hum_admin_level):
     lines_file.write("\n".join(lines))
     print(f"Wrote {lines_file}")
 
+    print("-" * 32)
+    print("DCS ^ HUM = ", n_match_0)
+    print("DCS - HUM = ", len(dcs_minus_hum))
+    print("HUM - DCS = ", len(hum_minus_dcs))
+    print("TOTAL MISMATCHES = ", len(dcs_minus_hum) + len(hum_minus_dcs))
+
 
 if __name__ == "__main__":
     for dcs_region_label, hum_admin_level in [
         # ("province", 1),
         # ("district", 2),
-        ("dsd", 3),
-        # ("gnd", 4),
+        # ("dsd", 3),
+        ("gnd", 4),
     ]:
         compare(dcs_region_label, hum_admin_level)
