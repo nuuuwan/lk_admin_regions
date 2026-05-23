@@ -12,6 +12,7 @@ from lk_admin_regions.corrections.ID_CORRECTION_MAP_gnd import (
 )
 
 ID_CORRECTION_MAP = ID_CORRECTION_MAP_dsd | ID_CORRECTION_MAP_gnd
+NAME_MATCH_THRESHOLD = 0.75
 
 
 def correct(d_list, dcs_region_key, hum_region_key):
@@ -66,14 +67,36 @@ def compare(dcs_region_label, hum_admin_level):
         for d in data_hum_corrected
     }
 
-    print(len(region_id_to_name_dcs), next(iter(region_id_to_name_dcs.keys())))
-    print(len(region_id_to_name_hum), next(iter(region_id_to_name_hum.keys())))
+    # IMPORTANT: For a DCS and HUM region to match,
+    # they should match in both id (exactly) name (similar)
 
-    dcs_region_ids = set(region_id_to_name_dcs.keys())
-    hum_region_ids = set(region_id_to_name_hum.keys())
+    dcs_minus_hum = set()
+    n_match_0 = 0
+    for dcs_id, dcs_name in region_id_to_name_dcs.items():
+        hum_name = region_id_to_name_hum.get(dcs_id)
+        if hum_name is None:
+            dcs_minus_hum.add(dcs_id)
+            continue
 
-    dcs_minus_hum = set(dcs_region_ids - hum_region_ids)
-    hum_minus_dcs = set(hum_region_ids - dcs_region_ids)
+        match_score = fuzz.ratio(dcs_name, hum_name)
+        if match_score < NAME_MATCH_THRESHOLD:
+            dcs_minus_hum.add(dcs_id)
+
+        n_match_0 += 1
+
+    hum_minus_dcs = set()
+    for hum_id, hum_name in region_id_to_name_hum.items():
+        dcs_name = region_id_to_name_dcs.get(hum_id)
+        if dcs_name is None:
+            hum_minus_dcs.add(hum_id)
+            continue
+        match_score = fuzz.ratio(dcs_name, hum_name)
+        if match_score < NAME_MATCH_THRESHOLD:
+            hum_minus_dcs.add(hum_id)
+
+    print("DCS ^ HUM = ", n_match_0)
+    print("DCS - HUM = ", len(dcs_minus_hum))
+    print("HUM - DCS = ", len(hum_minus_dcs))
 
     parent_id_to_hum_ids = {}
     for hum_id in hum_minus_dcs:
@@ -92,9 +115,6 @@ def compare(dcs_region_label, hum_admin_level):
         if parent_region_id not in parent_id_to_dcs_ids:
             parent_id_to_dcs_ids[parent_region_id] = []
         parent_id_to_dcs_ids[parent_region_id].append(dcs_id)
-
-    print("len(dcs_minus_hum)=", len(dcs_minus_hum))
-    print("len(hum_minus_dcs)=", len(hum_minus_dcs))
 
     all_parent_ids = set(parent_id_to_hum_ids.keys()) | set(
         parent_id_to_dcs_ids.keys()
@@ -250,7 +270,7 @@ if __name__ == "__main__":
     for dcs_region_label, hum_admin_level in [
         # ("province", 1),
         # ("district", 2),
-        # ("dsd", 3),
-        ("gnd", 4),
+        ("dsd", 3),
+        # ("gnd", 4),
     ]:
         compare(dcs_region_label, hum_admin_level)
