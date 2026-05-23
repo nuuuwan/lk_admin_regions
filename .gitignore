@@ -1,6 +1,7 @@
 *.geojson.zip
 data_ground_truth/humdata_cod_ab_lka/lka_admin_boundaries
 .DS_Store
+*.DRAFT.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
