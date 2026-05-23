@@ -75,25 +75,44 @@ def compare(dcs_region_label, hum_admin_level):
     dcs_minus_hum = set(dcs_region_ids - hum_region_ids)
     hum_minus_dcs = set(hum_region_ids - dcs_region_ids)
 
-    print("len(dcs_minus_hum)=", len(dcs_minus_hum))
-    if dcs_minus_hum:
-        for region_id in list(sorted(dcs_minus_hum))[:10]:
-            print(
-                "\t- ",
-                region_id,
-                region_id_to_name_dcs[region_id],
-            )
-        print("...")
+    parent_id_to_hum_ids = {}
+    for hum_id in hum_minus_dcs:
+        parent_region_id = hum_id[:-3]
+        if parent_region_id in ["LK-5221", "LK-5224"]:
+            parent_region_id = "LK-5221/5224"
 
+        if parent_region_id not in parent_id_to_hum_ids:
+            parent_id_to_hum_ids[parent_region_id] = []
+        parent_id_to_hum_ids[parent_region_id].append(hum_id)
+    parent_id_to_dcs_ids = {}
+    for dcs_id in dcs_minus_hum:
+        parent_region_id = dcs_id[:-3]
+        if parent_region_id in ["LK-5221", "LK-5224"]:
+            parent_region_id = "LK-5221/5224"
+        if parent_region_id not in parent_id_to_dcs_ids:
+            parent_id_to_dcs_ids[parent_region_id] = []
+        parent_id_to_dcs_ids[parent_region_id].append(dcs_id)
+
+    print("len(dcs_minus_hum)=", len(dcs_minus_hum))
     print("len(hum_minus_dcs)=", len(hum_minus_dcs))
-    if hum_minus_dcs:
-        for region_id in list(sorted(hum_minus_dcs))[:10]:
-            print(
-                "\t- ",
-                region_id,
-                region_id_to_name_hum[region_id],
-            )
-        print("...")
+
+    all_parent_ids = set(parent_id_to_hum_ids.keys()) | set(
+        parent_id_to_dcs_ids.keys()
+    )
+    all_parent_ids = sorted(all_parent_ids)
+    for parent_id in all_parent_ids:
+        hum_ids = parent_id_to_hum_ids.get(parent_id, [])
+        dcs_ids = parent_id_to_dcs_ids.get(parent_id, [])
+        print(parent_id, len(dcs_ids), "DCS", len(hum_ids), "HUM")
+        for dcs_id in dcs_ids:
+            dcs_name = region_id_to_name_dcs[dcs_id]
+            print("\t- DCS ", dcs_id, dcs_name)
+        for hum_id in hum_ids:
+            hum_name = region_id_to_name_hum[hum_id]
+            print("\t- HUM ", hum_id, hum_name)
+        print("-" * 16)
+
+    # ATTEMPT TO MATCH
 
     lines.extend(
         [
@@ -110,7 +129,7 @@ def compare(dcs_region_label, hum_admin_level):
     # c) belonging to the same parent region.
     previous_parent_region_id = None
     n_match_1 = 0
-    hum_minus_dcs = set(sorted(hum_minus_dcs))
+    hum_minus_dcs = sorted(hum_minus_dcs)
     for hum_id in hum_minus_dcs:
         hum_name = region_id_to_name_hum[hum_id]
         match_list = []
@@ -163,23 +182,11 @@ def compare(dcs_region_label, hum_admin_level):
                 "    #",
             ]
         )
-        parent_id_to_hum_ids = {}
-        for hum_id in hum_minus_dcs:
-            parent_region_id = hum_id[:-3]
-            if parent_region_id not in parent_id_to_hum_ids:
-                parent_id_to_hum_ids[parent_region_id] = []
-            parent_id_to_hum_ids[parent_region_id].append(hum_id)
-        parent_id_to_dcs_ids = {}
-        for dcs_id in dcs_minus_hum:
-            parent_region_id = dcs_id[:-3]
-            if parent_region_id not in parent_id_to_dcs_ids:
-                parent_id_to_dcs_ids[parent_region_id] = []
-            parent_id_to_dcs_ids[parent_region_id].append(dcs_id)
 
         for parent_id, hum_ids in parent_id_to_hum_ids.items():
-            hum_ids = set(sorted(hum_ids))
+            hum_ids = sorted(hum_ids)
             dcs_ids = parent_id_to_dcs_ids.get(parent_id, [])
-            dcs_ids = set(sorted(dcs_ids))
+            dcs_ids = sorted(dcs_ids)
             if len(hum_ids) != len(dcs_ids):
                 continue
             print("\tPARENT ", parent_id)

@@ -168,4 +168,39 @@ ID_CORRECTION_MAP_gnd = {
     "LK-8218210": "LK-8218090",  # 006. nan -> Pussellawa (15)
     "LK-2215285": "LK-2215150",  # 007. nan -> Aluthwatta (15)
     "LK-2221150": "LK-2221090",  # 008. nan -> Aluthwela (17)
+    #
+    # ================================================================
+    # MATCH 2 - Parent with same num of unmatched HUM & DCS
+    # ‼️ HACK for Kalmunai North
+    # ================================================================
+    #
+    "LK-5224150": "LK-5221005",  # 001. nan -> Periyaneelavanai  01B (17)
+    "LK-5224155": "LK-5221010",  # 002. nan -> Periyaneelavanai  01A (17)
+    "LK-5224160": "LK-5221015",  # 003. nan -> Periyaneelavanai  01 (17)
+    "LK-5224165": "LK-5221020",  # 004. nan -> Periyaneelavanai  02 (17)
+    "LK-5224170": "LK-5221025",  # 005. nan -> Chenaikudiyiruppu 01A (17)
+    "LK-5224175": "LK-5221030",  # 006. nan -> Pandiruppu 01 (25)
+    "LK-5224180": "LK-5221035",  # 007. nan -> Pandiruppu 01B (24)
+    "LK-5224185": "LK-5221040",  # 008. nan -> Pandiruppu 01C (24)
+    "LK-5224190": "LK-5221045",  # 009. nan -> Pandiruppu 01A (24)
+    "LK-5224195": "LK-5221050",  # 010. nan -> Pandiruppu 02_x000D_ (17)
+    "LK-5224200": "LK-5221055",  # 011. nan -> Pandiruppu 02B (24)
+    "LK-5224205": "LK-5221060",  # 012. nan -> Pandiruppu 02C (24)
+    "LK-5224210": "LK-5221065",  # 013. nan -> Pandiruppu 02A (24)
+    "LK-5224215": "LK-5221070",  # 014. nan -> Kalmunai  01D (25)
+    "LK-5224230": "LK-5221075",  # 015. nan -> Kalmunai  01B (25)
+    "LK-5224235": "LK-5221080",  # 016. nan -> Kalmunai  01A (25)
+    "LK-5224240": "LK-5221085",  # 017. nan -> Kalmunai  01 (27)
+    "LK-5224245": "LK-5221090",  # 018. nan -> Natpiddimunai (T.P ) 03 (15)
+    "LK-5224250": "LK-5221095",  # 019. nan -> Natpiddimunai (T.P ) 02 (15)
+    "LK-5224255": "LK-5221100",  # 020. nan -> Natpiddimunai (T.P ) 01 (15)
+    "LK-5224260": "LK-5221105",  # 021. nan -> Chenaikudiyiruppu 01B (17)
+    "LK-5224265": "LK-5221110",  # 022. nan -> Chenaikudiyiruppu 01 (17)
+    "LK-5224270": "LK-5221115",  # 023. nan -> Kalmunai  01C (25)
+    "LK-5224275": "LK-5221120",  # 024. nan -> Kalmunai  01E (25)
+    "LK-5224280": "LK-5221125",  # 025. nan -> Kalmunai  02B (25)
+    "LK-5224285": "LK-5221130",  # 026. nan -> Kalmunai  02A (25)
+    "LK-5224290": "LK-5221135",  # 027. nan -> Kalmunai  02 (27)
+    "LK-5224295": "LK-5221140",  # 028. nan -> Kalmunai  03 (27)
+    "LK-5224300": "LK-5221145",  # 029. nan -> Kalmunai  03A (25)
 }
