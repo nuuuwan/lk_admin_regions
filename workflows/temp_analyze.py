@@ -38,7 +38,7 @@ def correct(d_list, dcs_region_key, hum_region_key):
 
 def compare(dcs_region_label, hum_admin_level):
     print("-" * 32)
-    print("LEVEL ", hum_admin_level)
+    print("LEVEL ", hum_admin_level, dcs_region_label)
     print("-" * 32)
 
     dcs_region_id_key = f"{dcs_region_label}_id"
@@ -123,8 +123,8 @@ def compare(dcs_region_label, hum_admin_level):
 
 if __name__ == "__main__":
     for dcs_region_label, hum_admin_level in [
-        # ("province", 1),
-        # ("district", 2),
+        ("province", 1),
+        ("district", 2),
         ("dsd", 3),
         # ("gnd", 4),
     ]:
