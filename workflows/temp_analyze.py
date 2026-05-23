@@ -3,28 +3,35 @@ from fuzzywuzzy import fuzz
 from lk_admin_regions import GNDListFinalXLSX, LKAAdminBoundariesXLSX
 
 ID_CORRECTION_MAP = {
-    "LK-2304": "LK-2321",  # Kothmale West
-    "LK-2307": "LK-2318",  # Mathurata
-    "LK-2310": "LK-2309",  # Niladandahinna
-    "LK-2309": "LK-2324",  # Walapane
-    "LK-2313": "LK-2327",  # Thalawakelle
-    "LK-2316": "LK-2330",  # Norwood
-    "LK-3137": "LK-3163",  # Rathgama
-    "LK-3138": "LK-3160",  # Madampagama
-    "LK-3128": "LK-3157",  # Wanduramba
-    "LK-9119": "LK-9154",  # Kaltota
+    "LK-2321": "LK-2302",  # Kothmale West
+    "LK-2318": "LK-2307",  # Mathurata
+    "LK-2309": "LK-2310",  # Niladandahinna
+    "LK-2324": "LK-2309",  # Walapane
+    "LK-2327": "LK-2313",  # Thalawakelle
+    "LK-2330": "LK-2314",  # Norwood
+    #
+    "LK-3163": "LK-3137",  # Rathgama
+    "LK-3160": "LK-3135",  # Madampagama
+    "LK-3157": "LK-3128",  # Wanduramba
+    #
+    "LK-5115": "LK-5112",  # Eravur Pattu
+    "LK-5139": "LK-5115",  # Eravur Town
+    #
+    "LK-5221": "LK-5224",  # Kalmunai
+    #
+    "LK-9154": "LK-9119",  # Kaltota
 }
 
 
-def correct(d_list, gcs_region_key, hum_region_key):
+def correct(d_list, dcs_region_key, hum_region_key):
 
     corrected_d_list = []
     for d in d_list:
+        region_id = "LK-" + d[hum_region_key][2:]
         for before, after in ID_CORRECTION_MAP.items():
-            region_id = "LK-" + d[hum_region_key][2:]
-            # if before in d[hum_region_key]:
-            #     region_id = region_id.replace(before, after)
-            d[gcs_region_key] = region_id
+            if before in region_id:
+                region_id = region_id.replace(before, after)
+        d[dcs_region_key] = region_id
         corrected_d_list.append(d)
     return corrected_d_list
 
@@ -45,11 +52,19 @@ def compare(dcs_region_label, hum_admin_level):
     region_id_to_name_dcs = {
         d[dcs_region_id_key]: d[dcs_region_name_key] for d in data_dcs
     }
+
+    data_hum_corrected = correct(
+        data_hum[hum_sheet_name], dcs_region_id_key, hum_region_id_key
+    )
+    if len(data_hum_corrected) != len(data_hum[hum_sheet_name]):
+        print(
+            "❌ HUM DUPLICATE IDS",
+            len(data_hum_corrected),
+            len(data_hum[hum_sheet_name]),
+        )
     region_id_to_name_hum = {
         d[dcs_region_id_key]: d[hum_region_name_key]
-        for d in correct(
-            data_hum[hum_sheet_name], dcs_region_id_key, hum_region_id_key
-        )
+        for d in data_hum_corrected
     }
 
     print(len(region_id_to_name_dcs), next(iter(region_id_to_name_dcs.keys())))
