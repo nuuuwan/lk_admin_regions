@@ -32,8 +32,13 @@ class GNDListFinalXLSX:
             # province
             d["province_id"] = d["gnd_id"][:4]
             # pd
-            d["pd_code"] = d["Polling Division_Code"]
-            d["pd_name"] = d["Polling Division_Name"]
+
+            pd_code_raw = int(
+                str(d["Polling Division_Code"]).split("/")[0].strip()
+            )
+            d["pd_code"] = f"{pd_code_raw:03d}"
+
+            d["pd_name"] = d["Polling Division_Name"].split("/")[0].strip()
             # lg
             d["lg_code"] = d["LGD_Code"]
             d["lg_name"] = d["LGD_Name"]
