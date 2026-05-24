@@ -1,6 +1,7 @@
 import json
 import os
 
+import matplotlib.pyplot as plt
 import topojson as tp
 from utils import File, JSONFile, Log
 
@@ -138,12 +139,64 @@ class BuildGeo:
         log.info(f"✅ Wrote {n_written} raw JSON files to {dir_raw}")
 
     @classmethod
+    def build_image(cls, ent_type_name, original_geojson_path):
+
+        geojson_data = JSONFile(original_geojson_path).read()
+
+        dir_images = os.path.join(cls.DIR_DATA_GEO, "images", "original")
+        os.makedirs(dir_images, exist_ok=True)
+        image_path = os.path.join(dir_images, f"{ent_type_name}.png")
+
+        fig, ax = plt.subplots(figsize=(10, 12))
+
+        features = geojson_data["features"]
+        cmap = plt.get_cmap("tab20")
+        n = len(features)
+
+        for i, feature in enumerate(features):
+            geometry = feature["geometry"]
+            geom_type = geometry["type"]
+            color = cmap(i % cmap.N)
+
+            if geom_type == "Polygon":
+                polygons = [geometry["coordinates"]]
+            elif geom_type == "MultiPolygon":
+                polygons = geometry["coordinates"]
+            else:
+                log.warning(f"Skipping unsupported geometry type {geom_type}")
+                continue
+
+            for polygon in polygons:
+                for ring in polygon:
+                    # GeoJSON stores [lng, lat]; x=lng, y=lat
+                    xs = [pt[0] for pt in ring]
+                    ys = [pt[1] for pt in ring]
+                    ax.fill(
+                        xs,
+                        ys,
+                        facecolor=color,
+                        edgecolor="black",
+                        linewidth=0.3,
+                        alpha=0.7,
+                    )
+
+        ax.set_aspect("equal")
+        ax.set_title(f"{ent_type_name} ({n})")
+        ax.axis("off")
+
+        fig.savefig(image_path, dpi=150, bbox_inches="tight")
+        plt.close(fig)
+
+        log.info(f"✅ Wrote {File(image_path)}")
+
+    @classmethod
     def build_raw_json_geojson_and_topojson(
         cls,
         ent_type_name,
         original_geojson_path,
     ):
 
+        cls.build_image(ent_type_name, original_geojson_path)
         cls.build_raw_json(ent_type_name, original_geojson_path)
 
         topojson_file = cls.build_topojson(
