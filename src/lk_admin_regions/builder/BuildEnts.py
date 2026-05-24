@@ -32,54 +32,35 @@ class BuildEnts:
 
     @classmethod
     def build_denormalized_gnd(cls, raw_d):
-        # Admin Regions
-        country_id = "LK"
-        province_id = raw_d["dcs_province_id"]
-        district_id = raw_d["dcs_district_id"]
-        dsd_id = raw_d["dcs_dsd_id"]
-        gnd_id = raw_d["dcs_gnd_id"]
-
-        gnd_num = raw_d["dcs_gnd_num"]
-
-        country_name = raw_d["hum_adm0_name"] or "Sri Lanka"
-        province_name = raw_d["hum_adm1_name"] or raw_d["dcs_province_name"]
-        district_name = raw_d["hum_adm2_name"] or raw_d["dcs_district_name"]
-        dsd_name = raw_d["hum_adm3_name"] or raw_d["dcs_dsd_name"]
-        gnd_name = raw_d["hum_adm4_name"] or raw_d["dcs_gnd_name"]
-
-        # Other Regions
-        lg_code = raw_d["dcs_lg_code"]
-        pd_code = raw_d["dcs_pd_code"]
-
-        # Geo
-        area_sqkm = raw_d["hum_area_sqkm"]
-        center_lat = raw_d["hum_center_lat"]
-        center_lng = raw_d["hum_center_lon"]
-
         return dict(
             # gnd
-            gnd_id=gnd_id,
-            gnd_name=gnd_name,
-            gnd_num=gnd_num,
-            area_sqkm=area_sqkm,
-            center_lat=center_lat,
-            center_lng=center_lng,
+            gnd_id=raw_d["dcs_gnd_id"],
+            gnd_name=raw_d["hum_adm4_name"] or raw_d["dcs_gnd_name"],
+            gnd_num=raw_d["dcs_gnd_num"],
+            area_sqkm=raw_d["hum_area_sqkm"],
+            center_lat=raw_d["hum_center_lat"],
+            center_lng=raw_d["hum_center_lon"],
             # dsd
-            dsd_id=dsd_id,
-            dsd_name=dsd_name,
+            dsd_id=raw_d["dcs_dsd_id"],
+            dsd_name=raw_d["hum_adm3_name"] or raw_d["dcs_dsd_name"],
             # district
-            district_id=district_id,
-            district_name=district_name,
+            district_id=raw_d["dcs_district_id"],
+            district_name=raw_d["hum_adm2_name"]
+            or raw_d["dcs_district_name"],
             # province
-            province_id=province_id,
-            province_name=province_name,
+            province_id=raw_d["dcs_province_id"],
+            province_name=raw_d["hum_adm1_name"]
+            or raw_d["dcs_province_name"],
             # country
-            country_id=country_id,
-            country_name=country_name,
+            country_id="LK",
+            country_name=raw_d["hum_adm0_name"] or "Sri Lanka",
             # lg
-            lg_code=lg_code,
+            lg_id=raw_d["dcs_lg_id"],
+            lg_name=raw_d["dcs_lg_name"],
+            lg_code=raw_d["dcs_lg_code"],
+            lg_level=raw_d["dcs_lg_level"],
             # pd
-            pd_code=pd_code,
+            pd_code=raw_d["dcs_pd_code"],
         )
 
     @classmethod
@@ -114,49 +95,60 @@ class BuildEnts:
         cls.write_all_types(gnds, os.path.join(cls.DIR_DATA_ENTS, "gnds"))
 
     @classmethod
-    def build_parents(cls):
+    def build_parent(cls, parent_label, expand_gnd=None, extra_fields=[]):
+
         denormalized_gnds = cls.read_denormalized_gnds()
-        for parent_label in ["dsd", "district", "province", "country"]:
-            id_key = f"{parent_label}_id"
-            name_key = f"{parent_label}_name"
+        if expand_gnd:
+            denormalized_gnds = [expand_gnd(gnd) for gnd in denormalized_gnds]
 
-            gnds_by_parent = {}
-            for gnd in denormalized_gnds:
-                parent_id = gnd[id_key]
-                if parent_id not in gnds_by_parent:
-                    gnds_by_parent[parent_id] = []
-                gnds_by_parent[parent_id].append(gnd)
+        id_key = f"{parent_label}_id"
+        name_key = f"{parent_label}_name"
 
-            parents = []
-            for parent_id, gnds_for_parent in gnds_by_parent.items():
-                parent_name = gnds_for_parent[0][name_key]
+        gnds_by_parent = {}
+        for gnd in denormalized_gnds:
+            parent_id = gnd[id_key]
+            if parent_id not in gnds_by_parent:
+                gnds_by_parent[parent_id] = []
+            gnds_by_parent[parent_id].append(gnd)
 
-                w_area_sqkm = 0
-                w_center_lat = 0
-                w_center_lng = 0
-                for gnd in gnds_for_parent:
-                    area_sqkm = float(gnd["area_sqkm"])
-                    w_area_sqkm += area_sqkm
-                    w_center_lat += area_sqkm * float(gnd["center_lat"])
-                    w_center_lng += area_sqkm * float(gnd["center_lng"])
+        parents = []
+        for parent_id, gnds_for_parent in gnds_by_parent.items():
+            parent_name = gnds_for_parent[0][name_key]
 
-                center_lat = w_center_lat / w_area_sqkm if w_area_sqkm else 0
-                center_lng = w_center_lng / w_area_sqkm if w_area_sqkm else 0
+            w_area_sqkm = 0
+            w_center_lat = 0
+            w_center_lng = 0
+            for gnd in gnds_for_parent:
+                area_sqkm = float(gnd["area_sqkm"])
+                w_area_sqkm += area_sqkm
+                w_center_lat += area_sqkm * float(gnd["center_lat"])
+                w_center_lng += area_sqkm * float(gnd["center_lng"])
 
-                parent_d = dict(
-                    id=parent_id,
-                    name=parent_name,
-                    area_sqkm=round(w_area_sqkm, 2),
-                    center_lat=round(center_lat, 6),
-                    center_lng=round(center_lng, 6),
-                )
-                parents.append(parent_d)
+            center_lat = w_center_lat / w_area_sqkm if w_area_sqkm else 0
+            center_lng = w_center_lng / w_area_sqkm if w_area_sqkm else 0
 
-            parents.sort(key=lambda d: d["id"])
-            cls.write_all_types(
-                parents,
-                os.path.join(cls.DIR_DATA_ENTS, f"{parent_label}s"),
+            parent_d = dict(
+                id=parent_id,
+                name=parent_name,
+                area_sqkm=round(w_area_sqkm, 2),
+                center_lat=round(center_lat, 6),
+                center_lng=round(center_lng, 6),
             )
+            for k in extra_fields:
+                parent_d[k] = gnds_for_parent[0][k]
+
+            parents.append(parent_d)
+
+        parents.sort(key=lambda d: d["id"])
+        cls.write_all_types(
+            parents,
+            os.path.join(cls.DIR_DATA_ENTS, f"{parent_label}s"),
+        )
+
+    @classmethod
+    def build_parents(cls):
+        for parent_label in ["dsd", "district", "province", "country"]:
+            cls.build_parent(parent_label)
 
     @classmethod
     def build_all(cls):

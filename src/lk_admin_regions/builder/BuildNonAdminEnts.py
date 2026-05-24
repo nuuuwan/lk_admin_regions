@@ -5,8 +5,9 @@ from fuzzywuzzy import fuzz
 from utils import Log, TSVFile
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildNonAdminEnts")
 
@@ -27,6 +28,14 @@ class BuildNonAdminEnts:
 
     @classmethod
     @cache
+    def get_ed_ground_truth(cls):
+        ed_ground_truth = TSVFile(
+            os.path.join("data_ground_truth", "misc", "eds.tsv")
+        ).read()
+        return ed_ground_truth
+
+    @classmethod
+    @cache
     def get_ed_to_pd(cls):
         pds = TSVFile(
             os.path.join("data_ground_truth", "misc", "pds.tsv")
@@ -42,7 +51,7 @@ class BuildNonAdminEnts:
         return ed_to_pds
 
     @classmethod
-    def build_pds(cls):
+    def get_pd_data_list(cls):
         gnds = CombineDCSAndHumData.get_data_list()
         gnds.sort(
             key=lambda gnd: (
@@ -118,50 +127,58 @@ class BuildNonAdminEnts:
             for d in d_list
         ]
 
-        BuildEnts.write_all_types(d_list, os.path.join("data", "ents", "pds"))
+        return d_list
+
+    @classmethod
+    def build_pds(cls):
+        pd_data_list = cls.get_pd_data_list()
+        pd_data_list_idx = {d["code"]: d for d in pd_data_list}
+
+        def expand_gnd(gnd):
+            pd_code = gnd["pd_code"]
+            pd_data = pd_data_list_idx[pd_code]
+            return gnd | dict(
+                pd_id=pd_data["id"],
+                pd_name=pd_data["name"],
+                pd_code=pd_code,
+            )
+
+        BuildEnts.build_parent("pd", expand_gnd, ["pd_code"])
 
     @classmethod
     def build_eds(cls):
-        eds = TSVFile(
-            os.path.join("data_ground_truth", "misc", "eds.tsv")
-        ).read()
-        BuildEnts.write_all_types(eds, os.path.join("data", "ents", "eds"))
+        district_to_ed = cls.get_distrct_to_ed()
+        ed_ground_truth = cls.get_ed_ground_truth()
+        ed_ground_truth_idx = {d["id"]: d for d in ed_ground_truth}
+
+        def expand_gnd(gnd):
+            district_id = gnd["district_id"]
+            ed_id = district_to_ed[district_id]
+
+            ed_name = ed_ground_truth_idx[ed_id]["name"]
+
+            return gnd | dict(
+                ed_id=ed_id,
+                ed_name=ed_name,
+            )
+
+        BuildEnts.build_parent("ed", expand_gnd)
 
     @classmethod
     def build_lgs(cls):
-        gnds = CombineDCSAndHumData.get_data_list()
-        d_list = []
-        lg_id_set = set()
-        for gnd in gnds:
-            lg_id = gnd["dcs_lg_id"]
-            if lg_id in lg_id_set:
-                continue
-            lg_id_set.add(lg_id)
 
-            lg_code = gnd["dcs_lg_code"]
-            lg_name = gnd["dcs_lg_name"].split("/")[0].strip()
-
-            lg_level = lg_name.split(" ")[-1]
-            if lg_level not in ["MC", "UC", "PS"]:
-                log.warning(
-                    f"Unexpected LG level '{lg_level}'"
-                    + f" for LG '{lg_name}' ({lg_id})."
-                    + " Setting level to 'PS'."
-                )
-                lg_level = "PS"
-
-            d = dict(
-                id=lg_id,
-                name=lg_name,
-                code=lg_code,
-                level=lg_level,
+        def expand_gnd(gnd):
+            return gnd | dict(
+                lg_id=gnd["lg_id"],
+                lg_name=gnd["lg_name"],
+                lg_code=gnd["lg_code"],
+                lg_level=gnd["lg_level"],
             )
-            d_list.append(d)
-        d_list.sort(key=lambda d: d["id"])
-        BuildEnts.write_all_types(d_list, os.path.join("data", "ents", "lgs"))
+
+        BuildEnts.build_parent("lg", expand_gnd, ["lg_code", "lg_level"])
 
     @classmethod
     def build_all(cls):
-        cls.build_pds()
         cls.build_eds()
+        cls.build_pds()
         cls.build_lgs()

@@ -46,6 +46,9 @@ class GNDListFinalXLSX:
             lg_code = f'{int(dcs_lg_code_raw.split("/")[0].strip()):03d}'
             lg_id = f"{d["district_id"]}-{lg_code}"
             d["lg_id"] = lg_id
+            d["lg_level"] = d["lg_name"].split(" ")[-1]
+            if d["lg_level"] not in ["MC", "UC", "PS"]:
+                d["lg_level"] = "PS"
 
         except Exception as e:
             log.error(f"Error processing: {d}: {e}")
