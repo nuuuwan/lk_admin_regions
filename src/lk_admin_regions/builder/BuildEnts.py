@@ -155,11 +155,11 @@ class BuildEnts:
             )
 
     @classmethod
-    def build(cls):
+    def build_all(cls):
         cls.build_denormalized_gnds()
         cls.build_gnds()
         cls.build_parents()
 
 
 if __name__ == "__main__":
-    BuildEnts.build()
+    BuildEnts.build_all()
