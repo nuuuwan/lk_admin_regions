@@ -33,6 +33,7 @@ class GNDListFinalXLSX:
             d["province_id"] = d["gnd_id"][:4]
             # pd
             d["pd_code"] = d["Polling Division_Code"]
+            d["pd_name"] = d["Polling Division_Name"]
             # lg
             d["lg_code"] = d["LGD_Code"]
 

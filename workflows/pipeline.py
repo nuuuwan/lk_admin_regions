@@ -1,12 +1,7 @@
 import os
 
-from lk_admin_regions import (
-    BuildEnts,
-    BuildGeo,
-    BuildNonAdminEnts,
-    CombineDCSAndHumData,
-    GNDListFinalXLSX,
-)
+from lk_admin_regions import (BuildEnts, BuildGeo, BuildNonAdminEnts,
+                              CombineDCSAndHumData, GNDListFinalXLSX)
 
 
 def main():
@@ -30,7 +25,7 @@ def main_test():
 
     BuildNonAdminEnts.build_all()
 
-    # os.system("find data -type f -size +25M -delete")
+    os.system("find data -type f -size +25M -delete")
 
 
 if __name__ == "__main__":

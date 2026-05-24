@@ -2,5 +2,5 @@
 # flake8: noqa: F408
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
-from lk_admin_regions.builder.BuildNonAdminEnts import BuildNonAdminEnts
 from lk_admin_regions.builder.BuildGeo import BuildGeo
+from lk_admin_regions.builder.BuildNonAdminEnts import BuildNonAdminEnts

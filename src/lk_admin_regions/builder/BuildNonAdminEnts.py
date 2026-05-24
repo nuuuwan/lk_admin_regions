@@ -5,9 +5,8 @@ from fuzzywuzzy import fuzz
 from utils import Log, TSVFile
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
 
 log = Log("BuildNonAdminEnts")
 
@@ -45,22 +44,34 @@ class BuildNonAdminEnts:
     @classmethod
     def build_pds(cls):
         gnds = CombineDCSAndHumData.get_data_list()
-        gnds.sort(key=lambda gnd: (gnd["dcs_pd_code"], gnd["dcs_gnd_id"]))
+        gnds.sort(
+            key=lambda gnd: (
+                f'{int(gnd["dcs_pd_code"][:3]):03d}',
+                gnd["dcs_gnd_id"],
+            )
+        )
+
         district_to_ed = cls.get_distrct_to_ed()
         ed_to_pd = cls.get_ed_to_pd()
         ed_to_pd_code_to_name_dcs = {}
         for gnd in gnds:
+            gnd_id = gnd["dcs_gnd_id"]
             district_id = gnd["dcs_district_id"]
             ed_id = district_to_ed[district_id]
+
             pd_code = gnd["dcs_pd_code"]
             if len(pd_code) > 3:
-                log.warning(f"'Multiple codes: {pd_code}. Using only first.")
-
-            pd_code = pd_code[:3]
+                log.warning(
+                    f"'[{gnd_id}] Multiple codes: {pd_code}."
+                    + f" Using only first: {pd_code[:3]}."
+                )
+            pd_code = f'{int(gnd["dcs_pd_code"][:3]):03d}'
 
             if ed_id not in ed_to_pd_code_to_name_dcs:
                 ed_to_pd_code_to_name_dcs[ed_id] = {}
-            ed_to_pd_code_to_name_dcs[ed_id][pd_code] = gnd["dcs_pd_name"]
+            if pd_code not in ed_to_pd_code_to_name_dcs[ed_id]:
+                dcs_pd_name = gnd["dcs_pd_name"].split("/")[0].strip()
+                ed_to_pd_code_to_name_dcs[ed_id][pd_code] = dcs_pd_name
 
         d_list = []
         for ed_id, pd_code_to_name_dcs in ed_to_pd_code_to_name_dcs.items():
@@ -79,7 +90,6 @@ class BuildNonAdminEnts:
         # HACK
         d_list[90]["name_from_dcs"] = "Vavuniya"
         d_list[90]["code"] = "092"
-
         d_list[91]["name_from_dcs"] = "Mullaitivu"
         d_list[91]["code"] = "091"
 

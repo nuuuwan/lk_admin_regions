@@ -4,12 +4,10 @@ import os
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
-    LKAAdminBoundariesXLSX,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
+    LKAAdminBoundariesXLSX
 
 log = Log("BuildGeo")
 
