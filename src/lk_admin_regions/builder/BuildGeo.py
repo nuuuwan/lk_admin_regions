@@ -21,8 +21,8 @@ class BuildGeo:
     ENT_CONFIG = [
         # ["province", 1],
         # ["district", 2],
-        ["dsd", 3],
-        # ["gnd", 4],
+        # ["dsd", 3],
+        ["gnd", 4],
     ]
 
     MAX_FILE_SIZE_M = 25
@@ -141,6 +141,8 @@ class BuildGeo:
             hum_id_key = "adm2_pcode"
         elif ent_type_name == "dsd":
             hum_id_key = "adm3_pcode"
+        elif ent_type_name == "gnd":
+            hum_id_key = "adm4_pcode"
         else:
             raise ValueError(f"Unknown ent_type_name: {ent_type_name}")
 
@@ -152,8 +154,12 @@ class BuildGeo:
         for feature in geojson_data["features"]:
             properties = feature["properties"]
             hum_id = properties[hum_id_key]
-            dcs_id = hum_to_dcs_map[hum_id]
-            data = ent_data_idx[dcs_id]
+            dcs_id = hum_to_dcs_map.get(hum_id)
+            if dcs_id:
+                data = ent_data_idx[dcs_id]
+            else:
+                data = dict(hum_id=hum_id)
+                log.error(f"Missing DCS ID for HUM ID: {hum_id}")
             new_properties = data
             new_feature = dict(
                 properties=new_properties, geometry=feature["geometry"]
