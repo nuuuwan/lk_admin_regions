@@ -45,6 +45,85 @@ The DCS coding system is similar to ISO 3166-2, first published in December 1998
 | GND      | `LK-P-D-DSD-GND`   | Kollupitiya `LK-1-1-27-005` or `LK-1127005`          |
 | Village  | `LK-P-D-DSD-GND-V` | Rotunda Gardens `LK-1-1-27-005-02` or `LK-112700502` |
 
+I'll need to see the existing `data/geo/README.md` you referenced, or know whether you want this section in the main README. A couple of things to confirm first.Pick above and I'll tailor it. In the meantime, here's a draft `## Geo Data Format` section for the main README, written from what your code and directory structure tell me. Adjust the property fields once you confirm what `remap_properties` actually outputs.
+
+---
+
+## Ent Data
+
+Entity (tabular) data provides basic attributes for each administrative region. Files are organized by administrative level:
+
+```bash
+data/ents/<ent_type>s.<format>
+```
+
+For example, `data/ents/provinces.tsv` or `data/ents/districts.json`. Each level is available in both **JSON** and **TSV** formats:
+
+| File          | Level    | Count |
+| ------------- | -------- | ----: |
+| `countrys`    | Country  | 1     |
+| `provinces`   | Province | 9     |
+| `districts`   | District | 25    |
+| `dsds`        | DSD      | 340   |
+| `gnds`        | GND      | 14008 |
+
+### Fields
+
+All levels share a common core schema:
+
+| Field        | Type   | Description                                       |
+| ------------ | ------ | ------------------------------------------------- |
+| `id`         | string | DCS region code (primary key)                     |
+| `name`       | string | Region name (English)                             |
+| `area_sqkm`  | number | Total land area in km², to 2 decimal places       |
+| `center_lat` | number | Centroid latitude, to 6 decimal places            |
+| `center_lng` | number | Centroid longitude, to 6 decimal places           |
+
+GND records additionally carry:
+
+| Field | Type   | Description                                |
+| ----- | ------ | ------------------------------------------ |
+| `num` | string | GND number (the GND's numeric code segment) |
+
+### Derivation
+
+GND records are the base unit, built by combining DCS and Humanitarian Data Exchange sources. All higher levels (DSD, District, Province, Country) are **aggregated up** from their constituent GNDs:
+
+- **AREA:** summed across all child GNDs.
+- **CENTROID:** area-weighted mean of child GND centroids, so larger GNDs contribute proportionally more to the parent's center point.
+
+Records are sorted by `id`. The `id` field follows the [Region ID Structure](#region-id-structure) described above and joins directly against the matching property in the [Geo Data](#geo-data-format).
+
+---
+
+## Geo Data
+
+Geographical data is provided in 2 formats — **GeoJSON** and **TopoJSON** — at multiple levels of precision. Files are organized as:
+
+```bash
+data/geo/<format>/<precision>/<ent_type>s.<format>
+```
+
+For example, `data/geo/topojson/e2_small/provinces.topojson`.
+
+### Precision Levels
+
+Each region's geometry is published at five precision levels, produced by progressively simplifying the original boundaries (via TopoJSON's `toposimplify`). Higher simplification yields smaller files at the cost of geometric detail. The label encodes the simplification tolerance (epsilon) used.
+
+| Label       | Epsilon  | Detail      | Typical Use                          |
+| ----------- | -------- | ----------- | ------------------------------------ |
+| `original`  | —        | Full        | Source-fidelity geometry             |
+| `e4_large`  | 0.0001   | Very high   | Detailed maps, large-scale rendering |
+| `e3_medium` | 0.001    | High        | General-purpose mapping              |
+| `e2_small`  | 0.01     | Moderate    | Overview maps, dashboards            |
+| `e1_tiny`   | 0.1      | Low         | Thumbnails, sparklines, previews     |
+
+### File Size Constraint
+
+Any output exceeding **25 MB is omitted** from the repository. This mainly affects the larger administrative levels (DSD and especially GND), where the full-detail `original` and `e4_large` files can be very large. **For these levels, use the coarser precision levels** (`e2_small`, `e1_tiny`), which remain within the size limit. Coarser levels are always available for every administrative level.
+
+---
+
 ## Ground Truth Data Sources
 
 - [Humanitarian Data Exchange](https://data.humdata.org) - Sri Lanka - Subnational Administrative Boundaries: [https://data.humdata.org/dataset/cod-ab-lka](https://data.humdata.org/dataset/cod-ab-lka)
