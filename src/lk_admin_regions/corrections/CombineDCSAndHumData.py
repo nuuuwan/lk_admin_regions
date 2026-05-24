@@ -1,7 +1,7 @@
 import os
 
 from fuzzywuzzy import fuzz
-from utils import File, Log, TSVFile
+from utils import File, JSONFile, Log, TSVFile
 
 from lk_admin_regions import GNDListFinalXLSX, LKAAdminBoundariesXLSX
 from lk_admin_regions.corrections.ID_CORRECTION_MAP_dsd import (
@@ -290,6 +290,14 @@ class CombineDCSAndHumData:
         )
         tsv_file.write(combined_d_list)
         log.info(f"Wrote {tsv_file}")
+
+        json_sample_file = JSONFile(
+            os.path.join(
+                "data_temp", f"combined_{dcs_region_label}.sample.json"
+            )
+        )
+        json_sample_file.write(combined_d_list[:10])
+        log.info(f"Wrote {json_sample_file}")
 
 
 if __name__ == "__main__":
