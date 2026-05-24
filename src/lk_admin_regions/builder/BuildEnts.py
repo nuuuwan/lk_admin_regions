@@ -93,9 +93,9 @@ class BuildEnts:
             id=denormalized_gnd["gnd_id"],
             name=denormalized_gnd["gnd_name"],
             num=denormalized_gnd["gnd_num"],
-            area_sqkm=float(denormalized_gnd["area_sqkm"]),
-            center_lat=float(denormalized_gnd["center_lat"]),
-            center_lng=float(denormalized_gnd["center_lng"]),
+            area_sqkm=round(float(denormalized_gnd["area_sqkm"]), 2),
+            center_lat=round(float(denormalized_gnd["center_lat"]), 6),
+            center_lng=round(float(denormalized_gnd["center_lng"]), 6),
         )
 
     @classmethod
@@ -142,9 +142,9 @@ class BuildEnts:
                 parent_d = dict(
                     id=parent_id,
                     name=parent_name,
-                    area_sqkm=w_area_sqkm,
-                    center_lat=center_lat,
-                    center_lng=center_lng,
+                    area_sqkm=round(w_area_sqkm, 2),
+                    center_lat=round(center_lat, 6),
+                    center_lng=round(center_lng, 6),
                 )
                 parents.append(parent_d)
 
