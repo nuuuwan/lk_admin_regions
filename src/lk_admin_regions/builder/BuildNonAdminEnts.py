@@ -131,9 +131,12 @@ class BuildNonAdminEnts:
     def build_lgs(cls):
         gnds = CombineDCSAndHumData.get_data_list()
         d_list = []
-        lg_idx = {}
+        lg_id_set = set()
         for gnd in gnds:
             lg_id = gnd["dcs_lg_id"]
+            if lg_id in lg_id_set:
+                continue
+            lg_id_set.add(lg_id)
 
             lg_code = gnd["dcs_lg_code"]
             lg_name = gnd["dcs_lg_name"].split("/")[0].strip()
@@ -147,13 +150,13 @@ class BuildNonAdminEnts:
                 )
                 lg_level = "PS"
 
-            lg_idx[lg_id] = dict(
+            d = dict(
                 id=lg_id,
                 name=lg_name,
                 code=lg_code,
                 level=lg_level,
             )
-        d_list = list(lg_idx.values())
+            d_list.append(d)
         d_list.sort(key=lambda d: d["id"])
         BuildEnts.write_all_types(d_list, os.path.join("data", "ents", "lgs"))
 

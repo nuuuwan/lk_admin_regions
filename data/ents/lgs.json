@@ -7,7 +7,7 @@
   },
   {
     "id": "LK-11-012",
-    "name": "Dehiwala-Mount Lavinia MC",
+    "name": "Dehiwala Mount Lavinia MC",
     "code": "12",
     "level": "MC"
   },
@@ -80,7 +80,7 @@
   {
     "id": "LK-12-011",
     "name": "Negombo MC",
-    "code": "11/37",
+    "code": "11",
     "level": "MC"
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "id": "LK-12-023",
-    "name": "Katunayaka-Seeduwa UC",
-    "code": "23",
+    "name": "Katunayaka- Seeduwa UC",
+    "code": "23/37",
     "level": "UC"
   },
   {
@@ -212,7 +212,7 @@
   {
     "id": "LK-13-024",
     "name": "Panadura UC",
-    "code": "24",
+    "code": "24/39",
     "level": "UC"
   },
   {
@@ -307,9 +307,9 @@
   },
   {
     "id": "LK-21-022",
-    "name": "Yatinuwara PS",
-    "code": "22",
-    "level": "PS"
+    "name": "Kadugannawa UC",
+    "code": "22/47",
+    "level": "UC"
   },
   {
     "id": "LK-21-023",
@@ -355,7 +355,7 @@
   },
   {
     "id": "LK-21-035",
-    "name": "Kundasale PS",
+    "name": "Medadumbara PS",
     "code": "35",
     "level": "PS"
   },
@@ -434,7 +434,7 @@
   {
     "id": "LK-22-011",
     "name": "Matale MC",
-    "code": "11/39",
+    "code": "11/35",
     "level": "MC"
   },
   {
@@ -518,7 +518,7 @@
   {
     "id": "LK-23-021",
     "name": "Hatton - Dickoya UC",
-    "code": "21/37",
+    "code": "21/31",
     "level": "UC"
   },
   {
@@ -631,7 +631,7 @@
   },
   {
     "id": "LK-31-036",
-    "name": "Bope-Poddala PS",
+    "name": "Bope_Poddala PS",
     "code": "36",
     "level": "PS"
   },
@@ -890,7 +890,7 @@
   {
     "id": "LK-41-023",
     "name": "Valvettiturai UC",
-    "code": "23",
+    "code": "23/36",
     "level": "UC"
   },
   {
@@ -985,7 +985,7 @@
   },
   {
     "id": "LK-42-032",
-    "name": "Nanattan PS",
+    "name": "Manthai West PS",
     "code": "32",
     "level": "PS"
   },
@@ -1105,19 +1105,19 @@
   },
   {
     "id": "LK-51-005",
-    "name": "Eravur Pattu PS",
+    "name": "Koralai Pattu PS",
     "code": "5",
     "level": "PS"
   },
   {
     "id": "LK-51-006",
-    "name": "Eravur Pattu PS",
+    "name": "Koralai Pattu PS",
     "code": "6",
     "level": "PS"
   },
   {
     "id": "LK-51-007",
-    "name": "Eravur Pattu PS",
+    "name": "Koralai Pattu PS",
     "code": "7",
     "level": "PS"
   },
@@ -1135,15 +1135,15 @@
   },
   {
     "id": "LK-51-010",
-    "name": "Eravur Pattu PS",
+    "name": "Koralai Pattu PS",
     "code": "10",
     "level": "PS"
   },
   {
     "id": "LK-51-011",
-    "name": "Batticaloa MC",
+    "name": "Koralai Pattu PS",
     "code": "11",
-    "level": "MC"
+    "level": "PS"
   },
   {
     "id": "LK-51-012",
@@ -1262,7 +1262,7 @@
   {
     "id": "LK-52-021",
     "name": "Ampara UC",
-    "code": "21",
+    "code": "21/39",
     "level": "UC"
   },
   {
@@ -1454,7 +1454,7 @@
   {
     "id": "LK-61-021",
     "name": "Kuliyapitiya UC",
-    "code": "21",
+    "code": "21/37",
     "level": "UC"
   },
   {
@@ -1646,7 +1646,7 @@
   {
     "id": "LK-71-011",
     "name": "Anuradhapura MC",
-    "code": "11",
+    "code": "11/39",
     "level": "MC"
   },
   {
@@ -1753,7 +1753,7 @@
   },
   {
     "id": "LK-71-048",
-    "name": "Thirappane PS",
+    "name": "Nuwaragam Palatha East PS",
     "code": "48",
     "level": "PS"
   },
@@ -1814,7 +1814,7 @@
   {
     "id": "LK-81-012",
     "name": "Bandarawela MC",
-    "code": "12/33",
+    "code": "12/32",
     "level": "MC"
   },
   {
@@ -1976,13 +1976,13 @@
   {
     "id": "LK-91-011",
     "name": "Ratnapura MC",
-    "code": "11/41",
+    "code": "11/42",
     "level": "MC"
   },
   {
     "id": "LK-91-021",
     "name": "Balangoda UC",
-    "code": "21/33",
+    "code": "21/36",
     "level": "UC"
   },
   {
