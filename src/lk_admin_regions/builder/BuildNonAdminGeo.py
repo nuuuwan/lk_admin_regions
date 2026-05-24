@@ -5,6 +5,7 @@ from utils import Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
 from lk_admin_regions.builder.BuildGeo import BuildGeo
+from lk_admin_regions.builder.BuildNonAdminEnts import BuildNonAdminEnts
 from lk_admin_regions.corrections.CombineDCSAndHumData import \
     CombineDCSAndHumData
 
@@ -14,18 +15,27 @@ log = Log("BuildNonAdminGeo")
 class BuildNonAdminGeo:
 
     @classmethod
-    def build_pd_original(cls):
+    def build_parent_original(
+        cls,
+        parent_type,
+        gnd_to_parent,
+        parent_code_field,
+    ):
+        hum_pcode_key = f"hum_adm4_pcode"
+        gnd_geom_key = "adm4_pcode"
+
         gnds = CombineDCSAndHumData.get_data_list()
 
-        # gnd_pcode -> pd_code, for mapping onto the geometries
-        gnd_to_pd_code = {
-            row["hum_adm4_pcode"]: row["dcs_pd_code"] for row in gnds
+        # gnd_pcode -> parent_code, for mapping onto the geometries
+        gnd_to_parent_code = {
+            gnd[hum_pcode_key]: gnd_to_parent(gnd) for gnd in gnds
         }
 
-        # Aggregate PD properties from constituent GND rows
-        # (area summed, centroid area-weighted — matches BuildEnts.build_parents)
-        pds = BuildEnts.read("pd")
-        pd_idx = {pd["pd_code"]: pd for pd in pds}
+        # Aggregate parent properties from constituent GND rows
+        # (area summed, centroid area-weighted — matches
+        # BuildEnts.build_parents)
+        parents = BuildEnts.read(parent_type)
+        parent_idx = {parent[parent_code_field]: parent for parent in parents}
 
         gnd_geoms = gpd.read_file(
             os.path.join(
@@ -36,48 +46,62 @@ class BuildNonAdminGeo:
             )
         )
 
-        gnd_key = (
-            "adm4_pcode"  # confirm this matches the GeoJSON's GND id property
+        gnd_geoms[parent_code_field] = gnd_geoms[gnd_geom_key].map(
+            gnd_to_parent_code
         )
-        gnd_geoms["pd_code"] = gnd_geoms[gnd_key].map(gnd_to_pd_code)
 
-        n_missing = gnd_geoms["pd_code"].isna().sum()
+        n_missing = gnd_geoms[parent_code_field].isna().sum()
         if n_missing:
             log.warning(
-                f"⚠️ {n_missing} GNDs have no pd_code; they will be excluded"
+                f"⚠️ {n_missing} GNDs have no {parent_code_field}; "
+                "they will be excluded"
             )
 
-        # Dissolve GND polygons into PDs
-        pds = gnd_geoms.dissolve(by="pd_code")
-        pds = pds.buffer(0)  # clean any slivers from the union
-        pds = gpd.GeoDataFrame(
-            geometry=pds
-        ).reset_index()  # 'pd_code' + geometry
+        # Dissolve GND polygons into parents
+        parents_geo = gnd_geoms.dissolve(by=parent_code_field)
+        parents_geo = parents_geo.buffer(
+            0
+        )  # clean any slivers from the union
+        parents_geo = gpd.GeoDataFrame(
+            geometry=parents_geo
+        ).reset_index()  # parent_code_field + geometry
 
         # Replace properties with custom fields, aligned to dissolve order
-        prop_rows = [pd_idx[code] for code in pds["pd_code"]]
+        prop_rows = [
+            parent_idx[code] for code in parents_geo[parent_code_field]
+        ]
         prop_df = gpd.pd.DataFrame(prop_rows)
-        pds = gpd.GeoDataFrame(
-            prop_df, geometry=pds.geometry.values, crs=pds.crs
+        parents_geo = gpd.GeoDataFrame(
+            prop_df, geometry=parents_geo.geometry.values, crs=parents_geo.crs
         )
 
         original_geojson_path = os.path.join(
-            "data", "geo", "geojson", "original", "pds.geojson"
+            "data", "geo", "geojson", "original", f"{parent_type}s.geojson"
         )
         os.makedirs(os.path.dirname(original_geojson_path), exist_ok=True)
-        pds.to_file(original_geojson_path, driver="GeoJSON")
-        log.info(f"✅ Wrote {len(pds)} PDs to {original_geojson_path}")
+        parents_geo.to_file(original_geojson_path, driver="GeoJSON")
+        log.info(
+            f"✅ Wrote {len(parents_geo)} {parent_type}s "
+            f"to {original_geojson_path}"
+        )
 
         return original_geojson_path
 
     @classmethod
-    def build_pd(cls):
-        original_geojson_path = cls.build_pd_original()
-        BuildGeo.build_simplified_geojson_and_topojson(
-            "pd",
-            original_geojson_path,
-        )
-
-    @classmethod
     def build_all(cls):
-        cls.build_pd()
+        district_to_ed = BuildNonAdminEnts.get_distrct_to_ed()
+        for parent_type, gnd_to_parent, parent_code_field in [
+            ("pd", lambda gnd: gnd["dcs_pd_code"], "pd_code"),
+            (
+                "ed",
+                lambda gnd: district_to_ed[gnd["dcs_district_id"]],
+                "id",
+            ),
+        ]:
+            original_geojson_path = cls.build_parent_original(
+                parent_type, gnd_to_parent, parent_code_field
+            )
+            BuildGeo.build_simplified_geojson_and_topojson(
+                parent_type,
+                original_geojson_path,
+            )
