@@ -1,10 +1,6 @@
 import os
 
-from rapidfuzz import fuzz
 from utils import JSONFile, Log, TSVFile
-
-from lk_admin_regions.ground_truth.dcs.GNDListFinalXLSX import GNDListFinalXLSX
-from lk_admin_regions.ground_truth.humdata import LKAAdminBoundariesXLSX
 
 log = Log("BuildEnts")
 
@@ -16,7 +12,9 @@ class BuildEnts:
     DIR_DATA = "data"
     DIR_DATA_ENTS = os.path.join(DIR_DATA, "ents")
     RAW_DATA_PATH = os.path.join("data_temp", "combined_gnd.tsv")
-    DENORMALIZED_GNDS_PATH = os.path.join("data_temp", "denormalized_gnds.tsv")
+    DENORMALIZED_GNDS_PATH = os.path.join(
+        "data_temp", "denormalized_gnds.tsv"
+    )
 
     @classmethod
     def build_denormalized_gnd(cls, raw_d):
@@ -80,6 +78,33 @@ class BuildEnts:
         tsv_file.write(d_list)
         log.info(f"Wrote {tsv_file}")
 
+    @classmethod
+    def build_gnd(cls, denormalized_gnd):
+        return dict(
+            gnd_id=denormalized_gnd["gnd_id"],
+            name=denormalized_gnd["gnd_name"],
+            num=denormalized_gnd["gnd_num"],
+            area_sqkm=denormalized_gnd["area_sqkm"],
+            center_lat=denormalized_gnd["center_lat"],
+            center_lng=denormalized_gnd["center_lng"],
+        )
+
+    @classmethod
+    def build_gnds(cls):
+        denormalized_gnds = TSVFile(cls.DENORMALIZED_GNDS_PATH).read()
+        gnds = [cls.build_gnd(d) for d in denormalized_gnds]
+        json_file = JSONFile(os.path.join(cls.DIR_DATA_ENTS, "gnds.json"))
+        json_file.write(gnds)
+        log.info(f"Wrote {json_file}")
+        tsv_file = TSVFile(os.path.join(cls.DIR_DATA_ENTS, "gnds.tsv"))
+        tsv_file.write(gnds)
+        log.info(f"Wrote {tsv_file}")
+
+    @classmethod
+    def build(cls):
+        cls.build_denormalized_gnds()
+        cls.build_gnds()
+
 
 if __name__ == "__main__":
-    BuildEnts.build_denormalized_gnds()
+    BuildEnts.build()

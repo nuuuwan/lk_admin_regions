@@ -14,8 +14,10 @@ ID_CORRECTION_MAP_gnd = {
     "LK-3127255": "LK-3127215",  # 001. Adurathvila -> Adurathvila (100)
     "LK-3127260": "LK-3127225",  # 002. Walpita South -> Walpita Soth (96)
     "LK-3127265": "LK-3127210",  # 003. Balagoda -> Balagoda (100)
-    "LK-3127280": "LK-3127205",  # 004. Thelikada Nagaraya -> Thelikada Nagaraya (100)
-    "LK-3127285": "LK-3127235",  # 005. Horagampita Central -> Horagampita Central (100)
+    # 004. Thelikada Nagaraya -> Thelikada Nagaraya (100)
+    "LK-3127280": "LK-3127205",
+    # 005. Horagampita Central -> Horagampita Central (100)
+    "LK-3127285": "LK-3127235",
     "LK-3127290": "LK-3127230",  # 006. Gonapura -> Gonapura (100)
     "LK-3127295": "LK-3127240",  # 007. Horagampita -> Horagampita (100)
     # --------
@@ -27,21 +29,26 @@ ID_CORRECTION_MAP_gnd = {
     "LK-3128205": "LK-3128035",  # 011. Kirindalahena -> Kirindalahena (100)
     "LK-3128210": "LK-3128030",  # 012. Pahala Lelwala -> Pahala Lelwala (100)
     "LK-3128215": "LK-3128025",  # 013. Ihala Lelwala -> Ihala Lelwala (100)
-    "LK-3128220": "LK-3128020",  # 014. Kumbalamalahena -> Kumbalamalaheana (97)
+    # 014. Kumbalamalahena -> Kumbalamalaheana (97)
+    "LK-3128220": "LK-3128020",
     "LK-3128225": "LK-3128050",  # 015. Wanduramba -> Wanduramba (100)
     "LK-3128230": "LK-3128055",  # 016. Gulugahakanda -> Gulugahakanda (100)
     "LK-3128235": "LK-3128045",  # 017. Panvila -> Panvila (100)
     "LK-3128240": "LK-3128040",  # 018. Kokawala -> Kokawala (100)
     "LK-3128300": "LK-3128080",  # 019. Meda Keembiya -> Mada Keembiya (92)
     "LK-3128305": "LK-3128075",  # 020. Deiyandara -> Deiyandara (100)
-    "LK-3128310": "LK-3128070",  # 021. Wanduramba South -> Wanduramba South (100)
+    # 021. Wanduramba South -> Wanduramba South (100)
+    "LK-3128310": "LK-3128070",
     "LK-3128315": "LK-3128060",  # 022. Thalawa -> Thalawa (100)
     "LK-3128320": "LK-3128065",  # 023. Mabotuwana -> Mabotuwana (100)
     "LK-3128325": "LK-3128095",  # 024. Nattewela -> Nattewela (100)
-    "LK-3128330": "LK-3128090",  # 025. Thiruwanaketiya -> Thiruwanaketiya (100)
+    # 025. Thiruwanaketiya -> Thiruwanaketiya (100)
+    "LK-3128330": "LK-3128090",
     "LK-3128335": "LK-3128085",  # 026. Pitiharawa -> Pitiharawa (100)
-    "LK-3128340": "LK-3128100",  # 027. Meda Keembiya East -> Meda Keembiya East (100)
-    "LK-3128345": "LK-3128105",  # 028. Ihala Keembiya South -> Ihala Keembiya South (100)
+    # 027. Meda Keembiya East -> Meda Keembiya East (100)
+    "LK-3128340": "LK-3128100",
+    # 028. Ihala Keembiya South -> Ihala Keembiya South (100)
+    "LK-3128345": "LK-3128105",
     "LK-3128350": "LK-3128110",  # 029. Ihala Keembiya -> Ihala Keembiya (100)
     # --------
     # LK-3136
@@ -51,12 +58,14 @@ ID_CORRECTION_MAP_gnd = {
     "LK-3136210": "LK-3136035",  # 032. Wavulagoda East -> Wawulagoda East (93)
     "LK-3136215": "LK-3136020",  # 033. Hikkaduwa West -> Hikkaduwa  West (97)
     "LK-3136220": "LK-3136010",  # 034. Nakanda -> Nakanda (100)
-    "LK-3136225": "LK-3136015",  # 035. Hikkaduwa Central -> Hikkaduwa Central (100)
+    # 035. Hikkaduwa Central -> Hikkaduwa Central (100)
+    "LK-3136225": "LK-3136015",
     "LK-3136230": "LK-3136040",  # 036. Nalagasdeniya -> Nalagasdeniya (100)
     "LK-3136235": "LK-3136045",  # 037. Millagoda -> Millagoda (100)
     "LK-3136240": "LK-3136055",  # 038. Pannamgoda -> Pannamgoda (100)
     "LK-3136245": "LK-3136050",  # 039. Wewala -> Wewala (100)
-    "LK-3136250": "LK-3136060",  # 040. Narigama Wellabada -> Narigama Wellabada (100)
+    # 040. Narigama Wellabada -> Narigama Wellabada (100)
+    "LK-3136250": "LK-3136060",
     "LK-3136255": "LK-3136065",  # 041. Narigama -> Narigama (100)
     "LK-3136260": "LK-3136070",  # 042. Kuda Wewala -> Kuda Wewala (100)
     "LK-3136265": "LK-3136075",  # 043. Delgahadoowa -> Delgahadoowa (100)
@@ -68,7 +77,8 @@ ID_CORRECTION_MAP_gnd = {
     "LK-3136300": "LK-3136110",  # 049. Pinkanda -> Pinkanda (100)
     "LK-3136305": "LK-3136115",  # 050. Handaudumulla -> Handaudumulla (100)
     "LK-3136340": "LK-3136120",  # 051. Dodandugoda -> Dodandugoda (100)
-    "LK-3136345": "LK-3136125",  # 052. Modara Patuwatha -> Modara Patuwatha (100)
+    # 052. Modara Patuwatha -> Modara Patuwatha (100)
+    "LK-3136345": "LK-3136125",
     "LK-3136350": "LK-3136130",  # 053. Dodandoowa -> Dodandoowa (100)
     "LK-3136355": "LK-3136135",  # 054. Uduhalpitiya -> Uduhalpitiya (100)
     # --------
@@ -76,7 +86,8 @@ ID_CORRECTION_MAP_gnd = {
     # --------
     "LK-3137310": "LK-3137005",  # 055. Thotavila -> Thotawila (89)
     "LK-3137315": "LK-3137010",  # 056. Mawadavila -> Mawadawila (90)
-    "LK-3137320": "LK-3137015",  # 057. Panvila Pahalagoda -> Panwila Pahalagoda (94)
+    # 057. Panvila Pahalagoda -> Panwila Pahalagoda (94)
+    "LK-3137320": "LK-3137015",
     "LK-3137330": "LK-3137020",  # 058. Imbula -> Imbula (100)
     "LK-3137335": "LK-3137025",  # 059. Katudampe -> Katudampe (100)
     "LK-3137360": "LK-3137030",  # 060. Karawegoda -> Karawegoda (100)
@@ -87,34 +98,42 @@ ID_CORRECTION_MAP_gnd = {
     "LK-3137385": "LK-3137120",  # 065. Mahahegoda -> Maha Hegoda (86)
     "LK-3137390": "LK-3137060",  # 066. Medawala -> Medawala (100)
     "LK-3137395": "LK-3137125",  # 067. Hegoda -> Hegoda (100)
-    "LK-3137400": "LK-3137070",  # 068. Palanthriyagoda -> Palanthriyagoda (100)
+    # 068. Palanthriyagoda -> Palanthriyagoda (100)
+    "LK-3137400": "LK-3137070",
     "LK-3137405": "LK-3137065",  # 069. Maliduwa -> Maliduwa (100)
     "LK-3137410": "LK-3137115",  # 070. Rathna Udagama -> Ratna Udagama (96)
     "LK-3137415": "LK-3137075",  # 071. Ganegoda -> Ganegoda (100)
-    "LK-3137420": "LK-3137080",  # 072. Rathgama Hegoda -> Rathgama Hegoda (100)
+    # 072. Rathgama Hegoda -> Rathgama Hegoda (100)
+    "LK-3137420": "LK-3137080",
     "LK-3137425": "LK-3137085",  # 073. Palliyapitiya -> Palliyapitiya (100)
     "LK-3137430": "LK-3137090",  # 074. Gammeddegoda -> Gammeddagoda (92)
-    "LK-3137435": "LK-3137095",  # 075. Gammeddegoda East -> Gammeddegoda East (100)
-    "LK-3137440": "LK-3137100",  # 076. Gammeddegoda-Rajgama -> Gammeddegoda-Rajgama (100)
+    # 075. Gammeddegoda East -> Gammeddegoda East (100)
+    "LK-3137435": "LK-3137095",
+    # 076. Gammeddegoda-Rajgama -> Gammeddegoda-Rajgama (100)
+    "LK-3137440": "LK-3137100",
     "LK-3137445": "LK-3137105",  # 077. Owakanda -> Owakanda (100)
     "LK-3137450": "LK-3137110",  # 078. Kapumulugoda -> Kapumulugoda (100)
     "LK-3137455": "LK-3137140",  # 079. Dolikanda -> Dolikanda (100)
     "LK-3137460": "LK-3137145",  # 080. Boossa -> Boosa (91)
     "LK-3137465": "LK-3137135",  # 081. Rupeewala -> Rupeewala (100)
     "LK-3137470": "LK-3137130",  # 082. Kedala -> Kedala (100)
-    "LK-3137475": "LK-3137155",  # 083. Pitiwella South -> Pitiwella South (100)
-    "LK-3137480": "LK-3137160",  # 084. Pitiwella North -> Pitiwella North (100)
+    # 083. Pitiwella South -> Pitiwella South (100)
+    "LK-3137475": "LK-3137155",
+    # 084. Pitiwella North -> Pitiwella North (100)
+    "LK-3137480": "LK-3137160",
     "LK-3137485": "LK-3137150",  # 085. Kadurupe -> Kadurupe (100)
     # --------
     # LK-9103
     # --------
-    "LK-9103051": "LK-9103215",  # 086. Karandana South -> Karandana South (100)
+    # 086. Karandana South -> Karandana South (100)
+    "LK-9103051": "LK-9103215",
     "LK-9103052": "LK-9103210",  # 087. Karandana West -> Karandana West (100)
     # --------
     # LK-9106
     # --------
     "LK-9106141": "LK-9106005",  # 088. Amuhenkanda -> Amuhenkanda (100)
-    "LK-9106142": "LK-9106010",  # 089. Pathberiya West -> Pathberiya West (100)
+    # 089. Pathberiya West -> Pathberiya West (100)
+    "LK-9106142": "LK-9106010",
     "LK-9106143": "LK-9106015",  # 090. Pathberiya -> Pathberiya (100)
     "LK-9106144": "LK-9106025",  # 091. Parakaduwa -> Parakaduwa (100)
     "LK-9106146": "LK-9106030",  # 092. Bodhimaluwa -> Bodhimaluwa (100)
@@ -125,10 +144,12 @@ ID_CORRECTION_MAP_gnd = {
     # LK-9119
     # --------
     "LK-9119065": "LK-9119010",  # 096. Kalthota -> Kalthota (100)
-    "LK-9119070": "LK-9119015",  # 097. Uggalkalthota Left Bank South -> Uggalkalthota Left Bank South (100)
+    # 097. Uggalkalthota Left Bank South -> Uggalkalthota Left Bank South (100)
+    "LK-9119070": "LK-9119015",
     "LK-9119075": "LK-9119020",  # 098. Medabedda -> Medabedda (100)
     "LK-9119080": "LK-9119025",  # 099. Neluyaya -> Neluyaya (100)
-    "LK-9119085": "LK-9119030",  # 100. Uggalkalthota Left Bank Left -> Uggalkalthota Left Bank Left (100)
+    # 100. Uggalkalthota Left Bank Left -> Uggalkalthota Left Bank Left (100)
+    "LK-9119085": "LK-9119030",
     "LK-9119090": "LK-9119035",  # 101. Welipathayaya -> Welipathayaya (100)
     "LK-9119095": "LK-9119040",  # 102. Kuragala -> Kuragala (100)
     "LK-9119100": "LK-9119045",  # 103. Molamura -> Molamura (100)
@@ -141,11 +162,14 @@ ID_CORRECTION_MAP_gnd = {
     #
     "LK-3127245": "LK-3127115",  # 001. Pahala Keembiya -> Mahalapitiya (59)
     "LK-3127250": "LK-3127125",  # 002. Warakapitikanda -> Thilaka Udagama (33)
-    "LK-3127270": "LK-3127130",  # 003. Ginimellagaha South -> Ganegama East (44)
+    # 003. Ginimellagaha South -> Ganegama East (44)
+    "LK-3127270": "LK-3127130",
     "LK-3127275": "LK-3127220",  # 004. Pituwalgoda -> Kohomba Nadeniya (15)
     "LK-2218265": "LK-2218120",  # 005. nan -> Kirigalpotta (13)
-    "LK-3136200": "LK-3136025",  # 006. Hikkaduwa Nagarikaya -> Hikkaduwa Town (59)
-    "LK-3136280": "LK-3136090",  # 007. Thiranagama Wellabada -> Wellabada Thiranagama (52)
+    # 006. Hikkaduwa Nagarikaya -> Hikkaduwa Town (59)
+    "LK-3136200": "LK-3136025",
+    # 007. Thiranagama Wellabada -> Wellabada Thiranagama (52)
+    "LK-3136280": "LK-3136090",
     "LK-9118210": "LK-9118060",  # 008. Damahana -> Rajawaka (50)
     "LK-9118230": "LK-9118065",  # 009. Godakumbura -> Bowatta (33)
     "LK-9118235": "LK-9118070",  # 010. Imbulamura -> Vikiliya (22)

@@ -4,12 +4,10 @@ from fuzzywuzzy import fuzz
 from utils import File, JSONFile, Log, TSVFile
 
 from lk_admin_regions import GNDListFinalXLSX, LKAAdminBoundariesXLSX
-from lk_admin_regions.corrections.ID_CORRECTION_MAP_dsd import (
-    ID_CORRECTION_MAP_dsd,
-)
-from lk_admin_regions.corrections.ID_CORRECTION_MAP_gnd import (
-    ID_CORRECTION_MAP_gnd,
-)
+from lk_admin_regions.corrections.ID_CORRECTION_MAP_dsd import \
+    ID_CORRECTION_MAP_dsd
+from lk_admin_regions.corrections.ID_CORRECTION_MAP_gnd import \
+    ID_CORRECTION_MAP_gnd
 
 log = Log("CombineDCSAndHumData")
 
