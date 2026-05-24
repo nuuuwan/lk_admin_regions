@@ -42,7 +42,7 @@ The DCS coding system is similar to ISO 3166-2, first published in December 1998
 | Province | `LK-P`             | Western Province `LK-1`                             |
 | District | `LK-P-D`           | Colombo District `LK-1-1` or `LK-11`                |
 | DSD      | `LK-P-D-DSD`       | Thimbirigasyaya `LK-1-1-27` or `LK-1127`            |
-| GND      | `LK-P-D-DSD-GND`   | Kollupitiya `LK-1-1-27-005` or `LK1127005`          |
+| GND      | `LK-P-D-DSD-GND`   | Kollupitiya `LK-1-1-27-005` or `LK-1127005`          |
 | Village  | `LK-P-D-DSD-GND-V` | Rotunda Gardens `LK-1-1-27-005-02` or `LK-112700502` |
 
 ## Ground Truth Data Sources
