@@ -36,6 +36,11 @@ class GNDListFinalXLSX:
             d["pd_name"] = d["Polling Division_Name"]
             # lg
             d["lg_code"] = d["LGD_Code"]
+            d["lg_name"] = d["LGD_Name"]
+            dcs_lg_code_raw = str(d["lg_code"]).replace("*", "")
+            lg_code = f'{int(dcs_lg_code_raw.split("/")[0].strip()):03d}'
+            lg_id = f"{d["district_id"]}-{lg_code}"
+            d["lg_id"] = lg_id
 
         except Exception as e:
             log.error(f"Error processing: {d}: {e}")

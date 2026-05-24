@@ -1,0 +1,2150 @@
+[
+  {
+    "id": "LK-11-011",
+    "name": "Colombo MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-11-012",
+    "name": "Dehiwala-Mount Lavinia MC",
+    "code": "12",
+    "level": "MC"
+  },
+  {
+    "id": "LK-11-013",
+    "name": "Moratuwa MC",
+    "code": "13",
+    "level": "MC"
+  },
+  {
+    "id": "LK-11-014",
+    "name": "Sri Jayawardanapura Kotte MC",
+    "code": "14",
+    "level": "MC"
+  },
+  {
+    "id": "LK-11-015",
+    "name": "Kaduwela MC",
+    "code": "15",
+    "level": "MC"
+  },
+  {
+    "id": "LK-11-021",
+    "name": "Kolonnawa UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-11-022",
+    "name": "Seethawakapura UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-11-023",
+    "name": "Maharagama UC",
+    "code": "23",
+    "level": "UC"
+  },
+  {
+    "id": "LK-11-024",
+    "name": "Kesbewa UC",
+    "code": "24",
+    "level": "UC"
+  },
+  {
+    "id": "LK-11-025",
+    "name": "Boralesgamuwa UC",
+    "code": "25",
+    "level": "UC"
+  },
+  {
+    "id": "LK-11-031",
+    "name": "Homagama PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-11-033",
+    "name": "Kotikawatta-Mullariyawa PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-11-034",
+    "name": "Seethawaka PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-011",
+    "name": "Negombo MC",
+    "code": "11/37",
+    "level": "MC"
+  },
+  {
+    "id": "LK-12-012",
+    "name": "Gampaha MC",
+    "code": "12",
+    "level": "MC"
+  },
+  {
+    "id": "LK-12-022",
+    "name": "Ja- Ela UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-12-023",
+    "name": "Katunayaka-Seeduwa UC",
+    "code": "23",
+    "level": "UC"
+  },
+  {
+    "id": "LK-12-024",
+    "name": "Minuwangoda UC",
+    "code": "24",
+    "level": "UC"
+  },
+  {
+    "id": "LK-12-025",
+    "name": "Peliyagoda UC",
+    "code": "25",
+    "level": "UC"
+  },
+  {
+    "id": "LK-12-026",
+    "name": "Wattala - Mabola UC",
+    "code": "26",
+    "level": "UC"
+  },
+  {
+    "id": "LK-12-031",
+    "name": "Attanagalla PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-032",
+    "name": "Biyagama PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-033",
+    "name": "Divulapitiya PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-034",
+    "name": "Dompe PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-035",
+    "name": "Gampaha PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-036",
+    "name": "Ja- Ela PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-037",
+    "name": "Katana PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-038",
+    "name": "Kelaniya PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-039",
+    "name": "Mahara PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-040",
+    "name": "Minuwangoda PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-041",
+    "name": "Mirigama PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-12-042",
+    "name": "Wattala PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-011",
+    "name": "Kalutara MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-13-021",
+    "name": "Beruwala UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-13-022",
+    "name": "Horana UC",
+    "code": "22/36",
+    "level": "UC"
+  },
+  {
+    "id": "LK-13-024",
+    "name": "Panadura UC",
+    "code": "24",
+    "level": "UC"
+  },
+  {
+    "id": "LK-13-031",
+    "name": "Agalawatta PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-032",
+    "name": "Bandaragama PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-033",
+    "name": "Beruwala PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-034",
+    "name": "Bulathsinhala PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-035",
+    "name": "Dodangoda PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-036",
+    "name": "Horana PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-037",
+    "name": "Kalutara PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-038",
+    "name": "Mathugama PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-039",
+    "name": "Panadura PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-040",
+    "name": "Walallawita PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-041",
+    "name": "Madurawala PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-042",
+    "name": "Palindanuwara PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-13-043",
+    "name": "Millaniya PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-011",
+    "name": "Kandy MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-21-021",
+    "name": "Gampola UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-21-022",
+    "name": "Yatinuwara PS",
+    "code": "22",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-023",
+    "name": "Nawalapitiya UC",
+    "code": "23/39",
+    "level": "UC"
+  },
+  {
+    "id": "LK-21-024",
+    "name": "Wattegama UC",
+    "code": "24/40",
+    "level": "UC"
+  },
+  {
+    "id": "LK-21-025",
+    "name": "Medadumbara PS",
+    "code": "25",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-031",
+    "name": "Akurana PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-032",
+    "name": "Ganga Ihala Korale",
+    "code": "32",
+    "level": "??"
+  },
+  {
+    "id": "LK-21-033",
+    "name": "Harispattuwa PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-034",
+    "name": "Kandy Four Graverts &Gangawata Korale PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-035",
+    "name": "Kundasale PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-036",
+    "name": "Medadumbara PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-037",
+    "name": "Minipe PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-038",
+    "name": "Panvila PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-039",
+    "name": "Pasbage Korale PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-040",
+    "name": "Pathadumbara PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-041",
+    "name": "Pathhewaheta PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-042",
+    "name": "Pujapitiya PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-043",
+    "name": "Thumpane PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-044",
+    "name": "Udadumbara PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-045",
+    "name": "Udapalatha PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-046",
+    "name": "Udunuwara PS",
+    "code": "46",
+    "level": "PS"
+  },
+  {
+    "id": "LK-21-047",
+    "name": "Yatinuwara PS",
+    "code": "47",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-011",
+    "name": "Matale MC",
+    "code": "11/39",
+    "level": "MC"
+  },
+  {
+    "id": "LK-22-012",
+    "name": "Dambulla MC",
+    "code": "12",
+    "level": "MC"
+  },
+  {
+    "id": "LK-22-031",
+    "name": "Ambanganga Korale PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-032",
+    "name": "Dambulla PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-033",
+    "name": "Galewela PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-034",
+    "name": "Laggala-Pallegama PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-035",
+    "name": "Matale PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-036",
+    "name": "Naula PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-037",
+    "name": "Pallepola PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-038",
+    "name": "Rattota PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-039",
+    "name": "Ukuwela PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-040",
+    "name": "Wilgamuwa PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-22-041",
+    "name": "Yatawatta PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-011",
+    "name": "Nuwara Eliya MC",
+    "code": "11/34",
+    "level": "MC"
+  },
+  {
+    "id": "LK-23-021",
+    "name": "Hatton - Dickoya UC",
+    "code": "21/37",
+    "level": "UC"
+  },
+  {
+    "id": "LK-23-022",
+    "name": "Thalawakale-Lindula UC",
+    "code": "22/39",
+    "level": "UC"
+  },
+  {
+    "id": "LK-23-031",
+    "name": "Ambagamuwa PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-032",
+    "name": "Hanguranketha PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-033",
+    "name": "Kothmale PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-034",
+    "name": "Nuwara Eliya PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-035",
+    "name": "Walapane PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-036",
+    "name": "Maskeliya PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-037",
+    "name": "Noorwood PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-038",
+    "name": "Agarapathana PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-23-039",
+    "name": "Kotagala PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-011",
+    "name": "Galle MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-31-021",
+    "name": "Ambalangoda UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-31-022",
+    "name": "Hikkaduwa UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-31-031",
+    "name": "Akmeemana PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-032",
+    "name": "Ambalangoda PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-033",
+    "name": "Baddegama PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-034",
+    "name": "Balapitiya PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-035",
+    "name": "Benthota PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-036",
+    "name": "Bope-Poddala PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-037",
+    "name": "Elpitiya PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-038",
+    "name": "Habaraduwa PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-039",
+    "name": "Rajgama PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-040",
+    "name": "Karandeniya PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-041",
+    "name": "Nagoda PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-042",
+    "name": "Neluwa PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-043",
+    "name": "Niyagama PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-044",
+    "name": "Thawalama PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-045",
+    "name": "Yakkalamulla PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-046",
+    "name": "Imaduwa PS",
+    "code": "46",
+    "level": "PS"
+  },
+  {
+    "id": "LK-31-047",
+    "name": "Welivitiya_Divithura PS",
+    "code": "47",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-011",
+    "name": "Matara MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-32-021",
+    "name": "Weligama UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-32-031",
+    "name": "Akuressa PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-032",
+    "name": "Devinuwara PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-033",
+    "name": "Dickwella PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-034",
+    "name": "Hakmana PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-035",
+    "name": "Kamburupitiya PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-036",
+    "name": "Kotapola PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-037",
+    "name": "Malimbada PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-038",
+    "name": "Matara PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-039",
+    "name": "Mulatiyana PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-040",
+    "name": "Pasgoda PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-042",
+    "name": "Weligama PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-043",
+    "name": "Pitadeddara PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-044",
+    "name": "Athuraliya PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-32-045",
+    "name": "Kirinda Puhulwella PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-011",
+    "name": "Hambantota MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-33-021",
+    "name": "Tangalle UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-33-031",
+    "name": "Ambalantota PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-032",
+    "name": "Angunakolapelessa PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-033",
+    "name": "Beliatta PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-034",
+    "name": "Hambantota PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-035",
+    "name": "Katuwana PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-036",
+    "name": "Lunugamvehera PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-037",
+    "name": "Tangalle PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-038",
+    "name": "Thissamaharama PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-039",
+    "name": "Weeraketiya PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-33-040",
+    "name": "Sooriyawewa PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-011",
+    "name": "Jaffna MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-41-021",
+    "name": "Chavakachcheri UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-41-022",
+    "name": "Point Pedro UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-41-023",
+    "name": "Valvettiturai UC",
+    "code": "23",
+    "level": "UC"
+  },
+  {
+    "id": "LK-41-031",
+    "name": "Chavakachcheri PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-032",
+    "name": "Delft PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-033",
+    "name": "Kayts PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-034",
+    "name": "Nallur PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-035",
+    "name": "Point Pedro PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-036",
+    "name": "Vadamaradchi South West PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-037",
+    "name": "Valikamam East PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-038",
+    "name": "Valikamam North PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-039",
+    "name": "Valikamam South PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-040",
+    "name": "Valikamam South West PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-041",
+    "name": "Valikamam West PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-042",
+    "name": "Velanai PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-41-043",
+    "name": "Karainagar PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-42-021",
+    "name": "Mannar UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-42-031",
+    "name": "Mannar PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-42-032",
+    "name": "Nanattan PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-42-033",
+    "name": "Musali PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-42-034",
+    "name": "Nanattan PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-43-011",
+    "name": "Vavuniya MC",
+    "code": "11/33",
+    "level": "MC"
+  },
+  {
+    "id": "LK-43-031",
+    "name": "Vavuniya North PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-43-032",
+    "name": "Vavuniya South (Sinhala) PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-43-033",
+    "name": "Vavuniya South (Tamil) PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-43-034",
+    "name": "Vengalacheddikulam PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-44-031",
+    "name": "Vavuniya North PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-44-041",
+    "name": "Manthai East PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-44-042",
+    "name": "Maritimepattu PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-44-043",
+    "name": "Puthukudiyiruppu PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-44-044",
+    "name": "Thunukkai PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-45-031",
+    "name": "Karachchi PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-45-032",
+    "name": "Pachchillaipalli PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-45-033",
+    "name": "Poonagari PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-001",
+    "name": "Eravur Pattu PS",
+    "code": "1",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-002",
+    "name": "Eravur Pattu PS",
+    "code": "2",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-003",
+    "name": "Eravur Pattu PS",
+    "code": "3",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-004",
+    "name": "Eravur Pattu PS",
+    "code": "4",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-005",
+    "name": "Eravur Pattu PS",
+    "code": "5",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-006",
+    "name": "Eravur Pattu PS",
+    "code": "6",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-007",
+    "name": "Eravur Pattu PS",
+    "code": "7",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-008",
+    "name": "Eravur Pattu PS",
+    "code": "8",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-009",
+    "name": "Eravur Pattu PS",
+    "code": "9",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-010",
+    "name": "Eravur Pattu PS",
+    "code": "10",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-011",
+    "name": "Batticaloa MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-51-012",
+    "name": "Eravur Pattu PS",
+    "code": "12",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-013",
+    "name": "Eravur Pattu PS",
+    "code": "13",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-014",
+    "name": "Eravur Pattu PS",
+    "code": "14",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-015",
+    "name": "Eravur Pattu PS",
+    "code": "15",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-016",
+    "name": "Eravur Pattu PS",
+    "code": "16",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-017",
+    "name": "Eravur Pattu PS",
+    "code": "17",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-018",
+    "name": "Eravur Pattu PS",
+    "code": "18",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-021",
+    "name": "Kattankudy UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-51-022",
+    "name": "Eravur UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-51-034",
+    "name": "Koralai Pattu PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-035",
+    "name": "Koralai Pattu North PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-036",
+    "name": "Koralai Pattu West PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-037",
+    "name": "Manmunaipattu PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-038",
+    "name": "Manmunai South & Eruvil Pattu PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-039",
+    "name": "Manmunai South-West PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-040",
+    "name": "Manmunai West (Vavunativu) PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-51-041",
+    "name": "Porativepattu PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-011",
+    "name": "Kalmunai MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-52-012",
+    "name": "Akkaraipattu MC",
+    "code": "12",
+    "level": "MC"
+  },
+  {
+    "id": "LK-52-021",
+    "name": "Ampara UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-52-031",
+    "name": "Addalachchanai PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-032",
+    "name": "Alayadiwembu PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-033",
+    "name": "Damana PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-034",
+    "name": "Dehiattakandiya PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-036",
+    "name": "Akkaraipattu PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-037",
+    "name": "Lahugala PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-038",
+    "name": "Mahaoya PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-039",
+    "name": "Namaloya PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-040",
+    "name": "Ninthavur PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-041",
+    "name": "Padiyathalawa  PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-042",
+    "name": "Pothuvil  PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-043",
+    "name": "Sammanthurai PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-044",
+    "name": "Thirukkovili PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-045",
+    "name": "Uhana PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-046",
+    "name": "Karathivu PS",
+    "code": "46",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-047",
+    "name": "Navithanveli PS",
+    "code": "47",
+    "level": "PS"
+  },
+  {
+    "id": "LK-52-048",
+    "name": "Irakkamam PS",
+    "code": "48",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-011",
+    "name": "Trincomalee MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-53-022",
+    "name": "Kinniya UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-53-031",
+    "name": "Gomarankadawala PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-032",
+    "name": "Kanthale PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-033",
+    "name": "Kinniya PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-034",
+    "name": "Kuchchaveli PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-035",
+    "name": "Morawewa PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-036",
+    "name": "Muttur PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-037",
+    "name": "Padavi Sri Pura PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-038",
+    "name": "Seruvila PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-039",
+    "name": "Thambalagamuwa PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-040",
+    "name": "Trincomalee Town and Gravets  PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-53-041",
+    "name": "Verugal PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-011",
+    "name": "Kurunegala MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-61-021",
+    "name": "Kuliyapitiya UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-61-031",
+    "name": "Alawwa PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-032",
+    "name": "Bingiriya PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-033",
+    "name": "Galgamuwa PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-034",
+    "name": "Giribawa PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-035",
+    "name": "Ibbagamuwa PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-036",
+    "name": "Kobeigane PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-037",
+    "name": "Kuliyapitiya PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-038",
+    "name": "Kurunegala PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-039",
+    "name": "Maho PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-040",
+    "name": "Mawathagama PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-041",
+    "name": "Nikaweratiya PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-042",
+    "name": "Panduwasnuwara PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-043",
+    "name": "Pannala PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-044",
+    "name": "Polgahawela PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-045",
+    "name": "Polpithigama PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-046",
+    "name": "Rideegama PS",
+    "code": "46",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-047",
+    "name": "Wariyapola PS",
+    "code": "47",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-048",
+    "name": "Udubaddawa PS",
+    "code": "48",
+    "level": "PS"
+  },
+  {
+    "id": "LK-61-049",
+    "name": "Narammala PS",
+    "code": "49",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-011",
+    "name": "Puttalam MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-62-021",
+    "name": "Chilaw UC",
+    "code": "21",
+    "level": "UC"
+  },
+  {
+    "id": "LK-62-031",
+    "name": "Anamaduwa PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-032",
+    "name": "Arachchikattuwa PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-033",
+    "name": "Chilaw PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-034",
+    "name": "Kalpitiya PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-035",
+    "name": "Karuwalagaswewa PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-036",
+    "name": "Nattandiya PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-037",
+    "name": "Nawagattegama PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-038",
+    "name": "Puttalam PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-039",
+    "name": "Vanathawilluwa PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-62-040",
+    "name": "Wennappuwa PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-011",
+    "name": "Anuradhapura MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-71-031",
+    "name": "Galenbindunuwewa PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-032",
+    "name": "Galnewa PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-033",
+    "name": "Horowpothana PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-034",
+    "name": "Ipalogama PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-035",
+    "name": "Kahatagasdigiliya PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-036",
+    "name": "Kebithigollewa PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-037",
+    "name": "Kekirawa PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-038",
+    "name": "Medawachchiya PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-039",
+    "name": "Mihinthale PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-040",
+    "name": "Nochchiyagama PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-041",
+    "name": "Nuwaragam Palatha Central PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-042",
+    "name": "Nuwaragam Palatha East PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-043",
+    "name": "Padaviya PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-044",
+    "name": "Palagala PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-045",
+    "name": "Rajanganaya PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-046",
+    "name": "Rambewa PS",
+    "code": "46",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-047",
+    "name": "Thalawa PS",
+    "code": "47",
+    "level": "PS"
+  },
+  {
+    "id": "LK-71-048",
+    "name": "Thirappane PS",
+    "code": "48",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-011",
+    "name": "Polonnaruwa MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-72-031",
+    "name": "Dimbulagala PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-032",
+    "name": "Elahera PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-033",
+    "name": "Hingurakgoda PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-034",
+    "name": "Lankapura PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-035",
+    "name": "Medirigiriya PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-037",
+    "name": "Welikanda PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-72-038",
+    "name": "Polonnaruwa PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-011",
+    "name": "Badulla MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-81-012",
+    "name": "Bandarawela MC",
+    "code": "12/33",
+    "level": "MC"
+  },
+  {
+    "id": "LK-81-022",
+    "name": "Haputale  UC",
+    "code": "22/36",
+    "level": "UC"
+  },
+  {
+    "id": "LK-81-031",
+    "name": "Badulla PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-032",
+    "name": "Bandarawela  PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-033",
+    "name": "Ella  PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-034",
+    "name": "Haldummulla  PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-035",
+    "name": "Hali-Ela  PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-036",
+    "name": "Haputale  PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-037",
+    "name": "Kandaketiya PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-038",
+    "name": "Mahiyanganaya PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-039",
+    "name": "Meegahaivula PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-040",
+    "name": "Passara PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-041",
+    "name": "Rideemaliyadda PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-042",
+    "name": "Soranathota PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-043",
+    "name": "Uva Paranagama  PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-044",
+    "name": "Welimada  PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-81-045",
+    "name": "Lunugala PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-031",
+    "name": "Badalkumbura PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-032",
+    "name": "Bibila PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-033",
+    "name": "Buttala PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-034",
+    "name": "Katharagama PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-035",
+    "name": "Madulla PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-036",
+    "name": "Medagama PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-037",
+    "name": "Moneragala PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-038",
+    "name": "Siyambalanduwa PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-039",
+    "name": "Thanamalvila PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-82-040",
+    "name": "Wellawaya PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-011",
+    "name": "Ratnapura MC",
+    "code": "11/41",
+    "level": "MC"
+  },
+  {
+    "id": "LK-91-021",
+    "name": "Balangoda UC",
+    "code": "21/33",
+    "level": "UC"
+  },
+  {
+    "id": "LK-91-022",
+    "name": "Embilipitiya UC",
+    "code": "22",
+    "level": "UC"
+  },
+  {
+    "id": "LK-91-032",
+    "name": "Ayagama PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-033",
+    "name": "Balangoda PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-034",
+    "name": "Eheliyagoda PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-035",
+    "name": "Embilipitiya PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-036",
+    "name": "Imbulpe PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-037",
+    "name": "Kalawana PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-038",
+    "name": "Kolonna PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-039",
+    "name": "Kuruvita PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-040",
+    "name": "Nivithigala PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-041",
+    "name": "Pelmadulla PS",
+    "code": "41",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-042",
+    "name": "Ratnapura PS",
+    "code": "42",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-043",
+    "name": "Weligepola PS",
+    "code": "43",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-044",
+    "name": "Godakawela PS",
+    "code": "44",
+    "level": "PS"
+  },
+  {
+    "id": "LK-91-045",
+    "name": "Kahawatta PS",
+    "code": "45",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-011",
+    "name": "Kegalle MC",
+    "code": "11",
+    "level": "MC"
+  },
+  {
+    "id": "LK-92-031",
+    "name": "Aranayaka  PS",
+    "code": "31",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-032",
+    "name": "Dehiovita PS",
+    "code": "32",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-033",
+    "name": "Deraniyagala PS",
+    "code": "33",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-034",
+    "name": "Galigamuwa PS",
+    "code": "34",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-035",
+    "name": "Kegalle PS",
+    "code": "35",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-036",
+    "name": "Mawanella PS",
+    "code": "36",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-037",
+    "name": "Rambukkana PS",
+    "code": "37",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-038",
+    "name": "Ruwanwella  PS",
+    "code": "38",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-039",
+    "name": "Warakapola PS",
+    "code": "39",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-040",
+    "name": "Yatiyanthota PS",
+    "code": "40",
+    "level": "PS"
+  },
+  {
+    "id": "LK-92-041",
+    "name": "Bulathkohupitiya PS",
+    "code": "41",
+    "level": "PS"
+  }
+]

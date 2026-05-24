@@ -17,8 +17,8 @@ def main():
 
 
 def main_test():
-    # GNDListFinalXLSX.build_gnd_table()
-    # CombineDCSAndHumData.combine(dcs_region_label="gnd", hum_admin_level=4)
+    GNDListFinalXLSX.build_gnd_table()
+    CombineDCSAndHumData.combine(dcs_region_label="gnd", hum_admin_level=4)
 
     # BuildEnts.build_all()
     # BuildGeo.build_all()
