@@ -4,12 +4,10 @@ import os
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
-    LKAAdminBoundariesXLSX,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
+    LKAAdminBoundariesXLSX
 
 log = Log("BuildGeo")
 
@@ -28,7 +26,9 @@ class BuildGeo:
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
+    def get_ent_xjson_path(
+        cls, json_type, dir_name_simplified, ent_type_name
+    ):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -182,7 +182,9 @@ class BuildGeo:
         geojson_data = cls.remap_properties(
             ent_type_name, geojson_data
         )  # remap here
-        JSONFile(new_geojson_path).write(geojson_data)  # write instead of copy
+        JSONFile(new_geojson_path).write(
+            geojson_data
+        )  # write instead of copy
         log.info(f"✅ Wrote {File(new_geojson_path)}")
 
         return new_geojson_path
