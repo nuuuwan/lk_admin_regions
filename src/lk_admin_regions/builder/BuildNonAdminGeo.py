@@ -89,7 +89,7 @@ class BuildNonAdminGeo:
 
     @classmethod
     def build_all(cls):
-        BuildNonAdminEnts.get_distrct_to_ed()
+        district_to_ed = BuildNonAdminEnts.get_distrct_to_ed()
         for parent_type, gnd_to_parent, parent_code_field in [
             ("pd", lambda gnd: gnd["dcs_pd_code"], "pd_code"),
             (
