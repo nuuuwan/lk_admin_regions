@@ -1,0 +1,90 @@
+[
+  {
+    "id": "EC-01",
+    "name": "Colombo"
+  },
+  {
+    "id": "EC-02",
+    "name": "Gampaha"
+  },
+  {
+    "id": "EC-03",
+    "name": "Kalutara"
+  },
+  {
+    "id": "EC-04",
+    "name": "Kandy"
+  },
+  {
+    "id": "EC-05",
+    "name": "Matale"
+  },
+  {
+    "id": "EC-06",
+    "name": "Nuwara-Eliya"
+  },
+  {
+    "id": "EC-07",
+    "name": "Galle"
+  },
+  {
+    "id": "EC-08",
+    "name": "Matara"
+  },
+  {
+    "id": "EC-09",
+    "name": "Hambantota"
+  },
+  {
+    "id": "EC-10",
+    "name": "Jaffna"
+  },
+  {
+    "id": "EC-11",
+    "name": "Vanni"
+  },
+  {
+    "id": "EC-12",
+    "name": "Batticaloa"
+  },
+  {
+    "id": "EC-13",
+    "name": "Digamadulla"
+  },
+  {
+    "id": "EC-14",
+    "name": "Trincomalee"
+  },
+  {
+    "id": "EC-15",
+    "name": "Kurunegala"
+  },
+  {
+    "id": "EC-16",
+    "name": "Puttalam"
+  },
+  {
+    "id": "EC-17",
+    "name": "Anuradhapura"
+  },
+  {
+    "id": "EC-18",
+    "name": "Polonnaruwa"
+  },
+  {
+    "id": "EC-19",
+    "name": "Badulla"
+  },
+  {
+    "id": "EC-20",
+    "name": "Moneragala"
+  },
+  {
+    "id": "EC-21",
+    "name": "Ratnapura"
+  },
+  {
+    "id": "EC-22",
+    "name": "Kegalle"
+  }
+]

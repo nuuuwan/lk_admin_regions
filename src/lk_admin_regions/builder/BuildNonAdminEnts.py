@@ -121,5 +121,13 @@ class BuildNonAdminEnts:
         BuildEnts.write_all_types(d_list, os.path.join("data", "ents", "pds"))
 
     @classmethod
+    def build_eds(cls):
+        eds = TSVFile(
+            os.path.join("data_ground_truth", "misc", "eds.tsv")
+        ).read()
+        BuildEnts.write_all_types(eds, os.path.join("data", "ents", "eds"))
+
+    @classmethod
     def build_all(cls):
         cls.build_pds()
+        cls.build_eds()
