@@ -1,9 +1,6 @@
-from lk_admin_regions import BuildEnts
+from lk_admin_regions import BuildEnts, BuildGeo, CombineDCSAndHumData
 
 if __name__ == "__main__":
-    # BuildEnts.build_all()
-    # BuildGeo.build_all()
-    # BuildGeo.HACK_delete_large_files()
-    # BuildGeo.validate()
-
-    BuildEnts.merge_pds()
+    CombineDCSAndHumData.combine(dcs_region_label="gnd", hum_admin_level=4)
+    BuildEnts.build_all()
+    BuildGeo.build_all()

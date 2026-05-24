@@ -1,7 +1,7 @@
 import os
 
 import pandas as pd
-from utils import File, Log
+from utils import Log
 
 log = Log("LKAAdminBoundariesXLSX")
 
@@ -12,27 +12,6 @@ class LKAAdminBoundariesXLSX:
         "data_ground_truth", "humdata_cod_ab_lka", "lka_admin_boundaries.xlsx"
     )
 
-    # IDs assigned to newly created DSDs and GNDs (see README.recent-history.md)
-    # in humdata is inconsistent with how http://moha.gov.lk
-    # and others define them.
-    # This map is used to correct those IDs.
-    ID_CORRECTION_MAP = {}
-
-    @classmethod
-    def correct_v(cls, v):
-        for wrong, right in cls.ID_CORRECTION_MAP.items():
-            if wrong in str(v):
-                v = str(v).replace(wrong, right)
-        return v
-
-    @classmethod
-    def correct_d(cls, d):
-        return {k: cls.correct_v(v) for k, v in d.items()}
-
-    @classmethod
-    def correct_d_list(cls, d_list):
-        return [cls.correct_d(d) for d in d_list]
-
     @classmethod
     def get_sheet_name_to_d_list(cls):
         dfs = pd.read_excel(
@@ -41,26 +20,14 @@ class LKAAdminBoundariesXLSX:
         idx = {}
         for sheet_name, df in dfs.items():
             d_list = df.to_dict(orient="records")
-            idx[sheet_name.lower().strip()] = cls.correct_d_list(d_list)
+            idx[sheet_name.lower().strip()] = d_list
         return idx
 
     @classmethod
     def get_ground_truth_geojson_path(cls, level):
-        geojson_path = os.path.join(
+        return os.path.join(
             "data_ground_truth",
             "humdata_cod_ab_lka",
             "lka_admin_boundaries",
             f"lka_admin{level}.geojson",
         )
-        geojson_corrected_path = geojson_path.replace(
-            ".geojson", ".corrected.geojson"
-        )
-        if not os.path.exists(geojson_corrected_path):
-            input_file = File(geojson_path)
-            output_file = File(geojson_corrected_path)
-            data = input_file.read()
-            corrected_data = cls.correct_v(data)
-            output_file.write(corrected_data)
-            log.info(f"✅ Wrote {output_file}")
-
-        return geojson_corrected_path

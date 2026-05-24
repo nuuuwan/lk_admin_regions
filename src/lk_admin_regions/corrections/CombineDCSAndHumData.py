@@ -1,4 +1,5 @@
 import os
+from functools import cache
 
 from fuzzywuzzy import fuzz
 from utils import File, JSONFile, Log, TSVFile
@@ -282,6 +283,10 @@ class CombineDCSAndHumData:
                     d["hum_" + k] = v
 
             d["hum_valid_on"] = str(d["hum_valid_on"])
+            gnd_code = int(d["dcs_gnd_code"])
+            dsd_id = d["dcs_dsd_id"]
+            gnd_id = f"{dsd_id}{gnd_code:03d}"
+            d["dcs_gnd_id"] = gnd_id
 
             combined_d_list.append(d)
         log.debug(combined_d_list[0])
@@ -299,12 +304,23 @@ class CombineDCSAndHumData:
         json_sample_file.write(combined_d_list[:10])
         log.info(f"Wrote {json_sample_file}")
 
+    @classmethod
+    @cache
+    def get_data_list(cls):
+        return TSVFile(os.path.join("data_temp", "combined_gnd.tsv")).read()
 
-if __name__ == "__main__":
-    for dcs_region_label, hum_admin_level in [
-        # ("province", 1),
-        # ("district", 2),
-        # ("dsd", 3),
-        ("gnd", 4),
-    ]:
-        CombineDCSAndHumData.combine(dcs_region_label, hum_admin_level)
+    @classmethod
+    @cache
+    def get_hum_id_to_dcs_id_map(cls, ent_type_name):
+        data_list = cls.get_data_list()
+        id_len = {
+            "province": 4,
+            "district": 5,
+            "dsd": 7,
+            "gnd": 10,
+        }[ent_type_name]
+        idx = {
+            d["hum_adm4_pcode"][: id_len - 1]: d["dcs_gnd_id"][:id_len]
+            for d in data_list
+        }
+        return idx

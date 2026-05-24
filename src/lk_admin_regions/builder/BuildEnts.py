@@ -3,6 +3,9 @@ from functools import cache
 
 from utils import JSONFile, Log, TSVFile
 
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
+
 log = Log("BuildEnts")
 
 LIM_FUZZ_RATIO = 80
@@ -34,9 +37,8 @@ class BuildEnts:
         province_id = raw_d["dcs_province_id"]
         district_id = raw_d["dcs_district_id"]
         dsd_id = raw_d["dcs_dsd_id"]
+        gnd_id = raw_d["dcs_gnd_id"]
 
-        gnd_code = int(raw_d["dcs_gnd_code"])
-        gnd_id = f"{dsd_id}{gnd_code:03d}"
         gnd_num = raw_d["dcs_gnd_num"]
 
         country_name = raw_d["hum_adm0_name"] or "Sri Lanka"
@@ -82,7 +84,7 @@ class BuildEnts:
 
     @classmethod
     def build_denormalized_gnds(cls):
-        raw_d_list = TSVFile(cls.RAW_DATA_PATH).read()
+        raw_d_list = CombineDCSAndHumData().get_data_list()
         d_list = [cls.build_denormalized_gnd(d) for d in raw_d_list]
         d_list.sort(key=lambda d: d["gnd_id"])
         cls.write_all_types(d_list, cls.DENORMALIZED_GNDS_PATH_BASE)

@@ -4,6 +4,9 @@ import os
 import topojson as tp
 from utils import File, JSONFile, Log
 
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
     LKAAdminBoundariesXLSX,
 )
@@ -16,9 +19,9 @@ class BuildGeo:
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
 
     ENT_CONFIG = [
-        ["province", 1],
+        # ["province", 1],
         # ["district", 2],
-        # ["dsd", 3],
+        ["dsd", 3],
         # ["gnd", 4],
     ]
 
@@ -132,8 +135,35 @@ class BuildGeo:
         os.system("find data -type f -size +25M -delete")
 
     @classmethod
-    def remap_properties(cls, geojson_data):
-        print(geojson_data["features"][0]["properties"])
+    def remap_properties(cls, ent_type_name, geojson_data):
+        hum_to_dcs_map = CombineDCSAndHumData.get_hum_id_to_dcs_id_map(
+            ent_type_name
+        )
+        if ent_type_name == "province":
+            hum_id_key = "adm1_pcode"
+        elif ent_type_name == "district":
+            hum_id_key = "adm2_pcode"
+        elif ent_type_name == "dsd":
+            hum_id_key = "adm3_pcode"
+        else:
+            raise ValueError(f"Unknown ent_type_name: {ent_type_name}")
+
+        new_features = []
+        ent_data_list = JSONFile(
+            os.path.join("data", "ents", f"{ent_type_name}s.json")
+        ).read()
+        ent_data_idx = {ent["id"]: ent for ent in ent_data_list}
+        for feature in geojson_data["features"]:
+            properties = feature["properties"]
+            hum_id = properties[hum_id_key]
+            dcs_id = hum_to_dcs_map[hum_id]
+            data = ent_data_idx[dcs_id]
+            new_properties = data
+            new_feature = dict(
+                properties=new_properties, geometry=feature["geometry"]
+            )
+            new_features.append(new_feature)
+        geojson_data["features"] = new_features
         return geojson_data
 
     @classmethod
@@ -146,17 +176,13 @@ class BuildGeo:
             "geojson", "original", ent_type_name
         )
 
-        if os.path.getsize(geojson_path) <= cls.MAX_FILE_SIZE_M * 1_000_000:
-            geojson_data = JSONFile(geojson_path).read()
-            geojson_data = cls.remap_properties(geojson_data)  # remap here
-            JSONFile(new_geojson_path).write(
-                geojson_data
-            )  # write instead of copy
-            log.info(f"✅ Wrote {File(new_geojson_path)}")
-        else:
-            log.warning(
-                "⚠️ Original file is too large, copying without remapping"
-            )
+        geojson_data = JSONFile(geojson_path).read()
+        geojson_data = cls.remap_properties(
+            ent_type_name, geojson_data
+        )  # remap here
+        JSONFile(new_geojson_path).write(geojson_data)  # write instead of copy
+        log.info(f"✅ Wrote {File(new_geojson_path)}")
+
         return new_geojson_path
 
     @classmethod
