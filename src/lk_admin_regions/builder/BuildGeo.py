@@ -17,10 +17,10 @@ class BuildGeo:
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
 
     ENT_CONFIG = [
-        ["province", 1, 4],
-        # ["district", 2, 5],
-        # ["dsd", 3, 7],
-        # ["gnd", 4, 10],
+        ["province", 1],
+        # ["district", 2],
+        # ["dsd", 3],
+        # ["gnd", 4],
     ]
 
     MAX_FILE_SIZE_M = 25
@@ -37,9 +37,7 @@ class BuildGeo:
         )
 
     @classmethod
-    def build_simplified_topojson_for_size_spec(
-        cls, ent_type_name, level, id_len, tolerance, precision_label
-    ):
+    def build_topojson(cls, ent_type_name, level):
         original_geojson_path = (
             LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level)
         )
@@ -55,6 +53,12 @@ class BuildGeo:
         log.info(
             f"✅ Wrote {topojson_file}" + f" ({p_compression:.1%} of geojson)"
         )
+        return topojson_file
+
+    @classmethod
+    def build_simplified_topojson_for_size_spec(
+        cls, ent_type_name, tolerance, precision_label, topojson_file
+    ):
 
         topojson_data = topojson_file.read()
         simplified_topojson = (
@@ -100,11 +104,16 @@ class BuildGeo:
 
     @classmethod
     def build_simplified_geojson_and_topojson_for_size_spec(
-        cls, ent_type_name, level, id_len, tolerance, precision_label
+        cls,
+        ent_type_name,
+        level,
+        tolerance,
+        precision_label,
+        topojson_file,
     ):
 
         simplified_topojson = cls.build_simplified_topojson_for_size_spec(
-            ent_type_name, level, id_len, tolerance, precision_label
+            ent_type_name, tolerance, precision_label, topojson_file
         )
 
         cls.build_simplified_geojson_for_size_spec(
@@ -116,10 +125,12 @@ class BuildGeo:
 
     @classmethod
     def build_simplified_geojson_and_topojson(
-        cls, ent_type_name, level, id_len
+        cls,
+        ent_type_name,
+        level,
     ):
+        topojson_file = cls.build_topojson(ent_type_name, level)
         for [tolerance, precision_label] in [
-            [None, "original"],
             [0.0001, "small"],
             # [0.001, "smaller"],
             # [0.01, "smallest"],
@@ -127,21 +138,12 @@ class BuildGeo:
         ]:
 
             cls.build_simplified_geojson_and_topojson_for_size_spec(
-                ent_type_name, level, id_len, tolerance, precision_label
+                ent_type_name,
+                level,
+                tolerance,
+                precision_label,
+                topojson_file,
             )
-
-    @classmethod
-    def get_id(cls, properties, level, id_len):
-        if level == 1:
-            return properties.get("adm1_pcode", "")[:id_len]
-        elif level == 2:
-            return properties.get("adm2_pcode", "")[:id_len]
-        elif level == 3:
-            return properties.get("adm3_pcode", "")[:id_len]
-        elif level == 4:
-            return properties.get("adm4_pcode", "")[:id_len]
-        else:
-            raise ValueError(f"Invalid level: {level}")
 
     @classmethod
     def HACK_delete_large_files(cls):
@@ -157,30 +159,42 @@ class BuildGeo:
         new_geojson_path = cls.get_ent_xjson_path(
             "geojson", "original", ent_type_name
         )
-        if not os.path.exists(new_geojson_path):
-            if (
-                os.path.getsize(geojson_path)
-                <= cls.MAX_FILE_SIZE_M * 1_000_000
-            ):
 
-                shutil.copyfile(geojson_path, new_geojson_path)
-                log.info(f"✅ Wrote {File(new_geojson_path)}")
-            else:
-                log.warning(
-                    f"⚠️ Not writing {new_geojson_path}."
-                    + f" {File(geojson_path)} is too large."
-                )
+        if os.path.getsize(geojson_path) <= cls.MAX_FILE_SIZE_M * 1_000_000:
+
+            shutil.copyfile(geojson_path, new_geojson_path)
+            log.info(f"✅ Wrote {File(new_geojson_path)}")
+        else:
+            log.warning(
+                f"⚠️ Not writing {new_geojson_path}."
+                + f" {File(geojson_path)} is too large."
+            )
 
     @classmethod
-    def build_all_for_ent(cls, ent_type_name, level, id_len):
+    def build_all_for_ent(
+        cls,
+        ent_type_name,
+        level,
+    ):
         cls.copy_original(ent_type_name, level)
-        cls.build_simplified_geojson_and_topojson(ent_type_name, level, id_len)
+        cls.build_simplified_geojson_and_topojson(
+            ent_type_name,
+            level,
+        )
 
     @classmethod
     def build_all(cls):
-        for ent_type_name, level, id_len in BuildGeo.ENT_CONFIG:
-            log.info(f"Building for {ent_type_name}...")
-            cls.build_all_for_ent(ent_type_name, level, id_len)
+        for (
+            ent_type_name,
+            level,
+        ) in BuildGeo.ENT_CONFIG:
+            log.debug("-" * 64)
+            log.debug(f"{level}. Building for {ent_type_name}...")
+            log.debug("-" * 64)
+            cls.build_all_for_ent(
+                ent_type_name,
+                level,
+            )
 
 
 if __name__ == "__main__":
