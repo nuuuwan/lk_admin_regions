@@ -5,3 +5,4 @@ RapidFuzz
 topojson
 geojson
 rapidfuzz
+python-Levenshtein
