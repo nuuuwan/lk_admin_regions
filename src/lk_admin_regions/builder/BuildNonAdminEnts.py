@@ -5,9 +5,8 @@ from fuzzywuzzy import fuzz
 from utils import Log, TSVFile
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
 
 log = Log("BuildNonAdminEnts")
 

@@ -19,16 +19,16 @@ def main():
 
 
 def main_test():
-    GNDListFinalXLSX.build_gnd_table()
-    CombineDCSAndHumData.combine(dcs_region_label="gnd", hum_admin_level=4)
+    # GNDListFinalXLSX.build_gnd_table()
+    # CombineDCSAndHumData.combine(dcs_region_label="gnd", hum_admin_level=4)
 
-    BuildEnts.build_all()
+    # BuildEnts.build_all()
     # BuildGeo.build_all()
 
-    BuildNonAdminEnts.build_all()
-    # BuildNonAdminGeo.build_all()
+    # BuildNonAdminEnts.build_all()
+    BuildNonAdminGeo.build_all()
 
-    # os.system("find data -type f -size +25M -delete")
+    os.system("find data -type f -size +25M -delete")
 
 
 if __name__ == "__main__":

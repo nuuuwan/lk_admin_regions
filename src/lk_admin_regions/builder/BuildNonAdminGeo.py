@@ -4,6 +4,7 @@ import geopandas as gpd
 from utils import Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
+from lk_admin_regions.builder.BuildGeo import BuildGeo
 from lk_admin_regions.corrections.CombineDCSAndHumData import \
     CombineDCSAndHumData
 
@@ -12,12 +13,8 @@ log = Log("BuildNonAdminGeo")
 
 class BuildNonAdminGeo:
 
-    @staticmethod
-    def _props_for(pd_code, pd_idx):
-        return pd_idx[pd_code]
-
     @classmethod
-    def build_pd(cls):
+    def build_pd_original(cls):
         gnds = CombineDCSAndHumData.get_data_list()
 
         # gnd_pcode -> pd_code, for mapping onto the geometries
@@ -28,7 +25,7 @@ class BuildNonAdminGeo:
         # Aggregate PD properties from constituent GND rows
         # (area summed, centroid area-weighted — matches BuildEnts.build_parents)
         pds = BuildEnts.read("pd")
-        pd_idx = {pd["code"]: pd for pd in pds}
+        pd_idx = {pd["pd_code"]: pd for pd in pds}
 
         gnd_geoms = gpd.read_file(
             os.path.join(
@@ -58,18 +55,28 @@ class BuildNonAdminGeo:
         ).reset_index()  # 'pd_code' + geometry
 
         # Replace properties with custom fields, aligned to dissolve order
-        prop_rows = [cls._props_for(code, pd_idx) for code in pds["pd_code"]]
+        prop_rows = [pd_idx[code] for code in pds["pd_code"]]
         prop_df = gpd.pd.DataFrame(prop_rows)
         pds = gpd.GeoDataFrame(
             prop_df, geometry=pds.geometry.values, crs=pds.crs
         )
 
-        out_path = os.path.join(
+        original_geojson_path = os.path.join(
             "data", "geo", "geojson", "original", "pds.geojson"
         )
-        os.makedirs(os.path.dirname(out_path), exist_ok=True)
-        pds.to_file(out_path, driver="GeoJSON")
-        log.info(f"✅ Wrote {len(pds)} PDs to {out_path}")
+        os.makedirs(os.path.dirname(original_geojson_path), exist_ok=True)
+        pds.to_file(original_geojson_path, driver="GeoJSON")
+        log.info(f"✅ Wrote {len(pds)} PDs to {original_geojson_path}")
+
+        return original_geojson_path
+
+    @classmethod
+    def build_pd(cls):
+        original_geojson_path = cls.build_pd_original()
+        BuildGeo.build_simplified_geojson_and_topojson(
+            "pd",
+            original_geojson_path,
+        )
 
     @classmethod
     def build_all(cls):
