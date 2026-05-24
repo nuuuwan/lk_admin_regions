@@ -3,8 +3,9 @@ from functools import cache
 
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildEnts")
 
@@ -98,6 +99,8 @@ class BuildEnts:
             area_sqkm=round(float(denormalized_gnd["area_sqkm"]), 2),
             center_lat=round(float(denormalized_gnd["center_lat"]), 6),
             center_lng=round(float(denormalized_gnd["center_lng"]), 6),
+            lg_code=denormalized_gnd["lg_code"],
+            pd_code=denormalized_gnd["pd_code"],
         )
 
     @classmethod
@@ -161,6 +164,12 @@ class BuildEnts:
         cls.build_denormalized_gnds()
         cls.build_gnds()
         cls.build_parents()
+
+    @classmethod
+    @cache
+    def read(cls, ent_type_name):
+        file_path = os.path.join(cls.DIR_DATA_ENTS, f"{ent_type_name}s.tsv")
+        return TSVFile(file_path).read()
 
 
 if __name__ == "__main__":

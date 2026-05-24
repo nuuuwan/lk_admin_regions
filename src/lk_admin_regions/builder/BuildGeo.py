@@ -4,10 +4,12 @@ import os
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
-    LKAAdminBoundariesXLSX
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
+    LKAAdminBoundariesXLSX,
+)
 
 log = Log("BuildGeo")
 
@@ -151,6 +153,7 @@ class BuildGeo:
             os.path.join("data", "ents", f"{ent_type_name}s.json")
         ).read()
         ent_data_idx = {ent["id"]: ent for ent in ent_data_list}
+        n_missing_dcs_id = 0
         for feature in geojson_data["features"]:
             properties = feature["properties"]
             hum_id = properties[hum_id_key]
@@ -159,12 +162,18 @@ class BuildGeo:
                 data = ent_data_idx[dcs_id]
             else:
                 data = dict(hum_id=hum_id)
-                log.error(f"Missing DCS ID for HUM ID: {hum_id}")
+                log.warning(f"Missing DCS ID for HUM ID: {hum_id}")
+                n_missing_dcs_id += 1
+
             new_properties = data
             new_feature = dict(
                 properties=new_properties, geometry=feature["geometry"]
             )
             new_features.append(new_feature)
+
+        if n_missing_dcs_id > 0:
+            log.error(f"{n_missing_dcs_id} features are missing DCS IDs.")
+
         geojson_data["features"] = new_features
         return geojson_data
 
