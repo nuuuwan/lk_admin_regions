@@ -1,90 +1,156 @@
 [
   {
     "id": "EC-01",
-    "name": "Colombo"
+    "name": "Colombo",
+    "area_sqkm": 688.17,
+    "center_lat": 6.869822,
+    "center_lng": 80.018487
   },
   {
     "id": "EC-02",
-    "name": "Gampaha"
+    "name": "Gampaha",
+    "area_sqkm": 1385.23,
+    "center_lat": 7.123406,
+    "center_lng": 80.018206
   },
   {
     "id": "EC-03",
-    "name": "Kalutara"
+    "name": "Kalutara",
+    "area_sqkm": 1646.99,
+    "center_lat": 6.577185,
+    "center_lng": 80.127744
   },
   {
     "id": "EC-04",
-    "name": "Kandy"
+    "name": "Kandy",
+    "area_sqkm": 1927.69,
+    "center_lat": 7.273178,
+    "center_lng": 80.708811
   },
   {
     "id": "EC-05",
-    "name": "Matale"
+    "name": "Matale",
+    "area_sqkm": 1954.49,
+    "center_lat": 7.671086,
+    "center_lng": 80.727823
   },
   {
     "id": "EC-06",
-    "name": "Nuwara-Eliya"
+    "name": "Nuwara-Eliya",
+    "area_sqkm": 1744.81,
+    "center_lat": 6.974738,
+    "center_lng": 80.711186
   },
   {
     "id": "EC-07",
-    "name": "Galle"
+    "name": "Galle",
+    "area_sqkm": 1613.49,
+    "center_lat": 6.222792,
+    "center_lng": 80.251811
   },
   {
     "id": "EC-08",
-    "name": "Matara"
+    "name": "Matara",
+    "area_sqkm": 1306.37,
+    "center_lat": 6.142725,
+    "center_lng": 80.539846
   },
   {
     "id": "EC-09",
-    "name": "Hambantota"
+    "name": "Hambantota",
+    "area_sqkm": 2625.06,
+    "center_lat": 6.254039,
+    "center_lng": 81.091281
   },
   {
     "id": "EC-10",
-    "name": "Jaffna"
+    "name": "Jaffna",
+    "area_sqkm": 2409.6,
+    "center_lat": 9.542014,
+    "center_lng": 80.221882
   },
   {
     "id": "EC-11",
-    "name": "Vanni"
+    "name": "Vanni",
+    "area_sqkm": 6626.89,
+    "center_lat": 8.989083,
+    "center_lng": 80.388853
   },
   {
     "id": "EC-12",
-    "name": "Batticaloa"
+    "name": "Batticaloa",
+    "area_sqkm": 2469.77,
+    "center_lat": 7.796066,
+    "center_lng": 81.478085
   },
   {
     "id": "EC-13",
-    "name": "Digamadulla"
+    "name": "Digamadulla",
+    "area_sqkm": 4474.66,
+    "center_lat": 7.233261,
+    "center_lng": 81.553888
   },
   {
     "id": "EC-14",
-    "name": "Trincomalee"
+    "name": "Trincomalee",
+    "area_sqkm": 2692.11,
+    "center_lat": 8.553962,
+    "center_lng": 81.091548
   },
   {
     "id": "EC-15",
-    "name": "Kurunegala"
+    "name": "Kurunegala",
+    "area_sqkm": 4905.71,
+    "center_lat": 7.664511,
+    "center_lng": 80.236804
   },
   {
     "id": "EC-16",
-    "name": "Puttalam"
+    "name": "Puttalam",
+    "area_sqkm": 3133.88,
+    "center_lat": 7.975263,
+    "center_lng": 79.910874
   },
   {
     "id": "EC-17",
-    "name": "Anuradhapura"
+    "name": "Anuradhapura",
+    "area_sqkm": 7218.29,
+    "center_lat": 8.392067,
+    "center_lng": 80.51313
   },
   {
     "id": "EC-18",
-    "name": "Polonnaruwa"
+    "name": "Polonnaruwa",
+    "area_sqkm": 3469.72,
+    "center_lat": 7.994209,
+    "center_lng": 81.028281
   },
   {
     "id": "EC-19",
-    "name": "Badulla"
+    "name": "Badulla",
+    "area_sqkm": 2871.96,
+    "center_lat": 7.073578,
+    "center_lng": 81.044926
   },
   {
     "id": "EC-20",
-    "name": "Moneragala"
+    "name": "Moneragala",
+    "area_sqkm": 5757.99,
+    "center_lat": 6.787062,
+    "center_lng": 81.301821
   },
   {
     "id": "EC-21",
-    "name": "Ratnapura"
+    "name": "Ratnapura",
+    "area_sqkm": 3287.08,
+    "center_lat": 6.586622,
+    "center_lng": 80.565541
   },
   {
     "id": "EC-22",
-    "name": "Kegalle"
+    "name": "Kegalle",
+    "area_sqkm": 1657.73,
+    "center_lat": 7.104294,
+    "center_lng": 80.342772
   }
 ]

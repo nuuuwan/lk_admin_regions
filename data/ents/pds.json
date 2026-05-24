@@ -2,801 +2,1281 @@
   {
     "id": "EC-01A",
     "name": "Colombo North",
-    "code": "001"
+    "area_sqkm": 7.61,
+    "center_lat": 6.961523,
+    "center_lng": 79.869827,
+    "pd_code": "001"
   },
   {
     "id": "EC-01B",
     "name": "Colombo Central",
-    "code": "002"
+    "area_sqkm": 19.92,
+    "center_lat": 6.933079,
+    "center_lng": 79.853386,
+    "pd_code": "002"
   },
   {
     "id": "EC-01C",
     "name": "Borella",
-    "code": "003"
+    "area_sqkm": 3.97,
+    "center_lat": 6.924041,
+    "center_lng": 79.877892,
+    "pd_code": "003"
   },
   {
     "id": "EC-01D",
     "name": "Colombo East",
-    "code": "004"
+    "area_sqkm": 8.49,
+    "center_lat": 6.891221,
+    "center_lng": 79.87536,
+    "pd_code": "004"
   },
   {
     "id": "EC-01E",
     "name": "Colombo West",
-    "code": "005"
+    "area_sqkm": 6.88,
+    "center_lat": 6.894541,
+    "center_lng": 79.857675,
+    "pd_code": "005"
   },
   {
     "id": "EC-01F",
     "name": "Dehiwala",
-    "code": "006"
+    "area_sqkm": 8.46,
+    "center_lat": 6.858462,
+    "center_lng": 79.875429,
+    "pd_code": "006"
   },
   {
     "id": "EC-01G",
     "name": "Ratmalana",
-    "code": "007"
+    "area_sqkm": 12.86,
+    "center_lat": 6.827061,
+    "center_lng": 79.877974,
+    "pd_code": "007"
   },
   {
     "id": "EC-01H",
     "name": "Kolonnawa",
-    "code": "021"
+    "area_sqkm": 25.93,
+    "center_lat": 6.93437,
+    "center_lng": 79.915175,
+    "pd_code": "021"
   },
   {
     "id": "EC-01I",
     "name": "Kotte",
-    "code": "022"
+    "area_sqkm": 16.32,
+    "center_lat": 6.891034,
+    "center_lng": 79.898428,
+    "pd_code": "022"
   },
   {
     "id": "EC-01J",
     "name": "Kaduwela",
-    "code": "023"
+    "area_sqkm": 86.74,
+    "center_lat": 6.903511,
+    "center_lng": 79.977309,
+    "pd_code": "023"
   },
   {
     "id": "EC-01K",
     "name": "Avissawella",
-    "code": "024"
+    "area_sqkm": 252.17,
+    "center_lat": 6.885096,
+    "center_lng": 80.136573,
+    "pd_code": "024"
   },
   {
     "id": "EC-01L",
     "name": "Homagama",
-    "code": "025"
+    "area_sqkm": 120.32,
+    "center_lat": 6.833595,
+    "center_lng": 80.015498,
+    "pd_code": "025"
   },
   {
     "id": "EC-01M",
     "name": "Maharagama",
-    "code": "026"
+    "area_sqkm": 37.8,
+    "center_lat": 6.856502,
+    "center_lng": 79.941942,
+    "pd_code": "026"
   },
   {
     "id": "EC-01N",
     "name": "Kesbewa",
-    "code": "027"
+    "area_sqkm": 61.41,
+    "center_lat": 6.802645,
+    "center_lng": 79.928334,
+    "pd_code": "027"
   },
   {
     "id": "EC-01O",
     "name": "Moratuwa",
-    "code": "028"
+    "area_sqkm": 19.3,
+    "center_lat": 6.782566,
+    "center_lng": 79.890891,
+    "pd_code": "028"
   },
   {
     "id": "EC-02A",
     "name": "Wattala",
-    "code": "008"
+    "area_sqkm": 57.17,
+    "center_lat": 7.035208,
+    "center_lng": 79.88109,
+    "pd_code": "008"
   },
   {
     "id": "EC-02B",
     "name": "Negombo",
-    "code": "009"
+    "area_sqkm": 29.19,
+    "center_lat": 7.212174,
+    "center_lng": 79.844401,
+    "pd_code": "009"
   },
   {
     "id": "EC-02C",
     "name": "Katana",
-    "code": "010"
+    "area_sqkm": 107.8,
+    "center_lat": 7.193574,
+    "center_lng": 79.889949,
+    "pd_code": "010"
   },
   {
     "id": "EC-02D",
     "name": "Divulapitiya",
-    "code": "011"
+    "area_sqkm": 203.16,
+    "center_lat": 7.253922,
+    "center_lng": 80.006882,
+    "pd_code": "011"
   },
   {
     "id": "EC-02E",
     "name": "Mirigama",
-    "code": "012"
+    "area_sqkm": 188.81,
+    "center_lat": 7.225181,
+    "center_lng": 80.12288,
+    "pd_code": "012"
   },
   {
     "id": "EC-02F",
     "name": "Minuwangoda",
-    "code": "013"
+    "area_sqkm": 132.12,
+    "center_lat": 7.155035,
+    "center_lng": 79.979044,
+    "pd_code": "013"
   },
   {
     "id": "EC-02G",
     "name": "Attanagalla",
-    "code": "014"
+    "area_sqkm": 154.83,
+    "center_lat": 7.114342,
+    "center_lng": 80.109868,
+    "pd_code": "014"
   },
   {
     "id": "EC-02H",
     "name": "Gampaha",
-    "code": "015"
+    "area_sqkm": 91.82,
+    "center_lat": 7.07124,
+    "center_lng": 79.994244,
+    "pd_code": "015"
   },
   {
     "id": "EC-02I",
     "name": "Ja Ela",
-    "code": "016"
+    "area_sqkm": 62.45,
+    "center_lat": 7.072037,
+    "center_lng": 79.90888,
+    "pd_code": "016"
   },
   {
     "id": "EC-02J",
     "name": "Mahara",
-    "code": "017"
+    "area_sqkm": 95.75,
+    "center_lat": 7.029309,
+    "center_lng": 80.01439,
+    "pd_code": "017"
   },
   {
     "id": "EC-02K",
     "name": "Dompe",
-    "code": "018"
+    "area_sqkm": 179.18,
+    "center_lat": 6.990491,
+    "center_lng": 80.098929,
+    "pd_code": "018"
   },
   {
     "id": "EC-02L",
     "name": "Biyagama",
-    "code": "019"
+    "area_sqkm": 61.01,
+    "center_lat": 6.968689,
+    "center_lng": 79.978247,
+    "pd_code": "019"
   },
   {
     "id": "EC-02M",
     "name": "Kelaniya",
-    "code": "020"
+    "area_sqkm": 21.94,
+    "center_lat": 6.970356,
+    "center_lng": 79.909863,
+    "pd_code": "020"
   },
   {
     "id": "EC-03A",
     "name": "Panadura",
-    "code": "029"
+    "area_sqkm": 36.21,
+    "center_lat": 6.711283,
+    "center_lng": 79.919764,
+    "pd_code": "029"
   },
   {
     "id": "EC-03B",
     "name": "Bandaragama",
-    "code": "030"
+    "area_sqkm": 145.69,
+    "center_lat": 6.686801,
+    "center_lng": 80.003462,
+    "pd_code": "030"
   },
   {
     "id": "EC-03C",
     "name": "Horana",
-    "code": "031"
+    "area_sqkm": 206.05,
+    "center_lat": 6.759232,
+    "center_lng": 80.099888,
+    "pd_code": "031"
   },
   {
     "id": "EC-03D",
     "name": "Bulathsinhala",
-    "code": "032"
+    "area_sqkm": 305.25,
+    "center_lat": 6.639649,
+    "center_lng": 80.156483,
+    "pd_code": "032"
   },
   {
     "id": "EC-03E",
     "name": "Mathugama",
-    "code": "033"
+    "area_sqkm": 248.73,
+    "center_lat": 6.524862,
+    "center_lng": 80.070606,
+    "pd_code": "033"
   },
   {
     "id": "EC-03F",
     "name": "Kalutara",
-    "code": "034"
+    "area_sqkm": 75.57,
+    "center_lat": 6.620205,
+    "center_lng": 79.971212,
+    "pd_code": "034"
   },
   {
     "id": "EC-03G",
     "name": "Beruwala",
-    "code": "035"
+    "area_sqkm": 73.52,
+    "center_lat": 6.488797,
+    "center_lng": 80.004738,
+    "pd_code": "035"
   },
   {
     "id": "EC-03H",
     "name": "Agalawatta",
-    "code": "036"
+    "area_sqkm": 555.98,
+    "center_lat": 6.467213,
+    "center_lng": 80.231502,
+    "pd_code": "036"
   },
   {
     "id": "EC-04A",
     "name": "Galagedara",
-    "code": "041"
+    "area_sqkm": 114.91,
+    "center_lat": 7.346769,
+    "center_lng": 80.495134,
+    "pd_code": "041"
   },
   {
     "id": "EC-04B",
     "name": "Harispattuwa",
-    "code": "042"
+    "area_sqkm": 138.01,
+    "center_lat": 7.37261,
+    "center_lng": 80.585143,
+    "pd_code": "042"
   },
   {
     "id": "EC-04C",
     "name": "Pathadumbara",
-    "code": "043"
+    "area_sqkm": 141.33,
+    "center_lat": 7.388849,
+    "center_lng": 80.71461,
+    "pd_code": "043"
   },
   {
     "id": "EC-04D",
     "name": "Ududumbara",
-    "code": "044"
+    "area_sqkm": 526.86,
+    "center_lat": 7.338155,
+    "center_lng": 80.90984,
+    "pd_code": "044"
   },
   {
     "id": "EC-04E",
     "name": "Teldeniya",
-    "code": "045"
+    "area_sqkm": 188.81,
+    "center_lat": 7.302731,
+    "center_lng": 80.800121,
+    "pd_code": "045"
   },
   {
     "id": "EC-04F",
     "name": "Kundasale",
-    "code": "046"
+    "area_sqkm": 81.19,
+    "center_lat": 7.305382,
+    "center_lng": 80.708789,
+    "pd_code": "046"
   },
   {
     "id": "EC-04G",
     "name": "Hewaheta",
-    "code": "047"
+    "area_sqkm": 133.33,
+    "center_lat": 7.212482,
+    "center_lng": 80.703446,
+    "pd_code": "047"
   },
   {
     "id": "EC-04H",
     "name": "Senkadagala",
-    "code": "048"
+    "area_sqkm": 47.76,
+    "center_lat": 7.269732,
+    "center_lng": 80.64385,
+    "pd_code": "048"
   },
   {
     "id": "EC-04I",
     "name": "Mahanuwara",
-    "code": "049"
+    "area_sqkm": 12.15,
+    "center_lat": 7.288183,
+    "center_lng": 80.617395,
+    "pd_code": "049"
   },
   {
     "id": "EC-04J",
     "name": "Yatinuwara",
-    "code": "050"
+    "area_sqkm": 69.11,
+    "center_lat": 7.282819,
+    "center_lng": 80.538023,
+    "pd_code": "050"
   },
   {
     "id": "EC-04K",
     "name": "Udunuwara",
-    "code": "051"
+    "area_sqkm": 68.84,
+    "center_lat": 7.222683,
+    "center_lng": 80.559451,
+    "pd_code": "051"
   },
   {
     "id": "EC-04L",
     "name": "Gampola",
-    "code": "052"
+    "area_sqkm": 166.96,
+    "center_lat": 7.152947,
+    "center_lng": 80.631511,
+    "pd_code": "052"
   },
   {
     "id": "EC-04M",
     "name": "Nawalapitiya",
-    "code": "053"
+    "area_sqkm": 238.42,
+    "center_lat": 7.063484,
+    "center_lng": 80.530844,
+    "pd_code": "053"
   },
   {
     "id": "EC-05A",
     "name": "Dambulla",
-    "code": "037"
+    "area_sqkm": 733.17,
+    "center_lat": 7.823793,
+    "center_lng": 80.664966,
+    "pd_code": "037"
   },
   {
     "id": "EC-05B",
     "name": "Laggala",
-    "code": "038"
+    "area_sqkm": 899.78,
+    "center_lat": 7.608731,
+    "center_lng": 80.809921,
+    "pd_code": "038"
   },
   {
     "id": "EC-05C",
     "name": "Matale",
-    "code": "039"
+    "area_sqkm": 139.22,
+    "center_lat": 7.54403,
+    "center_lng": 80.609853,
+    "pd_code": "039"
   },
   {
     "id": "EC-05D",
     "name": "Rattota",
-    "code": "040"
+    "area_sqkm": 182.32,
+    "center_lat": 7.461745,
+    "center_lng": 80.665508,
+    "pd_code": "040"
   },
   {
     "id": "EC-06A",
     "name": "Nuwara Eliya Maskeliya",
-    "code": "054"
+    "area_sqkm": 969.42,
+    "center_lat": 6.88602,
+    "center_lng": 80.650351,
+    "pd_code": "054"
   },
   {
     "id": "EC-06B",
     "name": "Kothmale",
-    "code": "055"
+    "area_sqkm": 226.79,
+    "center_lat": 7.038477,
+    "center_lng": 80.656096,
+    "pd_code": "055"
   },
   {
     "id": "EC-06C",
     "name": "Hanguranketha",
-    "code": "056"
+    "area_sqkm": 225.72,
+    "center_lat": 7.123265,
+    "center_lng": 80.776507,
+    "pd_code": "056"
   },
   {
     "id": "EC-06D",
     "name": "Walapane",
-    "code": "057"
+    "area_sqkm": 322.88,
+    "center_lat": 7.0925,
+    "center_lng": 80.886866,
+    "pd_code": "057"
   },
   {
     "id": "EC-07A",
     "name": "Balapitiya",
-    "code": "058"
+    "area_sqkm": 54.26,
+    "center_lat": 6.314523,
+    "center_lng": 80.050593,
+    "pd_code": "058"
   },
   {
     "id": "EC-07B",
     "name": "Ambalangoda",
-    "code": "059"
+    "area_sqkm": 100.58,
+    "center_lat": 6.186501,
+    "center_lng": 80.129944,
+    "pd_code": "059"
   },
   {
     "id": "EC-07C",
     "name": "Karandeniya",
-    "code": "060"
+    "area_sqkm": 145.02,
+    "center_lat": 6.264415,
+    "center_lng": 80.131811,
+    "pd_code": "060"
   },
   {
     "id": "EC-07D",
     "name": "Bentara Elpitiya",
-    "code": "061"
+    "area_sqkm": 221.61,
+    "center_lat": 6.321173,
+    "center_lng": 80.144026,
+    "pd_code": "061"
   },
   {
     "id": "EC-07E",
     "name": "Hiniduma",
-    "code": "062"
+    "area_sqkm": 518.84,
+    "center_lat": 6.30028,
+    "center_lng": 80.337823,
+    "pd_code": "062"
   },
   {
     "id": "EC-07F",
     "name": "Baddegama",
-    "code": "063"
+    "area_sqkm": 280.73,
+    "center_lat": 6.141241,
+    "center_lng": 80.316191,
+    "pd_code": "063"
   },
   {
     "id": "EC-07G",
     "name": "Ratgama",
-    "code": "064"
+    "area_sqkm": 63.17,
+    "center_lat": 6.139834,
+    "center_lng": 80.122583,
+    "pd_code": "064"
   },
   {
     "id": "EC-07H",
     "name": "Galle",
-    "code": "065"
+    "area_sqkm": 22.3,
+    "center_lat": 6.053635,
+    "center_lng": 80.207916,
+    "pd_code": "065"
   },
   {
     "id": "EC-07I",
     "name": "Akmeemana",
-    "code": "066"
+    "area_sqkm": 99.81,
+    "center_lat": 6.066682,
+    "center_lng": 80.265053,
+    "pd_code": "066"
   },
   {
     "id": "EC-07J",
     "name": "Habaraduwa",
-    "code": "067"
+    "area_sqkm": 107.17,
+    "center_lat": 6.018598,
+    "center_lng": 80.341261,
+    "pd_code": "067"
   },
   {
     "id": "EC-08A",
     "name": "Deniyaya",
-    "code": "068"
+    "area_sqkm": 359.51,
+    "center_lat": 6.291258,
+    "center_lng": 80.524222,
+    "pd_code": "068"
   },
   {
     "id": "EC-08B",
     "name": "Hakmana",
-    "code": "069"
+    "area_sqkm": 268.86,
+    "center_lat": 6.185573,
+    "center_lng": 80.60088,
+    "pd_code": "069"
   },
   {
     "id": "EC-08C",
     "name": "Akuressa",
-    "code": "070"
+    "area_sqkm": 255.97,
+    "center_lat": 6.111825,
+    "center_lng": 80.467324,
+    "pd_code": "070"
   },
   {
     "id": "EC-08D",
     "name": "Kamburupitiya",
-    "code": "071"
+    "area_sqkm": 164.13,
+    "center_lat": 6.043756,
+    "center_lng": 80.587237,
+    "pd_code": "071"
   },
   {
     "id": "EC-08E",
     "name": "Devinuwara",
-    "code": "072"
+    "area_sqkm": 89.27,
+    "center_lat": 5.981819,
+    "center_lng": 80.648359,
+    "pd_code": "072"
   },
   {
     "id": "EC-08F",
     "name": "Matara",
-    "code": "073"
+    "area_sqkm": 56.63,
+    "center_lat": 5.962773,
+    "center_lng": 80.563249,
+    "pd_code": "073"
   },
   {
     "id": "EC-08G",
     "name": "Weligama",
-    "code": "074"
+    "area_sqkm": 112.0,
+    "center_lat": 5.997975,
+    "center_lng": 80.441463,
+    "pd_code": "074"
   },
   {
     "id": "EC-09A",
     "name": "Mulkirigala",
-    "code": "075"
+    "area_sqkm": 311.43,
+    "center_lat": 6.215542,
+    "center_lng": 80.721261,
+    "pd_code": "075"
   },
   {
     "id": "EC-09B",
     "name": "Beliatta",
-    "code": "076"
+    "area_sqkm": 200.44,
+    "center_lat": 6.074852,
+    "center_lng": 80.729877,
+    "pd_code": "076"
   },
   {
     "id": "EC-09C",
     "name": "Tangalle",
-    "code": "077"
+    "area_sqkm": 434.49,
+    "center_lat": 6.146275,
+    "center_lng": 80.883425,
+    "pd_code": "077"
   },
   {
     "id": "EC-09D",
     "name": "Thissamaharama",
-    "code": "078"
+    "area_sqkm": 1678.71,
+    "center_lat": 6.310469,
+    "center_lng": 81.256877,
+    "pd_code": "078"
   },
   {
     "id": "EC-10A",
     "name": "Kayts",
-    "code": "079"
+    "area_sqkm": 171.65,
+    "center_lat": 9.601405,
+    "center_lng": 79.82698,
+    "pd_code": "079"
   },
   {
     "id": "EC-10B",
     "name": "Vaddukoddai",
-    "code": "080"
+    "area_sqkm": 80.38,
+    "center_lat": 9.742918,
+    "center_lng": 79.926928,
+    "pd_code": "080"
   },
   {
     "id": "EC-10C",
     "name": "Kankesanthurai",
-    "code": "081"
+    "area_sqkm": 76.22,
+    "center_lat": 9.789365,
+    "center_lng": 80.029465,
+    "pd_code": "081"
   },
   {
     "id": "EC-10D",
     "name": "Manipay",
-    "code": "082"
+    "area_sqkm": 53.34,
+    "center_lat": 9.732095,
+    "center_lng": 80.008345,
+    "pd_code": "082"
   },
   {
     "id": "EC-10E",
     "name": "Kopay",
-    "code": "083"
+    "area_sqkm": 115.12,
+    "center_lat": 9.738079,
+    "center_lng": 80.095497,
+    "pd_code": "083"
   },
   {
     "id": "EC-10F",
     "name": "Udupiddy",
-    "code": "084"
+    "area_sqkm": 92.15,
+    "center_lat": 9.778808,
+    "center_lng": 80.179825,
+    "pd_code": "084"
   },
   {
     "id": "EC-10G",
     "name": "Point Pedro",
-    "code": "085"
+    "area_sqkm": 222.67,
+    "center_lat": 9.641435,
+    "center_lng": 80.383806,
+    "pd_code": "085"
   },
   {
     "id": "EC-10H",
     "name": "Chavakachcheri",
-    "code": "086"
+    "area_sqkm": 235.15,
+    "center_lat": 9.677235,
+    "center_lng": 80.189372,
+    "pd_code": "086"
   },
   {
     "id": "EC-10I",
     "name": "Nallur",
-    "code": "087"
+    "area_sqkm": 32.67,
+    "center_lat": 9.667633,
+    "center_lng": 80.049097,
+    "pd_code": "087"
   },
   {
     "id": "EC-10J",
     "name": "Jaffna",
-    "code": "088"
+    "area_sqkm": 10.98,
+    "center_lat": 9.663344,
+    "center_lng": 80.021463,
+    "pd_code": "088"
   },
   {
     "id": "EC-10K",
     "name": "Kilinochchi",
-    "code": "089"
+    "area_sqkm": 1319.29,
+    "center_lat": 9.421424,
+    "center_lng": 80.309356,
+    "pd_code": "089"
   },
   {
     "id": "EC-11A",
     "name": "Mannar",
-    "code": "090"
+    "area_sqkm": 2010.83,
+    "center_lat": 8.878476,
+    "center_lng": 80.091433,
+    "pd_code": "090"
   },
   {
     "id": "EC-11B",
     "name": "Vavuniya",
-    "code": "092"
+    "area_sqkm": 2020.68,
+    "center_lat": 8.858268,
+    "center_lng": 80.48268,
+    "pd_code": "092"
   },
   {
     "id": "EC-11C",
     "name": "Mullaitivu",
-    "code": "091"
+    "area_sqkm": 2595.38,
+    "center_lat": 9.176628,
+    "center_lng": 80.546235,
+    "pd_code": "091"
   },
   {
     "id": "EC-12A",
     "name": "Kalkudah",
-    "code": "096"
+    "area_sqkm": 1449.55,
+    "center_lat": 7.924191,
+    "center_lng": 81.38446,
+    "pd_code": "096"
   },
   {
     "id": "EC-12B",
     "name": "Batticaloa",
-    "code": "097"
+    "area_sqkm": 677.75,
+    "center_lat": 7.656338,
+    "center_lng": 81.567542,
+    "pd_code": "097"
   },
   {
     "id": "EC-12C",
     "name": "Paddiruppu",
-    "code": "098"
+    "area_sqkm": 342.46,
+    "center_lat": 7.530285,
+    "center_lng": 81.697333,
+    "pd_code": "098"
   },
   {
     "id": "EC-13A",
     "name": "Ampara",
-    "code": "099"
+    "area_sqkm": 2220.18,
+    "center_lat": 7.474069,
+    "center_lng": 81.37529,
+    "pd_code": "099"
   },
   {
     "id": "EC-13B",
     "name": "Samanthurai",
-    "code": "100"
+    "area_sqkm": 306.58,
+    "center_lat": 7.314049,
+    "center_lng": 81.76095,
+    "pd_code": "100"
   },
   {
     "id": "EC-13C",
     "name": "Kalmunai",
-    "code": "101"
+    "area_sqkm": 24.26,
+    "center_lat": 7.41718,
+    "center_lng": 81.817666,
+    "pd_code": "101"
   },
   {
     "id": "EC-13D",
     "name": "Pothuvil",
-    "code": "102"
+    "area_sqkm": 1923.64,
+    "center_lat": 6.940137,
+    "center_lng": 81.723689,
+    "pd_code": "102"
   },
   {
     "id": "EC-14A",
     "name": "Seruvila",
-    "code": "093"
+    "area_sqkm": 1663.39,
+    "center_lat": 8.512988,
+    "center_lng": 81.069459,
+    "pd_code": "093"
   },
   {
     "id": "EC-14B",
     "name": "Trincomalee",
-    "code": "094"
+    "area_sqkm": 599.21,
+    "center_lat": 8.751237,
+    "center_lng": 81.077457,
+    "pd_code": "094"
   },
   {
     "id": "EC-14C",
     "name": "Muttur",
-    "code": "095"
+    "area_sqkm": 429.5,
+    "center_lat": 8.437425,
+    "center_lng": 81.196756,
+    "pd_code": "095"
   },
   {
     "id": "EC-15A",
     "name": "Galgamuwa",
-    "code": "108"
+    "area_sqkm": 785.19,
+    "center_lat": 8.007556,
+    "center_lng": 80.289476,
+    "pd_code": "108"
   },
   {
     "id": "EC-15B",
     "name": "Nikaweratiya",
-    "code": "109"
+    "area_sqkm": 595.73,
+    "center_lat": 7.779144,
+    "center_lng": 80.103677,
+    "pd_code": "109"
   },
   {
     "id": "EC-15C",
     "name": "Yapahuwa",
-    "code": "110"
+    "area_sqkm": 682.27,
+    "center_lat": 7.808026,
+    "center_lng": 80.335376,
+    "pd_code": "110"
   },
   {
     "id": "EC-15D",
     "name": "Hiriyala",
-    "code": "111"
+    "area_sqkm": 367.43,
+    "center_lat": 7.633648,
+    "center_lng": 80.430185,
+    "pd_code": "111"
   },
   {
     "id": "EC-15E",
     "name": "Wariyapola",
-    "code": "112"
+    "area_sqkm": 312.53,
+    "center_lat": 7.621927,
+    "center_lng": 80.244165,
+    "pd_code": "112"
   },
   {
     "id": "EC-15F",
     "name": "Panduwasnuwara",
-    "code": "113"
+    "area_sqkm": 283.47,
+    "center_lat": 7.584134,
+    "center_lng": 80.101591,
+    "pd_code": "113"
   },
   {
     "id": "EC-15G",
     "name": "Bingiriya",
-    "code": "114"
+    "area_sqkm": 313.52,
+    "center_lat": 7.55897,
+    "center_lng": 79.960229,
+    "pd_code": "114"
   },
   {
     "id": "EC-15H",
     "name": "Katugampola",
-    "code": "115"
+    "area_sqkm": 282.22,
+    "center_lat": 7.362153,
+    "center_lng": 80.030535,
+    "pd_code": "115"
   },
   {
     "id": "EC-15I",
     "name": "Kuliyapitiya",
-    "code": "116"
+    "area_sqkm": 279.27,
+    "center_lat": 7.471166,
+    "center_lng": 80.101295,
+    "pd_code": "116"
   },
   {
     "id": "EC-15J",
     "name": "Dambadeniya",
-    "code": "117"
+    "area_sqkm": 238.79,
+    "center_lat": 7.359723,
+    "center_lng": 80.206379,
+    "pd_code": "117"
   },
   {
     "id": "EC-15K",
     "name": "Polgahawela",
-    "code": "118"
+    "area_sqkm": 188.4,
+    "center_lat": 7.419139,
+    "center_lng": 80.291174,
+    "pd_code": "118"
   },
   {
     "id": "EC-15L",
     "name": "Kurunegala",
-    "code": "119"
+    "area_sqkm": 164.06,
+    "center_lat": 7.530655,
+    "center_lng": 80.342098,
+    "pd_code": "119"
   },
   {
     "id": "EC-15M",
     "name": "Mawathagama",
-    "code": "120"
+    "area_sqkm": 187.69,
+    "center_lat": 7.442965,
+    "center_lng": 80.422076,
+    "pd_code": "120"
   },
   {
     "id": "EC-15N",
     "name": "Dodangaslanda",
-    "code": "121"
+    "area_sqkm": 225.15,
+    "center_lat": 7.517219,
+    "center_lng": 80.518459,
+    "pd_code": "121"
   },
   {
     "id": "EC-16A",
     "name": "Puttalam",
-    "code": "103"
+    "area_sqkm": 1001.34,
+    "center_lat": 8.188734,
+    "center_lng": 79.854112,
+    "pd_code": "103"
   },
   {
     "id": "EC-16B",
     "name": "Anamaduwa",
-    "code": "104"
+    "area_sqkm": 1519.23,
+    "center_lat": 8.023165,
+    "center_lng": 79.968522,
+    "pd_code": "104"
   },
   {
     "id": "EC-16C",
     "name": "Chilaw",
-    "code": "105"
+    "area_sqkm": 344.41,
+    "center_lat": 7.608214,
+    "center_lng": 79.850482,
+    "pd_code": "105"
   },
   {
     "id": "EC-16D",
     "name": "Nattandiya",
-    "code": "106"
+    "area_sqkm": 150.97,
+    "center_lat": 7.424983,
+    "center_lng": 79.862933,
+    "pd_code": "106"
   },
   {
     "id": "EC-16E",
     "name": "Wennappuwa",
-    "code": "107"
+    "area_sqkm": 117.92,
+    "center_lat": 7.321939,
+    "center_lng": 79.887929,
+    "pd_code": "107"
   },
   {
     "id": "EC-17A",
     "name": "Medawachchiya",
-    "code": "122"
+    "area_sqkm": 1546.72,
+    "center_lat": 8.666773,
+    "center_lng": 80.640757,
+    "pd_code": "122"
   },
   {
     "id": "EC-17B",
     "name": "Horowpothana",
-    "code": "123"
+    "area_sqkm": 1359.05,
+    "center_lat": 8.456616,
+    "center_lng": 80.804269,
+    "pd_code": "123"
   },
   {
     "id": "EC-17C",
     "name": "Anuradhapura East",
-    "code": "124"
+    "area_sqkm": 482.45,
+    "center_lat": 8.337408,
+    "center_lng": 80.506022,
+    "pd_code": "124"
   },
   {
     "id": "EC-17D",
     "name": "Anuradhapura West",
-    "code": "125"
+    "area_sqkm": 1918.61,
+    "center_lat": 8.42212,
+    "center_lng": 80.197277,
+    "pd_code": "125"
   },
   {
     "id": "EC-17E",
     "name": "Kalawewa",
-    "code": "126"
+    "area_sqkm": 530.38,
+    "center_lat": 8.124474,
+    "center_lng": 80.351966,
+    "pd_code": "126"
   },
   {
     "id": "EC-17F",
     "name": "Mihinthale",
-    "code": "127"
+    "area_sqkm": 634.81,
+    "center_lat": 8.201908,
+    "center_lng": 80.54647,
+    "pd_code": "127"
   },
   {
     "id": "EC-17G",
     "name": "Kekirawa",
-    "code": "128"
+    "area_sqkm": 746.26,
+    "center_lat": 8.01516,
+    "center_lng": 80.621222,
+    "pd_code": "128"
   },
   {
     "id": "EC-18A",
     "name": "Minneriya",
-    "code": "129"
+    "area_sqkm": 1071.32,
+    "center_lat": 8.012129,
+    "center_lng": 80.858611,
+    "pd_code": "129"
   },
   {
     "id": "EC-18B",
     "name": "Medirigiriya",
-    "code": "130"
+    "area_sqkm": 770.73,
+    "center_lat": 8.153004,
+    "center_lng": 81.054949,
+    "pd_code": "130"
   },
   {
     "id": "EC-18C",
     "name": "Polonnaruwa",
-    "code": "131"
+    "area_sqkm": 1627.67,
+    "center_lat": 7.907222,
+    "center_lng": 81.12733,
+    "pd_code": "131"
   },
   {
     "id": "EC-19A",
     "name": "Mahiyanganaya",
-    "code": "132"
+    "area_sqkm": 1039.02,
+    "center_lat": 7.36677,
+    "center_lng": 81.101087,
+    "pd_code": "132"
   },
   {
     "id": "EC-19B",
     "name": "Viyaluwa",
-    "code": "133"
+    "area_sqkm": 340.04,
+    "center_lat": 7.108727,
+    "center_lng": 81.035272,
+    "pd_code": "133"
   },
   {
     "id": "EC-19C",
     "name": "Passara",
-    "code": "134"
+    "area_sqkm": 277.6,
+    "center_lat": 7.002556,
+    "center_lng": 81.167277,
+    "pd_code": "134"
   },
   {
     "id": "EC-19D",
     "name": "Badulla",
-    "code": "135"
+    "area_sqkm": 48.85,
+    "center_lat": 6.987256,
+    "center_lng": 81.086841,
+    "pd_code": "135"
   },
   {
     "id": "EC-19E",
     "name": "Hali Ela",
-    "code": "136"
+    "area_sqkm": 170.05,
+    "center_lat": 6.94587,
+    "center_lng": 81.019408,
+    "pd_code": "136"
   },
   {
     "id": "EC-19F",
     "name": "Uva Paranagama",
-    "code": "137"
+    "area_sqkm": 137.69,
+    "center_lat": 6.966467,
+    "center_lng": 80.917273,
+    "pd_code": "137"
   },
   {
     "id": "EC-19G",
     "name": "Welimada",
-    "code": "138"
+    "area_sqkm": 194.0,
+    "center_lat": 6.860252,
+    "center_lng": 80.880744,
+    "pd_code": "138"
   },
   {
     "id": "EC-19H",
     "name": "Bandarawela",
-    "code": "139"
+    "area_sqkm": 180.51,
+    "center_lat": 6.853146,
+    "center_lng": 81.043214,
+    "pd_code": "139"
   },
   {
     "id": "EC-19I",
     "name": "Haputale",
-    "code": "140"
+    "area_sqkm": 484.21,
+    "center_lat": 6.712142,
+    "center_lng": 80.9685,
+    "pd_code": "140"
   },
   {
     "id": "EC-20A",
     "name": "Bibile",
-    "code": "141"
+    "area_sqkm": 1456.73,
+    "center_lat": 7.15134,
+    "center_lng": 81.363338,
+    "pd_code": "141"
   },
   {
     "id": "EC-20B",
     "name": "Monaragala",
-    "code": "142"
+    "area_sqkm": 1587.54,
+    "center_lat": 6.846735,
+    "center_lng": 81.447941,
+    "pd_code": "142"
   },
   {
     "id": "EC-20C",
     "name": "Wellawaya",
-    "code": "143"
+    "area_sqkm": 2713.72,
+    "center_lat": 6.556608,
+    "center_lng": 81.183318,
+    "pd_code": "143"
   },
   {
     "id": "EC-21A",
     "name": "Eheliyagoda",
-    "code": "153"
+    "area_sqkm": 252.61,
+    "center_lat": 6.816465,
+    "center_lng": 80.251829,
+    "pd_code": "153"
   },
   {
     "id": "EC-21B",
     "name": "Ratnapura",
-    "code": "154"
+    "area_sqkm": 355.54,
+    "center_lat": 6.760023,
+    "center_lng": 80.417821,
+    "pd_code": "154"
   },
   {
     "id": "EC-21C",
     "name": "Pelmadulla",
-    "code": "155"
+    "area_sqkm": 257.68,
+    "center_lat": 6.662103,
+    "center_lng": 80.52381,
+    "pd_code": "155"
   },
   {
     "id": "EC-21D",
     "name": "Balangoda",
-    "code": "156"
+    "area_sqkm": 536.1,
+    "center_lat": 6.669718,
+    "center_lng": 80.752425,
+    "pd_code": "156"
   },
   {
     "id": "EC-21E",
     "name": "Rakwana",
-    "code": "157"
+    "area_sqkm": 429.42,
+    "center_lat": 6.538697,
+    "center_lng": 80.684434,
+    "pd_code": "157"
   },
   {
     "id": "EC-21F",
     "name": "Nivithigala",
-    "code": "158"
+    "area_sqkm": 263.37,
+    "center_lat": 6.581956,
+    "center_lng": 80.466155,
+    "pd_code": "158"
   },
   {
     "id": "EC-21G",
     "name": "Kalawana",
-    "code": "159"
+    "area_sqkm": 625.69,
+    "center_lat": 6.527216,
+    "center_lng": 80.406896,
+    "pd_code": "159"
   },
   {
     "id": "EC-21H",
     "name": "Kolonna",
-    "code": "160"
+    "area_sqkm": 566.66,
+    "center_lat": 6.366507,
+    "center_lng": 80.771509,
+    "pd_code": "160"
   },
   {
     "id": "EC-22A",
     "name": "Dedigama",
-    "code": "144"
+    "area_sqkm": 196.98,
+    "center_lat": 7.203746,
+    "center_lng": 80.231762,
+    "pd_code": "144"
   },
   {
     "id": "EC-22B",
     "name": "Galigamuwa",
-    "code": "145"
+    "area_sqkm": 149.21,
+    "center_lat": 7.203178,
+    "center_lng": 80.310332,
+    "pd_code": "145"
   },
   {
     "id": "EC-22C",
     "name": "Kegalle",
-    "code": "146"
+    "area_sqkm": 104.22,
+    "center_lat": 7.210848,
+    "center_lng": 80.367415,
+    "pd_code": "146"
   },
   {
     "id": "EC-22D",
     "name": "Rambukkana",
-    "code": "147"
+    "area_sqkm": 127.79,
+    "center_lat": 7.324762,
+    "center_lng": 80.386138,
+    "pd_code": "147"
   },
   {
     "id": "EC-22E",
     "name": "Mawanella",
-    "code": "148"
+    "area_sqkm": 120.09,
+    "center_lat": 7.230038,
+    "center_lng": 80.47224,
+    "pd_code": "148"
   },
   {
     "id": "EC-22F",
     "name": "Aranayaka",
-    "code": "149"
+    "area_sqkm": 122.13,
+    "center_lat": 7.167048,
+    "center_lng": 80.441577,
+    "pd_code": "149"
   },
   {
     "id": "EC-22G",
     "name": "Yatiyanthota",
-    "code": "150"
+    "area_sqkm": 280.56,
+    "center_lat": 7.050977,
+    "center_lng": 80.367712,
+    "pd_code": "150"
   },
   {
     "id": "EC-22H",
     "name": "Ruwanwella",
-    "code": "151"
+    "area_sqkm": 196.61,
+    "center_lat": 7.042993,
+    "center_lng": 80.227394,
+    "pd_code": "151"
   },
   {
     "id": "EC-22I",
     "name": "Deraniyagala",
-    "code": "152"
+    "area_sqkm": 360.14,
+    "center_lat": 6.911649,
+    "center_lng": 80.361291,
+    "pd_code": "152"
   }
 ]
