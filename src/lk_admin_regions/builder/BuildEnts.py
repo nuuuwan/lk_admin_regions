@@ -1,4 +1,5 @@
 import os
+from functools import cache
 
 from utils import JSONFile, Log, TSVFile
 
@@ -12,9 +13,19 @@ class BuildEnts:
     DIR_DATA = "data"
     DIR_DATA_ENTS = os.path.join(DIR_DATA, "ents")
     RAW_DATA_PATH = os.path.join("data_temp", "combined_gnd.tsv")
-    DENORMALIZED_GNDS_PATH = os.path.join(
-        "data_temp", "denormalized_gnds.tsv"
+    DENORMALIZED_GNDS_PATH_BASE = os.path.join(
+        "data_temp", "denormalized_gnds"
     )
+
+    @staticmethod
+    def write_all_types(d_list, file_path_base):
+        log.info(f"Writing {len(d_list)} ents to {file_path_base}.[json|tsv]")
+        json_file = JSONFile(f"{file_path_base}.json")
+        json_file.write(d_list)
+        log.info(f"\tWrote {json_file}")
+        tsv_file = TSVFile(f"{file_path_base}.tsv")
+        tsv_file.write(d_list)
+        log.info(f"\tWrote {tsv_file}")
 
     @classmethod
     def build_denormalized_gnd(cls, raw_d):
@@ -74,36 +85,80 @@ class BuildEnts:
         raw_d_list = TSVFile(cls.RAW_DATA_PATH).read()
         d_list = [cls.build_denormalized_gnd(d) for d in raw_d_list]
         d_list.sort(key=lambda d: d["gnd_id"])
-        tsv_file = TSVFile(BuildEnts.DENORMALIZED_GNDS_PATH)
-        tsv_file.write(d_list)
-        log.info(f"Wrote {tsv_file}")
+        cls.write_all_types(d_list, cls.DENORMALIZED_GNDS_PATH_BASE)
 
     @classmethod
     def build_gnd(cls, denormalized_gnd):
         return dict(
-            gnd_id=denormalized_gnd["gnd_id"],
+            id=denormalized_gnd["gnd_id"],
             name=denormalized_gnd["gnd_name"],
             num=denormalized_gnd["gnd_num"],
-            area_sqkm=denormalized_gnd["area_sqkm"],
-            center_lat=denormalized_gnd["center_lat"],
-            center_lng=denormalized_gnd["center_lng"],
+            area_sqkm=float(denormalized_gnd["area_sqkm"]),
+            center_lat=float(denormalized_gnd["center_lat"]),
+            center_lng=float(denormalized_gnd["center_lng"]),
         )
 
     @classmethod
+    @cache
+    def read_denormalized_gnds(cls):
+        return TSVFile(cls.DENORMALIZED_GNDS_PATH_BASE + ".tsv").read()
+
+    @classmethod
     def build_gnds(cls):
-        denormalized_gnds = TSVFile(cls.DENORMALIZED_GNDS_PATH).read()
+        denormalized_gnds = cls.read_denormalized_gnds()
         gnds = [cls.build_gnd(d) for d in denormalized_gnds]
-        json_file = JSONFile(os.path.join(cls.DIR_DATA_ENTS, "gnds.json"))
-        json_file.write(gnds)
-        log.info(f"Wrote {json_file}")
-        tsv_file = TSVFile(os.path.join(cls.DIR_DATA_ENTS, "gnds.tsv"))
-        tsv_file.write(gnds)
-        log.info(f"Wrote {tsv_file}")
+        cls.write_all_types(gnds, os.path.join(cls.DIR_DATA_ENTS, "gnds"))
+
+    @classmethod
+    def build_parents(cls):
+        denormalized_gnds = cls.read_denormalized_gnds()
+        for parent_label in ["dsd", "district", "province", "country"]:
+            id_key = f"{parent_label}_id"
+            name_key = f"{parent_label}_name"
+
+            gnds_by_parent = {}
+            for gnd in denormalized_gnds:
+                parent_id = gnd[id_key]
+                if parent_id not in gnds_by_parent:
+                    gnds_by_parent[parent_id] = []
+                gnds_by_parent[parent_id].append(gnd)
+
+            parents = []
+            for parent_id, gnds_for_parent in gnds_by_parent.items():
+                parent_name = gnds_for_parent[0][name_key]
+
+                w_area_sqkm = 0
+                w_center_lat = 0
+                w_center_lng = 0
+                for gnd in gnds_for_parent:
+                    area_sqkm = float(gnd["area_sqkm"])
+                    w_area_sqkm += area_sqkm
+                    w_center_lat += area_sqkm * float(gnd["center_lat"])
+                    w_center_lng += area_sqkm * float(gnd["center_lng"])
+
+                center_lat = w_center_lat / w_area_sqkm if w_area_sqkm else 0
+                center_lng = w_center_lng / w_area_sqkm if w_area_sqkm else 0
+
+                parent_d = dict(
+                    id=parent_id,
+                    name=parent_name,
+                    area_sqkm=w_area_sqkm,
+                    center_lat=center_lat,
+                    center_lng=center_lng,
+                )
+                parents.append(parent_d)
+
+            parents.sort(key=lambda d: d["id"])
+            cls.write_all_types(
+                parents,
+                os.path.join(cls.DIR_DATA_ENTS, f"{parent_label}s"),
+            )
 
     @classmethod
     def build(cls):
         cls.build_denormalized_gnds()
         cls.build_gnds()
+        cls.build_parents()
 
 
 if __name__ == "__main__":

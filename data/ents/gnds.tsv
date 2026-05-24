@@ -1,4 +1,4 @@
-gnd_id	name	num	area_sqkm	center_lat	center_lng
+id	name	num	area_sqkm	center_lat	center_lng
 LK-1103005	Sammanthranapura		0.17851654	6.97793347	79.87812849
 LK-1103010	Mattakkuliya		2.15995463	6.97217763	79.87696217
 LK-1103015	Modara		0.78733254	6.96466116	79.87173574
