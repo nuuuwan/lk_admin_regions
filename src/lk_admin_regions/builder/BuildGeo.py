@@ -5,8 +5,9 @@ import shutil
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
-    LKAAdminBoundariesXLSX
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
+    LKAAdminBoundariesXLSX,
+)
 
 log = Log("BuildGeo")
 
@@ -25,9 +26,7 @@ class BuildGeo:
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(
-        cls, json_type, dir_name_simplified, ent_type_name
-    ):
+    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -159,6 +158,10 @@ class BuildGeo:
         ent_type_name,
         level,
     ):
+        log.debug("-" * 64)
+        log.debug(f"{level}. Building for {ent_type_name}...")
+        log.debug("-" * 64)
+
         cls.copy_original(ent_type_name, level)
         cls.build_simplified_geojson_and_topojson(
             ent_type_name,
@@ -171,9 +174,6 @@ class BuildGeo:
             ent_type_name,
             level,
         ) in BuildGeo.ENT_CONFIG:
-            log.debug("-" * 64)
-            log.debug(f"{level}. Building for {ent_type_name}...")
-            log.debug("-" * 64)
             cls.build_all_for_ent(
                 ent_type_name,
                 level,
