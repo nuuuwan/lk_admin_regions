@@ -131,10 +131,6 @@ class BuildGeo:
             )
 
     @classmethod
-    def HACK_delete_large_files(cls):
-        os.system("find data -type f -size +25M -delete")
-
-    @classmethod
     def remap_properties(cls, ent_type_name, geojson_data):
         hum_to_dcs_map = CombineDCSAndHumData.get_hum_id_to_dcs_id_map(
             ent_type_name
