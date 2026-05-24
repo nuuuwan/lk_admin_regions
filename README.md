@@ -124,6 +124,20 @@ Any output exceeding **25 MB is omitted** from the repository. This mainly affec
 
 ---
 
+## Non-Admin Region Data
+
+Beyond the four administrative levels (Province, District, DSD, GND), the DCS ground truth data also maps each **GND** to two additional region types, and each **District** to a third:
+
+| Ent Type           | Code | Mapped From | Description                                                                 |
+| ------------------ | ---- | ----------- | --------------------------------------------------------------------------- |
+| Polling Division   | `pd` | GND         | Electoral subdivisions used for organizing and reporting polling.           |
+| Local Authority    | `lg` | GND         | Local government bodies (Municipal Councils, Urban Councils, Pradeshiya Sabhas). |
+| Electoral District | `ed` | District    | Multi-member constituencies used for parliamentary elections.               |
+
+Because these region types are derived from the same GND/District ground truth, **Ent Data** and **Geo Data** are generated for them using the identical pipeline and conventions described above (same schema, formats, and precision levels). Note that `pd` and `lg` boundaries are aggregated up from their constituent GNDs, while `ed` boundaries are aggregated up from districts.
+
+---
+
 ## Ground Truth Data Sources
 
 - [Humanitarian Data Exchange](https://data.humdata.org) - Sri Lanka - Subnational Administrative Boundaries: [https://data.humdata.org/dataset/cod-ab-lka](https://data.humdata.org/dataset/cod-ab-lka)
