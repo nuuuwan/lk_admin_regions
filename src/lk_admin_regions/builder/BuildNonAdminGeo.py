@@ -89,7 +89,7 @@ class BuildNonAdminGeo:
 
     @classmethod
     def build_all(cls):
-        district_to_ed = BuildNonAdminEnts.get_distrct_to_ed()
+        BuildNonAdminEnts.get_distrct_to_ed()
         for parent_type, gnd_to_parent, parent_code_field in [
             ("pd", lambda gnd: gnd["dcs_pd_code"], "pd_code"),
             (
@@ -97,6 +97,7 @@ class BuildNonAdminGeo:
                 lambda gnd: district_to_ed[gnd["dcs_district_id"]],
                 "id",
             ),
+            ("lg", lambda gnd: gnd["dcs_lg_id"], "id"),
         ]:
             original_geojson_path = cls.build_parent_original(
                 parent_type, gnd_to_parent, parent_code_field
