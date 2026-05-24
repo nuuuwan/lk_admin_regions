@@ -133,7 +133,7 @@ class BuildGeo:
 
     @classmethod
     def remap_properties(cls, geojson_data):
-        print(geojson_data)
+        print(geojson_data["features"][0]["properties"])
         return geojson_data
 
     @classmethod
@@ -154,7 +154,9 @@ class BuildGeo:
             )  # write instead of copy
             log.info(f"✅ Wrote {File(new_geojson_path)}")
         else:
-            log.warning(...)
+            log.warning(
+                "⚠️ Original file is too large, copying without remapping"
+            )
         return new_geojson_path
 
     @classmethod
