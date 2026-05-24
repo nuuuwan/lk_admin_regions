@@ -1,6 +1,5 @@
 import json
 import os
-import shutil
 
 import topojson as tp
 from utils import File, JSONFile, Log
@@ -37,10 +36,9 @@ class BuildGeo:
         )
 
     @classmethod
-    def build_topojson(cls, ent_type_name, level):
-        original_geojson_path = (
-            LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level)
-        )
+    def build_topojson(cls, ent_type_name, original_geojson_path):
+
+        original_geojson_file = JSONFile(original_geojson_path)
         topojson_file = JSONFile(
             cls.get_ent_xjson_path("topojson", "original", ent_type_name)
         )
@@ -106,9 +104,11 @@ class BuildGeo:
     def build_simplified_geojson_and_topojson(
         cls,
         ent_type_name,
-        level,
+        original_geojson_path,
     ):
-        topojson_file = cls.build_topojson(ent_type_name, level)
+        topojson_file = cls.build_topojson(
+            ent_type_name, original_geojson_path
+        )
         for tolerance, precision_label in [
             [0.0001, "e4_large"],
             [0.001, "e3_medium"],
@@ -122,7 +122,7 @@ class BuildGeo:
 
             cls.build_simplified_geojson_for_size_spec(
                 simplified_topojson,
-                LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level),
+                original_geojson_path,
                 precision_label,
                 ent_type_name,
             )
@@ -132,8 +132,12 @@ class BuildGeo:
         os.system("find data -type f -size +25M -delete")
 
     @classmethod
-    def copy_original(cls, ent_type_name, level):
+    def remap_properties(cls, geojson_data):
+        print(geojson_data)
+        return geojson_data
 
+    @classmethod
+    def copy_original(cls, ent_type_name, level):
         geojson_path = LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(
             level
         )
@@ -143,14 +147,15 @@ class BuildGeo:
         )
 
         if os.path.getsize(geojson_path) <= cls.MAX_FILE_SIZE_M * 1_000_000:
-
-            shutil.copyfile(geojson_path, new_geojson_path)
+            geojson_data = JSONFile(geojson_path).read()
+            geojson_data = cls.remap_properties(geojson_data)  # remap here
+            JSONFile(new_geojson_path).write(
+                geojson_data
+            )  # write instead of copy
             log.info(f"✅ Wrote {File(new_geojson_path)}")
         else:
-            log.warning(
-                f"⚠️ Not writing {new_geojson_path}."
-                + f" {File(geojson_path)} is too large."
-            )
+            log.warning(...)
+        return new_geojson_path
 
     @classmethod
     def build_all_for_ent(
@@ -162,10 +167,10 @@ class BuildGeo:
         log.debug(f"{level}. Building for {ent_type_name}...")
         log.debug("-" * 64)
 
-        cls.copy_original(ent_type_name, level)
+        original_geojson_path = cls.copy_original(ent_type_name, level)
         cls.build_simplified_geojson_and_topojson(
             ent_type_name,
-            level,
+            original_geojson_path,
         )
 
     @classmethod
