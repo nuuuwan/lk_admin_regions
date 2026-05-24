@@ -6,8 +6,9 @@ from utils import Log
 from lk_admin_regions.builder.BuildEnts import BuildEnts
 from lk_admin_regions.builder.BuildGeo import BuildGeo
 from lk_admin_regions.builder.BuildNonAdminEnts import BuildNonAdminEnts
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildNonAdminGeo")
 
@@ -59,9 +60,7 @@ class BuildNonAdminGeo:
 
         # Dissolve GND polygons into parents
         parents_geo = gnd_geoms.dissolve(by=parent_code_field)
-        parents_geo = parents_geo.buffer(
-            0
-        )  # clean any slivers from the union
+        parents_geo = parents_geo.buffer(0)  # clean any slivers from the union
         parents_geo = gpd.GeoDataFrame(
             geometry=parents_geo
         ).reset_index()  # parent_code_field + geometry
@@ -102,7 +101,7 @@ class BuildNonAdminGeo:
             original_geojson_path = cls.build_parent_original(
                 parent_type, gnd_to_parent, parent_code_field
             )
-            BuildGeo.build_simplified_geojson_and_topojson(
+            BuildGeo.build_raw_json_geojson_and_topojson(
                 parent_type,
                 original_geojson_path,
             )

@@ -4,10 +4,12 @@ import os
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
-    LKAAdminBoundariesXLSX
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
+    LKAAdminBoundariesXLSX,
+)
 
 log = Log("BuildGeo")
 
@@ -17,18 +19,16 @@ class BuildGeo:
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
 
     ENT_CONFIG = [
-        # ["province", 1],
-        # ["district", 2],
-        # ["dsd", 3],
+        ["province", 1],
+        ["district", 2],
+        ["dsd", 3],
         ["gnd", 4],
     ]
 
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(
-        cls, json_type, dir_name_simplified, ent_type_name
-    ):
+    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -104,11 +104,48 @@ class BuildGeo:
         )
 
     @classmethod
-    def build_simplified_geojson_and_topojson(
+    def build_raw_json(cls, ent_type_name, original_geojson_path):
+        geojson_data = JSONFile(original_geojson_path).read()
+
+        dir_raw = os.path.join(
+            cls.DIR_DATA_GEO, "json", "original", f"{ent_type_name}.json"
+        )
+        os.makedirs(dir_raw, exist_ok=True)
+
+        n_written = 0
+        for feature in geojson_data["features"]:
+            properties = feature["properties"]
+            ent_id = properties.get("id") or properties.get("hum_id")
+            geometry = feature["geometry"]
+            geom_type = geometry["type"]
+
+            # Normalize to MultiPolygon structure: [polygon][ring][coord pair]
+            if geom_type == "Polygon":
+                multipolygon = geometry["coordinates"]
+            elif geom_type == "MultiPolygon":
+                multipolygon = geometry["coordinates"][0]
+            else:
+                log.warning(
+                    f"Skipping unsupported geometry type"
+                    f" {geom_type} for {ent_id}"
+                )
+                continue
+
+            raw_path = os.path.join(dir_raw, f"{ent_id}.json")
+            JSONFile(raw_path).write(multipolygon)
+            n_written += 1
+
+        log.info(f"✅ Wrote {n_written} raw JSON files to {dir_raw}")
+
+    @classmethod
+    def build_raw_json_geojson_and_topojson(
         cls,
         ent_type_name,
         original_geojson_path,
     ):
+
+        cls.build_raw_json(ent_type_name, original_geojson_path)
+
         topojson_file = cls.build_topojson(
             ent_type_name, original_geojson_path
         )
@@ -189,9 +226,7 @@ class BuildGeo:
         geojson_data = cls.remap_properties(
             ent_type_name, geojson_data
         )  # remap here
-        JSONFile(new_geojson_path).write(
-            geojson_data
-        )  # write instead of copy
+        JSONFile(new_geojson_path).write(geojson_data)  # write instead of copy
         log.info(f"✅ Wrote {File(new_geojson_path)}")
 
         return new_geojson_path
@@ -207,7 +242,7 @@ class BuildGeo:
         log.debug("-" * 64)
 
         original_geojson_path = cls.copy_original(ent_type_name, level)
-        cls.build_simplified_geojson_and_topojson(
+        cls.build_raw_json_geojson_and_topojson(
             ent_type_name,
             original_geojson_path,
         )
