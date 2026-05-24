@@ -109,7 +109,7 @@ class BuildGeo:
         geojson_data = JSONFile(original_geojson_path).read()
 
         dir_raw = os.path.join(
-            cls.DIR_DATA_GEO, "json", "original", f"{ent_type_name}.json"
+            cls.DIR_DATA_GEO, "json", "original", f"{ent_type_name}s.json"
         )
         os.makedirs(dir_raw, exist_ok=True)
 
