@@ -140,7 +140,12 @@ class BuildNonAdminEnts:
 
             lg_level = lg_name.split(" ")[-1]
             if lg_level not in ["MC", "UC", "PS"]:
-                lg_level = "??"
+                log.warning(
+                    f"Unexpected LG level '{lg_level}'"
+                    + f" for LG '{lg_name}' ({lg_id})."
+                    + " Setting level to 'PS'."
+                )
+                lg_level = "PS"
 
             lg_idx[lg_id] = dict(
                 id=lg_id,
