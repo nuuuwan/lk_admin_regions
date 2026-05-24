@@ -1,1 +1,0 @@
-find data -type f -size +25M -delete
