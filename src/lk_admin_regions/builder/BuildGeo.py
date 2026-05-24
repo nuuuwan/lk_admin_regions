@@ -5,9 +5,8 @@ import shutil
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
-    LKAAdminBoundariesXLSX,
-)
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
+    LKAAdminBoundariesXLSX
 
 log = Log("BuildGeo")
 
@@ -26,7 +25,9 @@ class BuildGeo:
     MAX_FILE_SIZE_M = 25
 
     @classmethod
-    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
+    def get_ent_xjson_path(
+        cls, json_type, dir_name_simplified, ent_type_name
+    ):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -103,46 +104,28 @@ class BuildGeo:
         )
 
     @classmethod
-    def build_simplified_geojson_and_topojson_for_size_spec(
-        cls,
-        ent_type_name,
-        level,
-        tolerance,
-        precision_label,
-        topojson_file,
-    ):
-
-        simplified_topojson = cls.build_simplified_topojson_for_size_spec(
-            ent_type_name, tolerance, precision_label, topojson_file
-        )
-
-        cls.build_simplified_geojson_for_size_spec(
-            simplified_topojson,
-            LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level),
-            precision_label,
-            ent_type_name,
-        )
-
-    @classmethod
     def build_simplified_geojson_and_topojson(
         cls,
         ent_type_name,
         level,
     ):
         topojson_file = cls.build_topojson(ent_type_name, level)
-        for [tolerance, precision_label] in [
-            [0.0001, "small"],
-            # [0.001, "smaller"],
-            # [0.01, "smallest"],
-            # [0.1, "smallestest"],
+        for tolerance, precision_label in [
+            [0.0001, "high"],
+            [0.001, "medium"],
+            [0.01, "low"],
+            [0.1, "minimal"],
         ]:
 
-            cls.build_simplified_geojson_and_topojson_for_size_spec(
-                ent_type_name,
-                level,
-                tolerance,
+            simplified_topojson = cls.build_simplified_topojson_for_size_spec(
+                ent_type_name, tolerance, precision_label, topojson_file
+            )
+
+            cls.build_simplified_geojson_for_size_spec(
+                simplified_topojson,
+                LKAAdminBoundariesXLSX.get_ground_truth_geojson_path(level),
                 precision_label,
-                topojson_file,
+                ent_type_name,
             )
 
     @classmethod
