@@ -1,0 +1,802 @@
+[
+  {
+    "id": "EC-01A",
+    "name": "Colombo North",
+    "code": "001"
+  },
+  {
+    "id": "EC-01B",
+    "name": "Colombo Central",
+    "code": "002"
+  },
+  {
+    "id": "EC-01C",
+    "name": "Borella",
+    "code": "003"
+  },
+  {
+    "id": "EC-01D",
+    "name": "Colombo East",
+    "code": "004"
+  },
+  {
+    "id": "EC-01E",
+    "name": "Colombo West",
+    "code": "005"
+  },
+  {
+    "id": "EC-01F",
+    "name": "Dehiwala",
+    "code": "006"
+  },
+  {
+    "id": "EC-01G",
+    "name": "Ratmalana",
+    "code": "007"
+  },
+  {
+    "id": "EC-01H",
+    "name": "Kolonnawa",
+    "code": "021"
+  },
+  {
+    "id": "EC-01I",
+    "name": "Kotte",
+    "code": "022"
+  },
+  {
+    "id": "EC-01J",
+    "name": "Kaduwela",
+    "code": "023"
+  },
+  {
+    "id": "EC-01K",
+    "name": "Avissawella",
+    "code": "024"
+  },
+  {
+    "id": "EC-01L",
+    "name": "Homagama",
+    "code": "025"
+  },
+  {
+    "id": "EC-01M",
+    "name": "Maharagama",
+    "code": "026"
+  },
+  {
+    "id": "EC-01N",
+    "name": "Kesbewa",
+    "code": "027"
+  },
+  {
+    "id": "EC-01O",
+    "name": "Moratuwa",
+    "code": "028"
+  },
+  {
+    "id": "EC-02A",
+    "name": "Wattala",
+    "code": "008"
+  },
+  {
+    "id": "EC-02B",
+    "name": "Negombo",
+    "code": "009"
+  },
+  {
+    "id": "EC-02C",
+    "name": "Katana",
+    "code": "010"
+  },
+  {
+    "id": "EC-02D",
+    "name": "Divulapitiya",
+    "code": "011"
+  },
+  {
+    "id": "EC-02E",
+    "name": "Mirigama",
+    "code": "012"
+  },
+  {
+    "id": "EC-02F",
+    "name": "Minuwangoda",
+    "code": "013"
+  },
+  {
+    "id": "EC-02G",
+    "name": "Attanagalla",
+    "code": "014"
+  },
+  {
+    "id": "EC-02H",
+    "name": "Gampaha",
+    "code": "015"
+  },
+  {
+    "id": "EC-02I",
+    "name": "Ja Ela",
+    "code": "016"
+  },
+  {
+    "id": "EC-02J",
+    "name": "Mahara",
+    "code": "017"
+  },
+  {
+    "id": "EC-02K",
+    "name": "Dompe",
+    "code": "018"
+  },
+  {
+    "id": "EC-02L",
+    "name": "Biyagama",
+    "code": "019"
+  },
+  {
+    "id": "EC-02M",
+    "name": "Kelaniya",
+    "code": "020"
+  },
+  {
+    "id": "EC-03A",
+    "name": "Panadura",
+    "code": "029"
+  },
+  {
+    "id": "EC-03B",
+    "name": "Bandaragama",
+    "code": "030"
+  },
+  {
+    "id": "EC-03C",
+    "name": "Horana",
+    "code": "031"
+  },
+  {
+    "id": "EC-03D",
+    "name": "Bulathsinhala",
+    "code": "032"
+  },
+  {
+    "id": "EC-03E",
+    "name": "Mathugama",
+    "code": "033"
+  },
+  {
+    "id": "EC-03F",
+    "name": "Kalutara",
+    "code": "034"
+  },
+  {
+    "id": "EC-03G",
+    "name": "Beruwala",
+    "code": "035"
+  },
+  {
+    "id": "EC-03H",
+    "name": "Agalawatta",
+    "code": "036"
+  },
+  {
+    "id": "EC-04A",
+    "name": "Galagedara",
+    "code": "041"
+  },
+  {
+    "id": "EC-04B",
+    "name": "Harispattuwa",
+    "code": "042"
+  },
+  {
+    "id": "EC-04C",
+    "name": "Pathadumbara",
+    "code": "043"
+  },
+  {
+    "id": "EC-04D",
+    "name": "Ududumbara",
+    "code": "044"
+  },
+  {
+    "id": "EC-04E",
+    "name": "Teldeniya",
+    "code": "045"
+  },
+  {
+    "id": "EC-04F",
+    "name": "Kundasale",
+    "code": "046"
+  },
+  {
+    "id": "EC-04G",
+    "name": "Hewaheta",
+    "code": "047"
+  },
+  {
+    "id": "EC-04H",
+    "name": "Senkadagala",
+    "code": "048"
+  },
+  {
+    "id": "EC-04I",
+    "name": "Mahanuwara",
+    "code": "049"
+  },
+  {
+    "id": "EC-04J",
+    "name": "Yatinuwara",
+    "code": "050"
+  },
+  {
+    "id": "EC-04K",
+    "name": "Udunuwara",
+    "code": "051"
+  },
+  {
+    "id": "EC-04L",
+    "name": "Gampola",
+    "code": "052"
+  },
+  {
+    "id": "EC-04M",
+    "name": "Nawalapitiya",
+    "code": "053"
+  },
+  {
+    "id": "EC-05A",
+    "name": "Dambulla",
+    "code": "037"
+  },
+  {
+    "id": "EC-05B",
+    "name": "Laggala",
+    "code": "038"
+  },
+  {
+    "id": "EC-05C",
+    "name": "Matale",
+    "code": "039"
+  },
+  {
+    "id": "EC-05D",
+    "name": "Rattota",
+    "code": "040"
+  },
+  {
+    "id": "EC-06A",
+    "name": "Nuwara Eliya Maskeliya",
+    "code": "054"
+  },
+  {
+    "id": "EC-06B",
+    "name": "Kothmale",
+    "code": "055"
+  },
+  {
+    "id": "EC-06C",
+    "name": "Hanguranketha",
+    "code": "056"
+  },
+  {
+    "id": "EC-06D",
+    "name": "Walapane",
+    "code": "057"
+  },
+  {
+    "id": "EC-07A",
+    "name": "Balapitiya",
+    "code": "058"
+  },
+  {
+    "id": "EC-07B",
+    "name": "Ambalangoda",
+    "code": "059"
+  },
+  {
+    "id": "EC-07C",
+    "name": "Karandeniya",
+    "code": "060"
+  },
+  {
+    "id": "EC-07D",
+    "name": "Bentara Elpitiya",
+    "code": "061"
+  },
+  {
+    "id": "EC-07E",
+    "name": "Hiniduma",
+    "code": "062"
+  },
+  {
+    "id": "EC-07F",
+    "name": "Baddegama",
+    "code": "063"
+  },
+  {
+    "id": "EC-07G",
+    "name": "Ratgama",
+    "code": "064"
+  },
+  {
+    "id": "EC-07H",
+    "name": "Galle",
+    "code": "065"
+  },
+  {
+    "id": "EC-07I",
+    "name": "Akmeemana",
+    "code": "066"
+  },
+  {
+    "id": "EC-07J",
+    "name": "Habaraduwa",
+    "code": "067"
+  },
+  {
+    "id": "EC-08A",
+    "name": "Deniyaya",
+    "code": "068"
+  },
+  {
+    "id": "EC-08B",
+    "name": "Hakmana",
+    "code": "069"
+  },
+  {
+    "id": "EC-08C",
+    "name": "Akuressa",
+    "code": "070"
+  },
+  {
+    "id": "EC-08D",
+    "name": "Kamburupitiya",
+    "code": "071"
+  },
+  {
+    "id": "EC-08E",
+    "name": "Devinuwara",
+    "code": "072"
+  },
+  {
+    "id": "EC-08F",
+    "name": "Matara",
+    "code": "073"
+  },
+  {
+    "id": "EC-08G",
+    "name": "Weligama",
+    "code": "074"
+  },
+  {
+    "id": "EC-09A",
+    "name": "Mulkirigala",
+    "code": "075"
+  },
+  {
+    "id": "EC-09B",
+    "name": "Beliatta",
+    "code": "076"
+  },
+  {
+    "id": "EC-09C",
+    "name": "Tangalle",
+    "code": "077"
+  },
+  {
+    "id": "EC-09D",
+    "name": "Thissamaharama",
+    "code": "078"
+  },
+  {
+    "id": "EC-10A",
+    "name": "Kayts",
+    "code": "079"
+  },
+  {
+    "id": "EC-10B",
+    "name": "Vaddukoddai",
+    "code": "080"
+  },
+  {
+    "id": "EC-10C",
+    "name": "Kankesanthurai",
+    "code": "081"
+  },
+  {
+    "id": "EC-10D",
+    "name": "Manipay",
+    "code": "082"
+  },
+  {
+    "id": "EC-10E",
+    "name": "Kopay",
+    "code": "083"
+  },
+  {
+    "id": "EC-10F",
+    "name": "Udupiddy",
+    "code": "084"
+  },
+  {
+    "id": "EC-10G",
+    "name": "Point Pedro",
+    "code": "085"
+  },
+  {
+    "id": "EC-10H",
+    "name": "Chavakachcheri",
+    "code": "086"
+  },
+  {
+    "id": "EC-10I",
+    "name": "Nallur",
+    "code": "087"
+  },
+  {
+    "id": "EC-10J",
+    "name": "Jaffna",
+    "code": "088"
+  },
+  {
+    "id": "EC-10K",
+    "name": "Kilinochchi",
+    "code": "089"
+  },
+  {
+    "id": "EC-11A",
+    "name": "Mannar",
+    "code": "090"
+  },
+  {
+    "id": "EC-11B",
+    "name": "Vavuniya",
+    "code": "092"
+  },
+  {
+    "id": "EC-11C",
+    "name": "Mullaitivu",
+    "code": "091"
+  },
+  {
+    "id": "EC-12A",
+    "name": "Kalkudah",
+    "code": "096"
+  },
+  {
+    "id": "EC-12B",
+    "name": "Batticaloa",
+    "code": "097"
+  },
+  {
+    "id": "EC-12C",
+    "name": "Paddiruppu",
+    "code": "098"
+  },
+  {
+    "id": "EC-13A",
+    "name": "Ampara",
+    "code": "099"
+  },
+  {
+    "id": "EC-13B",
+    "name": "Samanthurai",
+    "code": "100"
+  },
+  {
+    "id": "EC-13C",
+    "name": "Kalmunai",
+    "code": "101"
+  },
+  {
+    "id": "EC-13D",
+    "name": "Pothuvil",
+    "code": "102"
+  },
+  {
+    "id": "EC-14A",
+    "name": "Seruvila",
+    "code": "093"
+  },
+  {
+    "id": "EC-14B",
+    "name": "Trincomalee",
+    "code": "094"
+  },
+  {
+    "id": "EC-14C",
+    "name": "Muttur",
+    "code": "095"
+  },
+  {
+    "id": "EC-15A",
+    "name": "Galgamuwa",
+    "code": "108"
+  },
+  {
+    "id": "EC-15B",
+    "name": "Nikaweratiya",
+    "code": "109"
+  },
+  {
+    "id": "EC-15C",
+    "name": "Yapahuwa",
+    "code": "110"
+  },
+  {
+    "id": "EC-15D",
+    "name": "Hiriyala",
+    "code": "111"
+  },
+  {
+    "id": "EC-15E",
+    "name": "Wariyapola",
+    "code": "112"
+  },
+  {
+    "id": "EC-15F",
+    "name": "Panduwasnuwara",
+    "code": "113"
+  },
+  {
+    "id": "EC-15G",
+    "name": "Bingiriya",
+    "code": "114"
+  },
+  {
+    "id": "EC-15H",
+    "name": "Katugampola",
+    "code": "115"
+  },
+  {
+    "id": "EC-15I",
+    "name": "Kuliyapitiya",
+    "code": "116"
+  },
+  {
+    "id": "EC-15J",
+    "name": "Dambadeniya",
+    "code": "117"
+  },
+  {
+    "id": "EC-15K",
+    "name": "Polgahawela",
+    "code": "118"
+  },
+  {
+    "id": "EC-15L",
+    "name": "Kurunegala",
+    "code": "119"
+  },
+  {
+    "id": "EC-15M",
+    "name": "Mawathagama",
+    "code": "120"
+  },
+  {
+    "id": "EC-15N",
+    "name": "Dodangaslanda",
+    "code": "121"
+  },
+  {
+    "id": "EC-16A",
+    "name": "Puttalam",
+    "code": "103"
+  },
+  {
+    "id": "EC-16B",
+    "name": "Anamaduwa",
+    "code": "104"
+  },
+  {
+    "id": "EC-16C",
+    "name": "Chilaw",
+    "code": "105"
+  },
+  {
+    "id": "EC-16D",
+    "name": "Nattandiya",
+    "code": "106"
+  },
+  {
+    "id": "EC-16E",
+    "name": "Wennappuwa",
+    "code": "107"
+  },
+  {
+    "id": "EC-17A",
+    "name": "Medawachchiya",
+    "code": "122"
+  },
+  {
+    "id": "EC-17B",
+    "name": "Horowpothana",
+    "code": "123"
+  },
+  {
+    "id": "EC-17C",
+    "name": "Anuradhapura East",
+    "code": "124"
+  },
+  {
+    "id": "EC-17D",
+    "name": "Anuradhapura West",
+    "code": "125"
+  },
+  {
+    "id": "EC-17E",
+    "name": "Kalawewa",
+    "code": "126"
+  },
+  {
+    "id": "EC-17F",
+    "name": "Mihinthale",
+    "code": "127"
+  },
+  {
+    "id": "EC-17G",
+    "name": "Kekirawa",
+    "code": "128"
+  },
+  {
+    "id": "EC-18A",
+    "name": "Minneriya",
+    "code": "129"
+  },
+  {
+    "id": "EC-18B",
+    "name": "Medirigiriya",
+    "code": "130"
+  },
+  {
+    "id": "EC-18C",
+    "name": "Polonnaruwa",
+    "code": "131"
+  },
+  {
+    "id": "EC-19A",
+    "name": "Mahiyanganaya",
+    "code": "132"
+  },
+  {
+    "id": "EC-19B",
+    "name": "Viyaluwa",
+    "code": "133"
+  },
+  {
+    "id": "EC-19C",
+    "name": "Passara",
+    "code": "134"
+  },
+  {
+    "id": "EC-19D",
+    "name": "Badulla",
+    "code": "135"
+  },
+  {
+    "id": "EC-19E",
+    "name": "Hali Ela",
+    "code": "136"
+  },
+  {
+    "id": "EC-19F",
+    "name": "Uva Paranagama",
+    "code": "137"
+  },
+  {
+    "id": "EC-19G",
+    "name": "Welimada",
+    "code": "138"
+  },
+  {
+    "id": "EC-19H",
+    "name": "Bandarawela",
+    "code": "139"
+  },
+  {
+    "id": "EC-19I",
+    "name": "Haputale",
+    "code": "140"
+  },
+  {
+    "id": "EC-20A",
+    "name": "Bibile",
+    "code": "141"
+  },
+  {
+    "id": "EC-20B",
+    "name": "Monaragala",
+    "code": "142"
+  },
+  {
+    "id": "EC-20C",
+    "name": "Wellawaya",
+    "code": "143"
+  },
+  {
+    "id": "EC-21A",
+    "name": "Eheliyagoda",
+    "code": "153"
+  },
+  {
+    "id": "EC-21B",
+    "name": "Ratnapura",
+    "code": "154"
+  },
+  {
+    "id": "EC-21C",
+    "name": "Pelmadulla",
+    "code": "155"
+  },
+  {
+    "id": "EC-21D",
+    "name": "Balangoda",
+    "code": "156"
+  },
+  {
+    "id": "EC-21E",
+    "name": "Rakwana",
+    "code": "157"
+  },
+  {
+    "id": "EC-21F",
+    "name": "Nivithigala",
+    "code": "158"
+  },
+  {
+    "id": "EC-21G",
+    "name": "Kalawana",
+    "code": "159"
+  },
+  {
+    "id": "EC-21H",
+    "name": "Kolonna",
+    "code": "160"
+  },
+  {
+    "id": "EC-22A",
+    "name": "Dedigama",
+    "code": "144"
+  },
+  {
+    "id": "EC-22B",
+    "name": "Galigamuwa",
+    "code": "145"
+  },
+  {
+    "id": "EC-22C",
+    "name": "Kegalle",
+    "code": "146"
+  },
+  {
+    "id": "EC-22D",
+    "name": "Rambukkana",
+    "code": "147"
+  },
+  {
+    "id": "EC-22E",
+    "name": "Mawanella",
+    "code": "148"
+  },
+  {
+    "id": "EC-22F",
+    "name": "Aranayaka",
+    "code": "149"
+  },
+  {
+    "id": "EC-22G",
+    "name": "Yatiyanthota",
+    "code": "150"
+  },
+  {
+    "id": "EC-22H",
+    "name": "Ruwanwella",
+    "code": "151"
+  },
+  {
+    "id": "EC-22I",
+    "name": "Deraniyagala",
+    "code": "152"
+  }
+]
