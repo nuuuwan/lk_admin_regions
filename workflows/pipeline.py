@@ -1,13 +1,8 @@
 import os
 
-from lk_admin_regions import (
-    BuildEnts,
-    BuildGeo,
-    BuildNonAdminEnts,
-    BuildNonAdminGeo,
-    CombineDCSAndHumData,
-    GNDListFinalXLSX,
-)
+from lk_admin_regions import (BuildEnts, BuildGeo, BuildNonAdminEnts,
+                              BuildNonAdminGeo, CombineDCSAndHumData,
+                              GNDListFinalXLSX)
 
 
 def main():

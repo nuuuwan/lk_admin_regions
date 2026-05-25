@@ -16,7 +16,7 @@ class BuildNonAdminEnts:
 
     @classmethod
     @cache
-    def get_distrct_to_ed(cls):
+    def get_district_to_ed(cls):
         district_and_ed = TSVFile(
             os.path.join("data_ground_truth", "misc", "district_and_ed.tsv")
         ).read()
@@ -59,7 +59,7 @@ class BuildNonAdminEnts:
             )
         )
 
-        district_to_ed = cls.get_distrct_to_ed()
+        district_to_ed = cls.get_district_to_ed()
         ed_to_pd = cls.get_ed_to_pd()
         ed_to_pd_code_to_name_dcs = {}
         for gnd in gnds:
@@ -146,16 +146,14 @@ class BuildNonAdminEnts:
 
     @classmethod
     def build_eds(cls):
-        district_to_ed = cls.get_distrct_to_ed()
+        district_to_ed = cls.get_district_to_ed()
         ed_ground_truth = cls.get_ed_ground_truth()
         ed_ground_truth_idx = {d["id"]: d for d in ed_ground_truth}
 
         def expand_gnd(gnd):
             district_id = gnd["district_id"]
             ed_id = district_to_ed[district_id]
-
             ed_name = ed_ground_truth_idx[ed_id]["name"]
-
             return gnd | dict(
                 ed_id=ed_id,
                 ed_name=ed_name,

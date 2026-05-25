@@ -270,25 +270,52 @@ class CombineDCSAndHumData:
         )
 
         combined_d_list = []
+
+        # GROUP 1 - DCS ^ HUM
         for region_id in valid_region_ids:
             data_dcs = region_id_to_data_dcs[region_id]
             data_hum = region_id_to_data_hum[region_id]
             d = {}
             for k, v in data_dcs.items():
-                if k not in data_hum:
-                    d["dcs_" + k] = v
+                d["dcs_" + k] = v
 
             for k, v in data_hum.items():
-                if k not in data_dcs:
-                    d["hum_" + k] = v
+                d["hum_" + k] = v
 
             d["hum_valid_on"] = str(d["hum_valid_on"])
             gnd_code = int(d["dcs_gnd_code"])
             dsd_id = d["dcs_dsd_id"]
             gnd_id = f"{dsd_id}{gnd_code:03d}"
             d["dcs_gnd_id"] = gnd_id
-
             combined_d_list.append(d)
+
+        dsd_id_to_combined_d_list = {}
+        for d in combined_d_list:
+            dsd_id = d["dcs_dsd_id"]
+            if dsd_id not in dsd_id_to_combined_d_list:
+                dsd_id_to_combined_d_list[dsd_id] = []
+            dsd_id_to_combined_d_list[dsd_id].append(d)
+
+        # GROUP 2 - HUM - DCS
+        for region_id in hum_minus_dcs:
+            data_hum = region_id_to_data_hum[region_id]
+            gnd_id = data_hum["gnd_id"]
+            dsd_id = gnd_id[:7]
+            dcs_data_candidate = dsd_id_to_combined_d_list[dsd_id][0]
+            d = {}
+            for k, v in dcs_data_candidate.items():
+                if k.startswith("dcs_"):
+                    d[k] = v
+
+            for k, v in data_hum.items():
+                d["hum_" + k] = v
+
+            d["hum_valid_on"] = str(d["hum_valid_on"])
+            d["dcs_gnd_id"] = gnd_id
+            combined_d_list.append(d)
+
+        combined_d_list.sort(key=lambda d: (d["dcs_gnd_id"],))
+
         tsv_file = TSVFile(
             os.path.join("data_temp", f"combined_{dcs_region_label}.tsv")
         )
