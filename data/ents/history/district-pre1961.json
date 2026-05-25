@@ -1,0 +1,156 @@
+[
+  {
+    "id": "LK-11@1978",
+    "name": "Colombo",
+    "area_sqkm": 2073.4,
+    "center_lat": 7.039240425928426,
+    "center_lng": 80.0182992650574
+  },
+  {
+    "id": "LK-13",
+    "name": "Kalutara",
+    "area_sqkm": 1646.99,
+    "center_lat": 6.577185,
+    "center_lng": 80.127744
+  },
+  {
+    "id": "LK-21",
+    "name": "Kandy",
+    "area_sqkm": 1927.69,
+    "center_lat": 7.273178,
+    "center_lng": 80.708811
+  },
+  {
+    "id": "LK-22",
+    "name": "Matale",
+    "area_sqkm": 1954.49,
+    "center_lat": 7.671086,
+    "center_lng": 80.727823
+  },
+  {
+    "id": "LK-23",
+    "name": "Nuwara Eliya",
+    "area_sqkm": 1744.81,
+    "center_lat": 6.974738,
+    "center_lng": 80.711186
+  },
+  {
+    "id": "LK-31",
+    "name": "Galle",
+    "area_sqkm": 1613.49,
+    "center_lat": 6.222792,
+    "center_lng": 80.251811
+  },
+  {
+    "id": "LK-32",
+    "name": "Matara",
+    "area_sqkm": 1306.37,
+    "center_lat": 6.142725,
+    "center_lng": 80.539846
+  },
+  {
+    "id": "LK-33",
+    "name": "Hambantota",
+    "area_sqkm": 2625.06,
+    "center_lat": 6.254039,
+    "center_lng": 81.091281
+  },
+  {
+    "id": "LK-41@1984",
+    "name": "Jaffna",
+    "area_sqkm": 2409.6,
+    "center_lat": 9.542014657026064,
+    "center_lng": 80.22188188027474
+  },
+  {
+    "id": "LK-42",
+    "name": "Mannar",
+    "area_sqkm": 2010.83,
+    "center_lat": 8.878476,
+    "center_lng": 80.091433
+  },
+  {
+    "id": "LK-43",
+    "name": "Vavuniya",
+    "area_sqkm": 1934.91,
+    "center_lat": 8.853162,
+    "center_lng": 80.470869
+  },
+  {
+    "id": "LK-44",
+    "name": "Mullaitivu",
+    "area_sqkm": 2681.15,
+    "center_lat": 9.170128,
+    "center_lng": 80.552726
+  },
+  {
+    "id": "LK-51@1961",
+    "name": "Batticaloa",
+    "area_sqkm": 6944.43,
+    "center_lat": 7.4334212586317365,
+    "center_lng": 81.52692884348032
+  },
+  {
+    "id": "LK-53",
+    "name": "Trincomalee",
+    "area_sqkm": 2692.11,
+    "center_lat": 8.553962,
+    "center_lng": 81.091548
+  },
+  {
+    "id": "LK-61",
+    "name": "Kurunegala",
+    "area_sqkm": 4905.71,
+    "center_lat": 7.664511,
+    "center_lng": 80.236804
+  },
+  {
+    "id": "LK-62",
+    "name": "Puttalam",
+    "area_sqkm": 3133.88,
+    "center_lat": 7.975263,
+    "center_lng": 79.910874
+  },
+  {
+    "id": "LK-71",
+    "name": "Anuradhapura",
+    "area_sqkm": 7218.29,
+    "center_lat": 8.392067,
+    "center_lng": 80.51313
+  },
+  {
+    "id": "LK-72",
+    "name": "Polonnaruwa",
+    "area_sqkm": 3469.72,
+    "center_lat": 7.994209,
+    "center_lng": 81.028281
+  },
+  {
+    "id": "LK-81",
+    "name": "Badulla",
+    "area_sqkm": 2871.96,
+    "center_lat": 7.073578,
+    "center_lng": 81.044926
+  },
+  {
+    "id": "LK-82",
+    "name": "Monaragala",
+    "area_sqkm": 5757.99,
+    "center_lat": 6.787062,
+    "center_lng": 81.301821
+  },
+  {
+    "id": "LK-91",
+    "name": "Ratnapura",
+    "area_sqkm": 3287.08,
+    "center_lat": 6.586622,
+    "center_lng": 80.565541
+  },
+  {
+    "id": "LK-92",
+    "name": "Kegalle",
+    "area_sqkm": 1657.73,
+    "center_lat": 7.104294,
+    "center_lng": 80.342772
+  }
+]
