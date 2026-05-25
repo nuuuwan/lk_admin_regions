@@ -1630,9 +1630,9 @@
           "properties": {
             "id": "LK-2209",
             "name": "Naula",
-            "area_sqkm": 232.63,
-            "center_lat": 7.695306,
-            "center_lng": 80.696447
+            "area_sqkm": 287.89,
+            "center_lat": 7.688935,
+            "center_lng": 80.707889
           },
           "type": "Polygon",
           "arcs": [
@@ -1744,9 +1744,9 @@
           "properties": {
             "id": "LK-2224",
             "name": "Laggala",
-            "area_sqkm": 320.93,
-            "center_lat": 7.559124,
-            "center_lng": 80.806594
+            "area_sqkm": 369.93,
+            "center_lat": 7.556182,
+            "center_lng": 80.807964
           },
           "type": "Polygon",
           "arcs": [
@@ -3513,9 +3513,9 @@
           "properties": {
             "id": "LK-4130",
             "name": "Thenmaradchi (Chavakachcheri)",
-            "area_sqkm": 235.15,
-            "center_lat": 9.677235,
-            "center_lng": 80.189372
+            "area_sqkm": 236.07,
+            "center_lat": 9.677007,
+            "center_lng": 80.189642
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5877,9 +5877,9 @@
           "properties": {
             "id": "LK-5104",
             "name": "Koralai Pattu Central",
-            "area_sqkm": 7.76,
-            "center_lat": 7.928876,
-            "center_lng": 81.517085
+            "area_sqkm": 8.04,
+            "center_lat": 7.928343,
+            "center_lng": 81.517588
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5965,9 +5965,9 @@
           "properties": {
             "id": "LK-5109",
             "name": "Koralai Pattu",
-            "area_sqkm": 29.89,
-            "center_lat": 7.906932,
-            "center_lng": 81.546683
+            "area_sqkm": 30.69,
+            "center_lat": 7.906709,
+            "center_lng": 81.546148
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6045,9 +6045,9 @@
           "properties": {
             "id": "LK-5112",
             "name": "Eravur Pattu",
-            "area_sqkm": 595.71,
-            "center_lat": 7.70538,
-            "center_lng": 81.452513
+            "area_sqkm": 599.22,
+            "center_lat": 7.705871,
+            "center_lng": 81.453462
           },
           "type": "Polygon",
           "arcs": [
@@ -6155,9 +6155,9 @@
           "properties": {
             "id": "LK-5124",
             "name": "Kattankudy",
-            "area_sqkm": 3.82,
-            "center_lat": 7.682997,
-            "center_lng": 81.732007
+            "area_sqkm": 3.88,
+            "center_lat": 7.6829,
+            "center_lng": 81.732091
           },
           "type": "Polygon",
           "arcs": [
@@ -6174,9 +6174,9 @@
           "properties": {
             "id": "LK-5127",
             "name": "Manmunai Pattu",
-            "area_sqkm": 25.22,
-            "center_lat": 7.638865,
-            "center_lng": 81.75385
+            "area_sqkm": 25.45,
+            "center_lat": 7.639195,
+            "center_lng": 81.753752
           },
           "type": "Polygon",
           "arcs": [
@@ -6193,9 +6193,9 @@
           "properties": {
             "id": "LK-5130",
             "name": "Manmunai South West",
-            "area_sqkm": 143.89,
-            "center_lat": 7.567683,
-            "center_lng": 81.661643
+            "area_sqkm": 145.14,
+            "center_lat": 7.567598,
+            "center_lng": 81.661919
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6225,9 +6225,9 @@
           "properties": {
             "id": "LK-5133",
             "name": "Porativu Pattu",
-            "area_sqkm": 156.56,
-            "center_lat": 7.497842,
-            "center_lng": 81.704954
+            "area_sqkm": 159.21,
+            "center_lat": 7.497825,
+            "center_lng": 81.704155
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6251,9 +6251,9 @@
           "properties": {
             "id": "LK-5136",
             "name": "Manmunai South & Eruvil Pattu",
-            "area_sqkm": 42.01,
-            "center_lat": 7.5231,
-            "center_lng": 81.791174
+            "area_sqkm": 43.92,
+            "center_lat": 7.522348,
+            "center_lng": 81.791102
           },
           "type": "Polygon",
           "arcs": [
@@ -6273,9 +6273,9 @@
           "properties": {
             "id": "LK-5115",
             "name": "Eravur Town",
-            "area_sqkm": 1.81,
-            "center_lat": 7.775767,
-            "center_lng": 81.608359
+            "area_sqkm": 1.86,
+            "center_lat": 7.775874,
+            "center_lng": 81.608206
           },
           "type": "Polygon",
           "arcs": [

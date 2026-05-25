@@ -3824,6 +3824,10 @@ LK-2209105	Meegaha Ela	E412F	1.50152462	7.70464513	80.66354873	LK-2209	Naula	LK-
 LK-2209110	Bowathenna Watta	E412D	3.53270148	7.69199068	80.68251626	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209115	Koombiyangahaela	E412A	3.3554197	7.69203798	80.69507948	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209120	Millagahamula Thenna	E409B	2.02052028	7.69109781	80.71368827	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
+LK-2209125	Medapihilla	E413C	7.60779455	7.69574597	80.73299353	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
+LK-2209130	Kadawatha	E413C	1.29149935	7.68051503	80.74651139	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
+LK-2209135	Galporugolla	E413C	15.28618727	7.6671612	80.77291521	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
+LK-2209140	Elagamuwa	E413C	13.41403487	7.66990562	80.73329457	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209145	Kongahawela	E409	1.11445357	7.67979139	80.70859898	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209150	Rajawela	E409A	1.81769805	7.66850326	80.70527186	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209155	Ganimayaya	E412E	5.36820649	7.66644154	80.68164461	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
@@ -3847,6 +3851,7 @@ LK-2209240	Opalgala	E383	15.31006563	7.61974679	80.70063134	LK-2209	Naula	LK-22	
 LK-2209245	Ambana	E383A	1.99329685	7.65133526	80.69597593	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209250	Moragolla	E409C	7.05346551	7.64945368	80.71092057	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2209255	Galboda	E408	20.32855803	7.62642176	80.73504447	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
+LK-2209260	Kambarawa	E413C	17.65986614	7.63598946	80.76938994	LK-2209	Naula	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-036	Naula PS	36	PS	038
 LK-2212005	Janakagama	E426C	0.43718584	7.69529672	80.58516612	LK-2212	Pallepola	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-037	Pallepola PS	37	PS	037
 LK-2212010	Nilannoruwa Colony	E426D	1.63277747	7.69159047	80.59234428	LK-2212	Pallepola	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-037	Pallepola PS	37	PS	037
 LK-2212015	Aluthgama	E426	3.13154737	7.70096584	80.60522521	LK-2212	Pallepola	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-037	Pallepola PS	37	PS	037
@@ -4038,10 +4043,18 @@ LK-2224080	Pitawala	E385	8.47458335	7.53502464	80.74462351	LK-2224	Laggala	LK-22
 LK-2224085	Kahagala	E388	13.2197655	7.56504405	80.77677215	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224090	Ilukkumbura	E388A	2.54876842	7.54693534	80.77029492	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224095	Mahalakotuwa	E387	7.06037556	7.54340589	80.78303174	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224100	Ganga Henwala	E402B	5.68743318	7.53287627	80.79583881	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224105	Karadamulla	E402B	15.97939131	7.5589884	80.81708164	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224110	Gonawala	E402B	2.28781996	7.53825374	80.81714633	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224115	Laggala Pallegama	E402B	0.97749159	7.53858395	80.8295312	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224120	Miniranketiya	E402B	7.95618622	7.53624695	80.8432335	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224125	Rawanagama	E402B	0.46396137	7.55329842	80.86130707	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224130	Galgedawala	E396A	9.360935	7.56802114	80.86735441	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224135	Guruwela	E397E	8.64005547	7.54740708	80.86235418	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224140	Kivulawadiya	E392A	22.11630124	7.496647	80.86870687	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224145	Halminiya	E392	11.52599843	7.49135226	80.80857337	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224150	Imaduwa	E402B	7.60474776	7.5160095	80.8237246	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
+LK-2224155	Rambukoluwa	E402B	8.04038122	7.51479965	80.79497236	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224160	Meda Ela	E387A	2.48712677	7.5272612	80.76663035	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224165	Rathninda	E386A	8.94813353	7.49461249	80.74311348	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
 LK-2224170	Etanwala	E386	50.06264715	7.47508753	80.76866277	LK-2224	Laggala	LK-22	Matale	LK-2	Central	LK	Sri Lanka	LK-22-034	Laggala-Pallegama PS	34	PS	038
@@ -7097,6 +7110,7 @@ LK-4127160	Puloly South	J/414	0.988831	9.79881683	80.23534704	LK-4127	Vadamaradc
 LK-4127165	Manthikai	J/415	0.49077007	9.80154438	80.22612692	LK-4127	Vadamaradchi North (Point Pedro)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-035	Point Pedro PS	35	PS	085
 LK-4127170	Vallipuram	J/416	10.12138997	9.78498589	80.25016514	LK-4127	Vadamaradchi North (Point Pedro)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-035	Point Pedro PS	35	PS	085
 LK-4127175	Thunnalai North	J/417	0.9763562	9.79203523	80.2248425	LK-4127	Vadamaradchi North (Point Pedro)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-035	Point Pedro PS	35	PS	085
+LK-4130000	nan	J/288	0.92900657	9.61947572	80.25796549	LK-4130	Thenmaradchi (Chavakachcheri)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-031	Chavakachcheri PS	31	PS	086
 LK-4130005	Kaithady North	J/288	3.6751045	9.69744619	80.09906632	LK-4130	Thenmaradchi (Chavakachcheri)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-031	Chavakachcheri PS	31	PS	086
 LK-4130010	Kaithady East	J/289	7.51723111	9.69369565	80.11729324	LK-4130	Thenmaradchi (Chavakachcheri)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-031	Chavakachcheri PS	31	PS	086
 LK-4130015	Kaithady Centre	J/290	0.4990069	9.68473019	80.09894619	LK-4130	Thenmaradchi (Chavakachcheri)	LK-41	Jaffna	LK-4	Northern	LK	Sri Lanka	LK-41-031	Chavakachcheri PS	31	PS	086
@@ -7762,8 +7776,12 @@ LK-5103065	Mankerny Central	211	16.59006297	8.04205939	81.45725647	LK-5103	Koral
 LK-5103070	Mankerny South	211G	13.32752553	7.99408249	81.4770388	LK-5103	Koralai Pattu North	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
 LK-5103075	Kayankerny	211A	8.77413621	7.98186507	81.52386884	LK-5103	Koralai Pattu North	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
 LK-5103080	Vattavan	211D	9.32213479	7.96121628	81.52940596	LK-5103	Koralai Pattu North	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
+LK-5104002	nan	211B	0.13877955	7.91333668	81.53204163	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
+LK-5104003	nan	211B	0.01001762	7.91960435	81.53072513	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
+LK-5104004	nan	211B	0.01709522	7.92696149	81.52926626	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
 LK-5104005	nan	211B	0.03698805	7.90956749	81.53238746	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
 LK-5104010	Thiyavattavan	210C	5.57544243	7.93434894	81.5131218	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
+LK-5104013	nan	211B	0.02424719	7.91815647	81.53117378	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
 LK-5104015	Valaichchenai 5 Muslim	206B	0.19445508	7.92265562	81.52815964	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
 LK-5104020	Valaichchenai 4 Muslim	206	0.32160143	7.92453822	81.52611368	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
 LK-5104025	Valaichchenai 5 Muslim South	206D	0.32598379	7.92030612	81.52386448	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
@@ -7771,6 +7789,7 @@ LK-5104030	Brynthuraichenai North	206A	0.2214894	7.91925164	81.52810813	LK-5104	
 LK-5104035	Brynthuraichenai South	206C	0.33677223	7.91364259	81.52855759	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
 LK-5104040	Mavadichenai	208A	0.24861427	7.91022556	81.52770875	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
 LK-5104045	Semmanodai	208D	0.5007654	7.9039145	81.52770388	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
+LK-5104055	Karuwakerni	211B	0.08603945	7.90857754	81.53193055	LK-5104	Koralai Pattu Central	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-035	Koralai Pattu North PS	35	PS	096
 LK-5106005	Paper Town	210B	20.91113336	7.91807933	81.49137895	LK-5106	Koralai Pattu West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
 LK-5106010	Oddamavadi 01 North	208B/2	0.40321825	7.91832575	81.52241825	LK-5106	Koralai Pattu West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
 LK-5106015	Oddamavadi 01 South	208B	0.38601023	7.91651854	81.51879446	LK-5106	Koralai Pattu West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
@@ -7781,8 +7800,11 @@ LK-5106035	Meeravodai Muslim East	207B	0.1434483	7.90426213	81.52407006	LK-5106	
 LK-5106040	Mancholai	207A	0.06778254	7.8998665	81.52649662	LK-5106	Koralai Pattu West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
 LK-5109005	Nasivanthivu	205C	2.30621794	7.93931991	81.53937142	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
 LK-5109010	Valachchenai Tamil	205	0.56132189	7.92663295	81.53538652	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
+LK-5109012	nan	205C	0.00879677	7.90213009	81.51738424	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
 LK-5109015	Puthukudiyiruppu	205A	0.4817286	7.92096211	81.53461588	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
 LK-5109020	Peththalai	205B	1.71081325	7.92877614	81.54541091	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-006	Koralai Pattu PS	6	PS	096
+LK-5109021	nan	205C	0.16968359	7.90222839	81.53010732	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
+LK-5109022	nan	205C	0.09058945	7.89625806	81.52995192	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
 LK-5109025	Kalkudah	204	7.81968128	7.91794195	81.55978815	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-006	Koralai Pattu PS	6	PS	096
 LK-5109030	Kalmadu	204A	2.73055274	7.90825224	81.54898133	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-007	Koralai Pattu PS	7	PS	096
 LK-5109035	Kannagipuram	205D	1.05964827	7.91326256	81.53660106	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-007	Koralai Pattu PS	7	PS	096
@@ -7791,6 +7813,7 @@ LK-5109045	Sungankerny	202C	1.60728034	7.88653268	81.53300092	LK-5109	Koralai Pa
 LK-5109050	Kinnaiyady	202B	1.66228479	7.88288196	81.52427805	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-011	Koralai Pattu PS	11	PS	096
 LK-5109055	Karuwakerni	202A	1.7257995	7.89943098	81.53516143	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Koralai Pattu PS	10	PS	096
 LK-5109060	Meeravodai Tamil	202	0.93808898	7.89638844	81.51942359	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Koralai Pattu PS	10	PS	096
+LK-5109065	nan	205C	0.535933	7.89750503	81.52463392	LK-5109	Koralai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-005	Koralai Pattu PS	5	PS	096
 LK-5110005	Punanai West	210E	18.29460343	7.9460198	81.40729722	LK-5110	Koralai Pattu South	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
 LK-5110010	Vahaneri	210	25.53126906	7.92678919	81.44358293	LK-5110	Koralai Pattu South	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-036	Koralai Pattu West PS	36	PS	096
 LK-5110015	Maruththanai	209A	100.17055094	7.90765261	81.38009356	LK-5110	Koralai Pattu South	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
@@ -7810,8 +7833,11 @@ LK-5110080	Murakkottanchenai	199	0.96168783	7.82799729	81.55400961	LK-5110	Koral
 LK-5110085	Thihiliveddai	200A	7.20833868	7.84327589	81.5288206	LK-5110	Koralai Pattu South	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
 LK-5110090	Koraveli	209B	24.43502581	7.83862867	81.49773493	LK-5110	Koralai Pattu South	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-034	Koralai Pattu PS	34	PS	096
 LK-5112005	Sittandy 3	201 - 3	6.16766393	7.81213885	81.53478924	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5112006	nan	201 - 3	0.86727472	7.7982226	81.62079523	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
 LK-5112010	Sittandy 2	201 - 2	0.15408262	7.82138223	81.55251458	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-008	Eravur Pattu PS	8	PS	096
+LK-5112014	nan	201 - 3	0.3931317	7.78938637	81.605642	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
 LK-5112015	Sittandy 4	201-4	1.21800348	7.81407875	81.55578995	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5112016	nan	201 - 3	0.14688817	7.79530985	81.60631312	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
 LK-5112020	Sittandy 1	201 -1	0.70557505	7.82095197	81.55991989	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-008	Eravur Pattu PS	8	PS	096
 LK-5112025	Mavadivembu 2	197E	0.4472442	7.81924109	81.56455356	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-009	Eravur Pattu PS	9	PS	096
 LK-5112030	Mavadivembu 1	197A	1.64870942	7.81242696	81.56627893	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-009	Eravur Pattu PS	9	PS	096
@@ -7848,6 +7874,12 @@ LK-5112180	Rugam	185	30.36611618	7.63339557	81.47284415	LK-5112	Eravur Pattu	LK-
 LK-5112185	Koppavely	146A	25.46706775	7.60670153	81.49799224	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-017	Eravur Pattu PS	17	PS	097
 LK-5112190	Periyapullumalai	146	53.83286437	7.56895894	81.4734054	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-017	Eravur Pattu PS	17	PS	097
 LK-5112195	Gemunupura	135A	15.10875462	7.52242887	81.52521603	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-018	Eravur Pattu PS	18	PS	097
+LK-5112200	nan	201 - 3	0.33494001	7.78286462	81.59835332	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5112210	nan	201 - 3	0.18361799	7.78146963	81.60141551	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5112215	nan	201 - 3	1.08164498	7.79025433	81.62732668	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5112230	Eravur 06	201 - 3	0.04965631	7.77283109	81.60098413	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5112235	nan	201 - 3	0.45377511	7.77634943	81.60045969	LK-5112	Eravur Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-010	Eravur Pattu PS	10	PS	096
+LK-5115007	nan	192	0.05160403	7.77960509	81.60281625	LK-5115	Eravur Town	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-022	Eravur UC	22	UC	097
 LK-5115015	Eravur 03	192	0.27188706	7.78055234	81.60483925	LK-5115	Eravur Town	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-022	Eravur UC	22	UC	097
 LK-5115020	Eravur 03A	192B	0.20268512	7.77895069	81.60719087	LK-5115	Eravur Town	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-022	Eravur UC	22	UC	097
 LK-5115025	Eravur 02	191	0.12454749	7.77669086	81.60824083	LK-5115	Eravur Town	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-022	Eravur UC	22	UC	097
@@ -7933,8 +7965,10 @@ LK-5121110	Iluppadichenai	148	9.69087341	7.63160297	81.65560415	LK-5121	Manmunai
 LK-5121115	Koththiyapulai	148E	5.04829179	7.62565525	81.69567137	LK-5121	Manmunai West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-040	Manmunai West (Vavunativu) PS	40	PS	097
 LK-5121120	Kaanchirankudah	148D	26.60157244	7.6033467	81.64442463	LK-5121	Manmunai West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-040	Manmunai West (Vavunativu) PS	40	PS	097
 LK-5124005	Kattankudy Division 1	167	0.0983029	7.68477868	81.72234873	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
+LK-5124009	nan	167	0.02471238	7.67658844	81.73616687	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
 LK-5124010	Kattankudy Division 1 South	167E	0.12944157	7.68342989	81.72309006	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
 LK-5124015	Kattankudy Division 2	166	0.13801256	7.68222222	81.72491998	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
+LK-5124017	nan	167	0.03204496	7.67613256	81.73902015	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
 LK-5124020	Kattankudy Division 2 North	166A	0.35100621	7.68568342	81.72815756	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
 LK-5124025	New Kattankudy North	167A	0.58523569	7.69008873	81.73283615	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
 LK-5124030	New Kattankudy South	167C	0.47056373	7.68629719	81.73598987	LK-5124	Kattankudy	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-021	Kattankudy UC	21	UC	097
@@ -7953,6 +7987,7 @@ LK-5124090	Kattankudy Division 5 South	164B	0.06334643	7.67417319	81.72716535	LK
 LK-5127005	Kirankulam North	150	2.47198111	7.61257907	81.76890911	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
 LK-5127010	Kirankulam South	150A	1.49788234	7.60119368	81.77411064	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
 LK-5127015	Kirankulam	150B	0.83676368	7.60535565	81.77230414	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
+LK-5127018	nan	150	0.22791843	7.67578054	81.74282737	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
 LK-5127020	Kirankulam Central	150C	0.55798967	7.60795446	81.77117177	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
 LK-5127025	Puthukudiyiruppu	151	0.54431962	7.63726924	81.76418263	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
 LK-5127030	Puthukudiyiruppu South	151A	4.94770555	7.6251435	81.76401008	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
@@ -7979,6 +8014,7 @@ LK-5127130	Arayampathy 1	158	0.10488066	7.67177401	81.72794656	LK-5127	Manmunai 
 LK-5127135	Arayampathy West	158A	0.09784909	7.6710703	81.72713196	LK-5127	Manmunai Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-037	Manmunaipattu PS	37	PS	097
 LK-5130005	Munaikkadu West	133A	0.90232365	7.62202426	81.70251793	LK-5130	Manmunai South West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-039	Manmunai South-West PS	39	PS	098
 LK-5130010	Munaikkadu North	133C	0.56773108	7.63057187	81.70311593	LK-5130	Manmunai South West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-039	Manmunai South-West PS	39	PS	098
+LK-5130011	nan	133A	1.24758153	7.5577323	81.69373438	LK-5130	Manmunai South West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-039	Manmunai South-West PS	39	PS	098
 LK-5130015	Munaikkadu East	133	0.14954476	7.62603658	81.70736173	LK-5130	Manmunai South West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-039	Manmunai South-West PS	39	PS	098
 LK-5130020	Muthalaikkudah West	131A	1.13010791	7.63006497	81.70924317	LK-5130	Manmunai South West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-039	Manmunai South-West PS	39	PS	098
 LK-5130025	Muthalaikkudah	131	2.67916255	7.63359905	81.71811214	LK-5130	Manmunai South West	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-039	Manmunai South-West PS	39	PS	098
@@ -8004,6 +8040,7 @@ LK-5130120	Panichchiyadimunmari	135D	2.35260961	7.55412197	81.6765427	LK-5130	Ma
 LK-5133005	Selvapuram	107F	9.40142762	7.53871792	81.65261564	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
 LK-5133010	Vammiyadiyoottu	107C	3.29351352	7.54043636	81.67784761	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
 LK-5133015	Thumpankerni (Y.F.S.)	107H	2.68945009	7.54373211	81.69205933	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
+LK-5133019	nan	107F	2.64961926	7.49679938	81.65693215	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
 LK-5133020	Kalumunthanveli	107E	2.62317133	7.55140875	81.70596512	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
 LK-5133025	Ganthipuram	107B	5.30151918	7.5496511	81.72551851	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
 LK-5133030	Mavetkudah	107D	4.35811138	7.55449168	81.74410274	LK-5133	Porativu Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-041	Porativepattu PS	41	PS	098
@@ -8089,6 +8126,8 @@ LK-5136210	Thuraineelavanai North	74	0.94057367	7.45410151	81.79934975	LK-5136	M
 LK-5136215	Thuraineelavanai North 01	74B	0.31645562	7.44922554	81.8001272	LK-5136	Manmunai South & Eruvil Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-038	Manmunai South & Eruvil Pattu PS	38	PS	098
 LK-5136220	Thuraineelavanai South	74A	0.30582387	7.44652483	81.79968256	LK-5136	Manmunai South & Eruvil Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-038	Manmunai South & Eruvil Pattu PS	38	PS	098
 LK-5136225	Thuraineelavanai South 01	74C	0.67519126	7.4430647	81.80061716	LK-5136	Manmunai South & Eruvil Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-038	Manmunai South & Eruvil Pattu PS	38	PS	098
+LK-5136230	nan	126C	0.83264519	7.59614338	81.77173947	LK-5136	Manmunai South & Eruvil Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-038	Manmunai South & Eruvil Pattu PS	38	PS	098
+LK-5136235	nan	126C	1.07825135	7.43605988	81.80324406	LK-5136	Manmunai South & Eruvil Pattu	LK-51	Batticaloa	LK-5	Eastern	LK	Sri Lanka	LK-51-038	Manmunai South & Eruvil Pattu PS	38	PS	098
 LK-5203005	Rideela	142L	16.91975505	7.70322121	81.01461875	LK-5203	Dehiattakandiya	LK-52	Ampara	LK-5	Eastern	LK	Sri Lanka	LK-52-034	Dehiattakandiya PS	34	PS	099
 LK-5203010	Bakmeedeniya	142K	13.85588414	7.67973488	81.01039074	LK-5203	Dehiattakandiya	LK-52	Ampara	LK-5	Eastern	LK	Sri Lanka	LK-52-034	Dehiattakandiya PS	34	PS	099
 LK-5203015	Dehiattakandiya	142J	20.9375937	7.67661722	81.04732063	LK-5203	Dehiattakandiya	LK-52	Ampara	LK-5	Eastern	LK	Sri Lanka	LK-52-034	Dehiattakandiya PS	34	PS	099

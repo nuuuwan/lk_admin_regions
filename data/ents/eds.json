@@ -30,9 +30,9 @@
   {
     "id": "EC-05",
     "name": "Matale",
-    "area_sqkm": 1954.49,
-    "center_lat": 7.671086,
-    "center_lng": 80.727823
+    "area_sqkm": 2058.75,
+    "center_lat": 7.667651,
+    "center_lng": 80.730702
   },
   {
     "id": "EC-06",
@@ -65,9 +65,9 @@
   {
     "id": "EC-10",
     "name": "Jaffna",
-    "area_sqkm": 2409.6,
-    "center_lat": 9.542014,
-    "center_lng": 80.221882
+    "area_sqkm": 2410.53,
+    "center_lat": 9.542044,
+    "center_lng": 80.221895
   },
   {
     "id": "EC-11",
@@ -79,9 +79,9 @@
   {
     "id": "EC-12",
     "name": "Batticaloa",
-    "area_sqkm": 2469.77,
-    "center_lat": 7.796066,
-    "center_lng": 81.478085
+    "area_sqkm": 2480.5,
+    "center_lat": 7.795426,
+    "center_lng": 81.478872
   },
   {
     "id": "EC-13",

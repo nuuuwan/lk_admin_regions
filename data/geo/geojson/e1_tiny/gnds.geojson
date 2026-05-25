@@ -196036,7 +196036,14 @@
       "id": "feature_03825",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2209125"
+        "id": "LK-2209125",
+        "name": "Medapihilla",
+        "num": "E413C",
+        "area_sqkm": 7.61,
+        "center_lat": 7.695746,
+        "center_lng": 80.732994,
+        "lg_code": "36",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -196078,7 +196085,14 @@
       "id": "feature_03826",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2209130"
+        "id": "LK-2209130",
+        "name": "Kadawatha",
+        "num": "E413C",
+        "area_sqkm": 1.29,
+        "center_lat": 7.680515,
+        "center_lng": 80.746511,
+        "lg_code": "36",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -196108,7 +196122,14 @@
       "id": "feature_03827",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2209135"
+        "id": "LK-2209135",
+        "name": "Galporugolla",
+        "num": "E413C",
+        "area_sqkm": 15.29,
+        "center_lat": 7.667161,
+        "center_lng": 80.772915,
+        "lg_code": "36",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -196154,7 +196175,14 @@
       "id": "feature_03828",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2209140"
+        "id": "LK-2209140",
+        "name": "Elagamuwa",
+        "num": "E413C",
+        "area_sqkm": 13.41,
+        "center_lat": 7.669906,
+        "center_lng": 80.733295,
+        "lg_code": "36",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -197319,7 +197347,14 @@
       "id": "feature_03852",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2209260"
+        "id": "LK-2209260",
+        "name": "Kambarawa",
+        "num": "E413C",
+        "area_sqkm": 17.66,
+        "center_lat": 7.635989,
+        "center_lng": 80.76939,
+        "lg_code": "36",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -206850,7 +206885,14 @@
       "id": "feature_04044",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224100"
+        "id": "LK-2224100",
+        "name": "Ganga Henwala",
+        "num": "E402B",
+        "area_sqkm": 5.69,
+        "center_lat": 7.532876,
+        "center_lng": 80.795839,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -206888,7 +206930,14 @@
       "id": "feature_04045",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224105"
+        "id": "LK-2224105",
+        "name": "Karadamulla",
+        "num": "E402B",
+        "area_sqkm": 15.98,
+        "center_lat": 7.558988,
+        "center_lng": 80.817082,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -206946,7 +206995,14 @@
       "id": "feature_04046",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224110"
+        "id": "LK-2224110",
+        "name": "Gonawala",
+        "num": "E402B",
+        "area_sqkm": 2.29,
+        "center_lat": 7.538254,
+        "center_lng": 80.817146,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -206980,7 +207036,14 @@
       "id": "feature_04047",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224115"
+        "id": "LK-2224115",
+        "name": "Laggala Pallegama",
+        "num": "E402B",
+        "area_sqkm": 0.98,
+        "center_lat": 7.538584,
+        "center_lng": 80.829531,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -207014,7 +207077,14 @@
       "id": "feature_04048",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224120"
+        "id": "LK-2224120",
+        "name": "Miniranketiya",
+        "num": "E402B",
+        "area_sqkm": 7.96,
+        "center_lat": 7.536247,
+        "center_lng": 80.843233,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -207060,7 +207130,14 @@
       "id": "feature_04049",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224125"
+        "id": "LK-2224125",
+        "name": "Rawanagama",
+        "num": "E402B",
+        "area_sqkm": 0.46,
+        "center_lat": 7.553298,
+        "center_lng": 80.861307,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -207318,7 +207395,14 @@
       "id": "feature_04054",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224150"
+        "id": "LK-2224150",
+        "name": "Imaduwa",
+        "num": "E402B",
+        "area_sqkm": 7.6,
+        "center_lat": 7.51601,
+        "center_lng": 80.823725,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -207360,7 +207444,14 @@
       "id": "feature_04055",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK2224155"
+        "id": "LK-2224155",
+        "name": "Rambukoluwa",
+        "num": "E402B",
+        "area_sqkm": 8.04,
+        "center_lat": 7.5148,
+        "center_lng": 80.794972,
+        "lg_code": "34",
+        "pd_code": "038"
       },
       "geometry": {
         "type": "Polygon",
@@ -361887,7 +361978,14 @@
       "id": "feature_07111",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK4130000"
+        "id": "LK-4130000",
+        "name": "nan",
+        "num": "J/288",
+        "area_sqkm": 0.93,
+        "center_lat": 9.619476,
+        "center_lng": 80.257965,
+        "lg_code": "31",
+        "pd_code": "086"
       },
       "geometry": {
         "type": "Polygon",
@@ -403488,7 +403586,14 @@
       "id": "feature_07777",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5104002"
+        "id": "LK-5104002",
+        "name": "nan",
+        "num": "211B",
+        "area_sqkm": 0.14,
+        "center_lat": 7.913337,
+        "center_lng": 81.532042,
+        "lg_code": "35",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -403526,7 +403631,14 @@
       "id": "feature_07778",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5104003"
+        "id": "LK-5104003",
+        "name": "nan",
+        "num": "211B",
+        "area_sqkm": 0.01,
+        "center_lat": 7.919604,
+        "center_lng": 81.530725,
+        "lg_code": "35",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -403556,7 +403668,14 @@
       "id": "feature_07779",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5104004"
+        "id": "LK-5104004",
+        "name": "nan",
+        "num": "211B",
+        "area_sqkm": 0.02,
+        "center_lat": 7.926961,
+        "center_lng": 81.529266,
+        "lg_code": "35",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -403676,7 +403795,14 @@
       "id": "feature_07782",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5104013"
+        "id": "LK-5104013",
+        "name": "nan",
+        "num": "211B",
+        "area_sqkm": 0.02,
+        "center_lat": 7.918156,
+        "center_lng": 81.531174,
+        "lg_code": "35",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -404105,7 +404231,14 @@
       "id": "feature_07790",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5104055"
+        "id": "LK-5104055",
+        "name": "Karuwakerni",
+        "num": "211B",
+        "area_sqkm": 0.09,
+        "center_lat": 7.908578,
+        "center_lng": 81.531931,
+        "lg_code": "35",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -404799,7 +404932,14 @@
       "id": "feature_07801",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5109012"
+        "id": "LK-5109012",
+        "name": "nan",
+        "num": "205C",
+        "area_sqkm": 0.01,
+        "center_lat": 7.90213,
+        "center_lng": 81.517384,
+        "lg_code": "5",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -404931,7 +405071,14 @@
       "id": "feature_07804",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5109021"
+        "id": "LK-5109021",
+        "name": "nan",
+        "num": "205C",
+        "area_sqkm": 0.17,
+        "center_lat": 7.902228,
+        "center_lng": 81.530107,
+        "lg_code": "5",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -404981,7 +405128,14 @@
       "id": "feature_07805",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5109022"
+        "id": "LK-5109022",
+        "name": "nan",
+        "num": "205C",
+        "area_sqkm": 0.09,
+        "center_lat": 7.896258,
+        "center_lng": 81.529952,
+        "lg_code": "5",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -405455,7 +405609,14 @@
       "id": "feature_07814",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5109065"
+        "id": "LK-5109065",
+        "name": "nan",
+        "num": "205C",
+        "area_sqkm": 0.54,
+        "center_lat": 7.897505,
+        "center_lng": 81.524634,
+        "lg_code": "5",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -406478,7 +406639,14 @@
       "id": "feature_07834",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115006"
+        "id": "LK-5112006",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 0.87,
+        "center_lat": 7.798223,
+        "center_lng": 81.620795,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -406549,7 +406717,14 @@
       "id": "feature_07836",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115014"
+        "id": "LK-5112014",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 0.39,
+        "center_lat": 7.789386,
+        "center_lng": 81.605642,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -406660,7 +406835,14 @@
       "id": "feature_07838",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115016"
+        "id": "LK-5112016",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 0.15,
+        "center_lat": 7.79531,
+        "center_lng": 81.606313,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -408558,7 +408740,14 @@
       "id": "feature_07875",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115200"
+        "id": "LK-5112200",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 0.33,
+        "center_lat": 7.782865,
+        "center_lng": 81.598353,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -408604,7 +408793,14 @@
       "id": "feature_07876",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115210"
+        "id": "LK-5112210",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 0.18,
+        "center_lat": 7.78147,
+        "center_lng": 81.601416,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -408638,7 +408834,14 @@
       "id": "feature_07877",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115215"
+        "id": "LK-5112215",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 1.08,
+        "center_lat": 7.790254,
+        "center_lng": 81.627327,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -408672,7 +408875,14 @@
       "id": "feature_07878",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115230"
+        "id": "LK-5112230",
+        "name": "Eravur 06",
+        "num": "201 - 3",
+        "area_sqkm": 0.05,
+        "center_lat": 7.772831,
+        "center_lng": 81.600984,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -408706,7 +408916,14 @@
       "id": "feature_07879",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5115235"
+        "id": "LK-5112235",
+        "name": "nan",
+        "num": "201 - 3",
+        "area_sqkm": 0.45,
+        "center_lat": 7.776349,
+        "center_lng": 81.60046,
+        "lg_code": "10",
+        "pd_code": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -412361,7 +412578,14 @@
       "id": "feature_07953",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5124009"
+        "id": "LK-5124009",
+        "name": "nan",
+        "num": "167",
+        "area_sqkm": 0.02,
+        "center_lat": 7.676588,
+        "center_lng": 81.736167,
+        "lg_code": "21",
+        "pd_code": "097"
       },
       "geometry": {
         "type": "Polygon",
@@ -412493,7 +412717,14 @@
       "id": "feature_07956",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5124017"
+        "id": "LK-5124017",
+        "name": "nan",
+        "num": "167",
+        "area_sqkm": 0.03,
+        "center_lat": 7.676133,
+        "center_lng": 81.73902,
+        "lg_code": "21",
+        "pd_code": "097"
       },
       "geometry": {
         "type": "Polygon",
@@ -413397,7 +413628,14 @@
       "id": "feature_07975",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5127018"
+        "id": "LK-5127018",
+        "name": "nan",
+        "num": "150",
+        "area_sqkm": 0.23,
+        "center_lat": 7.675781,
+        "center_lng": 81.742827,
+        "lg_code": "37",
+        "pd_code": "097"
       },
       "geometry": {
         "type": "Polygon",
@@ -414617,7 +414855,14 @@
       "id": "feature_08002",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5130011"
+        "id": "LK-5130011",
+        "name": "nan",
+        "num": "133A",
+        "area_sqkm": 1.25,
+        "center_lat": 7.557732,
+        "center_lng": 81.693734,
+        "lg_code": "39",
+        "pd_code": "098"
       },
       "geometry": {
         "type": "Polygon",
@@ -415932,7 +416177,14 @@
       "id": "feature_08028",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5133019"
+        "id": "LK-5133019",
+        "name": "nan",
+        "num": "107F",
+        "area_sqkm": 2.65,
+        "center_lat": 7.496799,
+        "center_lng": 81.656932,
+        "lg_code": "41",
+        "pd_code": "098"
       },
       "geometry": {
         "type": "Polygon",
@@ -420237,7 +420489,14 @@
       "id": "feature_08114",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5136230"
+        "id": "LK-5136230",
+        "name": "nan",
+        "num": "126C",
+        "area_sqkm": 0.83,
+        "center_lat": 7.596143,
+        "center_lng": 81.771739,
+        "lg_code": "38",
+        "pd_code": "098"
       },
       "geometry": {
         "type": "Polygon",
@@ -420271,7 +420530,14 @@
       "id": "feature_08115",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5136235"
+        "id": "LK-5136235",
+        "name": "nan",
+        "num": "126C",
+        "area_sqkm": 1.08,
+        "center_lat": 7.43606,
+        "center_lng": 81.803244,
+        "lg_code": "38",
+        "pd_code": "098"
       },
       "geometry": {
         "type": "Polygon",
@@ -420317,7 +420583,14 @@
       "id": "feature_08116",
       "type": "Feature",
       "properties": {
-        "hum_id": "LK5139007"
+        "id": "LK-5115007",
+        "name": "nan",
+        "num": "192",
+        "area_sqkm": 0.05,
+        "center_lat": 7.779605,
+        "center_lng": 81.602816,
+        "lg_code": "22",
+        "pd_code": "097"
       },
       "geometry": {
         "type": "Polygon",

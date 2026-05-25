@@ -7,9 +7,9 @@
       "properties": {
         "id": "LK-2",
         "name": "Central",
-        "area_sqkm": 5626.99,
-        "center_lat": 7.318848,
-        "center_lng": 80.716151
+        "area_sqkm": 5731.25,
+        "center_lat": 7.324022,
+        "center_lng": 80.717397
       },
       "geometry": {
         "type": "Polygon",
@@ -2289,9 +2289,9 @@
       "properties": {
         "id": "LK-5",
         "name": "Eastern",
-        "area_sqkm": 9636.53,
-        "center_lat": 7.746461,
-        "center_lng": 81.405299
+        "area_sqkm": 9647.27,
+        "center_lat": 7.746351,
+        "center_lng": 81.405582
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16363,9 +16363,9 @@
       "properties": {
         "id": "LK-4",
         "name": "Northern",
-        "area_sqkm": 9036.49,
-        "center_lat": 9.136524,
-        "center_lng": 80.34433
+        "area_sqkm": 9037.42,
+        "center_lat": 9.136573,
+        "center_lng": 80.344321
       },
       "geometry": {
         "type": "MultiPolygon",

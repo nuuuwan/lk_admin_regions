@@ -402,9 +402,9 @@
   {
     "id": "EC-05B",
     "name": "Laggala",
-    "area_sqkm": 899.78,
-    "center_lat": 7.608731,
-    "center_lng": 80.809921,
+    "area_sqkm": 1004.04,
+    "center_lat": 7.608164,
+    "center_lng": 80.807299,
     "pd_code": "038"
   },
   {
@@ -682,9 +682,9 @@
   {
     "id": "EC-10H",
     "name": "Chavakachcheri",
-    "area_sqkm": 235.15,
-    "center_lat": 9.677235,
-    "center_lng": 80.189372,
+    "area_sqkm": 236.07,
+    "center_lat": 9.677007,
+    "center_lng": 80.189642,
     "pd_code": "086"
   },
   {
@@ -738,25 +738,25 @@
   {
     "id": "EC-12A",
     "name": "Kalkudah",
-    "area_sqkm": 1449.55,
-    "center_lat": 7.924191,
-    "center_lng": 81.38446,
+    "area_sqkm": 1454.14,
+    "center_lat": 7.923848,
+    "center_lng": 81.385122,
     "pd_code": "096"
   },
   {
     "id": "EC-12B",
     "name": "Batticaloa",
-    "area_sqkm": 677.75,
-    "center_lat": 7.656338,
-    "center_lng": 81.567542,
+    "area_sqkm": 678.09,
+    "center_lat": 7.656355,
+    "center_lng": 81.567618,
     "pd_code": "097"
   },
   {
     "id": "EC-12C",
     "name": "Paddiruppu",
-    "area_sqkm": 342.46,
-    "center_lat": 7.530285,
-    "center_lng": 81.697333,
+    "area_sqkm": 348.27,
+    "center_lat": 7.529994,
+    "center_lng": 81.697519,
     "pd_code": "098"
   },
   {

@@ -15,6 +15,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103005",
     "dcs_gnd_name": "Sammanthranapura",
     "dcs_gnd_code": "5",
     "dcs_gnd_num": " ",
@@ -63,7 +64,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.97793347,
     "hum_center_lon": 79.87812849,
-    "dcs_gnd_id": "LK-1103005"
+    "hum_gnd_id": "LK-1103005"
   },
   {
     "dcs_Serial Number": "2",
@@ -81,6 +82,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103010",
     "dcs_gnd_name": "Mattakkuliya",
     "dcs_gnd_code": "10",
     "dcs_gnd_num": " ",
@@ -129,7 +131,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.97217763,
     "hum_center_lon": 79.87696217,
-    "dcs_gnd_id": "LK-1103010"
+    "hum_gnd_id": "LK-1103010"
   },
   {
     "dcs_Serial Number": "3",
@@ -147,6 +149,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103015",
     "dcs_gnd_name": "Modara",
     "dcs_gnd_code": "15",
     "dcs_gnd_num": " ",
@@ -195,7 +198,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.96466116,
     "hum_center_lon": 79.87173574,
-    "dcs_gnd_id": "LK-1103015"
+    "hum_gnd_id": "LK-1103015"
   },
   {
     "dcs_Serial Number": "4",
@@ -213,6 +216,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103020",
     "dcs_gnd_name": "Madampitiya",
     "dcs_gnd_code": "20",
     "dcs_gnd_num": " ",
@@ -261,7 +265,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.96177771,
     "hum_center_lon": 79.87549709,
-    "dcs_gnd_id": "LK-1103020"
+    "hum_gnd_id": "LK-1103020"
   },
   {
     "dcs_Serial Number": "5",
@@ -279,6 +283,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103025",
     "dcs_gnd_name": "Mahawatta",
     "dcs_gnd_code": "25",
     "dcs_gnd_num": " ",
@@ -327,7 +332,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.95746294,
     "hum_center_lon": 79.87418643,
-    "dcs_gnd_id": "LK-1103025"
+    "hum_gnd_id": "LK-1103025"
   },
   {
     "dcs_Serial Number": "6",
@@ -345,6 +350,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103030",
     "dcs_gnd_name": "Aluthmawatha",
     "dcs_gnd_code": "30",
     "dcs_gnd_num": " ",
@@ -393,7 +399,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.96180015,
     "hum_center_lon": 79.86561377,
-    "dcs_gnd_id": "LK-1103030"
+    "hum_gnd_id": "LK-1103030"
   },
   {
     "dcs_Serial Number": "7",
@@ -411,6 +417,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103035",
     "dcs_gnd_name": "Lunupokuna",
     "dcs_gnd_code": "35",
     "dcs_gnd_num": " ",
@@ -459,7 +466,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.95571588,
     "hum_center_lon": 79.85910074,
-    "dcs_gnd_id": "LK-1103035"
+    "hum_gnd_id": "LK-1103035"
   },
   {
     "dcs_Serial Number": "8",
@@ -477,6 +484,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103040",
     "dcs_gnd_name": "Bloemendhal",
     "dcs_gnd_code": "40",
     "dcs_gnd_num": " ",
@@ -525,7 +533,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.95104653,
     "hum_center_lon": 79.8701481,
-    "dcs_gnd_id": "LK-1103040"
+    "hum_gnd_id": "LK-1103040"
   },
   {
     "dcs_Serial Number": "9",
@@ -543,6 +551,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103045",
     "dcs_gnd_name": "Kotahena East",
     "dcs_gnd_code": "45",
     "dcs_gnd_num": " ",
@@ -591,7 +600,7 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.94936019,
     "hum_center_lon": 79.8639379,
-    "dcs_gnd_id": "LK-1103045"
+    "hum_gnd_id": "LK-1103045"
   },
   {
     "dcs_Serial Number": "10",
@@ -609,6 +618,7 @@
     "dcs_LGD_Name": "Colombo MC",
     "dcs_Polling Division_Code": "1",
     "dcs_Polling Division_Name": "Clombo North",
+    "dcs_gnd_id": "LK-1103050",
     "dcs_gnd_name": "Kotahena West",
     "dcs_gnd_code": "50",
     "dcs_gnd_num": " ",
@@ -657,6 +667,6 @@
     "hum_adm4_ref": NaN,
     "hum_center_lat": 6.94899498,
     "hum_center_lon": 79.85973396,
-    "dcs_gnd_id": "LK-1103050"
+    "hum_gnd_id": "LK-1103050"
   }
 ]

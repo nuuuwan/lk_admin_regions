@@ -407,9 +407,9 @@
       "properties": {
         "id": "LK-22",
         "name": "Matale",
-        "area_sqkm": 1954.49,
-        "center_lat": 7.671086,
-        "center_lng": 80.727823
+        "area_sqkm": 2058.75,
+        "center_lat": 7.667651,
+        "center_lng": 80.730702
       },
       "geometry": {
         "type": "Polygon",
@@ -777,9 +777,9 @@
       "properties": {
         "id": "LK-41",
         "name": "Jaffna",
-        "area_sqkm": 1090.31,
-        "center_lat": 9.687931,
-        "center_lng": 80.116037
+        "area_sqkm": 1091.24,
+        "center_lat": 9.687873,
+        "center_lng": 80.116157
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9549,9 +9549,9 @@
       "properties": {
         "id": "LK-51",
         "name": "Batticaloa",
-        "area_sqkm": 2469.77,
-        "center_lat": 7.796066,
-        "center_lng": 81.478085
+        "area_sqkm": 2480.5,
+        "center_lat": 7.795426,
+        "center_lng": 81.478872
       },
       "geometry": {
         "type": "MultiPolygon",

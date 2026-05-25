@@ -38250,6 +38250,46 @@
     "pd_code": "038"
   },
   {
+    "id": "LK-2209125",
+    "name": "Medapihilla",
+    "num": "E413C",
+    "area_sqkm": 7.61,
+    "center_lat": 7.695746,
+    "center_lng": 80.732994,
+    "lg_code": "36",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2209130",
+    "name": "Kadawatha",
+    "num": "E413C",
+    "area_sqkm": 1.29,
+    "center_lat": 7.680515,
+    "center_lng": 80.746511,
+    "lg_code": "36",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2209135",
+    "name": "Galporugolla",
+    "num": "E413C",
+    "area_sqkm": 15.29,
+    "center_lat": 7.667161,
+    "center_lng": 80.772915,
+    "lg_code": "36",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2209140",
+    "name": "Elagamuwa",
+    "num": "E413C",
+    "area_sqkm": 13.41,
+    "center_lat": 7.669906,
+    "center_lng": 80.733295,
+    "lg_code": "36",
+    "pd_code": "038"
+  },
+  {
     "id": "LK-2209145",
     "name": "Kongahawela",
     "num": "E409",
@@ -38476,6 +38516,16 @@
     "area_sqkm": 20.33,
     "center_lat": 7.626422,
     "center_lng": 80.735044,
+    "lg_code": "36",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2209260",
+    "name": "Kambarawa",
+    "num": "E413C",
+    "area_sqkm": 17.66,
+    "center_lat": 7.635989,
+    "center_lng": 80.76939,
     "lg_code": "36",
     "pd_code": "038"
   },
@@ -40390,6 +40440,66 @@
     "pd_code": "038"
   },
   {
+    "id": "LK-2224100",
+    "name": "Ganga Henwala",
+    "num": "E402B",
+    "area_sqkm": 5.69,
+    "center_lat": 7.532876,
+    "center_lng": 80.795839,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224105",
+    "name": "Karadamulla",
+    "num": "E402B",
+    "area_sqkm": 15.98,
+    "center_lat": 7.558988,
+    "center_lng": 80.817082,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224110",
+    "name": "Gonawala",
+    "num": "E402B",
+    "area_sqkm": 2.29,
+    "center_lat": 7.538254,
+    "center_lng": 80.817146,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224115",
+    "name": "Laggala Pallegama",
+    "num": "E402B",
+    "area_sqkm": 0.98,
+    "center_lat": 7.538584,
+    "center_lng": 80.829531,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224120",
+    "name": "Miniranketiya",
+    "num": "E402B",
+    "area_sqkm": 7.96,
+    "center_lat": 7.536247,
+    "center_lng": 80.843233,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224125",
+    "name": "Rawanagama",
+    "num": "E402B",
+    "area_sqkm": 0.46,
+    "center_lat": 7.553298,
+    "center_lng": 80.861307,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
     "id": "LK-2224130",
     "name": "Galgedawala",
     "num": "E396A",
@@ -40426,6 +40536,26 @@
     "area_sqkm": 11.53,
     "center_lat": 7.491352,
     "center_lng": 80.808573,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224150",
+    "name": "Imaduwa",
+    "num": "E402B",
+    "area_sqkm": 7.6,
+    "center_lat": 7.51601,
+    "center_lng": 80.823725,
+    "lg_code": "34",
+    "pd_code": "038"
+  },
+  {
+    "id": "LK-2224155",
+    "name": "Rambukoluwa",
+    "num": "E402B",
+    "area_sqkm": 8.04,
+    "center_lat": 7.5148,
+    "center_lng": 80.794972,
     "lg_code": "34",
     "pd_code": "038"
   },
@@ -70980,6 +71110,16 @@
     "pd_code": "085"
   },
   {
+    "id": "LK-4130000",
+    "name": "nan",
+    "num": "J/288",
+    "area_sqkm": 0.93,
+    "center_lat": 9.619476,
+    "center_lng": 80.257965,
+    "lg_code": "31",
+    "pd_code": "086"
+  },
+  {
     "id": "LK-4130005",
     "name": "Kaithady North",
     "num": "J/288",
@@ -77630,6 +77770,36 @@
     "pd_code": "096"
   },
   {
+    "id": "LK-5104002",
+    "name": "nan",
+    "num": "211B",
+    "area_sqkm": 0.14,
+    "center_lat": 7.913337,
+    "center_lng": 81.532042,
+    "lg_code": "35",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5104003",
+    "name": "nan",
+    "num": "211B",
+    "area_sqkm": 0.01,
+    "center_lat": 7.919604,
+    "center_lng": 81.530725,
+    "lg_code": "35",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5104004",
+    "name": "nan",
+    "num": "211B",
+    "area_sqkm": 0.02,
+    "center_lat": 7.926961,
+    "center_lng": 81.529266,
+    "lg_code": "35",
+    "pd_code": "096"
+  },
+  {
     "id": "LK-5104005",
     "name": "nan",
     "num": "211B",
@@ -77647,6 +77817,16 @@
     "center_lat": 7.934349,
     "center_lng": 81.513122,
     "lg_code": "36",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5104013",
+    "name": "nan",
+    "num": "211B",
+    "area_sqkm": 0.02,
+    "center_lat": 7.918156,
+    "center_lng": 81.531174,
+    "lg_code": "35",
     "pd_code": "096"
   },
   {
@@ -77717,6 +77897,16 @@
     "center_lat": 7.903914,
     "center_lng": 81.527704,
     "lg_code": "34",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5104055",
+    "name": "Karuwakerni",
+    "num": "211B",
+    "area_sqkm": 0.09,
+    "center_lat": 7.908578,
+    "center_lng": 81.531931,
+    "lg_code": "35",
     "pd_code": "096"
   },
   {
@@ -77820,6 +78010,16 @@
     "pd_code": "096"
   },
   {
+    "id": "LK-5109012",
+    "name": "nan",
+    "num": "205C",
+    "area_sqkm": 0.01,
+    "center_lat": 7.90213,
+    "center_lng": 81.517384,
+    "lg_code": "5",
+    "pd_code": "096"
+  },
+  {
     "id": "LK-5109015",
     "name": "Puthukudiyiruppu",
     "num": "205A",
@@ -77837,6 +78037,26 @@
     "center_lat": 7.928776,
     "center_lng": 81.545411,
     "lg_code": "6",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5109021",
+    "name": "nan",
+    "num": "205C",
+    "area_sqkm": 0.17,
+    "center_lat": 7.902228,
+    "center_lng": 81.530107,
+    "lg_code": "5",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5109022",
+    "name": "nan",
+    "num": "205C",
+    "area_sqkm": 0.09,
+    "center_lat": 7.896258,
+    "center_lng": 81.529952,
+    "lg_code": "5",
     "pd_code": "096"
   },
   {
@@ -77917,6 +78137,16 @@
     "center_lat": 7.896388,
     "center_lng": 81.519424,
     "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5109065",
+    "name": "nan",
+    "num": "205C",
+    "area_sqkm": 0.54,
+    "center_lat": 7.897505,
+    "center_lng": 81.524634,
+    "lg_code": "5",
     "pd_code": "096"
   },
   {
@@ -78110,6 +78340,16 @@
     "pd_code": "096"
   },
   {
+    "id": "LK-5112006",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 0.87,
+    "center_lat": 7.798223,
+    "center_lng": 81.620795,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
     "id": "LK-5112010",
     "name": "Sittandy 2",
     "num": "201 - 2",
@@ -78120,12 +78360,32 @@
     "pd_code": "096"
   },
   {
+    "id": "LK-5112014",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 0.39,
+    "center_lat": 7.789386,
+    "center_lng": 81.605642,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
     "id": "LK-5112015",
     "name": "Sittandy 4",
     "num": "201-4",
     "area_sqkm": 1.22,
     "center_lat": 7.814079,
     "center_lng": 81.55579,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5112016",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 0.15,
+    "center_lat": 7.79531,
+    "center_lng": 81.606313,
     "lg_code": "10",
     "pd_code": "096"
   },
@@ -78487,6 +78747,66 @@
     "center_lat": 7.522429,
     "center_lng": 81.525216,
     "lg_code": "18",
+    "pd_code": "097"
+  },
+  {
+    "id": "LK-5112200",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 0.33,
+    "center_lat": 7.782865,
+    "center_lng": 81.598353,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5112210",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 0.18,
+    "center_lat": 7.78147,
+    "center_lng": 81.601416,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5112215",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 1.08,
+    "center_lat": 7.790254,
+    "center_lng": 81.627327,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5112230",
+    "name": "Eravur 06",
+    "num": "201 - 3",
+    "area_sqkm": 0.05,
+    "center_lat": 7.772831,
+    "center_lng": 81.600984,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5112235",
+    "name": "nan",
+    "num": "201 - 3",
+    "area_sqkm": 0.45,
+    "center_lat": 7.776349,
+    "center_lng": 81.60046,
+    "lg_code": "10",
+    "pd_code": "096"
+  },
+  {
+    "id": "LK-5115007",
+    "name": "nan",
+    "num": "192",
+    "area_sqkm": 0.05,
+    "center_lat": 7.779605,
+    "center_lng": 81.602816,
+    "lg_code": "22",
     "pd_code": "097"
   },
   {
@@ -79340,6 +79660,16 @@
     "pd_code": "097"
   },
   {
+    "id": "LK-5124009",
+    "name": "nan",
+    "num": "167",
+    "area_sqkm": 0.02,
+    "center_lat": 7.676588,
+    "center_lng": 81.736167,
+    "lg_code": "21",
+    "pd_code": "097"
+  },
+  {
     "id": "LK-5124010",
     "name": "Kattankudy Division 1 South",
     "num": "167E",
@@ -79356,6 +79686,16 @@
     "area_sqkm": 0.14,
     "center_lat": 7.682222,
     "center_lng": 81.72492,
+    "lg_code": "21",
+    "pd_code": "097"
+  },
+  {
+    "id": "LK-5124017",
+    "name": "nan",
+    "num": "167",
+    "area_sqkm": 0.03,
+    "center_lat": 7.676133,
+    "center_lng": 81.73902,
     "lg_code": "21",
     "pd_code": "097"
   },
@@ -79536,6 +79876,16 @@
     "area_sqkm": 0.84,
     "center_lat": 7.605356,
     "center_lng": 81.772304,
+    "lg_code": "37",
+    "pd_code": "097"
+  },
+  {
+    "id": "LK-5127018",
+    "name": "nan",
+    "num": "150",
+    "area_sqkm": 0.23,
+    "center_lat": 7.675781,
+    "center_lng": 81.742827,
     "lg_code": "37",
     "pd_code": "097"
   },
@@ -79800,6 +80150,16 @@
     "pd_code": "098"
   },
   {
+    "id": "LK-5130011",
+    "name": "nan",
+    "num": "133A",
+    "area_sqkm": 1.25,
+    "center_lat": 7.557732,
+    "center_lng": 81.693734,
+    "lg_code": "39",
+    "pd_code": "098"
+  },
+  {
     "id": "LK-5130015",
     "name": "Munaikkadu East",
     "num": "133",
@@ -80046,6 +80406,16 @@
     "area_sqkm": 2.69,
     "center_lat": 7.543732,
     "center_lng": 81.692059,
+    "lg_code": "41",
+    "pd_code": "098"
+  },
+  {
+    "id": "LK-5133019",
+    "name": "nan",
+    "num": "107F",
+    "area_sqkm": 2.65,
+    "center_lat": 7.496799,
+    "center_lng": 81.656932,
     "lg_code": "41",
     "pd_code": "098"
   },
@@ -80896,6 +81266,26 @@
     "area_sqkm": 0.68,
     "center_lat": 7.443065,
     "center_lng": 81.800617,
+    "lg_code": "38",
+    "pd_code": "098"
+  },
+  {
+    "id": "LK-5136230",
+    "name": "nan",
+    "num": "126C",
+    "area_sqkm": 0.83,
+    "center_lat": 7.596143,
+    "center_lng": 81.771739,
+    "lg_code": "38",
+    "pd_code": "098"
+  },
+  {
+    "id": "LK-5136235",
+    "name": "nan",
+    "num": "126C",
+    "area_sqkm": 1.08,
+    "center_lat": 7.43606,
+    "center_lng": 81.803244,
     "lg_code": "38",
     "pd_code": "098"
   },
