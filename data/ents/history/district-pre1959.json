@@ -1,6 +1,6 @@
 [
   {
-    "id": "LK-11@1978",
+    "id": "LK-11-pre1978",
     "name": "Colombo",
     "area_sqkm": 2073.4,
     "center_lat": 7.039240425928426,
@@ -56,7 +56,7 @@
     "center_lng": 81.091281
   },
   {
-    "id": "LK-41@1984",
+    "id": "LK-41-pre1984",
     "name": "Jaffna",
     "area_sqkm": 2409.6,
     "center_lat": 9.542014657026064,
@@ -84,7 +84,7 @@
     "center_lng": 80.552726
   },
   {
-    "id": "LK-51@1961",
+    "id": "LK-51-pre1961",
     "name": "Batticaloa",
     "area_sqkm": 6944.43,
     "center_lat": 7.4334212586317365,
@@ -126,7 +126,7 @@
     "center_lng": 81.028281
   },
   {
-    "id": "LK-81@1959",
+    "id": "LK-81-pre1959",
     "name": "Badulla",
     "area_sqkm": 8629.95,
     "center_lat": 6.882411624431195,
