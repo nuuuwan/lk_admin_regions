@@ -35,7 +35,7 @@ class DistrictHistory:
             d_old["area_sqkm"] + d_new["area_sqkm"]
         )
         d_old["area_sqkm"] += d_new["area_sqkm"]
-        d_old["id"] = f"{old_id}@{year}"
+        d_old["id"] = f"{old_id}-pre{year}"
 
         district_idx[old_id] = d_old
         del district_idx[new_id]
