@@ -91,3 +91,4 @@ class BuildNonAdminGeo:
                 parent_type,
                 original_geojson_path,
             )
+            BuildGeo.cleanup_big_files()

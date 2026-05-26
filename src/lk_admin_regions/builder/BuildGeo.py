@@ -160,6 +160,10 @@ class BuildGeo:
             + f" ({compression_p:.1%} of original geojson)"
         )
 
+        cls.build_image(
+            ent_type_name, precision_label, simplified_geojson_file.path
+        )
+
     @classmethod
     def build_raw_json(cls, ent_type_name, original_geojson_path):
         geojson_data = JSONFile(original_geojson_path).read()
@@ -195,11 +199,11 @@ class BuildGeo:
         log.info(f"✅ Wrote {n_written} raw JSON files to {dir_raw}")
 
     @classmethod
-    def build_image(cls, ent_type_name, original_geojson_path):
+    def build_image(cls, ent_type_name, prevision_level, geojson_path):
 
-        geojson_data = JSONFile(original_geojson_path).read()
+        geojson_data = JSONFile(geojson_path).read()
 
-        dir_images = os.path.join(cls.DIR_DATA_GEO, "images", "original")
+        dir_images = os.path.join(cls.DIR_DATA_GEO, "images", prevision_level)
         os.makedirs(dir_images, exist_ok=True)
         image_path = os.path.join(dir_images, f"{ent_type_name}.png")
 
@@ -252,7 +256,6 @@ class BuildGeo:
         original_geojson_path,
     ):
 
-        cls.build_image(ent_type_name, original_geojson_path)
         cls.build_raw_json(ent_type_name, original_geojson_path)
 
         topojson_file = cls.build_topojson(
@@ -357,10 +360,15 @@ class BuildGeo:
         log.debug("-" * 64)
 
         original_geojson_path = cls.copy_original(ent_type_name, level)
+        cls.build_image(ent_type_name, "original", original_geojson_path)
         cls.build_raw_json_geojson_and_topojson(
             ent_type_name,
             original_geojson_path,
         )
+
+    @classmethod
+    def cleanup_big_files(cls):
+        os.system("find data -type f -size +20M -delete")
 
     @classmethod
     def build_all(cls):
@@ -377,3 +385,4 @@ class BuildGeo:
                 ent_type_name,
                 level,
             )
+            cls.cleanup_big_files()
