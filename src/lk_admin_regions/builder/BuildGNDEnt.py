@@ -4,8 +4,9 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildGNDEnt")
 
@@ -146,47 +147,46 @@ class BuildGNDEnt:
 
     @classmethod
     def build_denormalized_gnd(
-        cls, raw_d, district_to_ed, pd_code_to_data, ed_idx
+        cls, d, district_to_ed, pd_code_to_data, ed_idx
     ):
-        pd_data = pd_code_to_data[raw_d["dcs_pd_code"]]
+        pd_data = pd_code_to_data[d["dcs_pd_code"]]
 
-        ed_id = district_to_ed[raw_d["dcs_district_id"]]
+        ed_id = district_to_ed[d["dcs_district_id"]]
         ed_name = ed_idx[ed_id]["name"]
 
         return dict(
             # gnd
-            gnd_id=raw_d["dcs_gnd_id"],
-            gnd_name=raw_d["hum_adm4_name"] or raw_d["dcs_gnd_name"],
-            gnd_num=raw_d["dcs_gnd_num"],
-            area_sqkm=raw_d["hum_area_sqkm"],
-            center_lat=raw_d["hum_center_lat"],
-            center_lng=raw_d["hum_center_lon"],
+            hum_adm4_pcode=d["hum_adm4_pcode"],
+            gnd_id=d["dcs_gnd_id"],
+            gnd_name=d["hum_adm4_name"] or d["dcs_gnd_name"],
+            gnd_num=d["dcs_gnd_num"],
+            area_sqkm=d["hum_area_sqkm"],
+            center_lat=d["hum_center_lat"],
+            center_lng=d["hum_center_lon"],
             # country
             country_id="LK",
-            country_name=raw_d["hum_adm0_name"] or "Sri Lanka",
+            country_name=d["hum_adm0_name"] or "Sri Lanka",
             # province
-            province_id=raw_d["dcs_province_id"],
-            province_name=raw_d["hum_adm1_name"]
-            or raw_d["dcs_province_name"],
+            province_id=d["dcs_province_id"],
+            province_name=d["hum_adm1_name"] or d["dcs_province_name"],
             # district
-            district_id=raw_d["dcs_district_id"],
-            district_name=raw_d["hum_adm2_name"]
-            or raw_d["dcs_district_name"],
+            district_id=d["dcs_district_id"],
+            district_name=d["hum_adm2_name"] or d["dcs_district_name"],
             # dsd
-            dsd_id=raw_d["dcs_dsd_id"],
-            dsd_name=raw_d["hum_adm3_name"] or raw_d["dcs_dsd_name"],
+            dsd_id=d["dcs_dsd_id"],
+            dsd_name=d["hum_adm3_name"] or d["dcs_dsd_name"],
             # ed
             ed_id=ed_id,
             ed_name=ed_name,
             # pd
             pd_id=pd_data["id"],
             pd_name=pd_data["name"],
-            pd_code=raw_d["dcs_pd_code"],
+            pd_code=d["dcs_pd_code"],
             # lg
-            lg_id=raw_d["dcs_lg_id"],
-            lg_name=raw_d["dcs_lg_name"],
-            lg_code=raw_d["dcs_lg_code"],
-            lg_level=raw_d["dcs_lg_level"],
+            lg_id=d["dcs_lg_id"],
+            lg_name=d["dcs_lg_name"],
+            lg_code=d["dcs_lg_code"],
+            lg_level=d["dcs_lg_level"],
         )
 
     @classmethod
