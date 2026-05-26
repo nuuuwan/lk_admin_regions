@@ -4,9 +4,8 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
 
 log = Log("BuildGNDEnt")
 
@@ -37,6 +36,14 @@ class BuildGNDEnt:
                 ed_to_pds[ed_id] = []
             ed_to_pds[ed_id].append(pd)
         return ed_to_pds
+
+    @classmethod
+    @cache
+    def get_ed_ground_truth(cls):
+        ed_ground_truth = TSVFile(
+            os.path.join("data_ground_truth", "misc", "eds.tsv")
+        ).read()
+        return ed_ground_truth
 
     @classmethod
     def get_pd_data_list(cls):
@@ -138,8 +145,14 @@ class BuildGNDEnt:
         log.info(f"\tWrote {tsv_file}")
 
     @classmethod
-    def build_denormalized_gnd(cls, raw_d, district_to_ed, pd_code_to_data):
+    def build_denormalized_gnd(
+        cls, raw_d, district_to_ed, pd_code_to_data, ed_idx
+    ):
         pd_data = pd_code_to_data[raw_d["dcs_pd_code"]]
+
+        ed_id = district_to_ed[raw_d["dcs_district_id"]]
+        ed_name = ed_idx[ed_id]["name"]
+
         return dict(
             # gnd
             gnd_id=raw_d["dcs_gnd_id"],
@@ -153,15 +166,18 @@ class BuildGNDEnt:
             country_name=raw_d["hum_adm0_name"] or "Sri Lanka",
             # province
             province_id=raw_d["dcs_province_id"],
-            province_name=raw_d["hum_adm1_name"] or raw_d["dcs_province_name"],
+            province_name=raw_d["hum_adm1_name"]
+            or raw_d["dcs_province_name"],
             # district
             district_id=raw_d["dcs_district_id"],
-            district_name=raw_d["hum_adm2_name"] or raw_d["dcs_district_name"],
+            district_name=raw_d["hum_adm2_name"]
+            or raw_d["dcs_district_name"],
             # dsd
             dsd_id=raw_d["dcs_dsd_id"],
             dsd_name=raw_d["hum_adm3_name"] or raw_d["dcs_dsd_name"],
             # ed
-            ed_id=district_to_ed[raw_d["dcs_district_id"]],
+            ed_id=ed_id,
+            ed_name=ed_name,
             # pd
             pd_id=pd_data["id"],
             pd_name=pd_data["name"],
@@ -180,9 +196,13 @@ class BuildGNDEnt:
         district_to_ed = cls.get_district_to_ed()
         pd_data_list = cls.get_pd_data_list()
         pd_code_to_data = {d["code"]: d for d in pd_data_list}
+        ed_ground_truth = cls.get_ed_ground_truth()
+        ed_idx = {d["id"]: d for d in ed_ground_truth}
 
         d_list = [
-            cls.build_denormalized_gnd(d, district_to_ed, pd_code_to_data)
+            cls.build_denormalized_gnd(
+                d, district_to_ed, pd_code_to_data, ed_idx
+            )
             for d in raw_d_list
         ]
         d_list.sort(key=lambda d: d["gnd_id"])

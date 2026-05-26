@@ -1,7 +1,4 @@
-import os
-from functools import cache
-
-from utils import Log, TSVFile
+from utils import Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
 
@@ -10,14 +7,6 @@ log = Log("BuildNonAdminEnts")
 
 class BuildNonAdminEnts:
     MIN_MATCH_RATIO = 80
-
-    @classmethod
-    @cache
-    def get_ed_ground_truth(cls):
-        ed_ground_truth = TSVFile(
-            os.path.join("data_ground_truth", "misc", "eds.tsv")
-        ).read()
-        return ed_ground_truth
 
     @classmethod
     def build_pds(cls):

@@ -16,11 +16,15 @@ class BuildEnts:
     DIR_DATA_ENTS = os.path.join(DIR_DATA, "ents")
 
     @classmethod
-    def build_parent(cls, parent_label, expand_gnd=None, extra_fields=None):
+    def build_parent(
+        cls,
+        parent_label,
+        child_to_parent_type_to_parents,
+        parent_parent_types,
+        extra_fields,
+    ):
 
         denormalized_gnds = BuildGNDEnt.read_denormalized_gnds()
-        if expand_gnd:
-            denormalized_gnds = [expand_gnd(gnd) for gnd in denormalized_gnds]
 
         id_key = f"{parent_label}_id"
         name_key = f"{parent_label}_name"
@@ -59,6 +63,23 @@ class BuildEnts:
                 for k in extra_fields:
                     parent_d[k] = gnds_for_parent[0][k]
 
+            # parent fields
+            parent_parent_type_to_parents = (
+                child_to_parent_type_to_parents.get(parent_id, {})
+            )
+            for parent_parent_type in parent_parent_types:
+                parent_parent_id_key = f"{parent_parent_type}_id"
+                parent_parents = parent_parent_type_to_parents.get(
+                    parent_parent_type, []
+                )
+                assert len(parent_parents) <= 1, (
+                    f"{parent_label} {parent_id} has multiple"
+                    + f" {parent_parent_type} parents: {parent_parents}"
+                )
+                parent_d[parent_parent_id_key] = (
+                    parent_parents[0] if len(parent_parents) == 1 else None
+                )
+
             parents.append(parent_d)
 
         parents.sort(key=lambda d: d["id"])
@@ -69,16 +90,31 @@ class BuildEnts:
 
     @classmethod
     def build_parents(cls):
-        for parent_label, extra_fields in [
-            (
-                "dsd",
-                ["country_id", "province_id", "district_id", "ed_id"],
-            ),
-            ("district", None),
-            ("province", None),
-            ("country", None),
+        child_to_parent_type_to_parents = (
+            BuildGNDEnt.get_child_to_parent_type_to_parents()
+        )
+        for (
+            parent_label,
+            parent_parent_types,
+            extra_fields,
+        ) in [
+            # admin regions
+            ("country", [], []),
+            ("province", [], []),
+            ("district", ["province", "ed", "pd"], []),
+            ("dsd", ["province", "district", "ed", "pd", "lg"], []),
+            # election regions
+            ("ed", ["province", "district"], []),
+            ("pd", ["province", "district", "dsd", "ed", "lg"], ["pd_code"]),
+            # local authority
+            ("lg", ["province", "district", "dsd", "ed", "pd"], ["lg_code"]),
         ]:
-            cls.build_parent(parent_label, extra_fields=extra_fields)
+            cls.build_parent(
+                parent_label,
+                child_to_parent_type_to_parents,
+                parent_parent_types,
+                extra_fields,
+            )
 
     @classmethod
     def build_all(cls):
