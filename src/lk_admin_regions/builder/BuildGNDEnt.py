@@ -4,9 +4,8 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
 
 log = Log("BuildGNDEnt")
 
