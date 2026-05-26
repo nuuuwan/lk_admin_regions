@@ -23,9 +23,9 @@
   {
     "id": "LK-22",
     "name": "Matale",
-    "area_sqkm": 1954.49,
-    "center_lat": 7.671086,
-    "center_lng": 80.727823
+    "area_sqkm": 2058.75,
+    "center_lat": 7.667651,
+    "center_lng": 80.730702
   },
   {
     "id": "LK-23",
@@ -58,9 +58,9 @@
   {
     "id": "LK-41-pre1984",
     "name": "Jaffna",
-    "area_sqkm": 2409.6,
-    "center_lat": 9.542014657026064,
-    "center_lng": 80.22188188027474
+    "area_sqkm": 2410.5299999999997,
+    "center_lat": 9.542044696178849,
+    "center_lng": 80.22189536820534
   },
   {
     "id": "LK-42",
@@ -86,9 +86,9 @@
   {
     "id": "LK-51-pre1961",
     "name": "Batticaloa",
-    "area_sqkm": 6944.43,
-    "center_lat": 7.4334212586317365,
-    "center_lng": 81.52692884348032
+    "area_sqkm": 6955.16,
+    "center_lat": 7.433752474315472,
+    "center_lng": 81.52713416716222
   },
   {
     "id": "LK-53",
