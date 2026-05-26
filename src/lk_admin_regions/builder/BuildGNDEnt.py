@@ -186,6 +186,7 @@ class BuildGNDEnt:
             lg_code=d["dcs_lg_code"],
             lg_level=d["dcs_lg_level"],
             # geo
+            hum_adm0_pcode=d["hum_adm0_pcode"],
             hum_adm1_pcode=d["hum_adm1_pcode"],
             hum_adm2_pcode=d["hum_adm2_pcode"],
             hum_adm3_pcode=d["hum_adm3_pcode"],

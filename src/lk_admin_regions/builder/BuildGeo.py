@@ -256,6 +256,7 @@ class BuildGeo:
         original_geojson_path,
     ):
 
+        cls.build_image(ent_type_name, "original", original_geojson_path)
         cls.build_raw_json(ent_type_name, original_geojson_path)
 
         topojson_file = cls.build_topojson(
@@ -360,7 +361,6 @@ class BuildGeo:
         log.debug("-" * 64)
 
         original_geojson_path = cls.copy_original(ent_type_name, level)
-        cls.build_image(ent_type_name, "original", original_geojson_path)
         cls.build_raw_json_geojson_and_topojson(
             ent_type_name,
             original_geojson_path,

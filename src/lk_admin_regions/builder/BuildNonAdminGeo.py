@@ -82,7 +82,12 @@ class BuildNonAdminGeo:
 
     @classmethod
     def build_all(cls):
-        for parent_type, child_level in [["ed", 2], ["pd", 4], ["lg", 4]]:
+        for parent_type, child_level in [
+            ["country", 0],
+            ["ed", 2],
+            ["pd", 4],
+            ["lg", 4],
+        ]:
             original_geojson_path = cls.build_parent_original(
                 parent_type,
                 child_level,
@@ -92,3 +97,4 @@ class BuildNonAdminGeo:
                 original_geojson_path,
             )
             BuildGeo.cleanup_big_files()
+            break
