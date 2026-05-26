@@ -6,8 +6,6 @@ from utils import Log
 from lk_admin_regions.builder.BuildEnts import BuildEnts
 from lk_admin_regions.builder.BuildGeo import BuildGeo
 from lk_admin_regions.builder.BuildGNDEnt import BuildGNDEnt
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
 
 log = Log("BuildNonAdminGeo")
 
@@ -18,24 +16,20 @@ class BuildNonAdminGeo:
     def build_parent_original(
         cls,
         parent_type,
-        gnd_to_parent,
-        parent_code_field,
     ):
-        hum_pcode_key = f"hum_adm4_pcode"
-        gnd_geom_key = "adm4_pcode"
-
-        gnds = CombineDCSAndHumData.get_data_list()
+        gnds = BuildGNDEnt.read_denormalized_gnds()
 
         # gnd_pcode -> parent_code, for mapping onto the geometries
+        parent_id_key = f"{parent_type}_id"
         gnd_to_parent_code = {
-            gnd[hum_pcode_key]: gnd_to_parent(gnd) for gnd in gnds
+            gnd["hum_adm4_pcode"]: gnd[parent_id_key] for gnd in gnds
         }
 
         # Aggregate parent properties from constituent GND rows
         # (area summed, centroid area-weighted — matches
         # BuildEnts.build_parents)
         parents = BuildEnts.read(parent_type)
-        parent_idx = {parent[parent_code_field]: parent for parent in parents}
+        parent_idx = {parent["id"]: parent for parent in parents}
 
         gnd_geoms = gpd.read_file(
             os.path.join(
@@ -46,30 +40,28 @@ class BuildNonAdminGeo:
             )
         )
 
-        gnd_geoms[parent_code_field] = gnd_geoms[gnd_geom_key].map(
+        gnd_geoms[parent_id_key] = gnd_geoms["adm4_pcode"].map(
             gnd_to_parent_code
         )
 
-        n_missing = gnd_geoms[parent_code_field].isna().sum()
+        n_missing = gnd_geoms[parent_id_key].isna().sum()
         if n_missing:
             log.warning(
-                f"⚠️ {n_missing} GNDs have no {parent_code_field}; "
+                f"⚠️ {n_missing} GNDs have no {parent_id_key}; "
                 "they will be excluded"
             )
 
         # Dissolve GND polygons into parents
-        parents_geo = gnd_geoms.dissolve(by=parent_code_field)
+        parents_geo = gnd_geoms.dissolve(by=parent_id_key)
         parents_geo = parents_geo.buffer(
             0
         )  # clean any slivers from the union
         parents_geo = gpd.GeoDataFrame(
             geometry=parents_geo
-        ).reset_index()  # parent_code_field + geometry
+        ).reset_index()  # parent_id_key + geometry
 
         # Replace properties with custom fields, aligned to dissolve order
-        prop_rows = [
-            parent_idx[code] for code in parents_geo[parent_code_field]
-        ]
+        prop_rows = [parent_idx[code] for code in parents_geo[parent_id_key]]
         prop_df = gpd.pd.DataFrame(prop_rows)
         parents_geo = gpd.GeoDataFrame(
             prop_df, geometry=parents_geo.geometry.values, crs=parents_geo.crs
@@ -89,18 +81,9 @@ class BuildNonAdminGeo:
 
     @classmethod
     def build_all(cls):
-        district_to_ed = BuildGNDEnt.get_district_to_ed()
-        for parent_type, gnd_to_parent, parent_code_field in [
-            ("pd", lambda gnd: gnd["dcs_pd_code"], "pd_code"),
-            (
-                "ed",
-                lambda gnd: district_to_ed[gnd["dcs_district_id"]],
-                "id",
-            ),
-            ("lg", lambda gnd: gnd["dcs_lg_id"], "id"),
-        ]:
+        for parent_type in ["ed", "pd", "lg"]:
             original_geojson_path = cls.build_parent_original(
-                parent_type, gnd_to_parent, parent_code_field
+                parent_type,
             )
             BuildGeo.build_raw_json_geojson_and_topojson(
                 parent_type,
