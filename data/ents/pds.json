@@ -5,7 +5,12 @@
     "area_sqkm": 7.61,
     "center_lat": 6.961523,
     "center_lng": 79.869827,
-    "pd_code": "001"
+    "pd_code": "001",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1103",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-011"
   },
   {
     "id": "EC-01B",
@@ -13,7 +18,12 @@
     "area_sqkm": 19.92,
     "center_lat": 6.933079,
     "center_lng": 79.853386,
-    "pd_code": "002"
+    "pd_code": "002",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": null,
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-011"
   },
   {
     "id": "EC-01C",
@@ -21,7 +31,12 @@
     "area_sqkm": 3.97,
     "center_lat": 6.924041,
     "center_lng": 79.877892,
-    "pd_code": "003"
+    "pd_code": "003",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1127",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-011"
   },
   {
     "id": "EC-01D",
@@ -29,7 +44,12 @@
     "area_sqkm": 8.49,
     "center_lat": 6.891221,
     "center_lng": 79.87536,
-    "pd_code": "004"
+    "pd_code": "004",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1127",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-011"
   },
   {
     "id": "EC-01E",
@@ -37,7 +57,12 @@
     "area_sqkm": 6.88,
     "center_lat": 6.894541,
     "center_lng": 79.857675,
-    "pd_code": "005"
+    "pd_code": "005",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": null,
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-011"
   },
   {
     "id": "EC-01F",
@@ -45,7 +70,12 @@
     "area_sqkm": 8.46,
     "center_lat": 6.858462,
     "center_lng": 79.875429,
-    "pd_code": "006"
+    "pd_code": "006",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1130",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-012"
   },
   {
     "id": "EC-01G",
@@ -53,7 +83,12 @@
     "area_sqkm": 12.86,
     "center_lat": 6.827061,
     "center_lng": 79.877974,
-    "pd_code": "007"
+    "pd_code": "007",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1131",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-012"
   },
   {
     "id": "EC-01H",
@@ -61,7 +96,12 @@
     "area_sqkm": 25.93,
     "center_lat": 6.93437,
     "center_lng": 79.915175,
-    "pd_code": "021"
+    "pd_code": "021",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1106",
+    "ed_id": "EC-01",
+    "lg_id": null
   },
   {
     "id": "EC-01I",
@@ -69,7 +109,12 @@
     "area_sqkm": 16.32,
     "center_lat": 6.891034,
     "center_lng": 79.898428,
-    "pd_code": "022"
+    "pd_code": "022",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1124",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-014"
   },
   {
     "id": "EC-01J",
@@ -77,7 +122,12 @@
     "area_sqkm": 86.74,
     "center_lat": 6.903511,
     "center_lng": 79.977309,
-    "pd_code": "023"
+    "pd_code": "023",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1109",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-015"
   },
   {
     "id": "EC-01K",
@@ -85,7 +135,12 @@
     "area_sqkm": 252.17,
     "center_lat": 6.885096,
     "center_lng": 80.136573,
-    "pd_code": "024"
+    "pd_code": "024",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": null,
+    "ed_id": "EC-01",
+    "lg_id": null
   },
   {
     "id": "EC-01L",
@@ -93,7 +148,12 @@
     "area_sqkm": 120.32,
     "center_lat": 6.833595,
     "center_lng": 80.015498,
-    "pd_code": "025"
+    "pd_code": "025",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1112",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-031"
   },
   {
     "id": "EC-01M",
@@ -101,7 +161,12 @@
     "area_sqkm": 37.8,
     "center_lat": 6.856502,
     "center_lng": 79.941942,
-    "pd_code": "026"
+    "pd_code": "026",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1121",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-023"
   },
   {
     "id": "EC-01N",
@@ -109,7 +174,12 @@
     "area_sqkm": 61.41,
     "center_lat": 6.802645,
     "center_lng": 79.928334,
-    "pd_code": "027"
+    "pd_code": "027",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1136",
+    "ed_id": "EC-01",
+    "lg_id": null
   },
   {
     "id": "EC-01O",
@@ -117,7 +187,12 @@
     "area_sqkm": 19.3,
     "center_lat": 6.782566,
     "center_lng": 79.890891,
-    "pd_code": "028"
+    "pd_code": "028",
+    "province_id": "LK-1",
+    "district_id": "LK-11",
+    "dsd_id": "LK-1133",
+    "ed_id": "EC-01",
+    "lg_id": "LK-11-013"
   },
   {
     "id": "EC-02A",
@@ -125,7 +200,12 @@
     "area_sqkm": 57.17,
     "center_lat": 7.035208,
     "center_lng": 79.88109,
-    "pd_code": "008"
+    "pd_code": "008",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1218",
+    "ed_id": "EC-02",
+    "lg_id": null
   },
   {
     "id": "EC-02B",
@@ -133,7 +213,12 @@
     "area_sqkm": 29.19,
     "center_lat": 7.212174,
     "center_lng": 79.844401,
-    "pd_code": "009"
+    "pd_code": "009",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1203",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-011"
   },
   {
     "id": "EC-02C",
@@ -141,7 +226,12 @@
     "area_sqkm": 107.8,
     "center_lat": 7.193574,
     "center_lng": 79.889949,
-    "pd_code": "010"
+    "pd_code": "010",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1206",
+    "ed_id": "EC-02",
+    "lg_id": null
   },
   {
     "id": "EC-02D",
@@ -149,7 +239,12 @@
     "area_sqkm": 203.16,
     "center_lat": 7.253922,
     "center_lng": 80.006882,
-    "pd_code": "011"
+    "pd_code": "011",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1209",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-033"
   },
   {
     "id": "EC-02E",
@@ -157,7 +252,12 @@
     "area_sqkm": 188.81,
     "center_lat": 7.225181,
     "center_lng": 80.12288,
-    "pd_code": "012"
+    "pd_code": "012",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1212",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-041"
   },
   {
     "id": "EC-02F",
@@ -165,7 +265,12 @@
     "area_sqkm": 132.12,
     "center_lat": 7.155035,
     "center_lng": 79.979044,
-    "pd_code": "013"
+    "pd_code": "013",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1215",
+    "ed_id": "EC-02",
+    "lg_id": null
   },
   {
     "id": "EC-02G",
@@ -173,7 +278,12 @@
     "area_sqkm": 154.83,
     "center_lat": 7.114342,
     "center_lng": 80.109868,
-    "pd_code": "014"
+    "pd_code": "014",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1227",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-031"
   },
   {
     "id": "EC-02H",
@@ -181,7 +291,12 @@
     "area_sqkm": 91.82,
     "center_lat": 7.07124,
     "center_lng": 79.994244,
-    "pd_code": "015"
+    "pd_code": "015",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1224",
+    "ed_id": "EC-02",
+    "lg_id": null
   },
   {
     "id": "EC-02I",
@@ -189,7 +304,12 @@
     "area_sqkm": 62.45,
     "center_lat": 7.072037,
     "center_lng": 79.90888,
-    "pd_code": "016"
+    "pd_code": "016",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1221",
+    "ed_id": "EC-02",
+    "lg_id": null
   },
   {
     "id": "EC-02J",
@@ -197,7 +317,12 @@
     "area_sqkm": 95.75,
     "center_lat": 7.029309,
     "center_lng": 80.01439,
-    "pd_code": "017"
+    "pd_code": "017",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1233",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-039"
   },
   {
     "id": "EC-02K",
@@ -205,7 +330,12 @@
     "area_sqkm": 179.18,
     "center_lat": 6.990491,
     "center_lng": 80.098929,
-    "pd_code": "018"
+    "pd_code": "018",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1230",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-034"
   },
   {
     "id": "EC-02L",
@@ -213,7 +343,12 @@
     "area_sqkm": 61.01,
     "center_lat": 6.968689,
     "center_lng": 79.978247,
-    "pd_code": "019"
+    "pd_code": "019",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1239",
+    "ed_id": "EC-02",
+    "lg_id": "LK-12-032"
   },
   {
     "id": "EC-02M",
@@ -221,7 +356,12 @@
     "area_sqkm": 21.94,
     "center_lat": 6.970356,
     "center_lng": 79.909863,
-    "pd_code": "020"
+    "pd_code": "020",
+    "province_id": "LK-1",
+    "district_id": "LK-12",
+    "dsd_id": "LK-1236",
+    "ed_id": "EC-02",
+    "lg_id": null
   },
   {
     "id": "EC-03A",
@@ -229,7 +369,12 @@
     "area_sqkm": 36.21,
     "center_lat": 6.711283,
     "center_lng": 79.919764,
-    "pd_code": "029"
+    "pd_code": "029",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": "LK-1303",
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03B",
@@ -237,7 +382,12 @@
     "area_sqkm": 145.69,
     "center_lat": 6.686801,
     "center_lng": 80.003462,
-    "pd_code": "030"
+    "pd_code": "030",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": null,
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03C",
@@ -245,7 +395,12 @@
     "area_sqkm": 206.05,
     "center_lat": 6.759232,
     "center_lng": 80.099888,
-    "pd_code": "031"
+    "pd_code": "031",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": null,
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03D",
@@ -253,7 +408,12 @@
     "area_sqkm": 305.25,
     "center_lat": 6.639649,
     "center_lng": 80.156483,
-    "pd_code": "032"
+    "pd_code": "032",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": null,
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03E",
@@ -261,7 +421,12 @@
     "area_sqkm": 248.73,
     "center_lat": 6.524862,
     "center_lng": 80.070606,
-    "pd_code": "033"
+    "pd_code": "033",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": null,
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03F",
@@ -269,7 +434,12 @@
     "area_sqkm": 75.57,
     "center_lat": 6.620205,
     "center_lng": 79.971212,
-    "pd_code": "034"
+    "pd_code": "034",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": "LK-1321",
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03G",
@@ -277,7 +447,12 @@
     "area_sqkm": 73.52,
     "center_lat": 6.488797,
     "center_lng": 80.004738,
-    "pd_code": "035"
+    "pd_code": "035",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": "LK-1324",
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-03H",
@@ -285,7 +460,12 @@
     "area_sqkm": 555.98,
     "center_lat": 6.467213,
     "center_lng": 80.231502,
-    "pd_code": "036"
+    "pd_code": "036",
+    "province_id": "LK-1",
+    "district_id": "LK-13",
+    "dsd_id": null,
+    "ed_id": "EC-03",
+    "lg_id": null
   },
   {
     "id": "EC-04A",
@@ -293,7 +473,12 @@
     "area_sqkm": 114.91,
     "center_lat": 7.346769,
     "center_lng": 80.495134,
-    "pd_code": "041"
+    "pd_code": "041",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": "LK-21-043"
   },
   {
     "id": "EC-04B",
@@ -301,7 +486,12 @@
     "area_sqkm": 138.01,
     "center_lat": 7.37261,
     "center_lng": 80.585143,
-    "pd_code": "042"
+    "pd_code": "042",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04C",
@@ -309,7 +499,12 @@
     "area_sqkm": 141.33,
     "center_lat": 7.388849,
     "center_lng": 80.71461,
-    "pd_code": "043"
+    "pd_code": "043",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04D",
@@ -317,7 +512,12 @@
     "area_sqkm": 526.86,
     "center_lat": 7.338155,
     "center_lng": 80.90984,
-    "pd_code": "044"
+    "pd_code": "044",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04E",
@@ -325,7 +525,12 @@
     "area_sqkm": 188.81,
     "center_lat": 7.302731,
     "center_lng": 80.800121,
-    "pd_code": "045"
+    "pd_code": "045",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": "LK-2124",
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04F",
@@ -333,7 +538,12 @@
     "area_sqkm": 81.19,
     "center_lat": 7.305382,
     "center_lng": 80.708789,
-    "pd_code": "046"
+    "pd_code": "046",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": "LK-2127",
+    "ed_id": "EC-04",
+    "lg_id": "LK-21-035"
   },
   {
     "id": "EC-04G",
@@ -341,7 +551,12 @@
     "area_sqkm": 133.33,
     "center_lat": 7.212482,
     "center_lng": 80.703446,
-    "pd_code": "047"
+    "pd_code": "047",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": "LK-21-041"
   },
   {
     "id": "EC-04H",
@@ -349,7 +564,12 @@
     "area_sqkm": 47.76,
     "center_lat": 7.269732,
     "center_lng": 80.64385,
-    "pd_code": "048"
+    "pd_code": "048",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04I",
@@ -357,7 +577,12 @@
     "area_sqkm": 12.15,
     "center_lat": 7.288183,
     "center_lng": 80.617395,
-    "pd_code": "049"
+    "pd_code": "049",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": "LK-2130",
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04J",
@@ -365,7 +590,12 @@
     "area_sqkm": 69.11,
     "center_lat": 7.282819,
     "center_lng": 80.538023,
-    "pd_code": "050"
+    "pd_code": "050",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": "LK-2136",
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04K",
@@ -373,7 +603,12 @@
     "area_sqkm": 68.84,
     "center_lat": 7.222683,
     "center_lng": 80.559451,
-    "pd_code": "051"
+    "pd_code": "051",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": "LK-2139",
+    "ed_id": "EC-04",
+    "lg_id": "LK-21-046"
   },
   {
     "id": "EC-04L",
@@ -381,7 +616,12 @@
     "area_sqkm": 166.96,
     "center_lat": 7.152947,
     "center_lng": 80.631511,
-    "pd_code": "052"
+    "pd_code": "052",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-04M",
@@ -389,7 +629,12 @@
     "area_sqkm": 238.42,
     "center_lat": 7.063484,
     "center_lng": 80.530844,
-    "pd_code": "053"
+    "pd_code": "053",
+    "province_id": "LK-2",
+    "district_id": "LK-21",
+    "dsd_id": null,
+    "ed_id": "EC-04",
+    "lg_id": null
   },
   {
     "id": "EC-05A",
@@ -397,7 +642,12 @@
     "area_sqkm": 733.17,
     "center_lat": 7.823793,
     "center_lng": 80.664966,
-    "pd_code": "037"
+    "pd_code": "037",
+    "province_id": "LK-2",
+    "district_id": "LK-22",
+    "dsd_id": null,
+    "ed_id": "EC-05",
+    "lg_id": null
   },
   {
     "id": "EC-05B",
@@ -405,7 +655,12 @@
     "area_sqkm": 1004.04,
     "center_lat": 7.608164,
     "center_lng": 80.807299,
-    "pd_code": "038"
+    "pd_code": "038",
+    "province_id": "LK-2",
+    "district_id": "LK-22",
+    "dsd_id": null,
+    "ed_id": "EC-05",
+    "lg_id": null
   },
   {
     "id": "EC-05C",
@@ -413,7 +668,12 @@
     "area_sqkm": 139.22,
     "center_lat": 7.54403,
     "center_lng": 80.609853,
-    "pd_code": "039"
+    "pd_code": "039",
+    "province_id": "LK-2",
+    "district_id": "LK-22",
+    "dsd_id": null,
+    "ed_id": "EC-05",
+    "lg_id": null
   },
   {
     "id": "EC-05D",
@@ -421,7 +681,12 @@
     "area_sqkm": 182.32,
     "center_lat": 7.461745,
     "center_lng": 80.665508,
-    "pd_code": "040"
+    "pd_code": "040",
+    "province_id": "LK-2",
+    "district_id": "LK-22",
+    "dsd_id": null,
+    "ed_id": "EC-05",
+    "lg_id": null
   },
   {
     "id": "EC-06A",
@@ -429,7 +694,12 @@
     "area_sqkm": 969.42,
     "center_lat": 6.88602,
     "center_lng": 80.650351,
-    "pd_code": "054"
+    "pd_code": "054",
+    "province_id": "LK-2",
+    "district_id": "LK-23",
+    "dsd_id": null,
+    "ed_id": "EC-06",
+    "lg_id": null
   },
   {
     "id": "EC-06B",
@@ -437,7 +707,12 @@
     "area_sqkm": 226.79,
     "center_lat": 7.038477,
     "center_lng": 80.656096,
-    "pd_code": "055"
+    "pd_code": "055",
+    "province_id": "LK-2",
+    "district_id": "LK-23",
+    "dsd_id": null,
+    "ed_id": "EC-06",
+    "lg_id": "LK-23-033"
   },
   {
     "id": "EC-06C",
@@ -445,7 +720,12 @@
     "area_sqkm": 225.72,
     "center_lat": 7.123265,
     "center_lng": 80.776507,
-    "pd_code": "056"
+    "pd_code": "056",
+    "province_id": "LK-2",
+    "district_id": "LK-23",
+    "dsd_id": null,
+    "ed_id": "EC-06",
+    "lg_id": "LK-23-032"
   },
   {
     "id": "EC-06D",
@@ -453,7 +733,12 @@
     "area_sqkm": 322.88,
     "center_lat": 7.0925,
     "center_lng": 80.886866,
-    "pd_code": "057"
+    "pd_code": "057",
+    "province_id": "LK-2",
+    "district_id": "LK-23",
+    "dsd_id": null,
+    "ed_id": "EC-06",
+    "lg_id": "LK-23-035"
   },
   {
     "id": "EC-07A",
@@ -461,7 +746,12 @@
     "area_sqkm": 54.26,
     "center_lat": 6.314523,
     "center_lng": 80.050593,
-    "pd_code": "058"
+    "pd_code": "058",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": "LK-3106",
+    "ed_id": "EC-07",
+    "lg_id": "LK-31-034"
   },
   {
     "id": "EC-07B",
@@ -469,7 +759,12 @@
     "area_sqkm": 100.58,
     "center_lat": 6.186501,
     "center_lng": 80.129944,
-    "pd_code": "059"
+    "pd_code": "059",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07C",
@@ -477,7 +772,12 @@
     "area_sqkm": 145.02,
     "center_lat": 6.264415,
     "center_lng": 80.131811,
-    "pd_code": "060"
+    "pd_code": "060",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07D",
@@ -485,7 +785,12 @@
     "area_sqkm": 221.61,
     "center_lat": 6.321173,
     "center_lng": 80.144026,
-    "pd_code": "061"
+    "pd_code": "061",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07E",
@@ -493,7 +798,12 @@
     "area_sqkm": 518.84,
     "center_lat": 6.30028,
     "center_lng": 80.337823,
-    "pd_code": "062"
+    "pd_code": "062",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07F",
@@ -501,7 +811,12 @@
     "area_sqkm": 280.73,
     "center_lat": 6.141241,
     "center_lng": 80.316191,
-    "pd_code": "063"
+    "pd_code": "063",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07G",
@@ -509,7 +824,12 @@
     "area_sqkm": 63.17,
     "center_lat": 6.139834,
     "center_lng": 80.122583,
-    "pd_code": "064"
+    "pd_code": "064",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07H",
@@ -517,7 +837,12 @@
     "area_sqkm": 22.3,
     "center_lat": 6.053635,
     "center_lng": 80.207916,
-    "pd_code": "065"
+    "pd_code": "065",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": "LK-3139",
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07I",
@@ -525,7 +850,12 @@
     "area_sqkm": 99.81,
     "center_lat": 6.066682,
     "center_lng": 80.265053,
-    "pd_code": "066"
+    "pd_code": "066",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-07J",
@@ -533,7 +863,12 @@
     "area_sqkm": 107.17,
     "center_lat": 6.018598,
     "center_lng": 80.341261,
-    "pd_code": "067"
+    "pd_code": "067",
+    "province_id": "LK-3",
+    "district_id": "LK-31",
+    "dsd_id": null,
+    "ed_id": "EC-07",
+    "lg_id": null
   },
   {
     "id": "EC-08A",
@@ -541,7 +876,12 @@
     "area_sqkm": 359.51,
     "center_lat": 6.291258,
     "center_lng": 80.524222,
-    "pd_code": "068"
+    "pd_code": "068",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": null,
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-08B",
@@ -549,7 +889,12 @@
     "area_sqkm": 268.86,
     "center_lat": 6.185573,
     "center_lng": 80.60088,
-    "pd_code": "069"
+    "pd_code": "069",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": null,
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-08C",
@@ -557,7 +902,12 @@
     "area_sqkm": 255.97,
     "center_lat": 6.111825,
     "center_lng": 80.467324,
-    "pd_code": "070"
+    "pd_code": "070",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": null,
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-08D",
@@ -565,7 +915,12 @@
     "area_sqkm": 164.13,
     "center_lat": 6.043756,
     "center_lng": 80.587237,
-    "pd_code": "071"
+    "pd_code": "071",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": null,
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-08E",
@@ -573,7 +928,12 @@
     "area_sqkm": 89.27,
     "center_lat": 5.981819,
     "center_lng": 80.648359,
-    "pd_code": "072"
+    "pd_code": "072",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": null,
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-08F",
@@ -581,7 +941,12 @@
     "area_sqkm": 56.63,
     "center_lat": 5.962773,
     "center_lng": 80.563249,
-    "pd_code": "073"
+    "pd_code": "073",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": "LK-3242",
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-08G",
@@ -589,7 +954,12 @@
     "area_sqkm": 112.0,
     "center_lat": 5.997975,
     "center_lng": 80.441463,
-    "pd_code": "074"
+    "pd_code": "074",
+    "province_id": "LK-3",
+    "district_id": "LK-32",
+    "dsd_id": null,
+    "ed_id": "EC-08",
+    "lg_id": null
   },
   {
     "id": "EC-09A",
@@ -597,7 +967,12 @@
     "area_sqkm": 311.43,
     "center_lat": 6.215542,
     "center_lng": 80.721261,
-    "pd_code": "075"
+    "pd_code": "075",
+    "province_id": "LK-3",
+    "district_id": "LK-33",
+    "dsd_id": null,
+    "ed_id": "EC-09",
+    "lg_id": null
   },
   {
     "id": "EC-09B",
@@ -605,7 +980,12 @@
     "area_sqkm": 200.44,
     "center_lat": 6.074852,
     "center_lng": 80.729877,
-    "pd_code": "076"
+    "pd_code": "076",
+    "province_id": "LK-3",
+    "district_id": "LK-33",
+    "dsd_id": null,
+    "ed_id": "EC-09",
+    "lg_id": null
   },
   {
     "id": "EC-09C",
@@ -613,7 +993,12 @@
     "area_sqkm": 434.49,
     "center_lat": 6.146275,
     "center_lng": 80.883425,
-    "pd_code": "077"
+    "pd_code": "077",
+    "province_id": "LK-3",
+    "district_id": "LK-33",
+    "dsd_id": null,
+    "ed_id": "EC-09",
+    "lg_id": null
   },
   {
     "id": "EC-09D",
@@ -621,7 +1006,12 @@
     "area_sqkm": 1678.71,
     "center_lat": 6.310469,
     "center_lng": 81.256877,
-    "pd_code": "078"
+    "pd_code": "078",
+    "province_id": "LK-3",
+    "district_id": "LK-33",
+    "dsd_id": null,
+    "ed_id": "EC-09",
+    "lg_id": null
   },
   {
     "id": "EC-10A",
@@ -629,7 +1019,12 @@
     "area_sqkm": 171.65,
     "center_lat": 9.601405,
     "center_lng": 79.82698,
-    "pd_code": "079"
+    "pd_code": "079",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10B",
@@ -637,7 +1032,12 @@
     "area_sqkm": 80.38,
     "center_lat": 9.742918,
     "center_lng": 79.926928,
-    "pd_code": "080"
+    "pd_code": "080",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10C",
@@ -645,7 +1045,12 @@
     "area_sqkm": 76.22,
     "center_lat": 9.789365,
     "center_lng": 80.029465,
-    "pd_code": "081"
+    "pd_code": "081",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10D",
@@ -653,7 +1058,12 @@
     "area_sqkm": 53.34,
     "center_lat": 9.732095,
     "center_lng": 80.008345,
-    "pd_code": "082"
+    "pd_code": "082",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10E",
@@ -661,7 +1071,12 @@
     "area_sqkm": 115.12,
     "center_lat": 9.738079,
     "center_lng": 80.095497,
-    "pd_code": "083"
+    "pd_code": "083",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10F",
@@ -669,7 +1084,12 @@
     "area_sqkm": 92.15,
     "center_lat": 9.778808,
     "center_lng": 80.179825,
-    "pd_code": "084"
+    "pd_code": "084",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10G",
@@ -677,7 +1097,12 @@
     "area_sqkm": 222.67,
     "center_lat": 9.641435,
     "center_lng": 80.383806,
-    "pd_code": "085"
+    "pd_code": "085",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10H",
@@ -685,7 +1110,12 @@
     "area_sqkm": 236.07,
     "center_lat": 9.677007,
     "center_lng": 80.189642,
-    "pd_code": "086"
+    "pd_code": "086",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": "LK-4130",
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10I",
@@ -693,7 +1123,12 @@
     "area_sqkm": 32.67,
     "center_lat": 9.667633,
     "center_lng": 80.049097,
-    "pd_code": "087"
+    "pd_code": "087",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": "LK-4133",
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-10J",
@@ -701,7 +1136,12 @@
     "area_sqkm": 10.98,
     "center_lat": 9.663344,
     "center_lng": 80.021463,
-    "pd_code": "088"
+    "pd_code": "088",
+    "province_id": "LK-4",
+    "district_id": "LK-41",
+    "dsd_id": "LK-4136",
+    "ed_id": "EC-10",
+    "lg_id": "LK-41-011"
   },
   {
     "id": "EC-10K",
@@ -709,7 +1149,12 @@
     "area_sqkm": 1319.29,
     "center_lat": 9.421424,
     "center_lng": 80.309356,
-    "pd_code": "089"
+    "pd_code": "089",
+    "province_id": "LK-4",
+    "district_id": "LK-45",
+    "dsd_id": null,
+    "ed_id": "EC-10",
+    "lg_id": null
   },
   {
     "id": "EC-11A",
@@ -717,7 +1162,12 @@
     "area_sqkm": 2010.83,
     "center_lat": 8.878476,
     "center_lng": 80.091433,
-    "pd_code": "090"
+    "pd_code": "090",
+    "province_id": "LK-4",
+    "district_id": "LK-42",
+    "dsd_id": null,
+    "ed_id": "EC-11",
+    "lg_id": null
   },
   {
     "id": "EC-11B",
@@ -725,7 +1175,12 @@
     "area_sqkm": 2020.68,
     "center_lat": 8.858268,
     "center_lng": 80.48268,
-    "pd_code": "092"
+    "pd_code": "092",
+    "province_id": "LK-4",
+    "district_id": null,
+    "dsd_id": null,
+    "ed_id": "EC-11",
+    "lg_id": null
   },
   {
     "id": "EC-11C",
@@ -733,7 +1188,12 @@
     "area_sqkm": 2595.38,
     "center_lat": 9.176628,
     "center_lng": 80.546235,
-    "pd_code": "091"
+    "pd_code": "091",
+    "province_id": "LK-4",
+    "district_id": "LK-44",
+    "dsd_id": null,
+    "ed_id": "EC-11",
+    "lg_id": null
   },
   {
     "id": "EC-12A",
@@ -741,7 +1201,12 @@
     "area_sqkm": 1454.14,
     "center_lat": 7.923848,
     "center_lng": 81.385122,
-    "pd_code": "096"
+    "pd_code": "096",
+    "province_id": "LK-5",
+    "district_id": "LK-51",
+    "dsd_id": null,
+    "ed_id": "EC-12",
+    "lg_id": null
   },
   {
     "id": "EC-12B",
@@ -749,7 +1214,12 @@
     "area_sqkm": 678.09,
     "center_lat": 7.656355,
     "center_lng": 81.567618,
-    "pd_code": "097"
+    "pd_code": "097",
+    "province_id": "LK-5",
+    "district_id": "LK-51",
+    "dsd_id": null,
+    "ed_id": "EC-12",
+    "lg_id": null
   },
   {
     "id": "EC-12C",
@@ -757,7 +1227,12 @@
     "area_sqkm": 348.27,
     "center_lat": 7.529994,
     "center_lng": 81.697519,
-    "pd_code": "098"
+    "pd_code": "098",
+    "province_id": "LK-5",
+    "district_id": "LK-51",
+    "dsd_id": null,
+    "ed_id": "EC-12",
+    "lg_id": null
   },
   {
     "id": "EC-13A",
@@ -765,7 +1240,12 @@
     "area_sqkm": 2220.18,
     "center_lat": 7.474069,
     "center_lng": 81.37529,
-    "pd_code": "099"
+    "pd_code": "099",
+    "province_id": "LK-5",
+    "district_id": "LK-52",
+    "dsd_id": null,
+    "ed_id": "EC-13",
+    "lg_id": null
   },
   {
     "id": "EC-13B",
@@ -773,7 +1253,12 @@
     "area_sqkm": 306.58,
     "center_lat": 7.314049,
     "center_lng": 81.76095,
-    "pd_code": "100"
+    "pd_code": "100",
+    "province_id": "LK-5",
+    "district_id": "LK-52",
+    "dsd_id": null,
+    "ed_id": "EC-13",
+    "lg_id": null
   },
   {
     "id": "EC-13C",
@@ -781,7 +1266,12 @@
     "area_sqkm": 24.26,
     "center_lat": 7.41718,
     "center_lng": 81.817666,
-    "pd_code": "101"
+    "pd_code": "101",
+    "province_id": "LK-5",
+    "district_id": "LK-52",
+    "dsd_id": null,
+    "ed_id": "EC-13",
+    "lg_id": "LK-52-011"
   },
   {
     "id": "EC-13D",
@@ -789,7 +1279,12 @@
     "area_sqkm": 1923.64,
     "center_lat": 6.940137,
     "center_lng": 81.723689,
-    "pd_code": "102"
+    "pd_code": "102",
+    "province_id": "LK-5",
+    "district_id": "LK-52",
+    "dsd_id": null,
+    "ed_id": "EC-13",
+    "lg_id": null
   },
   {
     "id": "EC-14A",
@@ -797,7 +1292,12 @@
     "area_sqkm": 1663.39,
     "center_lat": 8.512988,
     "center_lng": 81.069459,
-    "pd_code": "093"
+    "pd_code": "093",
+    "province_id": "LK-5",
+    "district_id": "LK-53",
+    "dsd_id": null,
+    "ed_id": "EC-14",
+    "lg_id": null
   },
   {
     "id": "EC-14B",
@@ -805,7 +1305,12 @@
     "area_sqkm": 599.21,
     "center_lat": 8.751237,
     "center_lng": 81.077457,
-    "pd_code": "094"
+    "pd_code": "094",
+    "province_id": "LK-5",
+    "district_id": "LK-53",
+    "dsd_id": null,
+    "ed_id": "EC-14",
+    "lg_id": null
   },
   {
     "id": "EC-14C",
@@ -813,7 +1318,12 @@
     "area_sqkm": 429.5,
     "center_lat": 8.437425,
     "center_lng": 81.196756,
-    "pd_code": "095"
+    "pd_code": "095",
+    "province_id": "LK-5",
+    "district_id": "LK-53",
+    "dsd_id": null,
+    "ed_id": "EC-14",
+    "lg_id": null
   },
   {
     "id": "EC-15A",
@@ -821,7 +1331,12 @@
     "area_sqkm": 785.19,
     "center_lat": 8.007556,
     "center_lng": 80.289476,
-    "pd_code": "108"
+    "pd_code": "108",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15B",
@@ -829,7 +1344,12 @@
     "area_sqkm": 595.73,
     "center_lat": 7.779144,
     "center_lng": 80.103677,
-    "pd_code": "109"
+    "pd_code": "109",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15C",
@@ -837,7 +1357,12 @@
     "area_sqkm": 682.27,
     "center_lat": 7.808026,
     "center_lng": 80.335376,
-    "pd_code": "110"
+    "pd_code": "110",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15D",
@@ -845,7 +1370,12 @@
     "area_sqkm": 367.43,
     "center_lat": 7.633648,
     "center_lng": 80.430185,
-    "pd_code": "111"
+    "pd_code": "111",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": "LK-61-035"
   },
   {
     "id": "EC-15E",
@@ -853,7 +1383,12 @@
     "area_sqkm": 312.53,
     "center_lat": 7.621927,
     "center_lng": 80.244165,
-    "pd_code": "112"
+    "pd_code": "112",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": "LK-61-047"
   },
   {
     "id": "EC-15F",
@@ -861,7 +1396,12 @@
     "area_sqkm": 283.47,
     "center_lat": 7.584134,
     "center_lng": 80.101591,
-    "pd_code": "113"
+    "pd_code": "113",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": "LK-61-042"
   },
   {
     "id": "EC-15G",
@@ -869,7 +1409,12 @@
     "area_sqkm": 313.52,
     "center_lat": 7.55897,
     "center_lng": 79.960229,
-    "pd_code": "114"
+    "pd_code": "114",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15H",
@@ -877,7 +1422,12 @@
     "area_sqkm": 282.22,
     "center_lat": 7.362153,
     "center_lng": 80.030535,
-    "pd_code": "115"
+    "pd_code": "115",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": "LK-6178",
+    "ed_id": "EC-15",
+    "lg_id": "LK-61-043"
   },
   {
     "id": "EC-15I",
@@ -885,7 +1435,12 @@
     "area_sqkm": 279.27,
     "center_lat": 7.471166,
     "center_lng": 80.101295,
-    "pd_code": "116"
+    "pd_code": "116",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15J",
@@ -893,7 +1448,12 @@
     "area_sqkm": 238.79,
     "center_lat": 7.359723,
     "center_lng": 80.206379,
-    "pd_code": "117"
+    "pd_code": "117",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15K",
@@ -901,7 +1461,12 @@
     "area_sqkm": 188.4,
     "center_lat": 7.419139,
     "center_lng": 80.291174,
-    "pd_code": "118"
+    "pd_code": "118",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": "LK-61-044"
   },
   {
     "id": "EC-15L",
@@ -909,7 +1474,12 @@
     "area_sqkm": 164.06,
     "center_lat": 7.530655,
     "center_lng": 80.342098,
-    "pd_code": "119"
+    "pd_code": "119",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15M",
@@ -917,7 +1487,12 @@
     "area_sqkm": 187.69,
     "center_lat": 7.442965,
     "center_lng": 80.422076,
-    "pd_code": "120"
+    "pd_code": "120",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": null,
+    "ed_id": "EC-15",
+    "lg_id": null
   },
   {
     "id": "EC-15N",
@@ -925,7 +1500,12 @@
     "area_sqkm": 225.15,
     "center_lat": 7.517219,
     "center_lng": 80.518459,
-    "pd_code": "121"
+    "pd_code": "121",
+    "province_id": "LK-6",
+    "district_id": "LK-61",
+    "dsd_id": "LK-6163",
+    "ed_id": "EC-15",
+    "lg_id": "LK-61-046"
   },
   {
     "id": "EC-16A",
@@ -933,7 +1513,12 @@
     "area_sqkm": 1001.34,
     "center_lat": 8.188734,
     "center_lng": 79.854112,
-    "pd_code": "103"
+    "pd_code": "103",
+    "province_id": "LK-6",
+    "district_id": "LK-62",
+    "dsd_id": null,
+    "ed_id": "EC-16",
+    "lg_id": null
   },
   {
     "id": "EC-16B",
@@ -941,7 +1526,12 @@
     "area_sqkm": 1519.23,
     "center_lat": 8.023165,
     "center_lng": 79.968522,
-    "pd_code": "104"
+    "pd_code": "104",
+    "province_id": "LK-6",
+    "district_id": "LK-62",
+    "dsd_id": null,
+    "ed_id": "EC-16",
+    "lg_id": null
   },
   {
     "id": "EC-16C",
@@ -949,7 +1539,12 @@
     "area_sqkm": 344.41,
     "center_lat": 7.608214,
     "center_lng": 79.850482,
-    "pd_code": "105"
+    "pd_code": "105",
+    "province_id": "LK-6",
+    "district_id": "LK-62",
+    "dsd_id": null,
+    "ed_id": "EC-16",
+    "lg_id": null
   },
   {
     "id": "EC-16D",
@@ -957,7 +1552,12 @@
     "area_sqkm": 150.97,
     "center_lat": 7.424983,
     "center_lng": 79.862933,
-    "pd_code": "106"
+    "pd_code": "106",
+    "province_id": "LK-6",
+    "district_id": "LK-62",
+    "dsd_id": null,
+    "ed_id": "EC-16",
+    "lg_id": "LK-62-036"
   },
   {
     "id": "EC-16E",
@@ -965,7 +1565,12 @@
     "area_sqkm": 117.92,
     "center_lat": 7.321939,
     "center_lng": 79.887929,
-    "pd_code": "107"
+    "pd_code": "107",
+    "province_id": "LK-6",
+    "district_id": "LK-62",
+    "dsd_id": null,
+    "ed_id": "EC-16",
+    "lg_id": "LK-62-040"
   },
   {
     "id": "EC-17A",
@@ -973,7 +1578,12 @@
     "area_sqkm": 1546.72,
     "center_lat": 8.666773,
     "center_lng": 80.640757,
-    "pd_code": "122"
+    "pd_code": "122",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-17B",
@@ -981,7 +1591,12 @@
     "area_sqkm": 1359.05,
     "center_lat": 8.456616,
     "center_lng": 80.804269,
-    "pd_code": "123"
+    "pd_code": "123",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-17C",
@@ -989,7 +1604,12 @@
     "area_sqkm": 482.45,
     "center_lat": 8.337408,
     "center_lng": 80.506022,
-    "pd_code": "124"
+    "pd_code": "124",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-17D",
@@ -997,7 +1617,12 @@
     "area_sqkm": 1918.61,
     "center_lat": 8.42212,
     "center_lng": 80.197277,
-    "pd_code": "125"
+    "pd_code": "125",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-17E",
@@ -1005,7 +1630,12 @@
     "area_sqkm": 530.38,
     "center_lat": 8.124474,
     "center_lng": 80.351966,
-    "pd_code": "126"
+    "pd_code": "126",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-17F",
@@ -1013,7 +1643,12 @@
     "area_sqkm": 634.81,
     "center_lat": 8.201908,
     "center_lng": 80.54647,
-    "pd_code": "127"
+    "pd_code": "127",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-17G",
@@ -1021,7 +1656,12 @@
     "area_sqkm": 746.26,
     "center_lat": 8.01516,
     "center_lng": 80.621222,
-    "pd_code": "128"
+    "pd_code": "128",
+    "province_id": "LK-7",
+    "district_id": "LK-71",
+    "dsd_id": null,
+    "ed_id": "EC-17",
+    "lg_id": null
   },
   {
     "id": "EC-18A",
@@ -1029,7 +1669,12 @@
     "area_sqkm": 1071.32,
     "center_lat": 8.012129,
     "center_lng": 80.858611,
-    "pd_code": "129"
+    "pd_code": "129",
+    "province_id": "LK-7",
+    "district_id": "LK-72",
+    "dsd_id": null,
+    "ed_id": "EC-18",
+    "lg_id": null
   },
   {
     "id": "EC-18B",
@@ -1037,7 +1682,12 @@
     "area_sqkm": 770.73,
     "center_lat": 8.153004,
     "center_lng": 81.054949,
-    "pd_code": "130"
+    "pd_code": "130",
+    "province_id": "LK-7",
+    "district_id": "LK-72",
+    "dsd_id": null,
+    "ed_id": "EC-18",
+    "lg_id": null
   },
   {
     "id": "EC-18C",
@@ -1045,7 +1695,12 @@
     "area_sqkm": 1627.67,
     "center_lat": 7.907222,
     "center_lng": 81.12733,
-    "pd_code": "131"
+    "pd_code": "131",
+    "province_id": "LK-7",
+    "district_id": "LK-72",
+    "dsd_id": null,
+    "ed_id": "EC-18",
+    "lg_id": null
   },
   {
     "id": "EC-19A",
@@ -1053,7 +1708,12 @@
     "area_sqkm": 1039.02,
     "center_lat": 7.36677,
     "center_lng": 81.101087,
-    "pd_code": "132"
+    "pd_code": "132",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": null,
+    "ed_id": "EC-19",
+    "lg_id": null
   },
   {
     "id": "EC-19B",
@@ -1061,7 +1721,12 @@
     "area_sqkm": 340.04,
     "center_lat": 7.108727,
     "center_lng": 81.035272,
-    "pd_code": "133"
+    "pd_code": "133",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": null,
+    "ed_id": "EC-19",
+    "lg_id": null
   },
   {
     "id": "EC-19C",
@@ -1069,7 +1734,12 @@
     "area_sqkm": 277.6,
     "center_lat": 7.002556,
     "center_lng": 81.167277,
-    "pd_code": "134"
+    "pd_code": "134",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": null,
+    "ed_id": "EC-19",
+    "lg_id": null
   },
   {
     "id": "EC-19D",
@@ -1077,7 +1747,12 @@
     "area_sqkm": 48.85,
     "center_lat": 6.987256,
     "center_lng": 81.086841,
-    "pd_code": "135"
+    "pd_code": "135",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": "LK-8121",
+    "ed_id": "EC-19",
+    "lg_id": null
   },
   {
     "id": "EC-19E",
@@ -1085,7 +1760,12 @@
     "area_sqkm": 170.05,
     "center_lat": 6.94587,
     "center_lng": 81.019408,
-    "pd_code": "136"
+    "pd_code": "136",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": "LK-8124",
+    "ed_id": "EC-19",
+    "lg_id": "LK-81-035"
   },
   {
     "id": "EC-19F",
@@ -1093,7 +1773,12 @@
     "area_sqkm": 137.69,
     "center_lat": 6.966467,
     "center_lng": 80.917273,
-    "pd_code": "137"
+    "pd_code": "137",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": "LK-8127",
+    "ed_id": "EC-19",
+    "lg_id": "LK-81-043"
   },
   {
     "id": "EC-19G",
@@ -1101,7 +1786,12 @@
     "area_sqkm": 194.0,
     "center_lat": 6.860252,
     "center_lng": 80.880744,
-    "pd_code": "138"
+    "pd_code": "138",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": "LK-8130",
+    "ed_id": "EC-19",
+    "lg_id": "LK-81-044"
   },
   {
     "id": "EC-19H",
@@ -1109,7 +1799,12 @@
     "area_sqkm": 180.51,
     "center_lat": 6.853146,
     "center_lng": 81.043214,
-    "pd_code": "139"
+    "pd_code": "139",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": null,
+    "ed_id": "EC-19",
+    "lg_id": null
   },
   {
     "id": "EC-19I",
@@ -1117,7 +1812,12 @@
     "area_sqkm": 484.21,
     "center_lat": 6.712142,
     "center_lng": 80.9685,
-    "pd_code": "140"
+    "pd_code": "140",
+    "province_id": "LK-8",
+    "district_id": "LK-81",
+    "dsd_id": null,
+    "ed_id": "EC-19",
+    "lg_id": null
   },
   {
     "id": "EC-20A",
@@ -1125,7 +1825,12 @@
     "area_sqkm": 1456.73,
     "center_lat": 7.15134,
     "center_lng": 81.363338,
-    "pd_code": "141"
+    "pd_code": "141",
+    "province_id": "LK-8",
+    "district_id": "LK-82",
+    "dsd_id": null,
+    "ed_id": "EC-20",
+    "lg_id": null
   },
   {
     "id": "EC-20B",
@@ -1133,7 +1838,12 @@
     "area_sqkm": 1587.54,
     "center_lat": 6.846735,
     "center_lng": 81.447941,
-    "pd_code": "142"
+    "pd_code": "142",
+    "province_id": "LK-8",
+    "district_id": "LK-82",
+    "dsd_id": null,
+    "ed_id": "EC-20",
+    "lg_id": null
   },
   {
     "id": "EC-20C",
@@ -1141,7 +1851,12 @@
     "area_sqkm": 2713.72,
     "center_lat": 6.556608,
     "center_lng": 81.183318,
-    "pd_code": "143"
+    "pd_code": "143",
+    "province_id": "LK-8",
+    "district_id": "LK-82",
+    "dsd_id": null,
+    "ed_id": "EC-20",
+    "lg_id": null
   },
   {
     "id": "EC-21A",
@@ -1149,7 +1864,12 @@
     "area_sqkm": 252.61,
     "center_lat": 6.816465,
     "center_lng": 80.251829,
-    "pd_code": "153"
+    "pd_code": "153",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21B",
@@ -1157,7 +1877,12 @@
     "area_sqkm": 355.54,
     "center_lat": 6.760023,
     "center_lng": 80.417821,
-    "pd_code": "154"
+    "pd_code": "154",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21C",
@@ -1165,7 +1890,12 @@
     "area_sqkm": 257.68,
     "center_lat": 6.662103,
     "center_lng": 80.52381,
-    "pd_code": "155"
+    "pd_code": "155",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21D",
@@ -1173,7 +1903,12 @@
     "area_sqkm": 536.1,
     "center_lat": 6.669718,
     "center_lng": 80.752425,
-    "pd_code": "156"
+    "pd_code": "156",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21E",
@@ -1181,7 +1916,12 @@
     "area_sqkm": 429.42,
     "center_lat": 6.538697,
     "center_lng": 80.684434,
-    "pd_code": "157"
+    "pd_code": "157",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21F",
@@ -1189,7 +1929,12 @@
     "area_sqkm": 263.37,
     "center_lat": 6.581956,
     "center_lng": 80.466155,
-    "pd_code": "158"
+    "pd_code": "158",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21G",
@@ -1197,7 +1942,12 @@
     "area_sqkm": 625.69,
     "center_lat": 6.527216,
     "center_lng": 80.406896,
-    "pd_code": "159"
+    "pd_code": "159",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-21H",
@@ -1205,7 +1955,12 @@
     "area_sqkm": 566.66,
     "center_lat": 6.366507,
     "center_lng": 80.771509,
-    "pd_code": "160"
+    "pd_code": "160",
+    "province_id": "LK-9",
+    "district_id": "LK-91",
+    "dsd_id": null,
+    "ed_id": "EC-21",
+    "lg_id": null
   },
   {
     "id": "EC-22A",
@@ -1213,7 +1968,12 @@
     "area_sqkm": 196.98,
     "center_lat": 7.203746,
     "center_lng": 80.231762,
-    "pd_code": "144"
+    "pd_code": "144",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": "LK-9218",
+    "ed_id": "EC-22",
+    "lg_id": "LK-92-039"
   },
   {
     "id": "EC-22B",
@@ -1221,7 +1981,12 @@
     "area_sqkm": 149.21,
     "center_lat": 7.203178,
     "center_lng": 80.310332,
-    "pd_code": "145"
+    "pd_code": "145",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": null,
+    "ed_id": "EC-22",
+    "lg_id": null
   },
   {
     "id": "EC-22C",
@@ -1229,7 +1994,12 @@
     "area_sqkm": 104.22,
     "center_lat": 7.210848,
     "center_lng": 80.367415,
-    "pd_code": "146"
+    "pd_code": "146",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": "LK-9212",
+    "ed_id": "EC-22",
+    "lg_id": null
   },
   {
     "id": "EC-22D",
@@ -1237,7 +2007,12 @@
     "area_sqkm": 127.79,
     "center_lat": 7.324762,
     "center_lng": 80.386138,
-    "pd_code": "147"
+    "pd_code": "147",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": "LK-9203",
+    "ed_id": "EC-22",
+    "lg_id": "LK-92-037"
   },
   {
     "id": "EC-22E",
@@ -1245,7 +2020,12 @@
     "area_sqkm": 120.09,
     "center_lat": 7.230038,
     "center_lng": 80.47224,
-    "pd_code": "148"
+    "pd_code": "148",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": "LK-9206",
+    "ed_id": "EC-22",
+    "lg_id": "LK-92-036"
   },
   {
     "id": "EC-22F",
@@ -1253,7 +2033,12 @@
     "area_sqkm": 122.13,
     "center_lat": 7.167048,
     "center_lng": 80.441577,
-    "pd_code": "149"
+    "pd_code": "149",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": null,
+    "ed_id": "EC-22",
+    "lg_id": null
   },
   {
     "id": "EC-22G",
@@ -1261,7 +2046,12 @@
     "area_sqkm": 280.56,
     "center_lat": 7.050977,
     "center_lng": 80.367712,
-    "pd_code": "150"
+    "pd_code": "150",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": null,
+    "ed_id": "EC-22",
+    "lg_id": null
   },
   {
     "id": "EC-22H",
@@ -1269,7 +2059,12 @@
     "area_sqkm": 196.61,
     "center_lat": 7.042993,
     "center_lng": 80.227394,
-    "pd_code": "151"
+    "pd_code": "151",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": null,
+    "ed_id": "EC-22",
+    "lg_id": null
   },
   {
     "id": "EC-22I",
@@ -1277,6 +2072,11 @@
     "area_sqkm": 360.14,
     "center_lat": 6.911649,
     "center_lng": 80.361291,
-    "pd_code": "152"
+    "pd_code": "152",
+    "province_id": "LK-9",
+    "district_id": "LK-92",
+    "dsd_id": null,
+    "ed_id": "EC-22",
+    "lg_id": null
   }
 ]
