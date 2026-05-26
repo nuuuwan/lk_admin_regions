@@ -5,7 +5,7 @@ from utils import Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
 from lk_admin_regions.builder.BuildGeo import BuildGeo
-from lk_admin_regions.builder.BuildNonAdminEnts import BuildNonAdminEnts
+from lk_admin_regions.builder.BuildGNDEnt import BuildGNDEnt
 from lk_admin_regions.corrections.CombineDCSAndHumData import \
     CombineDCSAndHumData
 
@@ -89,7 +89,7 @@ class BuildNonAdminGeo:
 
     @classmethod
     def build_all(cls):
-        district_to_ed = BuildNonAdminEnts.get_district_to_ed()
+        district_to_ed = BuildGNDEnt.get_district_to_ed()
         for parent_type, gnd_to_parent, parent_code_field in [
             ("pd", lambda gnd: gnd["dcs_pd_code"], "pd_code"),
             (
