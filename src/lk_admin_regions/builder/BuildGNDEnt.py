@@ -155,7 +155,6 @@ class BuildGNDEnt:
 
         return dict(
             # gnd
-            hum_adm4_pcode=d["hum_adm4_pcode"],
             gnd_id=d["dcs_gnd_id"],
             gnd_name=d["hum_adm4_name"] or d["dcs_gnd_name"],
             gnd_num=d["dcs_gnd_num"],
@@ -186,6 +185,11 @@ class BuildGNDEnt:
             lg_name=d["dcs_lg_name"],
             lg_code=d["dcs_lg_code"],
             lg_level=d["dcs_lg_level"],
+            # geo
+            hum_adm1_pcode=d["hum_adm1_pcode"],
+            hum_adm2_pcode=d["hum_adm2_pcode"],
+            hum_adm3_pcode=d["hum_adm3_pcode"],
+            hum_adm4_pcode=d["hum_adm4_pcode"],
         )
 
     @classmethod
