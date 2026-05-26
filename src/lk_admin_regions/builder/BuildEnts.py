@@ -1,10 +1,9 @@
 import os
 from functools import cache
 
-from utils import JSONFile, Log, TSVFile
+from utils import Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.builder.BuildGNDEnt import BuildGNDEnt
 
 log = Log("BuildEnts")
 
@@ -15,89 +14,11 @@ LIM_FUZZ_RATIO2 = 60
 class BuildEnts:
     DIR_DATA = "data"
     DIR_DATA_ENTS = os.path.join(DIR_DATA, "ents")
-    RAW_DATA_PATH = os.path.join("data_temp", "combined_gnd.tsv")
-    DENORMALIZED_GNDS_PATH_BASE = os.path.join(
-        "data_temp", "denormalized_gnds"
-    )
-
-    @staticmethod
-    def write_all_types(d_list, file_path_base):
-        log.info(f"Writing {len(d_list)} ents to {file_path_base}.[json|tsv]")
-        json_file = JSONFile(f"{file_path_base}.json")
-        json_file.write(d_list)
-        log.info(f"\tWrote {json_file}")
-        tsv_file = TSVFile(f"{file_path_base}.tsv")
-        tsv_file.write(d_list)
-        log.info(f"\tWrote {tsv_file}")
 
     @classmethod
-    def build_denormalized_gnd(cls, raw_d):
-        return dict(
-            # gnd
-            gnd_id=raw_d["dcs_gnd_id"],
-            gnd_name=raw_d["hum_adm4_name"] or raw_d["dcs_gnd_name"],
-            gnd_num=raw_d["dcs_gnd_num"],
-            area_sqkm=raw_d["hum_area_sqkm"],
-            center_lat=raw_d["hum_center_lat"],
-            center_lng=raw_d["hum_center_lon"],
-            # dsd
-            dsd_id=raw_d["dcs_dsd_id"],
-            dsd_name=raw_d["hum_adm3_name"] or raw_d["dcs_dsd_name"],
-            # district
-            district_id=raw_d["dcs_district_id"],
-            district_name=raw_d["hum_adm2_name"]
-            or raw_d["dcs_district_name"],
-            # province
-            province_id=raw_d["dcs_province_id"],
-            province_name=raw_d["hum_adm1_name"]
-            or raw_d["dcs_province_name"],
-            # country
-            country_id="LK",
-            country_name=raw_d["hum_adm0_name"] or "Sri Lanka",
-            # lg
-            lg_id=raw_d["dcs_lg_id"],
-            lg_name=raw_d["dcs_lg_name"],
-            lg_code=raw_d["dcs_lg_code"],
-            lg_level=raw_d["dcs_lg_level"],
-            # pd
-            pd_code=raw_d["dcs_pd_code"],
-        )
+    def build_parent(cls, parent_label, expand_gnd=None, extra_fields=None):
 
-    @classmethod
-    def build_denormalized_gnds(cls):
-        raw_d_list = CombineDCSAndHumData().get_data_list()
-        d_list = [cls.build_denormalized_gnd(d) for d in raw_d_list]
-        d_list.sort(key=lambda d: d["gnd_id"])
-        cls.write_all_types(d_list, cls.DENORMALIZED_GNDS_PATH_BASE)
-
-    @classmethod
-    def build_gnd(cls, denormalized_gnd):
-        return dict(
-            id=denormalized_gnd["gnd_id"],
-            name=denormalized_gnd["gnd_name"],
-            num=denormalized_gnd["gnd_num"],
-            area_sqkm=round(float(denormalized_gnd["area_sqkm"]), 2),
-            center_lat=round(float(denormalized_gnd["center_lat"]), 6),
-            center_lng=round(float(denormalized_gnd["center_lng"]), 6),
-            lg_code=denormalized_gnd["lg_code"],
-            pd_code=denormalized_gnd["pd_code"],
-        )
-
-    @classmethod
-    @cache
-    def read_denormalized_gnds(cls):
-        return TSVFile(cls.DENORMALIZED_GNDS_PATH_BASE + ".tsv").read()
-
-    @classmethod
-    def build_gnds(cls):
-        denormalized_gnds = cls.read_denormalized_gnds()
-        gnds = [cls.build_gnd(d) for d in denormalized_gnds]
-        cls.write_all_types(gnds, os.path.join(cls.DIR_DATA_ENTS, "gnds"))
-
-    @classmethod
-    def build_parent(cls, parent_label, expand_gnd=None, extra_fields=[]):
-
-        denormalized_gnds = cls.read_denormalized_gnds()
+        denormalized_gnds = BuildGNDEnt.read_denormalized_gnds()
         if expand_gnd:
             denormalized_gnds = [expand_gnd(gnd) for gnd in denormalized_gnds]
 
@@ -134,13 +55,14 @@ class BuildEnts:
                 center_lat=round(center_lat, 6),
                 center_lng=round(center_lng, 6),
             )
-            for k in extra_fields:
-                parent_d[k] = gnds_for_parent[0][k]
+            if extra_fields:
+                for k in extra_fields:
+                    parent_d[k] = gnds_for_parent[0][k]
 
             parents.append(parent_d)
 
         parents.sort(key=lambda d: d["id"])
-        cls.write_all_types(
+        BuildGNDEnt.write_all_types(
             parents,
             os.path.join(cls.DIR_DATA_ENTS, f"{parent_label}s"),
         )
@@ -152,8 +74,6 @@ class BuildEnts:
 
     @classmethod
     def build_all(cls):
-        cls.build_denormalized_gnds()
-        cls.build_gnds()
         cls.build_parents()
 
     @classmethod
