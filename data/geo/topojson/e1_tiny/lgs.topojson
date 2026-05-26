@@ -11,7 +11,11 @@
             "center_lat": "6.923685",
             "center_lng": "79.862741",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "",
+            "ed_id": "EC-01",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -41,7 +45,11 @@
             "center_lat": "6.839519",
             "center_lng": "79.876964",
             "lg_code": "12",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "",
+            "ed_id": "EC-01",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -79,7 +87,11 @@
             "center_lat": "6.782566",
             "center_lng": "79.890891",
             "lg_code": "13",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1133",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01O"
           },
           "type": "Polygon",
           "arcs": [
@@ -102,7 +114,11 @@
             "center_lat": "6.891034",
             "center_lng": "79.898428",
             "lg_code": "14",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1124",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01I"
           },
           "type": "Polygon",
           "arcs": [
@@ -134,7 +150,11 @@
             "center_lat": "6.903511",
             "center_lng": "79.977309",
             "lg_code": "15",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1109",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01J"
           },
           "type": "Polygon",
           "arcs": [
@@ -165,7 +185,11 @@
             "center_lat": "6.938501",
             "center_lng": "79.887787",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1106",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01H"
           },
           "type": "Polygon",
           "arcs": [
@@ -186,7 +210,11 @@
             "center_lat": "6.954033",
             "center_lng": "80.200223",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1115",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01K"
           },
           "type": "Polygon",
           "arcs": [
@@ -206,7 +234,11 @@
             "center_lat": "6.856502",
             "center_lng": "79.941942",
             "lg_code": "23",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1121",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01M"
           },
           "type": "Polygon",
           "arcs": [
@@ -237,7 +269,11 @@
             "center_lat": "6.794944",
             "center_lng": "79.93389",
             "lg_code": "24",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1136",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01N"
           },
           "type": "Polygon",
           "arcs": [
@@ -271,7 +307,11 @@
             "center_lat": "6.838445",
             "center_lng": "79.902511",
             "lg_code": "25",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1136",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01N"
           },
           "type": "Polygon",
           "arcs": [
@@ -311,7 +351,11 @@
             "center_lat": "6.831555",
             "center_lng": "80.022149",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "",
+            "ed_id": "EC-01",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -341,7 +385,11 @@
             "center_lat": "6.933354",
             "center_lng": "79.921913",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "LK-1106",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01H"
           },
           "type": "Polygon",
           "arcs": [
@@ -369,7 +417,11 @@
             "center_lat": "6.884347",
             "center_lng": "80.136868",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "dsd_id": "",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01K"
           },
           "type": "Polygon",
           "arcs": [
@@ -393,7 +445,11 @@
             "center_lat": "7.21369",
             "center_lng": "79.845016",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "",
+            "ed_id": "EC-02",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -416,7 +472,11 @@
             "center_lat": "7.093769",
             "center_lng": "80.023852",
             "lg_code": "12",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1224",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02H"
           },
           "type": "Polygon",
           "arcs": [
@@ -441,7 +501,11 @@
             "center_lat": "7.071388",
             "center_lng": "79.887224",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1221",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02I"
           },
           "type": "Polygon",
           "arcs": [
@@ -463,7 +527,11 @@
             "center_lat": "7.157189",
             "center_lng": "79.878895",
             "lg_code": "23/37",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1206",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02C"
           },
           "type": "Polygon",
           "arcs": [
@@ -487,7 +555,11 @@
             "center_lat": "7.170623",
             "center_lng": "79.952499",
             "lg_code": "24",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1215",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02F"
           },
           "type": "Polygon",
           "arcs": [
@@ -505,7 +577,11 @@
             "center_lat": "6.963016",
             "center_lng": "79.88928",
             "lg_code": "25",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1236",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02M"
           },
           "type": "Polygon",
           "arcs": [
@@ -528,7 +604,11 @@
             "center_lat": "6.989689",
             "center_lng": "79.894309",
             "lg_code": "26",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1218",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02A"
           },
           "type": "Polygon",
           "arcs": [
@@ -555,7 +635,11 @@
             "center_lat": "7.114342",
             "center_lng": "80.109868",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1227",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02G"
           },
           "type": "Polygon",
           "arcs": [
@@ -595,7 +679,11 @@
             "center_lat": "6.968689",
             "center_lng": "79.978247",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1239",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02L"
           },
           "type": "Polygon",
           "arcs": [
@@ -620,7 +708,11 @@
             "center_lat": "7.253922",
             "center_lng": "80.006882",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1209",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02D"
           },
           "type": "Polygon",
           "arcs": [
@@ -645,7 +737,11 @@
             "center_lat": "6.990491",
             "center_lng": "80.098929",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1230",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02K"
           },
           "type": "Polygon",
           "arcs": [
@@ -669,7 +765,11 @@
             "center_lat": "7.06141",
             "center_lng": "79.981326",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1224",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02H"
           },
           "type": "Polygon",
           "arcs": [
@@ -695,7 +795,11 @@
             "center_lat": "7.072131",
             "center_lng": "79.912021",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1221",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02I"
           },
           "type": "Polygon",
           "arcs": [
@@ -728,7 +832,11 @@
             "center_lat": "7.203003",
             "center_lng": "79.893504",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1206",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -765,7 +873,11 @@
             "center_lat": "6.9719",
             "center_lng": "79.914193",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1236",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02M"
           },
           "type": "Polygon",
           "arcs": [
@@ -790,7 +902,11 @@
             "center_lat": "7.029309",
             "center_lng": "80.01439",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1233",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02J"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -829,7 +945,11 @@
             "center_lat": "7.154593",
             "center_lng": "79.979797",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1215",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02F"
           },
           "type": "Polygon",
           "arcs": [
@@ -868,7 +988,11 @@
             "center_lat": "7.225181",
             "center_lng": "80.12288",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1212",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02E"
           },
           "type": "Polygon",
           "arcs": [
@@ -901,7 +1025,11 @@
             "center_lat": "7.038584",
             "center_lng": "79.88011",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "dsd_id": "LK-1218",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02A"
           },
           "type": "Polygon",
           "arcs": [
@@ -931,7 +1059,11 @@
             "center_lat": "6.574697",
             "center_lng": "79.973975",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1321",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03F"
           },
           "type": "Polygon",
           "arcs": [
@@ -961,7 +1093,11 @@
             "center_lat": "6.470168",
             "center_lng": "79.98435",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1324",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03G"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -997,7 +1133,11 @@
             "center_lat": "6.716079",
             "center_lng": "80.064276",
             "lg_code": "22/36",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1309",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03C"
           },
           "type": "Polygon",
           "arcs": [
@@ -1018,7 +1158,11 @@
             "center_lat": "6.714246",
             "center_lng": "79.912254",
             "lg_code": "24/39",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1303",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03A"
           },
           "type": "Polygon",
           "arcs": [
@@ -1052,7 +1196,11 @@
             "center_lat": "6.515637",
             "center_lng": "80.174536",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1333",
+            "ed_id": "EC-03",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -1077,7 +1225,11 @@
             "center_lat": "6.718529",
             "center_lng": "79.975934",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1306",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03B"
           },
           "type": "Polygon",
           "arcs": [
@@ -1113,7 +1265,11 @@
             "center_lat": "6.490077",
             "center_lng": "80.006139",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1324",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03G"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1164,7 +1320,11 @@
             "center_lat": "6.648237",
             "center_lng": "80.174565",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1312",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03D"
           },
           "type": "Polygon",
           "arcs": [
@@ -1192,7 +1352,11 @@
             "center_lat": "6.571467",
             "center_lng": "80.044831",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1327",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03E"
           },
           "type": "Polygon",
           "arcs": [
@@ -1226,7 +1390,11 @@
             "center_lat": "6.760308",
             "center_lng": "80.100775",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1268,7 +1436,11 @@
             "center_lat": "6.637438",
             "center_lng": "79.970166",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1321",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03F"
           },
           "type": "Polygon",
           "arcs": [
@@ -1303,7 +1475,11 @@
             "center_lat": "6.488",
             "center_lng": "80.090993",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1330",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03E"
           },
           "type": "Polygon",
           "arcs": [
@@ -1332,7 +1508,11 @@
             "center_lat": "6.716098",
             "center_lng": "79.92523",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1303",
+            "ed_id": "EC-03",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1392,7 +1572,11 @@
             "center_lat": "6.406665",
             "center_lng": "80.187579",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1339",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03H"
           },
           "type": "Polygon",
           "arcs": [
@@ -1418,7 +1602,11 @@
             "center_lat": "6.651918",
             "center_lng": "80.093422",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1315",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03D"
           },
           "type": "Polygon",
           "arcs": [
@@ -1442,7 +1630,11 @@
             "center_lat": "6.506966",
             "center_lng": "80.274635",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1336",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03H"
           },
           "type": "Polygon",
           "arcs": [
@@ -1467,7 +1659,11 @@
             "center_lat": "6.658585",
             "center_lng": "80.031028",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "dsd_id": "LK-1318",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03B"
           },
           "type": "Polygon",
           "arcs": [
@@ -1497,7 +1693,11 @@
             "center_lat": "7.292359",
             "center_lng": "80.629803",
             "lg_code": "11/40",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "",
+            "ed_id": "EC-04",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -1530,7 +1730,11 @@
             "center_lat": "7.169488",
             "center_lng": "80.571736",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2151",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04L"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1560,7 +1764,11 @@
             "center_lat": "7.262628",
             "center_lng": "80.538077",
             "lg_code": "22/47",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2136",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04J"
           },
           "type": "Polygon",
           "arcs": [
@@ -1580,7 +1788,11 @@
             "center_lat": "7.047561",
             "center_lng": "80.540675",
             "lg_code": "23/39",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2157",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04M"
           },
           "type": "Polygon",
           "arcs": [
@@ -1599,7 +1811,11 @@
             "center_lat": "7.351362",
             "center_lng": "80.678548",
             "lg_code": "24/40",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2112",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04C"
           },
           "type": "Polygon",
           "arcs": [
@@ -1621,7 +1837,11 @@
             "center_lat": "7.3365",
             "center_lng": "80.79031",
             "lg_code": "25",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2124",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04E"
           },
           "type": "Polygon",
           "arcs": [
@@ -1639,7 +1859,11 @@
             "center_lat": "7.391395",
             "center_lng": "80.617968",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2109",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04B"
           },
           "type": "Polygon",
           "arcs": [
@@ -1661,7 +1885,11 @@
             "center_lat": "7.112563",
             "center_lng": "80.512388",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2154",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04M"
           },
           "type": "Polygon",
           "arcs": [
@@ -1688,7 +1916,11 @@
             "center_lat": "7.328489",
             "center_lng": "80.587938",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2133",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04B"
           },
           "type": "Polygon",
           "arcs": [
@@ -1712,7 +1944,11 @@
             "center_lat": "7.258323",
             "center_lng": "80.646016",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2130",
+            "ed_id": "EC-04",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1759,7 +1995,11 @@
             "center_lat": "7.305974",
             "center_lng": "80.709274",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "",
+            "ed_id": "EC-04",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -1793,7 +2033,11 @@
             "center_lat": "7.302292",
             "center_lng": "80.800531",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2124",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04E"
           },
           "type": "Polygon",
           "arcs": [
@@ -1821,7 +2065,11 @@
             "center_lat": "7.348541",
             "center_lng": "80.949201",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2121",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04D"
           },
           "type": "Polygon",
           "arcs": [
@@ -1844,7 +2092,11 @@
             "center_lat": "7.409011",
             "center_lng": "80.742498",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2115",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04C"
           },
           "type": "Polygon",
           "arcs": [
@@ -1874,7 +2126,11 @@
             "center_lat": "7.014613",
             "center_lng": "80.536217",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2157",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04M"
           },
           "type": "Polygon",
           "arcs": [
@@ -1899,7 +2155,11 @@
             "center_lat": "7.350645",
             "center_lng": "80.657879",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2112",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1935,7 +2195,11 @@
             "center_lat": "7.212482",
             "center_lng": "80.703446",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04G"
           },
           "type": "Polygon",
           "arcs": [
@@ -1965,7 +2229,11 @@
             "center_lat": "7.400318",
             "center_lng": "80.56578",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2106",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04B"
           },
           "type": "Polygon",
           "arcs": [
@@ -1989,7 +2257,11 @@
             "center_lat": "7.346769",
             "center_lng": "80.495134",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2012,7 +2284,11 @@
             "center_lat": "7.328827",
             "center_lng": "80.874486",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2118",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04D"
           },
           "type": "Polygon",
           "arcs": [
@@ -2034,7 +2310,11 @@
             "center_lat": "7.145243",
             "center_lng": "80.630403",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "",
+            "ed_id": "EC-04",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2069,7 +2349,11 @@
             "center_lat": "7.222683",
             "center_lng": "80.559451",
             "lg_code": "46",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2139",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04K"
           },
           "type": "Polygon",
           "arcs": [
@@ -2094,7 +2378,11 @@
             "center_lat": "7.285391",
             "center_lng": "80.538016",
             "lg_code": "47",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "dsd_id": "LK-2136",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04J"
           },
           "type": "Polygon",
           "arcs": [
@@ -2120,7 +2408,11 @@
             "center_lat": "7.475768",
             "center_lng": "80.619063",
             "lg_code": "11/35",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05C"
           },
           "type": "Polygon",
           "arcs": [
@@ -2152,7 +2444,11 @@
             "center_lat": "7.860743",
             "center_lng": "80.656023",
             "lg_code": "12",
-            "lg_level": "MC"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2206",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2173,7 +2469,11 @@
             "center_lat": "7.561141",
             "center_lng": "80.678754",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2221",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2194,7 +2494,11 @@
             "center_lat": "7.877418",
             "center_lng": "80.726306",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2206",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2220,7 +2524,11 @@
             "center_lat": "7.779286",
             "center_lng": "80.570693",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2203",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2244,7 +2552,11 @@
             "center_lat": "7.556101",
             "center_lng": "80.811179",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2269,7 +2581,11 @@
             "center_lat": "7.559794",
             "center_lng": "80.63285",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2218",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2314,7 +2630,11 @@
             "center_lat": "7.688935",
             "center_lng": "80.707889",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2209",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2338,7 +2658,11 @@
             "center_lat": "7.647136",
             "center_lng": "80.599248",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2212",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2363,7 +2687,11 @@
             "center_lat": "7.485932",
             "center_lng": "80.685504",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2230",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05D"
           },
           "type": "Polygon",
           "arcs": [
@@ -2387,7 +2715,11 @@
             "center_lat": "7.429686",
             "center_lng": "80.639004",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2233",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05D"
           },
           "type": "Polygon",
           "arcs": [
@@ -2423,7 +2755,11 @@
             "center_lat": "7.605904",
             "center_lng": "80.931318",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2227",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2446,7 +2782,11 @@
             "center_lat": "7.548664",
             "center_lng": "80.588859",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "dsd_id": "LK-2215",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2476,7 +2816,11 @@
             "center_lat": "6.965875",
             "center_lng": "80.779358",
             "lg_code": "11/34",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2312",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2500,7 +2844,11 @@
             "center_lat": "6.886439",
             "center_lng": "80.60563",
             "lg_code": "21/31",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2314",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2523,7 +2871,11 @@
             "center_lat": "6.93989",
             "center_lng": "80.66863",
             "lg_code": "22/39",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2313",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2546,7 +2898,11 @@
             "center_lat": "6.941279",
             "center_lng": "80.504309",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2573,7 +2929,11 @@
             "center_lat": "7.123265",
             "center_lng": "80.776507",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06C"
           },
           "type": "Polygon",
           "arcs": [
@@ -2598,7 +2958,11 @@
             "center_lat": "7.038477",
             "center_lng": "80.656096",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2624,7 +2988,11 @@
             "center_lat": "6.920252",
             "center_lng": "80.781245",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2312",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2669,7 +3037,11 @@
             "center_lat": "7.0925",
             "center_lng": "80.886866",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06D"
           },
           "type": "Polygon",
           "arcs": [
@@ -2693,7 +3065,11 @@
             "center_lat": "6.811348",
             "center_lng": "80.56089",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2314",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2723,7 +3099,11 @@
             "center_lat": "6.816981",
             "center_lng": "80.667324",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2314",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2750,7 +3130,11 @@
             "center_lat": "6.859088",
             "center_lng": "80.720059",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "LK-2313",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "Polygon",
           "arcs": [
@@ -2778,7 +3162,11 @@
             "center_lat": "6.943042",
             "center_lng": "80.625937",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "dsd_id": "",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2818,7 +3206,11 @@
             "center_lat": "6.048309",
             "center_lng": "80.215172",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3139",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07H"
           },
           "type": "Polygon",
           "arcs": [
@@ -2840,7 +3232,11 @@
             "center_lat": "6.242114",
             "center_lng": "80.065724",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3133",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2862,7 +3258,11 @@
             "center_lat": "6.128233",
             "center_lng": "80.119869",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3136",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07G"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2891,7 +3291,11 @@
             "center_lat": "6.059798",
             "center_lng": "80.284577",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3145",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07I"
           },
           "type": "Polygon",
           "arcs": [
@@ -2916,7 +3320,11 @@
             "center_lat": "6.198961",
             "center_lng": "80.116809",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07B"
           },
           "type": "Polygon",
           "arcs": [
@@ -2942,7 +3350,11 @@
             "center_lat": "6.136369",
             "center_lng": "80.220155",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "",
+            "ed_id": "EC-07",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -2984,7 +3396,11 @@
             "center_lat": "6.314523",
             "center_lng": "80.050593",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3106",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07A"
           },
           "type": "Polygon",
           "arcs": [
@@ -3005,7 +3421,11 @@
             "center_lat": "6.386622",
             "center_lng": "80.055626",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3103",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07D"
           },
           "type": "Polygon",
           "arcs": [
@@ -3029,7 +3449,11 @@
             "center_lat": "6.081956",
             "center_lng": "80.211473",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "",
+            "ed_id": "EC-07",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3053,7 +3477,11 @@
             "center_lat": "6.290338",
             "center_lng": "80.185674",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3112",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07D"
           },
           "type": "Polygon",
           "arcs": [
@@ -3078,7 +3506,11 @@
             "center_lat": "6.001825",
             "center_lng": "80.320646",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3154",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07J"
           },
           "type": "Polygon",
           "arcs": [
@@ -3101,7 +3533,11 @@
             "center_lat": "6.142852",
             "center_lng": "80.123289",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07G"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3133,7 +3569,11 @@
             "center_lat": "6.301085",
             "center_lng": "80.100581",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3109",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3156,7 +3596,11 @@
             "center_lat": "6.199194",
             "center_lng": "80.313741",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3124",
+            "ed_id": "EC-07",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3188,7 +3632,11 @@
             "center_lat": "6.360383",
             "center_lng": "80.409622",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3121",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07E"
           },
           "type": "Polygon",
           "arcs": [
@@ -3210,7 +3658,11 @@
             "center_lat": "6.302514",
             "center_lng": "80.251476",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3115",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07E"
           },
           "type": "Polygon",
           "arcs": [
@@ -3232,7 +3684,11 @@
             "center_lat": "6.292952",
             "center_lng": "80.354998",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3118",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07E"
           },
           "type": "Polygon",
           "arcs": [
@@ -3256,7 +3712,11 @@
             "center_lat": "6.107609",
             "center_lng": "80.360034",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3148",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07F"
           },
           "type": "Polygon",
           "arcs": [
@@ -3290,7 +3750,11 @@
             "center_lat": "6.032628",
             "center_lng": "80.358504",
             "lg_code": "46",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3151",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07J"
           },
           "type": "Polygon",
           "arcs": [
@@ -3317,7 +3781,11 @@
             "center_lat": "6.206917",
             "center_lng": "80.180778",
             "lg_code": "47",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "dsd_id": "LK-3130",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3349,7 +3817,11 @@
             "center_lat": "5.952797",
             "center_lng": "80.538466",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3242",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08F"
           },
           "type": "Polygon",
           "arcs": [
@@ -3375,7 +3847,11 @@
             "center_lat": "5.971829",
             "center_lng": "80.423023",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3239",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08G"
           },
           "type": "Polygon",
           "arcs": [
@@ -3396,7 +3872,11 @@
             "center_lat": "6.135891",
             "center_lng": "80.440469",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3218",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3420,7 +3900,11 @@
             "center_lat": "5.977065",
             "center_lng": "80.614856",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3245",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08E"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3450,7 +3934,11 @@
             "center_lat": "5.985368",
             "center_lng": "80.673372",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3248",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08E"
           },
           "type": "Polygon",
           "arcs": [
@@ -3474,7 +3962,11 @@
             "center_lat": "6.094981",
             "center_lng": "80.649031",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3230",
+            "ed_id": "EC-08",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3496,7 +3988,11 @@
             "center_lat": "6.039269",
             "center_lng": "80.5605",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08D"
           },
           "type": "Polygon",
           "arcs": [
@@ -3522,7 +4018,11 @@
             "center_lat": "6.322503",
             "center_lng": "80.538487",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3206",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08A"
           },
           "type": "Polygon",
           "arcs": [
@@ -3544,7 +4044,11 @@
             "center_lat": "6.019686",
             "center_lng": "80.49915",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3224",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3567,7 +4071,11 @@
             "center_lat": "5.969664",
             "center_lng": "80.580371",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3242",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08F"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3602,7 +4110,11 @@
             "center_lat": "6.147335",
             "center_lng": "80.586973",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3212",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08B"
           },
           "type": "Polygon",
           "arcs": [
@@ -3626,7 +4138,11 @@
             "center_lat": "6.276173",
             "center_lng": "80.608151",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3209",
+            "ed_id": "EC-08",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3650,7 +4166,11 @@
             "center_lat": "5.99918",
             "center_lng": "80.442313",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08G"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3691,7 +4211,11 @@
             "center_lat": "6.239504",
             "center_lng": "80.473365",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3203",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08A"
           },
           "type": "Polygon",
           "arcs": [
@@ -3715,7 +4239,11 @@
             "center_lat": "6.117181",
             "center_lng": "80.509603",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3215",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3737,7 +4265,11 @@
             "center_lat": "6.046066",
             "center_lng": "80.636112",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "dsd_id": "LK-3233",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08D"
           },
           "type": "Polygon",
           "arcs": [
@@ -3759,7 +4291,11 @@
             "center_lat": "6.167139",
             "center_lng": "81.120387",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3312",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D"
           },
           "type": "Polygon",
           "arcs": [
@@ -3778,7 +4314,11 @@
             "center_lat": "6.031879",
             "center_lng": "80.794863",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3333",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3797,7 +4337,11 @@
             "center_lat": "6.16102",
             "center_lng": "80.96355",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3315",
+            "ed_id": "EC-09",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3824,7 +4368,11 @@
             "center_lat": "6.19339",
             "center_lng": "80.851244",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3318",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09C"
           },
           "type": "Polygon",
           "arcs": [
@@ -3851,7 +4399,11 @@
             "center_lat": "6.050734",
             "center_lng": "80.720383",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3330",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09B"
           },
           "type": "Polygon",
           "arcs": [
@@ -3878,7 +4430,11 @@
             "center_lat": "6.218205",
             "center_lng": "81.123751",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3312",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D"
           },
           "type": "Polygon",
           "arcs": [
@@ -3909,7 +4465,11 @@
             "center_lat": "6.242033",
             "center_lng": "80.694471",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "",
+            "ed_id": "EC-09",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3933,7 +4493,11 @@
             "center_lat": "6.33159",
             "center_lng": "81.162489",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3306",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3963,7 +4527,11 @@
             "center_lat": "6.07345",
             "center_lng": "80.827124",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3333",
+            "ed_id": "EC-09",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -3994,7 +4562,11 @@
             "center_lat": "6.362319",
             "center_lng": "81.429386",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3309",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D"
           },
           "type": "Polygon",
           "arcs": [
@@ -4021,7 +4593,11 @@
             "center_lat": "6.167414",
             "center_lng": "80.742377",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "",
+            "ed_id": "EC-09",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -4052,7 +4628,11 @@
             "center_lat": "6.29244",
             "center_lng": "81.015794",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "dsd_id": "LK-3303",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D"
           },
           "type": "Polygon",
           "arcs": [
@@ -4074,7 +4654,11 @@
             "center_lat": "9.667866",
             "center_lng": "80.028321",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "",
+            "ed_id": "EC-10",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -4105,7 +4689,11 @@
             "center_lat": "9.667126",
             "center_lng": "80.162788",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4130",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10H"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4136,7 +4724,11 @@
             "center_lat": "9.820294",
             "center_lng": "80.241709",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4127",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10G"
           },
           "type": "Polygon",
           "arcs": [
@@ -4155,7 +4747,11 @@
             "center_lat": "9.81762",
             "center_lng": "80.152502",
             "lg_code": "23/36",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10F"
           },
           "type": "Polygon",
           "arcs": [
@@ -4176,7 +4772,11 @@
             "center_lat": "9.678009",
             "center_lng": "80.192363",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4130",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10H"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4469,7 +5069,11 @@
             "center_lat": "9.513087",
             "center_lng": "79.690805",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4142",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4494,7 +5098,11 @@
             "center_lat": "9.67518",
             "center_lng": "79.850124",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4103",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4540,7 +5148,11 @@
             "center_lat": "9.665127",
             "center_lng": "80.057198",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4133",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10I"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4586,7 +5198,11 @@
             "center_lat": "9.63596",
             "center_lng": "80.388399",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "",
+            "ed_id": "EC-10",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -4612,7 +5228,11 @@
             "center_lat": "9.775736",
             "center_lng": "80.183422",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4121",
+            "ed_id": "EC-10",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -4633,7 +5253,11 @@
             "center_lat": "9.736957",
             "center_lng": "80.097029",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4118",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10E"
           },
           "type": "Polygon",
           "arcs": [
@@ -4659,7 +5283,11 @@
             "center_lat": "9.789107",
             "center_lng": "80.042169",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4112",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10C"
           },
           "type": "Polygon",
           "arcs": [
@@ -4686,7 +5314,11 @@
             "center_lat": "9.744762",
             "center_lng": "80.034763",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4115",
+            "ed_id": "EC-10",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -4710,7 +5342,11 @@
             "center_lat": "9.750615",
             "center_lng": "79.981145",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4109",
+            "ed_id": "EC-10",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -4748,7 +5384,11 @@
             "center_lat": "9.74171",
             "center_lng": "79.945292",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4106",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4782,7 +5422,11 @@
             "center_lat": "9.622153",
             "center_lng": "79.891398",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4139",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5015,7 +5659,11 @@
             "center_lat": "9.735886",
             "center_lng": "79.874717",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "dsd_id": "LK-4104",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5046,7 +5694,11 @@
             "center_lat": "8.980788",
             "center_lng": "79.896059",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "dsd_id": "LK-4203",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5147,7 +5799,11 @@
             "center_lat": "8.992898",
             "center_lng": "79.886867",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "dsd_id": "LK-4203",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5265,7 +5921,11 @@
             "center_lat": "8.958245",
             "center_lng": "80.171352",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "dsd_id": "",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5306,7 +5966,11 @@
             "center_lat": "8.677386",
             "center_lng": "80.021293",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "dsd_id": "LK-4215",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A"
           },
           "type": "Polygon",
           "arcs": [
@@ -5329,7 +5993,11 @@
             "center_lat": "8.802894",
             "center_lng": "80.053139",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "dsd_id": "",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5477,7 +6145,11 @@
             "center_lat": "8.756608",
             "center_lng": "80.493521",
             "lg_code": "11/33",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "dsd_id": "LK-4309",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B"
           },
           "type": "Polygon",
           "arcs": [
@@ -5505,7 +6177,11 @@
             "center_lat": "9.004658",
             "center_lng": "80.576682",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "dsd_id": "LK-4303",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B"
           },
           "type": "Polygon",
           "arcs": [
@@ -5531,7 +6207,11 @@
             "center_lat": "8.7351",
             "center_lng": "80.513638",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "dsd_id": "LK-4306",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5603,7 +6283,11 @@
             "center_lat": "8.838244",
             "center_lng": "80.45458",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "dsd_id": "LK-4309",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5652,7 +6336,11 @@
             "center_lat": "8.692808",
             "center_lng": "80.294587",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "dsd_id": "LK-4312",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5696,7 +6384,11 @@
             "center_lat": "8.973439",
             "center_lng": "80.749125",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "dsd_id": "LK-4418",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B"
           },
           "type": "Polygon",
           "arcs": [
@@ -5717,7 +6409,11 @@
             "center_lat": "9.06305",
             "center_lng": "80.308719",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "dsd_id": "LK-4406",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C"
           },
           "type": "Polygon",
           "arcs": [
@@ -5742,7 +6438,11 @@
             "center_lat": "9.149428",
             "center_lng": "80.806493",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "dsd_id": "",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C"
           },
           "type": "Polygon",
           "arcs": [
@@ -5770,7 +6470,11 @@
             "center_lat": "9.230581",
             "center_lng": "80.565654",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "dsd_id": "",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C"
           },
           "type": "Polygon",
           "arcs": [
@@ -5796,7 +6500,11 @@
             "center_lat": "9.222892",
             "center_lng": "80.286117",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "dsd_id": "LK-4403",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C"
           },
           "type": "Polygon",
           "arcs": [
@@ -5817,7 +6525,11 @@
             "center_lat": "9.394491",
             "center_lng": "80.395724",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "dsd_id": "",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6190,7 +6902,11 @@
             "center_lat": "9.590645",
             "center_lng": "80.359079",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "dsd_id": "LK-4503",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6258,7 +6974,11 @@
             "center_lat": "9.396612",
             "center_lng": "80.168652",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "dsd_id": "LK-4512",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6771,7 +7491,11 @@
             "center_lat": "7.759147",
             "center_lng": "81.636557",
             "lg_code": "1",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -6792,7 +7516,11 @@
             "center_lat": "7.781256",
             "center_lng": "81.633447",
             "lg_code": "2",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -6818,7 +7546,11 @@
             "center_lat": "7.790749",
             "center_lng": "81.617729",
             "lg_code": "3",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -6841,7 +7573,11 @@
             "center_lat": "7.780385",
             "center_lng": "81.617286",
             "lg_code": "4",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -6864,7 +7600,11 @@
             "center_lat": "7.90971",
             "center_lng": "81.545218",
             "lg_code": "5",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6930,7 +7670,11 @@
             "center_lat": "7.861704",
             "center_lng": "81.585223",
             "lg_code": "6",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6968,7 +7712,11 @@
             "center_lat": "7.84243",
             "center_lng": "81.575476",
             "lg_code": "7",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7003,7 +7751,11 @@
             "center_lat": "7.821029",
             "center_lng": "81.558593",
             "lg_code": "8",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7024,7 +7776,11 @@
             "center_lat": "7.813881",
             "center_lng": "81.565911",
             "lg_code": "9",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7045,7 +7801,11 @@
             "center_lat": "7.823293",
             "center_lng": "81.556283",
             "lg_code": "10",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7109,7 +7869,11 @@
             "center_lat": "7.764301",
             "center_lng": "81.628713",
             "lg_code": "11",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7181,7 +7945,11 @@
             "center_lat": "7.791113",
             "center_lng": "81.583752",
             "lg_code": "12",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7203,7 +7971,11 @@
             "center_lat": "7.779962",
             "center_lng": "81.592291",
             "lg_code": "13",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7225,7 +7997,11 @@
             "center_lat": "7.739319",
             "center_lng": "81.531287",
             "lg_code": "14",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7249,7 +8025,11 @@
             "center_lat": "7.739272",
             "center_lng": "81.353361",
             "lg_code": "15",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7274,7 +8054,11 @@
             "center_lat": "7.676967",
             "center_lng": "81.479238",
             "lg_code": "16",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7296,7 +8080,11 @@
             "center_lat": "7.595566",
             "center_lng": "81.47896",
             "lg_code": "17",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7321,7 +8109,11 @@
             "center_lat": "7.522429",
             "center_lng": "81.525216",
             "lg_code": "18",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5112",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7344,7 +8136,11 @@
             "center_lat": "7.6829",
             "center_lng": "81.732091",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5124",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7365,7 +8161,11 @@
             "center_lat": "7.775874",
             "center_lng": "81.608206",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5115",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7387,7 +8187,11 @@
             "center_lat": "7.852806",
             "center_lng": "81.381482",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7441,7 +8245,11 @@
             "center_lat": "8.088082",
             "center_lng": "81.374706",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7496,7 +8304,11 @@
             "center_lat": "7.925529",
             "center_lng": "81.386946",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7556,7 +8368,11 @@
             "center_lat": "7.639195",
             "center_lng": "81.753752",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5127",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "Polygon",
           "arcs": [
@@ -7577,7 +8393,11 @@
             "center_lat": "7.522348",
             "center_lng": "81.791102",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5136",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12C"
           },
           "type": "Polygon",
           "arcs": [
@@ -7601,7 +8421,11 @@
             "center_lat": "7.567598",
             "center_lng": "81.661919",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5130",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7635,7 +8459,11 @@
             "center_lat": "7.632937",
             "center_lng": "81.598993",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5121",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7670,7 +8498,11 @@
             "center_lat": "7.497825",
             "center_lng": "81.704155",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "dsd_id": "LK-5133",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12C"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7698,7 +8530,11 @@
             "center_lat": "7.41718",
             "center_lng": "81.817666",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13C"
           },
           "type": "Polygon",
           "arcs": [
@@ -7721,7 +8557,11 @@
             "center_lat": "7.22736",
             "center_lng": "81.846785",
             "lg_code": "12",
-            "lg_level": "MC"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5236",
+            "ed_id": "EC-13",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -7742,7 +8582,11 @@
             "center_lat": "7.293568",
             "center_lng": "81.664401",
             "lg_code": "21/39",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5215",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7770,7 +8614,11 @@
             "center_lat": "7.264536",
             "center_lng": "81.812687",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5233",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -7793,7 +8641,11 @@
             "center_lat": "7.170789",
             "center_lng": "81.807373",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5239",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -7817,7 +8669,11 @@
             "center_lat": "7.133109",
             "center_lng": "81.628447",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5242",
+            "ed_id": "EC-13",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -7852,7 +8708,11 @@
             "center_lat": "7.626104",
             "center_lng": "81.073565",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5203",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7883,7 +8743,11 @@
             "center_lat": "7.210244",
             "center_lng": "81.790491",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5236",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7919,7 +8783,11 @@
             "center_lat": "6.743613",
             "center_lng": "81.698939",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5251",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -7941,7 +8809,11 @@
             "center_lat": "7.55649",
             "center_lng": "81.350833",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5209",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A"
           },
           "type": "Polygon",
           "arcs": [
@@ -7973,7 +8845,11 @@
             "center_lat": "7.267299",
             "center_lng": "81.58113",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -8009,7 +8885,11 @@
             "center_lat": "7.326839",
             "center_lng": "81.839824",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5230",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -8031,7 +8911,11 @@
             "center_lat": "7.422272",
             "center_lng": "81.261851",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5206",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8055,7 +8939,11 @@
             "center_lat": "6.949757",
             "center_lng": "81.797796",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5248",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -8076,7 +8964,11 @@
             "center_lat": "7.329298",
             "center_lng": "81.767875",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5218",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8101,7 +8993,11 @@
             "center_lat": "7.079586",
             "center_lng": "81.794782",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5245",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -8122,7 +9018,11 @@
             "center_lat": "7.401039",
             "center_lng": "81.592516",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5212",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8151,7 +9051,11 @@
             "center_lat": "7.372969",
             "center_lng": "81.833667",
             "lg_code": "46",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5227",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D"
           },
           "type": "Polygon",
           "arcs": [
@@ -8173,7 +9077,11 @@
             "center_lat": "7.419463",
             "center_lng": "81.762775",
             "lg_code": "47",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5216",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8195,7 +9103,11 @@
             "center_lat": "7.2411",
             "center_lng": "81.722174",
             "lg_code": "48",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "dsd_id": "LK-5234",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8219,7 +9131,11 @@
             "center_lat": "8.57326",
             "center_lng": "81.22406",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5315",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8238,7 +9154,11 @@
             "center_lat": "8.486597",
             "center_lng": "81.187854",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5324",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14C"
           },
           "type": "Polygon",
           "arcs": [
@@ -8257,7 +9177,11 @@
             "center_lat": "8.749348",
             "center_lng": "80.966816",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5309",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8280,7 +9204,11 @@
             "center_lat": "8.342622",
             "center_lng": "81.055903",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5321",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8307,7 +9235,11 @@
             "center_lat": "8.433257",
             "center_lng": "81.158812",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5324",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14C"
           },
           "type": "Polygon",
           "arcs": [
@@ -8330,7 +9262,11 @@
             "center_lat": "8.813051",
             "center_lng": "81.047186",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5306",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8356,7 +9292,11 @@
             "center_lat": "8.625746",
             "center_lng": "81.019771",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5312",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8378,7 +9318,11 @@
             "center_lat": "8.431494",
             "center_lng": "81.291319",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5327",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14C"
           },
           "type": "Polygon",
           "arcs": [
@@ -8401,7 +9345,11 @@
             "center_lat": "8.915208",
             "center_lng": "80.855145",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5303",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8423,7 +9371,11 @@
             "center_lat": "8.287808",
             "center_lng": "81.25641",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5330",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8447,7 +9399,11 @@
             "center_lat": "8.509573",
             "center_lng": "81.042854",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5318",
+            "ed_id": "EC-14",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -8470,7 +9426,11 @@
             "center_lat": "8.583752",
             "center_lng": "81.168726",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5315",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8496,7 +9456,11 @@
             "center_lat": "8.318232",
             "center_lng": "81.363485",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "dsd_id": "LK-5333",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8517,7 +9481,11 @@
             "center_lat": "7.487294",
             "center_lng": "80.364933",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6154",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15L"
           },
           "type": "Polygon",
           "arcs": [
@@ -8535,7 +9503,11 @@
             "center_lat": "7.469177",
             "center_lng": "80.03641",
             "lg_code": "21/37",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6172",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15I"
           },
           "type": "Polygon",
           "arcs": [
@@ -8553,7 +9525,11 @@
             "center_lat": "7.32858",
             "center_lng": "80.217429",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6184",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15J"
           },
           "type": "Polygon",
           "arcs": [
@@ -8577,7 +9553,11 @@
             "center_lat": "7.607565",
             "center_lng": "79.968083",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6142",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15G"
           },
           "type": "Polygon",
           "arcs": [
@@ -8604,7 +9584,11 @@
             "center_lat": "7.998266",
             "center_lng": "80.298164",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8629,7 +9613,11 @@
             "center_lat": "8.103672",
             "center_lng": "80.183754",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6103",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15A"
           },
           "type": "Polygon",
           "arcs": [
@@ -8653,7 +9641,11 @@
             "center_lat": "7.633648",
             "center_lng": "80.430185",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15D"
           },
           "type": "Polygon",
           "arcs": [
@@ -8678,7 +9670,11 @@
             "center_lat": "7.684376",
             "center_lng": "80.100321",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6139",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8699,7 +9695,11 @@
             "center_lat": "7.471199",
             "center_lng": "80.102369",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15I"
           },
           "type": "Polygon",
           "arcs": [
@@ -8728,7 +9728,11 @@
             "center_lat": "7.511441",
             "center_lng": "80.357635",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -8756,7 +9760,11 @@
             "center_lat": "7.841195",
             "center_lng": "80.267615",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15C"
           },
           "type": "Polygon",
           "arcs": [
@@ -8785,7 +9793,11 @@
             "center_lat": "7.424469",
             "center_lng": "80.444918",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6160",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15M"
           },
           "type": "Polygon",
           "arcs": [
@@ -8808,7 +9820,11 @@
             "center_lat": "7.80567",
             "center_lng": "80.104616",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15B"
           },
           "type": "Polygon",
           "arcs": [
@@ -8839,7 +9855,11 @@
             "center_lat": "7.584134",
             "center_lng": "80.101591",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15F"
           },
           "type": "Polygon",
           "arcs": [
@@ -8860,7 +9880,11 @@
             "center_lat": "7.362153",
             "center_lng": "80.030535",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6178",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15H"
           },
           "type": "Polygon",
           "arcs": [
@@ -8886,7 +9910,11 @@
             "center_lat": "7.419139",
             "center_lng": "80.291174",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15K"
           },
           "type": "Polygon",
           "arcs": [
@@ -8917,7 +9945,11 @@
             "center_lat": "7.803271",
             "center_lng": "80.428893",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6127",
+            "ed_id": "EC-15",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -8940,7 +9972,11 @@
             "center_lat": "7.517219",
             "center_lng": "80.518459",
             "lg_code": "46",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6163",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15N"
           },
           "type": "Polygon",
           "arcs": [
@@ -8965,7 +10001,11 @@
             "center_lat": "7.621927",
             "center_lng": "80.244165",
             "lg_code": "47",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15E"
           },
           "type": "Polygon",
           "arcs": [
@@ -8990,7 +10030,11 @@
             "center_lat": "7.480501",
             "center_lng": "79.947547",
             "lg_code": "48",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6175",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15G"
           },
           "type": "Polygon",
           "arcs": [
@@ -9014,7 +10058,11 @@
             "center_lat": "7.397099",
             "center_lng": "80.193118",
             "lg_code": "49",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "dsd_id": "LK-6181",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15J"
           },
           "type": "Polygon",
           "arcs": [
@@ -9036,7 +10084,11 @@
             "center_lat": "8.033618",
             "center_lng": "79.847591",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "LK-6215",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16A"
           },
           "type": "Polygon",
           "arcs": [
@@ -9055,7 +10107,11 @@
             "center_lat": "7.581366",
             "center_lng": "79.793511",
             "lg_code": "21",
-            "lg_level": "UC"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "LK-6233",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16C"
           },
           "type": "Polygon",
           "arcs": [
@@ -9075,7 +10131,11 @@
             "center_lat": "7.853184",
             "center_lng": "79.956619",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B"
           },
           "type": "Polygon",
           "arcs": [
@@ -9101,7 +10161,11 @@
             "center_lat": "7.697364",
             "center_lng": "79.852802",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9126,7 +10190,11 @@
             "center_lat": "7.547642",
             "center_lng": "79.853315",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16C"
           },
           "type": "Polygon",
           "arcs": [
@@ -9149,7 +10217,11 @@
             "center_lat": "8.037997",
             "center_lng": "79.757327",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -9257,7 +10329,11 @@
             "center_lat": "8.119648",
             "center_lng": "79.999768",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "LK-6209",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B"
           },
           "type": "Polygon",
           "arcs": [
@@ -9284,7 +10360,11 @@
             "center_lat": "7.424983",
             "center_lng": "79.862933",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16D"
           },
           "type": "Polygon",
           "arcs": [
@@ -9306,7 +10386,11 @@
             "center_lat": "8.013076",
             "center_lng": "80.088937",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "LK-6212",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B"
           },
           "type": "Polygon",
           "arcs": [
@@ -9328,7 +10412,11 @@
             "center_lat": "7.96573",
             "center_lng": "79.85345",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9357,7 +10445,11 @@
             "center_lat": "8.340926",
             "center_lng": "79.896228",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "LK-6206",
+            "ed_id": "EC-16",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -9386,7 +10478,11 @@
             "center_lat": "7.321939",
             "center_lng": "79.887929",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "dsd_id": "",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16E"
           },
           "type": "Polygon",
           "arcs": [
@@ -9409,7 +10505,11 @@
             "center_lat": "8.33876",
             "center_lng": "80.406469",
             "lg_code": "11/41",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9435,7 +10535,11 @@
             "center_lat": "8.268046",
             "center_lng": "80.708793",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7127",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9461,7 +10565,11 @@
             "center_lat": "8.019713",
             "center_lng": "80.450037",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7163",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17E"
           },
           "type": "Polygon",
           "arcs": [
@@ -9483,7 +10591,11 @@
             "center_lat": "8.5158",
             "center_lng": "80.852802",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7124",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17B"
           },
           "type": "Polygon",
           "arcs": [
@@ -9508,7 +10620,11 @@
             "center_lat": "8.085235",
             "center_lng": "80.507736",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7160",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9533,7 +10649,11 @@
             "center_lat": "8.423981",
             "center_lng": "80.711353",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7121",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9558,7 +10678,11 @@
             "center_lat": "8.712242",
             "center_lng": "80.715528",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7106",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17A"
           },
           "type": "Polygon",
           "arcs": [
@@ -9584,7 +10708,11 @@
             "center_lat": "8.06761",
             "center_lng": "80.659488",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9614,7 +10742,11 @@
             "center_lat": "8.588785",
             "center_lng": "80.496936",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7109",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17A"
           },
           "type": "Polygon",
           "arcs": [
@@ -9642,7 +10774,11 @@
             "center_lat": "8.348944",
             "center_lng": "80.545733",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7130",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9675,7 +10811,11 @@
             "center_lat": "8.333933",
             "center_lng": "80.125586",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7139",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17D"
           },
           "type": "Polygon",
           "arcs": [
@@ -9708,7 +10848,11 @@
             "center_lat": "8.497419",
             "center_lng": "80.237628",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9741,7 +10885,11 @@
             "center_lat": "8.276082",
             "center_lng": "80.427202",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17C"
           },
           "type": "Polygon",
           "arcs": [
@@ -9764,7 +10912,11 @@
             "center_lat": "8.84868",
             "center_lng": "80.78417",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7103",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17A"
           },
           "type": "Polygon",
           "arcs": [
@@ -9786,7 +10938,11 @@
             "center_lat": "7.90556",
             "center_lng": "80.537532",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7166",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17G"
           },
           "type": "Polygon",
           "arcs": [
@@ -9809,7 +10965,11 @@
             "center_lat": "8.185818",
             "center_lng": "80.180922",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7142",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17E"
           },
           "type": "Polygon",
           "arcs": [
@@ -9833,7 +10993,11 @@
             "center_lat": "8.475597",
             "center_lng": "80.550939",
             "lg_code": "46",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "LK-7118",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9858,7 +11022,11 @@
             "center_lat": "8.174185",
             "center_lng": "80.359337",
             "lg_code": "47",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "",
+            "ed_id": "EC-17",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -9891,7 +11059,11 @@
             "center_lat": "8.209425",
             "center_lng": "80.550501",
             "lg_code": "48",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "dsd_id": "",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17F"
           },
           "type": "Polygon",
           "arcs": [
@@ -9915,7 +11087,11 @@
             "center_lat": "7.940122",
             "center_lng": "81.010274",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7215",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C"
           },
           "type": "Polygon",
           "arcs": [
@@ -9933,7 +11109,11 @@
             "center_lat": "7.785366",
             "center_lng": "81.126323",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7212",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C"
           },
           "type": "Polygon",
           "arcs": [
@@ -9966,7 +11146,11 @@
             "center_lat": "7.815875",
             "center_lng": "80.845529",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7218",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18A"
           },
           "type": "Polygon",
           "arcs": [
@@ -9989,7 +11173,11 @@
             "center_lat": "8.114004",
             "center_lng": "80.865402",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7203",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18A"
           },
           "type": "Polygon",
           "arcs": [
@@ -10019,7 +11207,11 @@
             "center_lat": "8.058699",
             "center_lng": "81.098071",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7209",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10043,7 +11235,11 @@
             "center_lat": "8.185489",
             "center_lng": "81.040095",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7206",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10070,7 +11266,11 @@
             "center_lat": "8.05135",
             "center_lng": "81.240046",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7210",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10093,7 +11293,11 @@
             "center_lat": "7.878585",
             "center_lng": "80.988593",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "dsd_id": "LK-7215",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10123,7 +11327,11 @@
             "center_lat": "6.989484",
             "center_lng": "81.057946",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8121",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19D"
           },
           "type": "Polygon",
           "arcs": [
@@ -10143,7 +11351,11 @@
             "center_lat": "6.840506",
             "center_lng": "80.985134",
             "lg_code": "12/32",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19H"
           },
           "type": "Polygon",
           "arcs": [
@@ -10165,7 +11377,11 @@
             "center_lat": "6.781026",
             "center_lng": "80.959263",
             "lg_code": "22/36",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8139",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19I"
           },
           "type": "Polygon",
           "arcs": [
@@ -10190,7 +11406,11 @@
             "center_lat": "6.986654",
             "center_lng": "81.094656",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8121",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19D"
           },
           "type": "Polygon",
           "arcs": [
@@ -10211,7 +11431,11 @@
             "center_lat": "6.825827",
             "center_lng": "81.018879",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8133",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19H"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -10245,7 +11469,11 @@
             "center_lat": "6.868532",
             "center_lng": "81.066957",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8136",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19H"
           },
           "type": "Polygon",
           "arcs": [
@@ -10269,7 +11497,11 @@
             "center_lat": "6.698806",
             "center_lng": "80.969558",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8142",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19I"
           },
           "type": "Polygon",
           "arcs": [
@@ -10295,7 +11527,11 @@
             "center_lat": "6.94587",
             "center_lng": "81.019408",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8124",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19E"
           },
           "type": "Polygon",
           "arcs": [
@@ -10321,7 +11557,11 @@
             "center_lat": "6.794815",
             "center_lng": "80.962768",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8139",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19I"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -10354,7 +11594,11 @@
             "center_lat": "7.129609",
             "center_lng": "80.994256",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8112",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10378,7 +11622,11 @@
             "center_lat": "7.43385",
             "center_lng": "81.081405",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8103",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19A"
           },
           "type": "Polygon",
           "arcs": [
@@ -10402,7 +11650,11 @@
             "center_lat": "7.126719",
             "center_lng": "81.081054",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8109",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10426,7 +11678,11 @@
             "center_lat": "6.964933",
             "center_lng": "81.147248",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8118",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10450,7 +11706,11 @@
             "center_lat": "7.274411",
             "center_lng": "81.128186",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8106",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19A"
           },
           "type": "Polygon",
           "arcs": [
@@ -10471,7 +11731,11 @@
             "center_lat": "7.045305",
             "center_lng": "81.050182",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8115",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10494,7 +11758,11 @@
             "center_lat": "6.966467",
             "center_lng": "80.917273",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8127",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19F"
           },
           "type": "Polygon",
           "arcs": [
@@ -10517,7 +11785,11 @@
             "center_lat": "6.860252",
             "center_lng": "80.880744",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8130",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19G"
           },
           "type": "Polygon",
           "arcs": [
@@ -10543,7 +11815,11 @@
             "center_lat": "7.037966",
             "center_lng": "81.186128",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "dsd_id": "LK-8119",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10565,7 +11841,11 @@
             "center_lat": "6.869729",
             "center_lng": "81.216912",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8218",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10589,7 +11869,11 @@
             "center_lat": "7.187842",
             "center_lng": "81.298497",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8203",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20A"
           },
           "type": "Polygon",
           "arcs": [
@@ -10624,7 +11908,11 @@
             "center_lat": "6.660368",
             "center_lng": "81.299812",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8224",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10646,7 +11934,11 @@
             "center_lat": "6.494507",
             "center_lng": "81.373695",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8227",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10669,7 +11961,11 @@
             "center_lat": "7.160153",
             "center_lng": "81.426163",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8206",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20A"
           },
           "type": "Polygon",
           "arcs": [
@@ -10714,7 +12010,11 @@
             "center_lat": "7.053049",
             "center_lng": "81.292941",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8209",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20A"
           },
           "type": "Polygon",
           "arcs": [
@@ -10736,7 +12036,11 @@
             "center_lat": "6.832233",
             "center_lng": "81.353268",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8215",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10758,7 +12062,11 @@
             "center_lat": "6.845567",
             "center_lng": "81.525567",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8212",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20B"
           },
           "type": "Polygon",
           "arcs": [
@@ -10787,7 +12095,11 @@
             "center_lat": "6.473626",
             "center_lng": "80.979827",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10817,7 +12129,11 @@
             "center_lat": "6.612619",
             "center_lng": "81.127975",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "dsd_id": "LK-8221",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C"
           },
           "type": "Polygon",
           "arcs": [
@@ -10842,7 +12158,11 @@
             "center_lat": "6.687164",
             "center_lng": "80.411703",
             "lg_code": "11/42",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "",
+            "ed_id": "EC-21",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -10866,7 +12186,11 @@
             "center_lat": "6.643726",
             "center_lng": "80.68826",
             "lg_code": "21/36",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21D"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -10895,7 +12219,11 @@
             "center_lat": "6.326504",
             "center_lng": "80.859512",
             "lg_code": "22",
-            "lg_level": "UC"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9148",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21H"
           },
           "type": "Polygon",
           "arcs": [
@@ -10914,7 +12242,11 @@
             "center_lat": "6.650948",
             "center_lng": "80.291308",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9130",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21G"
           },
           "type": "Polygon",
           "arcs": [
@@ -10939,7 +12271,11 @@
             "center_lat": "6.626862",
             "center_lng": "80.779359",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21D"
           },
           "type": "Polygon",
           "arcs": [
@@ -10967,7 +12303,11 @@
             "center_lat": "6.838464",
             "center_lng": "80.22653",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9103",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -10995,7 +12335,11 @@
             "center_lat": "6.359934",
             "center_lng": "80.806374",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9148",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21H"
           },
           "type": "Polygon",
           "arcs": [
@@ -11025,7 +12369,11 @@
             "center_lat": "6.715183",
             "center_lng": "80.736345",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9115",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21D"
           },
           "type": "Polygon",
           "arcs": [
@@ -11050,7 +12398,11 @@
             "center_lat": "6.46448",
             "center_lng": "80.451221",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9133",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21G"
           },
           "type": "Polygon",
           "arcs": [
@@ -11079,7 +12431,11 @@
             "center_lat": "6.391184",
             "center_lng": "80.678904",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9151",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21H"
           },
           "type": "Polygon",
           "arcs": [
@@ -11108,7 +12464,11 @@
             "center_lat": "6.786058",
             "center_lng": "80.329691",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "",
+            "ed_id": "EC-21",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -11135,7 +12495,11 @@
             "center_lat": "6.602993",
             "center_lng": "80.419972",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "",
+            "ed_id": "EC-21",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -11166,7 +12530,11 @@
             "center_lat": "6.634808",
             "center_lng": "80.511103",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9124",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21C"
           },
           "type": "Polygon",
           "arcs": [
@@ -11190,7 +12558,11 @@
             "center_lat": "6.732763",
             "center_lng": "80.490139",
             "lg_code": "42",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9112",
+            "ed_id": "EC-21",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -11230,7 +12602,11 @@
             "center_lat": "6.560933",
             "center_lng": "80.707809",
             "lg_code": "43",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21E"
           },
           "type": "Polygon",
           "arcs": [
@@ -11261,7 +12637,11 @@
             "center_lat": "6.498162",
             "center_lng": "80.641823",
             "lg_code": "44",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9142",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21E"
           },
           "type": "Polygon",
           "arcs": [
@@ -11291,7 +12671,11 @@
             "center_lat": "6.527983",
             "center_lng": "80.545154",
             "lg_code": "45",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "dsd_id": "LK-9139",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21F"
           },
           "type": "Polygon",
           "arcs": [
@@ -11315,7 +12699,11 @@
             "center_lat": "7.251102",
             "center_lng": "80.350997",
             "lg_code": "11",
-            "lg_level": "MC"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9212",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22C"
           },
           "type": "Polygon",
           "arcs": [
@@ -11338,7 +12726,11 @@
             "center_lat": "7.167804",
             "center_lng": "80.442178",
             "lg_code": "31",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9209",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22F"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -11367,7 +12759,11 @@
             "center_lat": "6.939454",
             "center_lng": "80.280907",
             "lg_code": "32",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9230",
+            "ed_id": "EC-22",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
@@ -11391,7 +12787,11 @@
             "center_lat": "6.907025",
             "center_lng": "80.403181",
             "lg_code": "33",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9233",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22I"
           },
           "type": "Polygon",
           "arcs": [
@@ -11415,7 +12815,11 @@
             "center_lat": "7.216127",
             "center_lng": "80.305524",
             "lg_code": "34",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9215",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22B"
           },
           "type": "Polygon",
           "arcs": [
@@ -11448,7 +12852,11 @@
             "center_lat": "7.206006",
             "center_lng": "80.369444",
             "lg_code": "35",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9212",
+            "ed_id": "EC-22",
+            "pd_id": ""
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -11486,7 +12894,11 @@
             "center_lat": "7.230038",
             "center_lng": "80.47224",
             "lg_code": "36",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9206",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22E"
           },
           "type": "Polygon",
           "arcs": [
@@ -11512,7 +12924,11 @@
             "center_lat": "7.324762",
             "center_lng": "80.386138",
             "lg_code": "37",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9203",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22D"
           },
           "type": "Polygon",
           "arcs": [
@@ -11536,7 +12952,11 @@
             "center_lat": "7.064225",
             "center_lng": "80.218789",
             "lg_code": "38",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9221",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22H"
           },
           "type": "Polygon",
           "arcs": [
@@ -11562,7 +12982,11 @@
             "center_lat": "7.203746",
             "center_lng": "80.231762",
             "lg_code": "39",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9218",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22A"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -11598,7 +13022,11 @@
             "center_lat": "7.029854",
             "center_lng": "80.371683",
             "lg_code": "40",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9227",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22G"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -11637,7 +13065,11 @@
             "center_lat": "7.098344",
             "center_lng": "80.355516",
             "lg_code": "41",
-            "lg_level": "PS"
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "dsd_id": "LK-9224",
+            "ed_id": "EC-22",
+            "pd_id": ""
           },
           "type": "Polygon",
           "arcs": [
