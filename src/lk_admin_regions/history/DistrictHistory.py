@@ -3,12 +3,13 @@ import os
 from utils import Log
 
 from lk_admin_regions.builder.BuildEnts import BuildEnts
+from lk_admin_regions.builder.BuildGNDEnt import BuildGNDEnt
 
 log = Log("DistrictHistory")
 
 
 class DistrictHistory:
-    DIR_DATA_ENTS_HISTORY = os.path.join(BuildEnts.DIR_DATA_ENTS, "history")
+    DIR_DATA_ENTS_HISTORY = os.path.join(BuildGNDEnt.DIR_DATA_ENTS, "history")
 
     @classmethod
     def split(cls, districts, year, old_id, new_id):
@@ -62,7 +63,7 @@ class DistrictHistory:
                 f"Writing {len(districts)} districts"
                 + f" to {districts_path_base}.[json|tsv]"
             )
-            BuildEnts.write_all_types(districts, districts_path_base)
+            BuildGNDEnt.write_all_types(districts, districts_path_base)
 
 
 if __name__ == "__main__":
