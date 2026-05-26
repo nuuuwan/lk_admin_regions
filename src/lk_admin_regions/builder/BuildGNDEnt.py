@@ -222,6 +222,85 @@ class BuildGNDEnt:
         cls.write_all_types(gnds, os.path.join(cls.DIR_DATA_ENTS, "gnds"))
 
     @classmethod
+    def build_parent_child_maps(cls):
+        gnds = cls.read_denormalized_gnds()
+        gnds.sort(key=lambda gnd: gnd["gnd_id"])
+
+        region_to_gnds = {}
+        region_to_region_type = {}
+        for gnd in gnds:
+            gnd_id = gnd["gnd_id"]
+            for region_type in [
+                "province",
+                "district",
+                "dsd",
+                "ed",
+                "pd",
+                "lg",
+            ]:
+                region_id_key = f"{region_type}_id"
+                region_id = gnd[region_id_key]
+                region_to_region_type[region_id] = region_type
+                if region_id not in region_to_gnds:
+                    region_to_gnds[region_id] = set()
+                region_to_gnds[region_id].add(gnd_id)
+
+        region_ids = list(region_to_gnds.keys())
+        region_ids.sort()
+        parent_to_child_type_to_children = {}
+        child_to_parent_type_to_parents = {}
+
+        for region_id1 in region_ids:
+            region_type1 = region_to_region_type[region_id1]
+            gnds1 = region_to_gnds[region_id1]
+            for region_id2 in region_ids:
+                region_type2 = region_to_region_type[region_id2]
+                gnds2 = region_to_gnds[region_id2]
+                if region_id1 != region_id2 and gnds1.issubset(gnds2):
+                    if region_id1 not in child_to_parent_type_to_parents:
+                        child_to_parent_type_to_parents[region_id1] = {}
+                    if (
+                        region_type2
+                        not in child_to_parent_type_to_parents[region_id1]
+                    ):
+                        child_to_parent_type_to_parents[region_id1][
+                            region_type2
+                        ] = []
+                    child_to_parent_type_to_parents[region_id1][
+                        region_type2
+                    ].append(region_id2)
+
+                    if region_id2 not in parent_to_child_type_to_children:
+                        parent_to_child_type_to_children[region_id2] = {}
+                    if (
+                        region_type1
+                        not in parent_to_child_type_to_children[region_id2]
+                    ):
+                        parent_to_child_type_to_children[region_id2][
+                            region_type1
+                        ] = []
+                    parent_to_child_type_to_children[region_id2][
+                        region_type1
+                    ].append(region_id1)
+
+        parent_to_child_type_to_children_json_file = JSONFile(
+            os.path.join("data_temp", "parent_to_child_type_to_children.json")
+        )
+        parent_to_child_type_to_children_json_file.write(
+            parent_to_child_type_to_children
+        )
+        log.info(f"Wrote {parent_to_child_type_to_children_json_file}")
+
+        child_to_parent_type_to_parents_json_file = JSONFile(
+            os.path.join("data_temp", "child_to_parent_type_to_parents.json")
+        )
+        child_to_parent_type_to_parents_json_file.write(
+            child_to_parent_type_to_parents
+        )
+        log.info(f"Wrote {child_to_parent_type_to_parents_json_file}")
+
+    @classmethod
     def build(cls):
         cls.build_denormalized_gnds()
         cls.build_gnds()
+        cls.build_parent_child_maps()

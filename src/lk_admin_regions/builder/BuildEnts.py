@@ -69,8 +69,16 @@ class BuildEnts:
 
     @classmethod
     def build_parents(cls):
-        for parent_label in ["dsd", "district", "province", "country"]:
-            cls.build_parent(parent_label)
+        for parent_label, extra_fields in [
+            (
+                "dsd",
+                ["country_id", "province_id", "district_id", "ed_id"],
+            ),
+            ("district", None),
+            ("province", None),
+            ("country", None),
+        ]:
+            cls.build_parent(parent_label, extra_fields=extra_fields)
 
     @classmethod
     def build_all(cls):
