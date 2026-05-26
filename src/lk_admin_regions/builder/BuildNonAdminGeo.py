@@ -18,6 +18,9 @@ class BuildNonAdminGeo:
         parent_type,
         child_level,
     ):
+        log.debug("-" * 64)
+        log.debug(f"Building for {parent_type}...")
+        log.debug("-" * 64)
         gnds = BuildGNDEnt.read_denormalized_gnds()
 
         parent_id_key = f"{parent_type}_id"

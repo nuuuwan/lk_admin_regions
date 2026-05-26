@@ -16,15 +16,60 @@ log = Log("BuildGeo")
 class BuildGeo:
     DIR_DATA = "data"
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
-
-    ENT_CONFIG = [
-        ["province", 1],
-        ["district", 2],
-        ["dsd", 3],
-        ["gnd", 4],
-    ]
+    GEO_PRECISION_DECIMAL_PLACES = 4
 
     MAX_FILE_SIZE_M = 25
+
+    @staticmethod
+    def round_geojson(geojson_data, ndigits):
+        def round_coords(obj):
+            if isinstance(obj, list):
+                return [round_coords(x) for x in obj]
+            if isinstance(obj, float):
+                return round(obj, ndigits)
+            return obj
+
+        def round_geometry(geom):
+            if not geom:
+                return geom
+            if geom.get("type") == "GeometryCollection":
+                geom["geometries"] = [
+                    round_geometry(g) for g in geom.get("geometries", [])
+                ]
+            elif "coordinates" in geom:
+                geom["coordinates"] = round_coords(geom["coordinates"])
+            return geom
+
+        obj_type = geojson_data.get("type")
+        if obj_type == "FeatureCollection":
+            for feature in geojson_data.get("features", []):
+                feature["geometry"] = round_geometry(feature.get("geometry"))
+        elif obj_type == "Feature":
+            geojson_data["geometry"] = round_geometry(
+                geojson_data.get("geometry")
+            )
+        else:
+            # bare geometry (Point, Polygon, GeometryCollection, etc.)
+            round_geometry(geojson_data)
+
+        return geojson_data
+
+    @staticmethod
+    def round_topojson(topojson_data, ndigits):
+        def round_coords(obj):
+            if isinstance(obj, list):
+                return [round_coords(x) for x in obj]
+            if isinstance(obj, float):
+                return round(obj, ndigits)
+            return obj
+
+        # If quantized, arcs are integers with a transform; rounding floats
+        # is a no-op and precision is already controlled by quantization.
+        if "transform" not in topojson_data:
+            if "arcs" in topojson_data:
+                topojson_data["arcs"] = round_coords(topojson_data["arcs"])
+
+        return topojson_data
 
     @classmethod
     def get_ent_xjson_path(
@@ -50,6 +95,9 @@ class BuildGeo:
         original_geojson_file = JSONFile(original_geojson_path)
         geojson_data = original_geojson_file.read()
         topojson_data = tp.Topology(geojson_data).to_dict()
+        topojson_data = cls.round_topojson(
+            topojson_data, cls.GEO_PRECISION_DECIMAL_PLACES
+        )
         topojson_file.write(topojson_data)
         p_compression = topojson_file.size / original_geojson_file.size
         log.info(
@@ -72,6 +120,9 @@ class BuildGeo:
         simplified_topojson_file = JSONFile(
             cls.get_ent_xjson_path("topojson", precision_label, ent_type_name)
         )
+        simplified_topojson = cls.round_topojson(
+            simplified_topojson, cls.GEO_PRECISION_DECIMAL_PLACES
+        )
         simplified_topojson_file.write(simplified_topojson)
         p_compression = simplified_topojson_file.size / topojson_file.size
         log.info(
@@ -88,12 +139,17 @@ class BuildGeo:
         precision_label,
         ent_type_name,
     ):
-        simplified_geojson = tp.Topology(simplified_topojson).to_geojson()
+        simplified_geojson = json.loads(
+            tp.Topology(simplified_topojson).to_geojson()
+        )
+        simplified_geojson = cls.round_geojson(
+            simplified_geojson, cls.GEO_PRECISION_DECIMAL_PLACES
+        )
 
         simplified_geojson_file = JSONFile(
             cls.get_ent_xjson_path("geojson", precision_label, ent_type_name)
         )
-        simplified_geojson_file.write(json.loads(simplified_geojson))
+        simplified_geojson_file.write(simplified_geojson)
 
         size_before = os.path.getsize(original_geojson_path)
         size_after = os.path.getsize(simplified_geojson_file.path)
@@ -279,6 +335,10 @@ class BuildGeo:
         geojson_data = cls.remap_properties(
             ent_type_name, geojson_data
         )  # remap here
+        geojson_data = cls.round_geojson(
+            geojson_data, cls.GEO_PRECISION_DECIMAL_PLACES
+        )  # round here
+
         JSONFile(new_geojson_path).write(
             geojson_data
         )  # write instead of copy
@@ -307,12 +367,13 @@ class BuildGeo:
         for (
             ent_type_name,
             level,
-        ) in BuildGeo.ENT_CONFIG:
+        ) in [
+            ["province", 1],
+            ["district", 2],
+            ["dsd", 3],
+            ["gnd", 4],
+        ]:
             cls.build_all_for_ent(
                 ent_type_name,
                 level,
             )
-
-
-if __name__ == "__main__":
-    BuildGeo.build_all()
