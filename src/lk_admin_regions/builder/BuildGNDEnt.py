@@ -4,8 +4,9 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildGNDEnt")
 
@@ -152,12 +153,10 @@ class BuildGNDEnt:
             country_name=raw_d["hum_adm0_name"] or "Sri Lanka",
             # province
             province_id=raw_d["dcs_province_id"],
-            province_name=raw_d["hum_adm1_name"]
-            or raw_d["dcs_province_name"],
+            province_name=raw_d["hum_adm1_name"] or raw_d["dcs_province_name"],
             # district
             district_id=raw_d["dcs_district_id"],
-            district_name=raw_d["hum_adm2_name"]
-            or raw_d["dcs_district_name"],
+            district_name=raw_d["hum_adm2_name"] or raw_d["dcs_district_name"],
             # dsd
             dsd_id=raw_d["dcs_dsd_id"],
             dsd_name=raw_d["hum_adm3_name"] or raw_d["dcs_dsd_name"],
@@ -298,6 +297,13 @@ class BuildGNDEnt:
             child_to_parent_type_to_parents
         )
         log.info(f"Wrote {child_to_parent_type_to_parents_json_file}")
+
+    @classmethod
+    def get_child_to_parent_type_to_parents(cls):
+        child_to_parent_type_to_parents_json_file = JSONFile(
+            os.path.join("data_temp", "child_to_parent_type_to_parents.json")
+        )
+        return child_to_parent_type_to_parents_json_file.read()
 
     @classmethod
     def build(cls):
