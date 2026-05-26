@@ -9,7 +9,10 @@
         "name": "Colombo",
         "area_sqkm": 688.17,
         "center_lat": 6.869822,
-        "center_lng": 80.018487
+        "center_lng": 80.018487,
+        "province_id": "LK-1",
+        "ed_id": "EC-01",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -1007,7 +1010,10 @@
         "name": "Gampaha",
         "area_sqkm": 1385.23,
         "center_lat": 7.123406,
-        "center_lng": 80.018206
+        "center_lng": 80.018206,
+        "province_id": "LK-1",
+        "ed_id": "EC-02",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -2043,7 +2049,10 @@
         "name": "Kalutara",
         "area_sqkm": 1646.99,
         "center_lat": 6.577185,
-        "center_lng": 80.127744
+        "center_lng": 80.127744,
+        "province_id": "LK-1",
+        "ed_id": "EC-03",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3091,7 +3100,10 @@
         "name": "Kandy",
         "area_sqkm": 1927.69,
         "center_lat": 7.273178,
-        "center_lng": 80.708811
+        "center_lng": 80.708811,
+        "province_id": "LK-2",
+        "ed_id": "EC-04",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -4649,7 +4661,10 @@
         "name": "Matale",
         "area_sqkm": 2058.75,
         "center_lat": 7.667651,
-        "center_lng": 80.730702
+        "center_lng": 80.730702,
+        "province_id": "LK-2",
+        "ed_id": "EC-05",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -5871,7 +5886,10 @@
         "name": "Nuwara Eliya",
         "area_sqkm": 1744.81,
         "center_lat": 6.974738,
-        "center_lng": 80.711186
+        "center_lng": 80.711186,
+        "province_id": "LK-2",
+        "ed_id": "EC-06",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -7165,7 +7183,10 @@
         "name": "Galle",
         "area_sqkm": 1613.49,
         "center_lat": 6.222792,
-        "center_lng": 80.251811
+        "center_lng": 80.251811,
+        "province_id": "LK-3",
+        "ed_id": "EC-07",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8561,7 +8582,10 @@
         "name": "Matara",
         "area_sqkm": 1306.37,
         "center_lat": 6.142725,
-        "center_lng": 80.539846
+        "center_lng": 80.539846,
+        "province_id": "LK-3",
+        "ed_id": "EC-08",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -10081,7 +10105,10 @@
         "name": "Hambantota",
         "area_sqkm": 2625.06,
         "center_lat": 6.254039,
-        "center_lng": 81.091281
+        "center_lng": 81.091281,
+        "province_id": "LK-3",
+        "ed_id": "EC-09",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -11895,7 +11922,10 @@
         "name": "Jaffna",
         "area_sqkm": 1091.24,
         "center_lat": 9.687873,
-        "center_lng": 80.116157
+        "center_lng": 80.116157,
+        "province_id": "LK-4",
+        "ed_id": "EC-10",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -17223,7 +17253,10 @@
         "name": "Mannar",
         "area_sqkm": 2010.83,
         "center_lat": 8.878476,
-        "center_lng": 80.091433
+        "center_lng": 80.091433,
+        "province_id": "LK-4",
+        "ed_id": "EC-11",
+        "pd_id": "EC-11A"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20515,7 +20548,10 @@
         "name": "Vavuniya",
         "area_sqkm": 1934.91,
         "center_lat": 8.853162,
-        "center_lng": 80.470869
+        "center_lng": 80.470869,
+        "province_id": "LK-4",
+        "ed_id": "EC-11",
+        "pd_id": "EC-11B"
       },
       "geometry": {
         "type": "Polygon",
@@ -21437,7 +21473,10 @@
         "name": "Mullaitivu",
         "area_sqkm": 2681.15,
         "center_lat": 9.170128,
-        "center_lng": 80.552726
+        "center_lng": 80.552726,
+        "province_id": "LK-4",
+        "ed_id": "EC-11",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -22255,7 +22294,10 @@
         "name": "Kilinochchi",
         "area_sqkm": 1319.29,
         "center_lat": 9.421424,
-        "center_lng": 80.309356
+        "center_lng": 80.309356,
+        "province_id": "LK-4",
+        "ed_id": "EC-10",
+        "pd_id": "EC-10K"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28687,7 +28729,10 @@
         "name": "Batticaloa",
         "area_sqkm": 2480.5,
         "center_lat": 7.795426,
-        "center_lng": 81.478872
+        "center_lng": 81.478872,
+        "province_id": "LK-5",
+        "ed_id": "EC-12",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32283,7 +32328,10 @@
         "name": "Ampara",
         "area_sqkm": 4474.66,
         "center_lat": 7.233261,
-        "center_lng": 81.553888
+        "center_lng": 81.553888,
+        "province_id": "LK-5",
+        "ed_id": "EC-13",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -34545,7 +34593,10 @@
         "name": "Trincomalee",
         "area_sqkm": 2692.11,
         "center_lat": 8.553962,
-        "center_lng": 81.091548
+        "center_lng": 81.091548,
+        "province_id": "LK-5",
+        "ed_id": "EC-14",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -36731,7 +36782,10 @@
         "name": "Kurunegala",
         "area_sqkm": 4905.71,
         "center_lat": 7.664511,
-        "center_lng": 80.236804
+        "center_lng": 80.236804,
+        "province_id": "LK-6",
+        "ed_id": "EC-15",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -38633,7 +38687,10 @@
         "name": "Puttalam",
         "area_sqkm": 3133.88,
         "center_lat": 7.975263,
-        "center_lng": 79.910874
+        "center_lng": 79.910874,
+        "province_id": "LK-6",
+        "ed_id": "EC-16",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -41641,7 +41698,10 @@
         "name": "Anuradhapura",
         "area_sqkm": 7218.29,
         "center_lat": 8.392067,
-        "center_lng": 80.51313
+        "center_lng": 80.51313,
+        "province_id": "LK-7",
+        "ed_id": "EC-17",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -43495,7 +43555,10 @@
         "name": "Polonnaruwa",
         "area_sqkm": 3469.72,
         "center_lat": 7.994209,
-        "center_lng": 81.028281
+        "center_lng": 81.028281,
+        "province_id": "LK-7",
+        "ed_id": "EC-18",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -45241,7 +45304,10 @@
         "name": "Badulla",
         "area_sqkm": 2871.96,
         "center_lat": 7.073578,
-        "center_lng": 81.044926
+        "center_lng": 81.044926,
+        "province_id": "LK-8",
+        "ed_id": "EC-19",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -47079,7 +47145,10 @@
         "name": "Monaragala",
         "area_sqkm": 5757.99,
         "center_lat": 6.787062,
-        "center_lng": 81.301821
+        "center_lng": 81.301821,
+        "province_id": "LK-8",
+        "ed_id": "EC-20",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -49185,7 +49254,10 @@
         "name": "Ratnapura",
         "area_sqkm": 3287.08,
         "center_lat": 6.586622,
-        "center_lng": 80.565541
+        "center_lng": 80.565541,
+        "province_id": "LK-9",
+        "ed_id": "EC-21",
+        "pd_id": null
       },
       "geometry": {
         "type": "Polygon",
@@ -50887,7 +50959,10 @@
         "name": "Kegalle",
         "area_sqkm": 1657.73,
         "center_lat": 7.104294,
-        "center_lng": 80.342772
+        "center_lng": 80.342772,
+        "province_id": "LK-9",
+        "ed_id": "EC-22",
+        "pd_id": null
       },
       "geometry": {
         "type": "MultiPolygon",

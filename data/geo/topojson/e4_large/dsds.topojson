@@ -9,7 +9,12 @@
             "name": "Colombo",
             "area_sqkm": 24.54,
             "center_lat": 6.945084,
-            "center_lng": 79.856234
+            "center_lng": 79.856234,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": null,
+            "lg_id": "LK-11-011"
           },
           "type": "Polygon",
           "arcs": [
@@ -31,7 +36,12 @@
             "name": "Kolonnawa",
             "area_sqkm": 25.93,
             "center_lat": 6.93437,
-            "center_lng": 79.915175
+            "center_lng": 79.915175,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01H",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -57,7 +67,12 @@
             "name": "Kaduwela",
             "area_sqkm": 86.74,
             "center_lat": 6.903511,
-            "center_lng": 79.977309
+            "center_lng": 79.977309,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01J",
+            "lg_id": "LK-11-015"
           },
           "type": "Polygon",
           "arcs": [
@@ -86,7 +101,12 @@
             "name": "Homagama",
             "area_sqkm": 120.32,
             "center_lat": 6.833595,
-            "center_lng": 80.015498
+            "center_lng": 80.015498,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01L",
+            "lg_id": "LK-11-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -115,7 +135,12 @@
             "name": "Seethawaka",
             "area_sqkm": 145.98,
             "center_lat": 6.922503,
-            "center_lng": 80.147335
+            "center_lng": 80.147335,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01K",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -136,7 +161,12 @@
             "name": "Padukka",
             "area_sqkm": 106.19,
             "center_lat": 6.833676,
-            "center_lng": 80.121779
+            "center_lng": 80.121779,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01K",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -156,7 +186,12 @@
             "name": "Maharagama",
             "area_sqkm": 37.8,
             "center_lat": 6.856502,
-            "center_lng": 79.941942
+            "center_lng": 79.941942,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01M",
+            "lg_id": "LK-11-023"
           },
           "type": "Polygon",
           "arcs": [
@@ -184,7 +219,12 @@
             "name": "Sri Jayawardanapura Kotte",
             "area_sqkm": 16.32,
             "center_lat": 6.891034,
-            "center_lng": 79.898428
+            "center_lng": 79.898428,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01I",
+            "lg_id": "LK-11-014"
           },
           "type": "Polygon",
           "arcs": [
@@ -213,7 +253,12 @@
             "name": "Thimbirigasyaya",
             "area_sqkm": 22.33,
             "center_lat": 6.90017,
-            "center_lng": 79.869891
+            "center_lng": 79.869891,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": null,
+            "lg_id": "LK-11-011"
           },
           "type": "Polygon",
           "arcs": [
@@ -241,7 +286,12 @@
             "name": "Dehiwala",
             "area_sqkm": 8.46,
             "center_lat": 6.858462,
-            "center_lng": 79.875429
+            "center_lng": 79.875429,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01F",
+            "lg_id": "LK-11-012"
           },
           "type": "Polygon",
           "arcs": [
@@ -277,7 +327,12 @@
             "name": "Ratmalana",
             "area_sqkm": 12.86,
             "center_lat": 6.827061,
-            "center_lng": 79.877974
+            "center_lng": 79.877974,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01G",
+            "lg_id": "LK-11-012"
           },
           "type": "Polygon",
           "arcs": [
@@ -296,7 +351,12 @@
             "name": "Moratuwa",
             "area_sqkm": 19.3,
             "center_lat": 6.782566,
-            "center_lng": 79.890891
+            "center_lng": 79.890891,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01O",
+            "lg_id": "LK-11-013"
           },
           "type": "Polygon",
           "arcs": [
@@ -315,7 +375,12 @@
             "name": "Kesbewa",
             "area_sqkm": 61.41,
             "center_lat": 6.802645,
-            "center_lng": 79.928334
+            "center_lng": 79.928334,
+            "province_id": "LK-1",
+            "district_id": "LK-11",
+            "ed_id": "EC-01",
+            "pd_id": "EC-01N",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -357,7 +422,12 @@
             "name": "Negombo",
             "area_sqkm": 29.19,
             "center_lat": 7.212174,
-            "center_lng": 79.844401
+            "center_lng": 79.844401,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02B",
+            "lg_id": "LK-12-011"
           },
           "type": "Polygon",
           "arcs": [
@@ -377,7 +447,12 @@
             "name": "Katana",
             "area_sqkm": 107.8,
             "center_lat": 7.193574,
-            "center_lng": 79.889949
+            "center_lng": 79.889949,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -406,7 +481,12 @@
             "name": "Divulapitiya",
             "area_sqkm": 203.16,
             "center_lat": 7.253922,
-            "center_lng": 80.006882
+            "center_lng": 80.006882,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02D",
+            "lg_id": "LK-12-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -429,7 +509,12 @@
             "name": "Mirigama",
             "area_sqkm": 188.81,
             "center_lat": 7.225181,
-            "center_lng": 80.12288
+            "center_lng": 80.12288,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02E",
+            "lg_id": "LK-12-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -460,7 +545,12 @@
             "name": "Minuwangoda",
             "area_sqkm": 132.12,
             "center_lat": 7.155035,
-            "center_lng": 79.979044
+            "center_lng": 79.979044,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02F",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -493,7 +583,12 @@
             "name": "Wattala",
             "area_sqkm": 57.17,
             "center_lat": 7.035208,
-            "center_lng": 79.88109
+            "center_lng": 79.88109,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -518,7 +613,12 @@
             "name": "Ja Ela",
             "area_sqkm": 62.45,
             "center_lat": 7.072037,
-            "center_lng": 79.90888
+            "center_lng": 79.90888,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02I",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -543,7 +643,12 @@
             "name": "Gampaha",
             "area_sqkm": 91.82,
             "center_lat": 7.07124,
-            "center_lng": 79.994244
+            "center_lng": 79.994244,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02H",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -571,7 +676,12 @@
             "name": "Attanagalla",
             "area_sqkm": 154.83,
             "center_lat": 7.114342,
-            "center_lng": 80.109868
+            "center_lng": 80.109868,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02G",
+            "lg_id": "LK-12-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -609,7 +719,12 @@
             "name": "Dompe",
             "area_sqkm": 179.18,
             "center_lat": 6.990491,
-            "center_lng": 80.098929
+            "center_lng": 80.098929,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02K",
+            "lg_id": "LK-12-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -631,7 +746,12 @@
             "name": "Mahara",
             "area_sqkm": 95.75,
             "center_lat": 7.029309,
-            "center_lng": 80.01439
+            "center_lng": 80.01439,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02J",
+            "lg_id": "LK-12-039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -666,7 +786,12 @@
             "name": "Kelaniya",
             "area_sqkm": 21.94,
             "center_lat": 6.970356,
-            "center_lng": 79.909863
+            "center_lng": 79.909863,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02M",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -688,7 +813,12 @@
             "name": "Biyagama",
             "area_sqkm": 61.01,
             "center_lat": 6.968689,
-            "center_lng": 79.978247
+            "center_lng": 79.978247,
+            "province_id": "LK-1",
+            "district_id": "LK-12",
+            "ed_id": "EC-02",
+            "pd_id": "EC-02L",
+            "lg_id": "LK-12-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -711,7 +841,12 @@
             "name": "Panadura",
             "area_sqkm": 45.4,
             "center_lat": 6.715794,
-            "center_lng": 79.923102
+            "center_lng": 79.923102,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -745,7 +880,12 @@
             "name": "Bandaragama",
             "area_sqkm": 57.08,
             "center_lat": 6.718529,
-            "center_lng": 79.975934
+            "center_lng": 79.975934,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03B",
+            "lg_id": "LK-13-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -777,7 +917,12 @@
             "name": "Horana",
             "area_sqkm": 111.36,
             "center_lat": 6.756429,
-            "center_lng": 80.055471
+            "center_lng": 80.055471,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -804,7 +949,12 @@
             "name": "Ingiriya",
             "area_sqkm": 94.69,
             "center_lat": 6.762529,
-            "center_lng": 80.15212
+            "center_lng": 80.15212,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03C",
+            "lg_id": "LK-13-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -826,7 +976,12 @@
             "name": "Bulathsinhala",
             "area_sqkm": 211.03,
             "center_lat": 6.648237,
-            "center_lng": 80.174565
+            "center_lng": 80.174565,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03D",
+            "lg_id": "LK-13-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -852,7 +1007,12 @@
             "name": "Madurawala",
             "area_sqkm": 62.19,
             "center_lat": 6.651918,
-            "center_lng": 80.093422
+            "center_lng": 80.093422,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03D",
+            "lg_id": "LK-13-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -873,7 +1033,12 @@
             "name": "Millaniya",
             "area_sqkm": 79.42,
             "center_lat": 6.658585,
-            "center_lng": 80.031028
+            "center_lng": 80.031028,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03B",
+            "lg_id": "LK-13-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -899,7 +1064,12 @@
             "name": "Kalutara",
             "area_sqkm": 75.57,
             "center_lat": 6.620205,
-            "center_lng": 79.971212
+            "center_lng": 79.971212,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03F",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -929,7 +1099,12 @@
             "name": "Beruwala",
             "area_sqkm": 73.52,
             "center_lat": 6.488797,
-            "center_lng": 80.004738
+            "center_lng": 80.004738,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03G",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -991,7 +1166,12 @@
             "name": "Dodangoda",
             "area_sqkm": 109.85,
             "center_lat": 6.571467,
-            "center_lng": 80.044831
+            "center_lng": 80.044831,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03E",
+            "lg_id": "LK-13-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -1022,7 +1202,12 @@
             "name": "Matugama",
             "area_sqkm": 138.88,
             "center_lat": 6.488,
-            "center_lng": 80.090993
+            "center_lng": 80.090993,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03E",
+            "lg_id": "LK-13-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -1049,7 +1234,12 @@
             "name": "Agalawatta",
             "area_sqkm": 92.24,
             "center_lat": 6.515637,
-            "center_lng": 80.174536
+            "center_lng": 80.174536,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": null,
+            "lg_id": "LK-13-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -1072,7 +1262,12 @@
             "name": "Palindanuwara",
             "area_sqkm": 284.12,
             "center_lat": 6.506966,
-            "center_lng": 80.274635
+            "center_lng": 80.274635,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03H",
+            "lg_id": "LK-13-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -1095,7 +1290,12 @@
             "name": "Walallawita",
             "area_sqkm": 211.65,
             "center_lat": 6.406665,
-            "center_lng": 80.187579
+            "center_lng": 80.187579,
+            "province_id": "LK-1",
+            "district_id": "LK-13",
+            "ed_id": "EC-03",
+            "pd_id": "EC-03H",
+            "lg_id": "LK-13-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -1119,7 +1319,12 @@
             "name": "Tumpane",
             "area_sqkm": 50.92,
             "center_lat": 7.365458,
-            "center_lng": 80.514548
+            "center_lng": 80.514548,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04A",
+            "lg_id": "LK-21-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -1138,7 +1343,12 @@
             "name": "Poojapitiya",
             "area_sqkm": 58.6,
             "center_lat": 7.400318,
-            "center_lng": 80.56578
+            "center_lng": 80.56578,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04B",
+            "lg_id": "LK-21-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -1160,7 +1370,12 @@
             "name": "Akurana",
             "area_sqkm": 29.9,
             "center_lat": 7.391395,
-            "center_lng": 80.617968
+            "center_lng": 80.617968,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04B",
+            "lg_id": "LK-21-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -1178,7 +1393,12 @@
             "name": "Pathadumbara",
             "area_sqkm": 49.0,
             "center_lat": 7.350373,
-            "center_lng": 80.661335
+            "center_lng": 80.661335,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1203,7 +1423,12 @@
             "name": "Panvila",
             "area_sqkm": 92.63,
             "center_lat": 7.409011,
-            "center_lng": 80.742498
+            "center_lng": 80.742498,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04C",
+            "lg_id": "LK-21-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -1230,7 +1455,12 @@
             "name": "Ududumbara",
             "area_sqkm": 277.55,
             "center_lat": 7.328827,
-            "center_lng": 80.874486
+            "center_lng": 80.874486,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04D",
+            "lg_id": "LK-21-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -1251,7 +1481,12 @@
             "name": "Minipe",
             "area_sqkm": 249.31,
             "center_lat": 7.348541,
-            "center_lng": 80.949201
+            "center_lng": 80.949201,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04D",
+            "lg_id": "LK-21-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -1272,7 +1507,12 @@
             "name": "Medadumbara",
             "area_sqkm": 188.81,
             "center_lat": 7.302731,
-            "center_lng": 80.800121
+            "center_lng": 80.800121,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04E",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1295,7 +1535,12 @@
             "name": "Kundasale",
             "area_sqkm": 81.19,
             "center_lat": 7.305382,
-            "center_lng": 80.708789
+            "center_lng": 80.708789,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04F",
+            "lg_id": "LK-21-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -1325,7 +1570,12 @@
             "name": "Gangawata Korale",
             "area_sqkm": 59.61,
             "center_lat": 7.273186,
-            "center_lng": 80.638555
+            "center_lng": 80.638555,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1350,7 +1600,12 @@
             "name": "Harispattuwa",
             "area_sqkm": 49.5,
             "center_lat": 7.328456,
-            "center_lng": 80.588236
+            "center_lng": 80.588236,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04B",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1373,7 +1628,12 @@
             "name": "Hatharaliyadda",
             "area_sqkm": 63.99,
             "center_lat": 7.331897,
-            "center_lng": 80.479684
+            "center_lng": 80.479684,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04A",
+            "lg_id": "LK-21-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -1394,7 +1654,12 @@
             "name": "Yatinuwara",
             "area_sqkm": 69.11,
             "center_lat": 7.282819,
-            "center_lng": 80.538023
+            "center_lng": 80.538023,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04J",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1416,7 +1681,12 @@
             "name": "Udunuwara",
             "area_sqkm": 68.84,
             "center_lat": 7.222683,
-            "center_lng": 80.559451
+            "center_lng": 80.559451,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04K",
+            "lg_id": "LK-21-046"
           },
           "type": "Polygon",
           "arcs": [
@@ -1436,7 +1706,12 @@
             "name": "Doluwa",
             "area_sqkm": 93.52,
             "center_lat": 7.167758,
-            "center_lng": 80.647739
+            "center_lng": 80.647739,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04L",
+            "lg_id": "LK-21-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -1460,7 +1735,12 @@
             "name": "Pathahewaheta",
             "area_sqkm": 83.84,
             "center_lat": 7.229869,
-            "center_lng": 80.705347
+            "center_lng": 80.705347,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04G",
+            "lg_id": "LK-21-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -1487,7 +1767,12 @@
             "name": "Deltota",
             "area_sqkm": 49.49,
             "center_lat": 7.18303,
-            "center_lng": 80.700227
+            "center_lng": 80.700227,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04G",
+            "lg_id": "LK-21-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -1511,7 +1796,12 @@
             "name": "Udapalatha",
             "area_sqkm": 94.12,
             "center_lat": 7.126456,
-            "center_lng": 80.604496
+            "center_lng": 80.604496,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1540,7 +1830,12 @@
             "name": "Ganga Ihala Korale",
             "area_sqkm": 96.17,
             "center_lat": 7.112563,
-            "center_lng": 80.512388
+            "center_lng": 80.512388,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04M",
+            "lg_id": "LK-21-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -1564,7 +1859,12 @@
             "name": "Pasbagekorale",
             "area_sqkm": 121.57,
             "center_lat": 7.018554,
-            "center_lng": 80.53675
+            "center_lng": 80.53675,
+            "province_id": "LK-2",
+            "district_id": "LK-21",
+            "ed_id": "EC-04",
+            "pd_id": "EC-04M",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1586,7 +1886,12 @@
             "name": "Galewela",
             "area_sqkm": 196.94,
             "center_lat": 7.779286,
-            "center_lng": 80.570693
+            "center_lng": 80.570693,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A",
+            "lg_id": "LK-22-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -1607,7 +1912,12 @@
             "name": "Dambulla",
             "area_sqkm": 453.33,
             "center_lat": 7.875433,
-            "center_lng": 80.717938
+            "center_lng": 80.717938,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1632,7 +1942,12 @@
             "name": "Naula",
             "area_sqkm": 287.89,
             "center_lat": 7.688935,
-            "center_lng": 80.707889
+            "center_lng": 80.707889,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B",
+            "lg_id": "LK-22-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -1654,7 +1969,12 @@
             "name": "Pallepola",
             "area_sqkm": 82.9,
             "center_lat": 7.647136,
-            "center_lng": 80.599248
+            "center_lng": 80.599248,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05A",
+            "lg_id": "LK-22-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -1677,7 +1997,12 @@
             "name": "Yatawatta",
             "area_sqkm": 67.39,
             "center_lat": 7.548664,
-            "center_lng": 80.588859
+            "center_lng": 80.588859,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05C",
+            "lg_id": "LK-22-041"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -1704,7 +2029,12 @@
             "name": "Matale",
             "area_sqkm": 70.76,
             "center_lat": 7.541057,
-            "center_lng": 80.629591
+            "center_lng": 80.629591,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1727,7 +2057,12 @@
             "name": "Ambanganga",
             "area_sqkm": 55.38,
             "center_lat": 7.561141,
-            "center_lng": 80.678754
+            "center_lng": 80.678754,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B",
+            "lg_id": "LK-22-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -1746,7 +2081,12 @@
             "name": "Laggala",
             "area_sqkm": 369.93,
             "center_lat": 7.556182,
-            "center_lng": 80.807964
+            "center_lng": 80.807964,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B",
+            "lg_id": "LK-22-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -1769,7 +2109,12 @@
             "name": "Wilgamuwa",
             "area_sqkm": 290.84,
             "center_lat": 7.603284,
-            "center_lng": 80.929334
+            "center_lng": 80.929334,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05B",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1790,7 +2135,12 @@
             "name": "Rattota",
             "area_sqkm": 103.92,
             "center_lat": 7.485932,
-            "center_lng": 80.685504
+            "center_lng": 80.685504,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": "EC-05D",
+            "lg_id": "LK-22-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -1812,7 +2162,12 @@
             "name": "Ukuwela",
             "area_sqkm": 79.47,
             "center_lat": 7.429945,
-            "center_lng": 80.63884
+            "center_lng": 80.63884,
+            "province_id": "LK-2",
+            "district_id": "LK-22",
+            "ed_id": "EC-05",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1837,7 +2192,12 @@
             "name": "Kothmale East",
             "area_sqkm": 140.0,
             "center_lat": 7.038304,
-            "center_lng": 80.686786
+            "center_lng": 80.686786,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06B",
+            "lg_id": "LK-23-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -1859,7 +2219,12 @@
             "name": "Hanguranketa",
             "area_sqkm": 132.88,
             "center_lat": 7.157743,
-            "center_lng": 80.76851
+            "center_lng": 80.76851,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06C",
+            "lg_id": "LK-23-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -1882,7 +2247,12 @@
             "name": "Nildandahinna",
             "area_sqkm": 171.24,
             "center_lat": 7.097972,
-            "center_lng": 80.917383
+            "center_lng": 80.917383,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06D",
+            "lg_id": "LK-23-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -1903,7 +2273,12 @@
             "name": "Nuwara Eliya",
             "area_sqkm": 222.06,
             "center_lat": 6.929863,
-            "center_lng": 80.780078
+            "center_lng": 80.780078,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -1934,7 +2309,12 @@
             "name": "Ambagamuwa Korale",
             "area_sqkm": 135.59,
             "center_lat": 6.953456,
-            "center_lng": 80.485346
+            "center_lng": 80.485346,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A",
+            "lg_id": "LK-23-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -1953,7 +2333,12 @@
             "name": "Mathurata",
             "area_sqkm": 92.84,
             "center_lat": 7.073917,
-            "center_lng": 80.787953
+            "center_lng": 80.787953,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06C",
+            "lg_id": "LK-23-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -1972,7 +2357,12 @@
             "name": "Kothmale West",
             "area_sqkm": 86.79,
             "center_lat": 7.038755,
-            "center_lng": 80.60659
+            "center_lng": 80.60659,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06B",
+            "lg_id": "LK-23-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -1991,7 +2381,12 @@
             "name": "Walapane",
             "area_sqkm": 151.65,
             "center_lat": 7.086321,
-            "center_lng": 80.852406
+            "center_lng": 80.852406,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06D",
+            "lg_id": "LK-23-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -2012,7 +2407,12 @@
             "name": "Thalawakele",
             "area_sqkm": 260.52,
             "center_lat": 6.888259,
-            "center_lng": 80.691667
+            "center_lng": 80.691667,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -2038,7 +2438,12 @@
             "name": "Norwood",
             "area_sqkm": 351.25,
             "center_lat": 6.830611,
-            "center_lng": 80.601387
+            "center_lng": 80.601387,
+            "province_id": "LK-2",
+            "district_id": "LK-23",
+            "ed_id": "EC-06",
+            "pd_id": "EC-06A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -2061,7 +2466,12 @@
             "name": "Bentota",
             "area_sqkm": 70.97,
             "center_lat": 6.386622,
-            "center_lng": 80.055626
+            "center_lng": 80.055626,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07D",
+            "lg_id": "LK-31-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -2083,7 +2493,12 @@
             "name": "Balapitiya",
             "area_sqkm": 54.26,
             "center_lat": 6.314523,
-            "center_lng": 80.050593
+            "center_lng": 80.050593,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07A",
+            "lg_id": "LK-31-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -2102,7 +2517,12 @@
             "name": "Karandeniya",
             "area_sqkm": 88.55,
             "center_lat": 6.301085,
-            "center_lng": 80.100581
+            "center_lng": 80.100581,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07C",
+            "lg_id": "LK-31-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -2122,7 +2542,12 @@
             "name": "Elpitiya",
             "area_sqkm": 150.64,
             "center_lat": 6.290338,
-            "center_lng": 80.185674
+            "center_lng": 80.185674,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07D",
+            "lg_id": "LK-31-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -2145,7 +2570,12 @@
             "name": "Niyagama",
             "area_sqkm": 104.37,
             "center_lat": 6.302514,
-            "center_lng": 80.251476
+            "center_lng": 80.251476,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07E",
+            "lg_id": "LK-31-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -2165,7 +2595,12 @@
             "name": "Thawalama",
             "area_sqkm": 173.7,
             "center_lat": 6.292952,
-            "center_lng": 80.354998
+            "center_lng": 80.354998,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07E",
+            "lg_id": "LK-31-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -2187,7 +2622,12 @@
             "name": "Neluwa",
             "area_sqkm": 152.51,
             "center_lat": 6.360383,
-            "center_lng": 80.409622
+            "center_lng": 80.409622,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07E",
+            "lg_id": "LK-31-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -2207,7 +2647,12 @@
             "name": "Nagoda",
             "area_sqkm": 173.43,
             "center_lat": 6.199194,
-            "center_lng": 80.313741
+            "center_lng": 80.313741,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": null,
+            "lg_id": "LK-31-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -2239,7 +2684,12 @@
             "name": "Baddegama",
             "area_sqkm": 66.68,
             "center_lat": 6.143984,
-            "center_lng": 80.192117
+            "center_lng": 80.192117,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": null,
+            "lg_id": "LK-31-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -2267,7 +2717,12 @@
             "name": "Welivitiya-Divitura",
             "area_sqkm": 56.47,
             "center_lat": 6.206917,
-            "center_lng": 80.180778
+            "center_lng": 80.180778,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07C",
+            "lg_id": "LK-31-047"
           },
           "type": "Polygon",
           "arcs": [
@@ -2298,7 +2753,12 @@
             "name": "Ambalangoda",
             "area_sqkm": 49.22,
             "center_lat": 6.222263,
-            "center_lng": 80.101832
+            "center_lng": 80.101832,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07B",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -2322,7 +2782,12 @@
             "name": "Gonapinuwala",
             "area_sqkm": 25.39,
             "center_lat": 6.16609,
-            "center_lng": 80.131284
+            "center_lng": 80.131284,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07B",
+            "lg_id": "LK-31-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -2342,7 +2807,12 @@
             "name": "Hikkaduwa",
             "area_sqkm": 13.04,
             "center_lat": 6.128233,
-            "center_lng": 80.119869
+            "center_lng": 80.119869,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07G",
+            "lg_id": "LK-31-022"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2369,7 +2839,12 @@
             "name": "Galle 4 Gravets",
             "area_sqkm": 22.3,
             "center_lat": 6.053635,
-            "center_lng": 80.207916
+            "center_lng": 80.207916,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07H",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -2390,7 +2865,12 @@
             "name": "Bope-Poddala",
             "area_sqkm": 28.61,
             "center_lat": 6.083812,
-            "center_lng": 80.216468
+            "center_lng": 80.216468,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07I",
+            "lg_id": "LK-31-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -2411,7 +2891,12 @@
             "name": "Akmeemana",
             "area_sqkm": 71.2,
             "center_lat": 6.059798,
-            "center_lng": 80.284577
+            "center_lng": 80.284577,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07I",
+            "lg_id": "LK-31-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -2435,7 +2920,12 @@
             "name": "Yakkalamulla",
             "area_sqkm": 108.68,
             "center_lat": 6.107609,
-            "center_lng": 80.360034
+            "center_lng": 80.360034,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07F",
+            "lg_id": "LK-31-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -2467,7 +2957,12 @@
             "name": "Imaduwa",
             "area_sqkm": 58.36,
             "center_lat": 6.032628,
-            "center_lng": 80.358504
+            "center_lng": 80.358504,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07J",
+            "lg_id": "LK-31-046"
           },
           "type": "Polygon",
           "arcs": [
@@ -2492,7 +2987,12 @@
             "name": "Habaraduwa",
             "area_sqkm": 48.81,
             "center_lat": 6.001825,
-            "center_lng": 80.320646
+            "center_lng": 80.320646,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07J",
+            "lg_id": "LK-31-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -2514,7 +3014,12 @@
             "name": "Wanduramba",
             "area_sqkm": 46.18,
             "center_lat": 6.125375,
-            "center_lng": 80.260637
+            "center_lng": 80.260637,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07F",
+            "lg_id": "LK-31-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -2549,7 +3054,12 @@
             "name": "Madampagama",
             "area_sqkm": 23.39,
             "center_lat": 6.190009,
-            "center_lng": 80.08404
+            "center_lng": 80.08404,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07G",
+            "lg_id": "LK-31-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -2568,7 +3078,12 @@
             "name": "Rathgama",
             "area_sqkm": 26.74,
             "center_lat": 6.101616,
-            "center_lng": 80.157609
+            "center_lng": 80.157609,
+            "province_id": "LK-3",
+            "district_id": "LK-31",
+            "ed_id": "EC-07",
+            "pd_id": "EC-07G",
+            "lg_id": "LK-31-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -2587,7 +3102,12 @@
             "name": "Pitabaddara",
             "area_sqkm": 136.99,
             "center_lat": 6.239504,
-            "center_lng": 80.473365
+            "center_lng": 80.473365,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08A",
+            "lg_id": "LK-32-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -2609,7 +3129,12 @@
             "name": "Kotapola",
             "area_sqkm": 178.98,
             "center_lat": 6.322503,
-            "center_lng": 80.538487
+            "center_lng": 80.538487,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08A",
+            "lg_id": "LK-32-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -2629,7 +3154,12 @@
             "name": "Pasgoda",
             "area_sqkm": 154.01,
             "center_lat": 6.276173,
-            "center_lng": 80.608151
+            "center_lng": 80.608151,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": null,
+            "lg_id": "LK-32-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -2652,7 +3182,12 @@
             "name": "Mulatiyana",
             "area_sqkm": 120.4,
             "center_lat": 6.147335,
-            "center_lng": 80.586973
+            "center_lng": 80.586973,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08B",
+            "lg_id": "LK-32-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -2674,7 +3209,12 @@
             "name": "Athuraliya",
             "area_sqkm": 63.05,
             "center_lat": 6.117181,
-            "center_lng": 80.509603
+            "center_lng": 80.509603,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08C",
+            "lg_id": "LK-32-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -2694,7 +3234,12 @@
             "name": "Akuressa",
             "area_sqkm": 150.06,
             "center_lat": 6.135891,
-            "center_lng": 80.440469
+            "center_lng": 80.440469,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08C",
+            "lg_id": "LK-32-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -2716,7 +3261,12 @@
             "name": "Welipitiya",
             "area_sqkm": 69.3,
             "center_lat": 6.016747,
-            "center_lng": 80.439249
+            "center_lng": 80.439249,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08G",
+            "lg_id": "LK-32-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -2737,7 +3287,12 @@
             "name": "Malimbada",
             "area_sqkm": 42.86,
             "center_lat": 6.019686,
-            "center_lng": 80.49915
+            "center_lng": 80.49915,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08C",
+            "lg_id": "LK-32-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -2759,7 +3314,12 @@
             "name": "Kaburupitiya",
             "area_sqkm": 57.89,
             "center_lat": 6.06571,
-            "center_lng": 80.560668
+            "center_lng": 80.560668,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08D",
+            "lg_id": "LK-32-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -2780,7 +3340,12 @@
             "name": "Hakmana",
             "area_sqkm": 49.52,
             "center_lat": 6.094981,
-            "center_lng": 80.649031
+            "center_lng": 80.649031,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": null,
+            "lg_id": "LK-32-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -2802,7 +3367,12 @@
             "name": "Kirinda Puhulwella",
             "area_sqkm": 41.91,
             "center_lat": 6.046066,
-            "center_lng": 80.636112
+            "center_lng": 80.636112,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08D",
+            "lg_id": "LK-32-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -2823,7 +3393,12 @@
             "name": "Thihagoda",
             "area_sqkm": 52.81,
             "center_lat": 6.010286,
-            "center_lng": 80.560316
+            "center_lng": 80.560316,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08D",
+            "lg_id": "LK-32-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -2843,7 +3418,12 @@
             "name": "Weligama",
             "area_sqkm": 42.69,
             "center_lat": 5.967502,
-            "center_lng": 80.445057
+            "center_lng": 80.445057,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08G",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2870,7 +3450,12 @@
             "name": "Matara Four Gravets",
             "area_sqkm": 56.63,
             "center_lat": 5.962773,
-            "center_lng": 80.563249
+            "center_lng": 80.563249,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08F",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -2890,7 +3475,12 @@
             "name": "Devinuwara",
             "area_sqkm": 38.16,
             "center_lat": 5.977065,
-            "center_lng": 80.614856
+            "center_lng": 80.614856,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08E",
+            "lg_id": "LK-32-032"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2917,7 +3507,12 @@
             "name": "Dikwella",
             "area_sqkm": 51.11,
             "center_lat": 5.985368,
-            "center_lng": 80.673372
+            "center_lng": 80.673372,
+            "province_id": "LK-3",
+            "district_id": "LK-32",
+            "ed_id": "EC-08",
+            "pd_id": "EC-08E",
+            "lg_id": "LK-32-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -2939,7 +3534,12 @@
             "name": "Sooriyawewa",
             "area_sqkm": 193.66,
             "center_lat": 6.29244,
-            "center_lng": 81.015794
+            "center_lng": 81.015794,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D",
+            "lg_id": "LK-33-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -2960,7 +3560,12 @@
             "name": "Lunugamwehera",
             "area_sqkm": 284.91,
             "center_lat": 6.33159,
-            "center_lng": 81.162489
+            "center_lng": 81.162489,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D",
+            "lg_id": "LK-33-036"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -2988,7 +3593,12 @@
             "name": "Thissamaharama",
             "area_sqkm": 792.11,
             "center_lat": 6.362319,
-            "center_lng": 81.429386
+            "center_lng": 81.429386,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D",
+            "lg_id": "LK-33-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -3013,7 +3623,12 @@
             "name": "Hambantota",
             "area_sqkm": 343.78,
             "center_lat": 6.204568,
-            "center_lng": 81.122853
+            "center_lng": 81.122853,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09D",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -3040,7 +3655,12 @@
             "name": "Ambalantota",
             "area_sqkm": 212.81,
             "center_lat": 6.16102,
-            "center_lng": 80.96355
+            "center_lng": 80.96355,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": null,
+            "lg_id": "LK-33-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -3065,7 +3685,12 @@
             "name": "Angunakolapelessa",
             "area_sqkm": 171.85,
             "center_lat": 6.19339,
-            "center_lng": 80.851244
+            "center_lng": 80.851244,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09C",
+            "lg_id": "LK-33-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -3090,7 +3715,12 @@
             "name": "Weeraketiya",
             "area_sqkm": 114.68,
             "center_lat": 6.172607,
-            "center_lng": 80.771748
+            "center_lng": 80.771748,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": null,
+            "lg_id": "LK-33-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -3119,7 +3749,12 @@
             "name": "Katuwana",
             "area_sqkm": 105.09,
             "center_lat": 6.263752,
-            "center_lng": 80.715498
+            "center_lng": 80.715498,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": null,
+            "lg_id": "LK-33-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -3141,7 +3776,12 @@
             "name": "Walasmulla",
             "area_sqkm": 108.56,
             "center_lat": 6.199373,
-            "center_lng": 80.681779
+            "center_lng": 80.681779,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -3163,7 +3803,12 @@
             "name": "Okewela",
             "area_sqkm": 42.14,
             "center_lat": 6.130071,
-            "center_lng": 80.693395
+            "center_lng": 80.693395,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09B",
+            "lg_id": "LK-33-039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3191,7 +3836,12 @@
             "name": "Beliatta",
             "area_sqkm": 102.7,
             "center_lat": 6.050734,
-            "center_lng": 80.720383
+            "center_lng": 80.720383,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": "EC-09B",
+            "lg_id": "LK-33-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -3217,7 +3867,12 @@
             "name": "Tangalle",
             "area_sqkm": 152.77,
             "center_lat": 6.072584,
-            "center_lng": 80.826452
+            "center_lng": 80.826452,
+            "province_id": "LK-3",
+            "district_id": "LK-33",
+            "ed_id": "EC-09",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -3244,7 +3899,12 @@
             "name": "Islands North (Kayts)",
             "area_sqkm": 32.47,
             "center_lat": 9.67518,
-            "center_lng": 79.850124
+            "center_lng": 79.850124,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10A",
+            "lg_id": "LK-41-033"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3288,7 +3948,12 @@
             "name": "Karainagar",
             "area_sqkm": 23.64,
             "center_lat": 9.735886,
-            "center_lng": 79.874717
+            "center_lng": 79.874717,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10B",
+            "lg_id": "LK-41-043"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3317,7 +3982,12 @@
             "name": "Valikamam West (Chankanai)",
             "area_sqkm": 48.94,
             "center_lat": 9.74171,
-            "center_lng": 79.945292
+            "center_lng": 79.945292,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10B",
+            "lg_id": "LK-41-041"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3349,7 +4019,12 @@
             "name": "Valikamam South West (Sandilipay)",
             "area_sqkm": 47.65,
             "center_lat": 9.750615,
-            "center_lng": 79.981145
+            "center_lng": 79.981145,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": null,
+            "lg_id": "LK-41-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -3385,7 +4060,12 @@
             "name": "Valikamam North (Thllippalai)",
             "area_sqkm": 61.68,
             "center_lat": 9.789107,
-            "center_lng": 80.042169
+            "center_lng": 80.042169,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10C",
+            "lg_id": "LK-41-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -3410,7 +4090,12 @@
             "name": "Valikamam South (Uduvil)",
             "area_sqkm": 34.38,
             "center_lat": 9.744762,
-            "center_lng": 80.034763
+            "center_lng": 80.034763,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": null,
+            "lg_id": "LK-41-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -3432,7 +4117,12 @@
             "name": "Valikamam East (Kopay)",
             "area_sqkm": 108.75,
             "center_lat": 9.736957,
-            "center_lng": 80.097029
+            "center_lng": 80.097029,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10E",
+            "lg_id": "LK-41-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -3455,7 +4145,12 @@
             "name": "Vadamaradchchi South-West (Karaveddy)",
             "area_sqkm": 86.46,
             "center_lat": 9.775903,
-            "center_lng": 80.183361
+            "center_lng": 80.183361,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -3474,7 +4169,12 @@
             "name": "Vadamaradchchi East",
             "area_sqkm": 189.15,
             "center_lat": 9.612378,
-            "center_lng": 80.410335
+            "center_lng": 80.410335,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10G",
+            "lg_id": "LK-41-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -3496,7 +4196,12 @@
             "name": "Vadamaradchi North (Point Pedro)",
             "area_sqkm": 39.2,
             "center_lat": 9.807963,
-            "center_lng": 80.218427
+            "center_lng": 80.218427,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -3515,7 +4220,12 @@
             "name": "Thenmaradchi (Chavakachcheri)",
             "area_sqkm": 236.07,
             "center_lat": 9.677007,
-            "center_lng": 80.189642
+            "center_lng": 80.189642,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10H",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3814,7 +4524,12 @@
             "name": "Nallur",
             "area_sqkm": 32.67,
             "center_lat": 9.667633,
-            "center_lng": 80.049097
+            "center_lng": 80.049097,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10I",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -3860,7 +4575,12 @@
             "name": "Jaffna",
             "area_sqkm": 10.98,
             "center_lat": 9.663344,
-            "center_lng": 80.021463
+            "center_lng": 80.021463,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10J",
+            "lg_id": "LK-41-011"
           },
           "type": "Polygon",
           "arcs": [
@@ -3888,7 +4608,12 @@
             "name": "Islands South (Velanai)",
             "area_sqkm": 90.73,
             "center_lat": 9.622153,
-            "center_lng": 79.891398
+            "center_lng": 79.891398,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10A",
+            "lg_id": "LK-41-042"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4119,7 +4844,12 @@
             "name": "Delft",
             "area_sqkm": 48.44,
             "center_lat": 9.513087,
-            "center_lng": 79.690805
+            "center_lng": 79.690805,
+            "province_id": "LK-4",
+            "district_id": "LK-41",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10A",
+            "lg_id": "LK-41-032"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4142,7 +4872,12 @@
             "name": "Mannar Town",
             "area_sqkm": 220.18,
             "center_lat": 8.991979,
-            "center_lng": 79.887564
+            "center_lng": 79.887564,
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4337,7 +5072,12 @@
             "name": "Manthai West",
             "area_sqkm": 614.98,
             "center_lat": 9.026464,
-            "center_lng": 80.112292
+            "center_lng": 80.112292,
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A",
+            "lg_id": "LK-42-032"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4367,7 +5107,12 @@
             "name": "Madhu",
             "area_sqkm": 565.01,
             "center_lat": 8.849314,
-            "center_lng": 80.231202
+            "center_lng": 80.231202,
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -4389,7 +5134,12 @@
             "name": "Nanaddan",
             "area_sqkm": 147.4,
             "center_lat": 8.835289,
-            "center_lng": 79.993633
+            "center_lng": 79.993633,
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A",
+            "lg_id": "LK-42-034"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4534,7 +5284,12 @@
             "name": "Musali",
             "area_sqkm": 463.26,
             "center_lat": 8.677386,
-            "center_lng": 80.021293
+            "center_lng": 80.021293,
+            "province_id": "LK-4",
+            "district_id": "LK-42",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11A",
+            "lg_id": "LK-42-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -4555,7 +5310,12 @@
             "name": "Vavuniya North",
             "area_sqkm": 686.72,
             "center_lat": 9.004658,
-            "center_lng": 80.576682
+            "center_lng": 80.576682,
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B",
+            "lg_id": "LK-43-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -4579,7 +5339,12 @@
             "name": "Vavuniya South",
             "area_sqkm": 216.25,
             "center_lat": 8.7351,
-            "center_lng": 80.513638
+            "center_lng": 80.513638,
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B",
+            "lg_id": "LK-43-032"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4645,7 +5410,12 @@
             "name": "Vavuniya",
             "area_sqkm": 616.85,
             "center_lat": 8.833801,
-            "center_lng": 80.456699
+            "center_lng": 80.456699,
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -4687,7 +5457,12 @@
             "name": "Vengalacheddikulam",
             "area_sqkm": 415.08,
             "center_lat": 8.692808,
-            "center_lng": 80.294587
+            "center_lng": 80.294587,
+            "province_id": "LK-4",
+            "district_id": "LK-43",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11B",
+            "lg_id": "LK-43-034"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4728,7 +5503,12 @@
             "name": "Thunukkai",
             "area_sqkm": 329.19,
             "center_lat": 9.222892,
-            "center_lng": 80.286117
+            "center_lng": 80.286117,
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C",
+            "lg_id": "LK-44-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -4747,7 +5527,12 @@
             "name": "Manthai East",
             "area_sqkm": 485.91,
             "center_lat": 9.06305,
-            "center_lng": 80.308719
+            "center_lng": 80.308719,
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C",
+            "lg_id": "LK-44-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -4771,7 +5556,12 @@
             "name": "Puthukkudiyiruppu",
             "area_sqkm": 326.53,
             "center_lat": 9.3143,
-            "center_lng": 80.637424
+            "center_lng": 80.637424,
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C",
+            "lg_id": "LK-44-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -4791,7 +5581,12 @@
             "name": "Oddusuddan",
             "area_sqkm": 762.54,
             "center_lat": 9.194731,
-            "center_lng": 80.534922
+            "center_lng": 80.534922,
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C",
+            "lg_id": "LK-44-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -4819,7 +5614,12 @@
             "name": "Maritimepattu",
             "area_sqkm": 612.64,
             "center_lat": 9.169164,
-            "center_lng": 80.801013
+            "center_lng": 80.801013,
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "ed_id": "EC-11",
+            "pd_id": "EC-11C",
+            "lg_id": "LK-44-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -4845,7 +5645,12 @@
             "name": "Welioya",
             "area_sqkm": 164.33,
             "center_lat": 8.984002,
-            "center_lng": 80.796983
+            "center_lng": 80.796983,
+            "province_id": "LK-4",
+            "district_id": "LK-44",
+            "ed_id": "EC-11",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -4865,7 +5670,12 @@
             "name": "Pachchilaipalli",
             "area_sqkm": 176.03,
             "center_lat": 9.590645,
-            "center_lng": 80.359079
+            "center_lng": 80.359079,
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K",
+            "lg_id": "LK-45-032"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -4931,7 +5741,12 @@
             "name": "Kandavalai",
             "area_sqkm": 274.3,
             "center_lat": 9.445569,
-            "center_lng": 80.484949
+            "center_lng": 80.484949,
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K",
+            "lg_id": "LK-45-031"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5063,7 +5878,12 @@
             "name": "Karachchi",
             "area_sqkm": 395.57,
             "center_lat": 9.359072,
-            "center_lng": 80.333852
+            "center_lng": 80.333852,
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K",
+            "lg_id": "LK-45-031"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5330,7 +6150,12 @@
             "name": "Poonakary",
             "area_sqkm": 473.39,
             "center_lat": 9.396612,
-            "center_lng": 80.168652
+            "center_lng": 80.168652,
+            "province_id": "LK-4",
+            "district_id": "LK-45",
+            "ed_id": "EC-10",
+            "pd_id": "EC-10K",
+            "lg_id": "LK-45-033"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5841,7 +6666,12 @@
             "name": "Koralai Pattu North",
             "area_sqkm": 515.5,
             "center_lat": 8.088188,
-            "center_lng": 81.37461
+            "center_lng": 81.37461,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A",
+            "lg_id": "LK-51-035"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5879,7 +6709,12 @@
             "name": "Koralai Pattu Central",
             "area_sqkm": 8.04,
             "center_lat": 7.928343,
-            "center_lng": 81.517588
+            "center_lng": 81.517588,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5913,7 +6748,12 @@
             "name": "Koralai Pattu West",
             "area_sqkm": 22.94,
             "center_lat": 7.917486,
-            "center_lng": 81.494041
+            "center_lng": 81.494041,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A",
+            "lg_id": "LK-51-036"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -5967,7 +6807,12 @@
             "name": "Koralai Pattu",
             "area_sqkm": 30.69,
             "center_lat": 7.906709,
-            "center_lng": 81.546148
+            "center_lng": 81.546148,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6010,7 +6855,12 @@
             "name": "Koralai Pattu South",
             "area_sqkm": 598.36,
             "center_lat": 7.864123,
-            "center_lng": 81.376528
+            "center_lng": 81.376528,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12A",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6047,7 +6897,12 @@
             "name": "Eravur Pattu",
             "area_sqkm": 599.22,
             "center_lat": 7.705871,
-            "center_lng": 81.453462
+            "center_lng": 81.453462,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -6084,7 +6939,12 @@
             "name": "Manmunai North",
             "area_sqkm": 45.7,
             "center_lat": 7.726202,
-            "center_lng": 81.684938
+            "center_lng": 81.684938,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B",
+            "lg_id": "LK-51-011"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6127,7 +6987,12 @@
             "name": "Manmunai West",
             "area_sqkm": 280.58,
             "center_lat": 7.632937,
-            "center_lng": 81.598993
+            "center_lng": 81.598993,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B",
+            "lg_id": "LK-51-040"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6157,7 +7022,12 @@
             "name": "Kattankudy",
             "area_sqkm": 3.88,
             "center_lat": 7.6829,
-            "center_lng": 81.732091
+            "center_lng": 81.732091,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B",
+            "lg_id": "LK-51-021"
           },
           "type": "Polygon",
           "arcs": [
@@ -6176,7 +7046,12 @@
             "name": "Manmunai Pattu",
             "area_sqkm": 25.45,
             "center_lat": 7.639195,
-            "center_lng": 81.753752
+            "center_lng": 81.753752,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B",
+            "lg_id": "LK-51-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -6195,7 +7070,12 @@
             "name": "Manmunai South West",
             "area_sqkm": 145.14,
             "center_lat": 7.567598,
-            "center_lng": 81.661919
+            "center_lng": 81.661919,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12C",
+            "lg_id": "LK-51-039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6227,7 +7107,12 @@
             "name": "Porativu Pattu",
             "area_sqkm": 159.21,
             "center_lat": 7.497825,
-            "center_lng": 81.704155
+            "center_lng": 81.704155,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12C",
+            "lg_id": "LK-51-041"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6253,7 +7138,12 @@
             "name": "Manmunai South & Eruvil Pattu",
             "area_sqkm": 43.92,
             "center_lat": 7.522348,
-            "center_lng": 81.791102
+            "center_lng": 81.791102,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12C",
+            "lg_id": "LK-51-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -6275,7 +7165,12 @@
             "name": "Eravur Town",
             "area_sqkm": 1.86,
             "center_lat": 7.775874,
-            "center_lng": 81.608206
+            "center_lng": 81.608206,
+            "province_id": "LK-5",
+            "district_id": "LK-51",
+            "ed_id": "EC-12",
+            "pd_id": "EC-12B",
+            "lg_id": "LK-51-022"
           },
           "type": "Polygon",
           "arcs": [
@@ -6292,7 +7187,12 @@
             "name": "Dehiattakandiya",
             "area_sqkm": 374.18,
             "center_lat": 7.626104,
-            "center_lng": 81.073565
+            "center_lng": 81.073565,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A",
+            "lg_id": "LK-52-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -6321,7 +7221,12 @@
             "name": "Padiyathalawa",
             "area_sqkm": 388.23,
             "center_lat": 7.422272,
-            "center_lng": 81.261851
+            "center_lng": 81.261851,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A",
+            "lg_id": "LK-52-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -6343,7 +7248,12 @@
             "name": "Mahaoya",
             "area_sqkm": 680.41,
             "center_lat": 7.55649,
-            "center_lng": 81.350833
+            "center_lng": 81.350833,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A",
+            "lg_id": "LK-52-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -6371,7 +7281,12 @@
             "name": "Uhana",
             "area_sqkm": 535.55,
             "center_lat": 7.401039,
-            "center_lng": 81.592516
+            "center_lng": 81.592516,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A",
+            "lg_id": "LK-52-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -6397,7 +7312,12 @@
             "name": "Ampara",
             "area_sqkm": 139.52,
             "center_lat": 7.275779,
-            "center_lng": 81.59961
+            "center_lng": 81.59961,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -6419,7 +7339,12 @@
             "name": "Navithanveli",
             "area_sqkm": 79.81,
             "center_lat": 7.419463,
-            "center_lng": 81.762775
+            "center_lng": 81.762775,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B",
+            "lg_id": "LK-52-047"
           },
           "type": "Polygon",
           "arcs": [
@@ -6439,7 +7364,12 @@
             "name": "Sammanthurai",
             "area_sqkm": 108.91,
             "center_lat": 7.329298,
-            "center_lng": 81.767875
+            "center_lng": 81.767875,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B",
+            "lg_id": "LK-52-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -6463,7 +7393,12 @@
             "name": "Kalmunai",
             "area_sqkm": 12.7,
             "center_lat": 7.424716,
-            "center_lng": 81.81138
+            "center_lng": 81.81138,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13C",
+            "lg_id": "LK-52-011"
           },
           "type": "Polygon",
           "arcs": [
@@ -6484,7 +7419,12 @@
             "name": "Sainthamaruthu",
             "area_sqkm": 3.35,
             "center_lat": 7.392063,
-            "center_lng": 81.833112
+            "center_lng": 81.833112,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13C",
+            "lg_id": "LK-52-011"
           },
           "type": "Polygon",
           "arcs": [
@@ -6503,7 +7443,12 @@
             "name": "Karaitivu",
             "area_sqkm": 10.15,
             "center_lat": 7.372969,
-            "center_lng": 81.833667
+            "center_lng": 81.833667,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-046"
           },
           "type": "Polygon",
           "arcs": [
@@ -6523,7 +7468,12 @@
             "name": "Nintavur",
             "area_sqkm": 35.94,
             "center_lat": 7.326839,
-            "center_lng": 81.839824
+            "center_lng": 81.839824,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -6543,7 +7493,12 @@
             "name": "Addalaichenai",
             "area_sqkm": 74.4,
             "center_lat": 7.264536,
-            "center_lng": 81.812687
+            "center_lng": 81.812687,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -6563,7 +7518,12 @@
             "name": "Irakkamam",
             "area_sqkm": 67.23,
             "center_lat": 7.2411,
-            "center_lng": 81.722174
+            "center_lng": 81.722174,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13B",
+            "lg_id": "LK-52-048"
           },
           "type": "Polygon",
           "arcs": [
@@ -6584,7 +7544,12 @@
             "name": "Akkaraipattu",
             "area_sqkm": 53.68,
             "center_lat": 7.212584,
-            "center_lng": 81.798189
+            "center_lng": 81.798189,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6618,7 +7583,12 @@
             "name": "Alayadivembu",
             "area_sqkm": 69.69,
             "center_lat": 7.170789,
-            "center_lng": 81.807373
+            "center_lng": 81.807373,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -6639,7 +7609,12 @@
             "name": "Damana",
             "area_sqkm": 489.54,
             "center_lat": 7.136138,
-            "center_lng": 81.629472
+            "center_lng": 81.629472,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -6667,7 +7642,12 @@
             "name": "Tirukkovil",
             "area_sqkm": 218.5,
             "center_lat": 7.079586,
-            "center_lng": 81.794782
+            "center_lng": 81.794782,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -6686,7 +7666,12 @@
             "name": "Pottuvil",
             "area_sqkm": 309.36,
             "center_lat": 6.949757,
-            "center_lng": 81.797796
+            "center_lng": 81.797796,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -6705,7 +7690,12 @@
             "name": "Lahugala",
             "area_sqkm": 815.3,
             "center_lat": 6.743613,
-            "center_lng": 81.698939
+            "center_lng": 81.698939,
+            "province_id": "LK-5",
+            "district_id": "LK-52",
+            "ed_id": "EC-13",
+            "pd_id": "EC-13D",
+            "lg_id": "LK-52-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -6725,7 +7715,12 @@
             "name": "Padavi Sri Pura",
             "area_sqkm": 113.33,
             "center_lat": 8.915208,
-            "center_lng": 80.855145
+            "center_lng": 80.855145,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A",
+            "lg_id": "LK-53-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -6744,7 +7739,12 @@
             "name": "Kuchchaweli",
             "area_sqkm": 446.97,
             "center_lat": 8.813051,
-            "center_lng": 81.047186
+            "center_lng": 81.047186,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14B",
+            "lg_id": "LK-53-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -6769,7 +7769,12 @@
             "name": "Gomarankadawala",
             "area_sqkm": 307.33,
             "center_lat": 8.749348,
-            "center_lng": 80.966816
+            "center_lng": 80.966816,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A",
+            "lg_id": "LK-53-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -6790,7 +7795,12 @@
             "name": "Morawewa",
             "area_sqkm": 278.14,
             "center_lat": 8.625746,
-            "center_lng": 81.019771
+            "center_lng": 81.019771,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A",
+            "lg_id": "LK-53-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -6810,7 +7820,12 @@
             "name": "Town & Gravets",
             "area_sqkm": 129.82,
             "center_lat": 8.582618,
-            "center_lng": 81.174705
+            "center_lng": 81.174705,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14B",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -6832,7 +7847,12 @@
             "name": "Thambalagamuwa",
             "area_sqkm": 274.19,
             "center_lat": 8.509573,
-            "center_lng": 81.042854
+            "center_lng": 81.042854,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": null,
+            "lg_id": "LK-53-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -6853,7 +7873,12 @@
             "name": "Kantale",
             "area_sqkm": 412.73,
             "center_lat": 8.342622,
-            "center_lng": 81.055903
+            "center_lng": 81.055903,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A",
+            "lg_id": "LK-53-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -6878,7 +7903,12 @@
             "name": "Kinniya",
             "area_sqkm": 151.55,
             "center_lat": 8.435933,
-            "center_lng": 81.160269
+            "center_lng": 81.160269,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -6897,7 +7927,12 @@
             "name": "Muthur",
             "area_sqkm": 194.19,
             "center_lat": 8.431494,
-            "center_lng": 81.291319
+            "center_lng": 81.291319,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14C",
+            "lg_id": "LK-53-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -6918,7 +7953,12 @@
             "name": "Seruvila",
             "area_sqkm": 293.32,
             "center_lat": 8.287808,
-            "center_lng": 81.25641
+            "center_lng": 81.25641,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A",
+            "lg_id": "LK-53-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -6940,7 +7980,12 @@
             "name": "Verugal",
             "area_sqkm": 90.54,
             "center_lat": 8.318232,
-            "center_lng": 81.363485
+            "center_lng": 81.363485,
+            "province_id": "LK-5",
+            "district_id": "LK-53",
+            "ed_id": "EC-14",
+            "pd_id": "EC-14A",
+            "lg_id": "LK-53-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -6959,7 +8004,12 @@
             "name": "Giribawa",
             "area_sqkm": 205.37,
             "center_lat": 8.103672,
-            "center_lng": 80.183754
+            "center_lng": 80.183754,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15A",
+            "lg_id": "LK-61-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -6981,7 +8031,12 @@
             "name": "Galgamuwa",
             "area_sqkm": 273.2,
             "center_lat": 8.01942,
-            "center_lng": 80.261519
+            "center_lng": 80.261519,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15A",
+            "lg_id": "LK-61-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -7004,7 +8059,12 @@
             "name": "Ehetuwewa",
             "area_sqkm": 171.52,
             "center_lat": 7.964571,
-            "center_lng": 80.356533
+            "center_lng": 80.356533,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15A",
+            "lg_id": "LK-61-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -7024,7 +8084,12 @@
             "name": "Ambanpola",
             "area_sqkm": 140.33,
             "center_lat": 7.907793,
-            "center_lng": 80.223831
+            "center_lng": 80.223831,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15C",
+            "lg_id": "LK-61-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -7043,7 +8108,12 @@
             "name": "Kotawehera",
             "area_sqkm": 189.56,
             "center_lat": 7.86602,
-            "center_lng": 80.12381
+            "center_lng": 80.12381,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15B",
+            "lg_id": "LK-61-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -7074,7 +8144,12 @@
             "name": "Rasnayakapura",
             "area_sqkm": 124.56,
             "center_lat": 7.765388,
-            "center_lng": 80.02517
+            "center_lng": 80.02517,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15B",
+            "lg_id": "LK-61-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -7095,7 +8170,12 @@
             "name": "Nikaweratiya",
             "area_sqkm": 151.32,
             "center_lat": 7.763229,
-            "center_lng": 80.145972
+            "center_lng": 80.145972,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15B",
+            "lg_id": "LK-61-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -7117,7 +8197,12 @@
             "name": "Maho",
             "area_sqkm": 261.4,
             "center_lat": 7.805441,
-            "center_lng": 80.291121
+            "center_lng": 80.291121,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15C",
+            "lg_id": "LK-61-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -7146,7 +8231,12 @@
             "name": "Polpitigama",
             "area_sqkm": 415.64,
             "center_lat": 7.803271,
-            "center_lng": 80.428893
+            "center_lng": 80.428893,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": null,
+            "lg_id": "LK-61-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -7168,7 +8258,12 @@
             "name": "Ibbagamuwa",
             "area_sqkm": 217.17,
             "center_lat": 7.617703,
-            "center_lng": 80.471158
+            "center_lng": 80.471158,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15D",
+            "lg_id": "LK-61-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -7191,7 +8286,12 @@
             "name": "Ganewatta",
             "area_sqkm": 150.26,
             "center_lat": 7.656692,
-            "center_lng": 80.37097
+            "center_lng": 80.37097,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15D",
+            "lg_id": "LK-61-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -7211,7 +8311,12 @@
             "name": "Wariyapola",
             "area_sqkm": 201.99,
             "center_lat": 7.662389,
-            "center_lng": 80.238951
+            "center_lng": 80.238951,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15E",
+            "lg_id": "LK-61-047"
           },
           "type": "Polygon",
           "arcs": [
@@ -7237,7 +8342,12 @@
             "name": "Kobeigane",
             "area_sqkm": 130.28,
             "center_lat": 7.684376,
-            "center_lng": 80.100321
+            "center_lng": 80.100321,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15B",
+            "lg_id": "LK-61-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -7257,7 +8367,12 @@
             "name": "Bingiriya",
             "area_sqkm": 193.62,
             "center_lat": 7.607565,
-            "center_lng": 79.968083
+            "center_lng": 79.968083,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15G",
+            "lg_id": "LK-61-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -7283,7 +8398,12 @@
             "name": "Panduwasnuwara West",
             "area_sqkm": 180.97,
             "center_lat": 7.59967,
-            "center_lng": 80.078262
+            "center_lng": 80.078262,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15F",
+            "lg_id": "LK-61-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -7303,7 +8423,12 @@
             "name": "Panduwasnuwara East",
             "area_sqkm": 102.5,
             "center_lat": 7.556704,
-            "center_lng": 80.142781
+            "center_lng": 80.142781,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15F",
+            "lg_id": "LK-61-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -7323,7 +8448,12 @@
             "name": "Bamunakotuwa",
             "area_sqkm": 110.54,
             "center_lat": 7.547987,
-            "center_lng": 80.253693
+            "center_lng": 80.253693,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15E",
+            "lg_id": "LK-61-047"
           },
           "type": "Polygon",
           "arcs": [
@@ -7346,7 +8476,12 @@
             "name": "Maspotha",
             "area_sqkm": 66.36,
             "center_lat": 7.558038,
-            "center_lng": 80.324834
+            "center_lng": 80.324834,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15L",
+            "lg_id": "LK-61-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -7366,7 +8501,12 @@
             "name": "Kurunegala",
             "area_sqkm": 97.71,
             "center_lat": 7.512057,
-            "center_lng": 80.353824
+            "center_lng": 80.353824,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15L",
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7407,7 +8547,12 @@
             "name": "Mallawapitiya",
             "area_sqkm": 79.25,
             "center_lat": 7.468271,
-            "center_lng": 80.390824
+            "center_lng": 80.390824,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15M",
+            "lg_id": "LK-61-038"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7440,7 +8585,12 @@
             "name": "Mawathagama",
             "area_sqkm": 108.43,
             "center_lat": 7.424469,
-            "center_lng": 80.444918
+            "center_lng": 80.444918,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15M",
+            "lg_id": "LK-61-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -7462,7 +8612,12 @@
             "name": "Rideegama",
             "area_sqkm": 225.15,
             "center_lat": 7.517219,
-            "center_lng": 80.518459
+            "center_lng": 80.518459,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15N",
+            "lg_id": "LK-61-046"
           },
           "type": "Polygon",
           "arcs": [
@@ -7485,7 +8640,12 @@
             "name": "Weerabugedara",
             "area_sqkm": 91.83,
             "center_lat": 7.465802,
-            "center_lng": 80.271741
+            "center_lng": 80.271741,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15K",
+            "lg_id": "LK-61-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -7508,7 +8668,12 @@
             "name": "Kuliyapitiya East",
             "area_sqkm": 113.78,
             "center_lat": 7.469028,
-            "center_lng": 80.168506
+            "center_lng": 80.168506,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15I",
+            "lg_id": "LK-61-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -7534,7 +8699,12 @@
             "name": "Kuliyapitiya West",
             "area_sqkm": 165.49,
             "center_lat": 7.472637,
-            "center_lng": 80.055086
+            "center_lng": 80.055086,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15I",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -7558,7 +8728,12 @@
             "name": "Udubaddawa",
             "area_sqkm": 119.9,
             "center_lat": 7.480501,
-            "center_lng": 79.947547
+            "center_lng": 79.947547,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15G",
+            "lg_id": "LK-61-048"
           },
           "type": "Polygon",
           "arcs": [
@@ -7581,7 +8756,12 @@
             "name": "Pannala",
             "area_sqkm": 282.22,
             "center_lat": 7.362153,
-            "center_lng": 80.030535
+            "center_lng": 80.030535,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15H",
+            "lg_id": "LK-61-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -7606,7 +8786,12 @@
             "name": "Narammala",
             "area_sqkm": 108.53,
             "center_lat": 7.397099,
-            "center_lng": 80.193118
+            "center_lng": 80.193118,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15J",
+            "lg_id": "LK-61-049"
           },
           "type": "Polygon",
           "arcs": [
@@ -7627,7 +8812,12 @@
             "name": "Alawwa",
             "area_sqkm": 130.25,
             "center_lat": 7.32858,
-            "center_lng": 80.217429
+            "center_lng": 80.217429,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15J",
+            "lg_id": "LK-61-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -7649,7 +8839,12 @@
             "name": "Polgahawela",
             "area_sqkm": 96.57,
             "center_lat": 7.374765,
-            "center_lng": 80.309654
+            "center_lng": 80.309654,
+            "province_id": "LK-6",
+            "district_id": "LK-61",
+            "ed_id": "EC-15",
+            "pd_id": "EC-15K",
+            "lg_id": "LK-61-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -7674,7 +8869,12 @@
             "name": "Kalpitiya",
             "area_sqkm": 162.65,
             "center_lat": 8.121529,
-            "center_lng": 79.741752
+            "center_lng": 79.741752,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16A",
+            "lg_id": "LK-62-034"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7779,7 +8979,12 @@
             "name": "Vanathavilluwa",
             "area_sqkm": 737.44,
             "center_lat": 8.340926,
-            "center_lng": 79.896228
+            "center_lng": 79.896228,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": null,
+            "lg_id": "LK-62-039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -7806,7 +9011,12 @@
             "name": "Karuwalagaswewa",
             "area_sqkm": 499.76,
             "center_lat": 8.119648,
-            "center_lng": 79.999768
+            "center_lng": 79.999768,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B",
+            "lg_id": "LK-62-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -7831,7 +9041,12 @@
             "name": "Nawagattegama",
             "area_sqkm": 171.5,
             "center_lat": 8.013076,
-            "center_lng": 80.088937
+            "center_lng": 80.088937,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B",
+            "lg_id": "LK-62-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -7851,7 +9066,12 @@
             "name": "Puttalam",
             "area_sqkm": 173.97,
             "center_lat": 8.02708,
-            "center_lng": 79.863353
+            "center_lng": 79.863353,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16A",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -7873,7 +9093,12 @@
             "name": "Mundel",
             "area_sqkm": 220.37,
             "center_lat": 7.865608,
-            "center_lng": 79.813679
+            "center_lng": 79.813679,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -7897,7 +9122,12 @@
             "name": "Mahakumbukkadawala",
             "area_sqkm": 185.05,
             "center_lat": 7.848981,
-            "center_lng": 79.903955
+            "center_lng": 79.903955,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B",
+            "lg_id": "LK-62-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -7922,7 +9152,12 @@
             "name": "Anamaduwa",
             "area_sqkm": 248.63,
             "center_lat": 7.905754,
-            "center_lng": 80.000002
+            "center_lng": 80.000002,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B",
+            "lg_id": "LK-62-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -7947,7 +9182,12 @@
             "name": "Pallama",
             "area_sqkm": 121.21,
             "center_lat": 7.729777,
-            "center_lng": 79.934735
+            "center_lng": 79.934735,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16B",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -7970,7 +9210,12 @@
             "name": "Arachchikattuwa",
             "area_sqkm": 158.5,
             "center_lat": 7.677875,
-            "center_lng": 79.849622
+            "center_lng": 79.849622,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16C",
+            "lg_id": "LK-62-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -7992,7 +9237,12 @@
             "name": "Chilaw",
             "area_sqkm": 92.88,
             "center_lat": 7.57962,
-            "center_lng": 79.838381
+            "center_lng": 79.838381,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -8022,7 +9272,12 @@
             "name": "Madampe",
             "area_sqkm": 93.03,
             "center_lat": 7.518084,
-            "center_lng": 79.864026
+            "center_lng": 79.864026,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16C",
+            "lg_id": "LK-62-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -8051,7 +9306,12 @@
             "name": "Mahawewa",
             "area_sqkm": 73.16,
             "center_lat": 7.45504,
-            "center_lng": 79.850756
+            "center_lng": 79.850756,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16D",
+            "lg_id": "LK-62-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -8072,7 +9332,12 @@
             "name": "Nattandiya",
             "area_sqkm": 77.81,
             "center_lat": 7.396723,
-            "center_lng": 79.874381
+            "center_lng": 79.874381,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16D",
+            "lg_id": "LK-62-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -8094,7 +9359,12 @@
             "name": "Wennappuwa",
             "area_sqkm": 41.25,
             "center_lat": 7.323434,
-            "center_lng": 79.854768
+            "center_lng": 79.854768,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16E",
+            "lg_id": "LK-62-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -8114,7 +9384,12 @@
             "name": "Dankotuwa",
             "area_sqkm": 76.68,
             "center_lat": 7.321135,
-            "center_lng": 79.905767
+            "center_lng": 79.905767,
+            "province_id": "LK-6",
+            "district_id": "LK-62",
+            "ed_id": "EC-16",
+            "pd_id": "EC-16E",
+            "lg_id": "LK-62-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -8134,7 +9409,12 @@
             "name": "Padaviya",
             "area_sqkm": 247.26,
             "center_lat": 8.84868,
-            "center_lng": 80.78417
+            "center_lng": 80.78417,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17A",
+            "lg_id": "LK-71-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -8154,7 +9434,12 @@
             "name": "Kebithigollewa",
             "area_sqkm": 613.68,
             "center_lat": 8.712242,
-            "center_lng": 80.715528
+            "center_lng": 80.715528,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17A",
+            "lg_id": "LK-71-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -8178,7 +9463,12 @@
             "name": "Medawachchiya",
             "area_sqkm": 489.19,
             "center_lat": 8.588785,
-            "center_lng": 80.496936
+            "center_lng": 80.496936,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17A",
+            "lg_id": "LK-71-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -8204,7 +9494,12 @@
             "name": "Mahawilachchiya",
             "area_sqkm": 616.94,
             "center_lat": 8.543334,
-            "center_lng": 80.170555
+            "center_lng": 80.170555,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17D",
+            "lg_id": "LK-71-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -8224,7 +9519,12 @@
             "name": "Nuwaragam Palatha Central",
             "area_sqkm": 401.16,
             "center_lat": 8.415737,
-            "center_lng": 80.352384
+            "center_lng": 80.352384,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -8256,7 +9556,12 @@
             "name": "Rambewa",
             "area_sqkm": 306.11,
             "center_lat": 8.475597,
-            "center_lng": 80.550939
+            "center_lng": 80.550939,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-046"
           },
           "type": "Polygon",
           "arcs": [
@@ -8279,7 +9584,12 @@
             "name": "Kahatagasdigiliya",
             "area_sqkm": 370.25,
             "center_lat": 8.423981,
-            "center_lng": 80.711353
+            "center_lng": 80.711353,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -8302,7 +9612,12 @@
             "name": "Horowpathana",
             "area_sqkm": 832.95,
             "center_lat": 8.5158,
-            "center_lng": 80.852802
+            "center_lng": 80.852802,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17B",
+            "lg_id": "LK-71-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -8325,7 +9640,12 @@
             "name": "Galenbidunuwewa",
             "area_sqkm": 292.54,
             "center_lat": 8.268046,
-            "center_lng": 80.708793
+            "center_lng": 80.708793,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -8350,7 +9670,12 @@
             "name": "Mihinthale",
             "area_sqkm": 229.44,
             "center_lat": 8.348988,
-            "center_lng": 80.544542
+            "center_lng": 80.544542,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -8377,7 +9702,12 @@
             "name": "Nuwaragam Palatha East",
             "area_sqkm": 92.04,
             "center_lat": 8.308879,
-            "center_lng": 80.446024
+            "center_lng": 80.446024,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -8407,7 +9737,12 @@
             "name": "Nachchaduwa",
             "area_sqkm": 110.03,
             "center_lat": 8.251842,
-            "center_lng": 80.423925
+            "center_lng": 80.423925,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -8429,7 +9764,12 @@
             "name": "Nochchiyagama",
             "area_sqkm": 838.29,
             "center_lat": 8.333933,
-            "center_lng": 80.125586
+            "center_lng": 80.125586,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17D",
+            "lg_id": "LK-71-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -8462,7 +9802,12 @@
             "name": "Rajanganaya",
             "area_sqkm": 105.84,
             "center_lat": 8.185818,
-            "center_lng": 80.180922
+            "center_lng": 80.180922,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17E",
+            "lg_id": "LK-71-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -8484,7 +9829,12 @@
             "name": "Thambuththegama",
             "area_sqkm": 113.34,
             "center_lat": 8.155242,
-            "center_lng": 80.316891
+            "center_lng": 80.316891,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-047"
           },
           "type": "Polygon",
           "arcs": [
@@ -8515,7 +9865,12 @@
             "name": "Thalawa",
             "area_sqkm": 228.75,
             "center_lat": 8.183572,
-            "center_lng": 80.380368
+            "center_lng": 80.380368,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-047"
           },
           "type": "Polygon",
           "arcs": [
@@ -8546,7 +9901,12 @@
             "name": "Thirappane",
             "area_sqkm": 272.37,
             "center_lat": 8.206458,
-            "center_lng": 80.557149
+            "center_lng": 80.557149,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17F",
+            "lg_id": "LK-71-048"
           },
           "type": "Polygon",
           "arcs": [
@@ -8569,7 +9929,12 @@
             "name": "Kekirawa",
             "area_sqkm": 346.75,
             "center_lat": 8.059565,
-            "center_lng": 80.624469
+            "center_lng": 80.624469,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -8593,7 +9958,12 @@
             "name": "Palugaswewa",
             "area_sqkm": 205.62,
             "center_lat": 8.081177,
-            "center_lng": 80.718542
+            "center_lng": 80.718542,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17G",
+            "lg_id": "LK-71-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -8615,7 +9985,12 @@
             "name": "Ipalogama",
             "area_sqkm": 141.67,
             "center_lat": 8.085235,
-            "center_lng": 80.507736
+            "center_lng": 80.507736,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": null,
+            "lg_id": "LK-71-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -8638,7 +10013,12 @@
             "name": "Galnewa",
             "area_sqkm": 138.58,
             "center_lat": 8.019713,
-            "center_lng": 80.450037
+            "center_lng": 80.450037,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17E",
+            "lg_id": "LK-71-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -8660,7 +10040,12 @@
             "name": "Palagala",
             "area_sqkm": 225.47,
             "center_lat": 7.90556,
-            "center_lng": 80.537532
+            "center_lng": 80.537532,
+            "province_id": "LK-7",
+            "district_id": "LK-71",
+            "ed_id": "EC-17",
+            "pd_id": "EC-17G",
+            "lg_id": "LK-71-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -8681,7 +10066,12 @@
             "name": "Higurakgoda",
             "area_sqkm": 705.23,
             "center_lat": 8.114004,
-            "center_lng": 80.865402
+            "center_lng": 80.865402,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18A",
+            "lg_id": "LK-72-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -8709,7 +10099,12 @@
             "name": "Medirigiriya",
             "area_sqkm": 573.26,
             "center_lat": 8.185489,
-            "center_lng": 81.040095
+            "center_lng": 81.040095,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18B",
+            "lg_id": "LK-72-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -8734,7 +10129,12 @@
             "name": "Lankapura",
             "area_sqkm": 197.47,
             "center_lat": 8.058699,
-            "center_lng": 81.098071
+            "center_lng": 81.098071,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18B",
+            "lg_id": "LK-72-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -8756,7 +10156,12 @@
             "name": "Welikanda",
             "area_sqkm": 574.33,
             "center_lat": 8.05135,
-            "center_lng": 81.240046
+            "center_lng": 81.240046,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C",
+            "lg_id": "LK-72-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -8777,7 +10182,12 @@
             "name": "Dimbulagala",
             "area_sqkm": 585.9,
             "center_lat": 7.785366,
-            "center_lng": 81.126323
+            "center_lng": 81.126323,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C",
+            "lg_id": "LK-72-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -8807,7 +10217,12 @@
             "name": "Thamankaduwa",
             "area_sqkm": 467.45,
             "center_lat": 7.882873,
-            "center_lng": 80.990104
+            "center_lng": 80.990104,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -8832,7 +10247,12 @@
             "name": "Elahera",
             "area_sqkm": 366.09,
             "center_lat": 7.815875,
-            "center_lng": 80.845529
+            "center_lng": 80.845529,
+            "province_id": "LK-7",
+            "district_id": "LK-72",
+            "ed_id": "EC-18",
+            "pd_id": "EC-18A",
+            "lg_id": "LK-72-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -8853,7 +10273,12 @@
             "name": "Mahiyanganaya",
             "area_sqkm": 601.88,
             "center_lat": 7.43385,
-            "center_lng": 81.081405
+            "center_lng": 81.081405,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19A",
+            "lg_id": "LK-81-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -8875,7 +10300,12 @@
             "name": "Rideemaliyadda",
             "area_sqkm": 437.14,
             "center_lat": 7.274411,
-            "center_lng": 81.128186
+            "center_lng": 81.128186,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19A",
+            "lg_id": "LK-81-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -8894,7 +10324,12 @@
             "name": "Meegahakiula",
             "area_sqkm": 108.82,
             "center_lat": 7.126719,
-            "center_lng": 81.081054
+            "center_lng": 81.081054,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19B",
+            "lg_id": "LK-81-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -8916,7 +10351,12 @@
             "name": "Kandeketiya",
             "area_sqkm": 150.72,
             "center_lat": 7.129609,
-            "center_lng": 80.994256
+            "center_lng": 80.994256,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19B",
+            "lg_id": "LK-81-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -8938,7 +10378,12 @@
             "name": "Soranathota",
             "area_sqkm": 80.5,
             "center_lat": 7.045305,
-            "center_lng": 81.050182
+            "center_lng": 81.050182,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19B",
+            "lg_id": "LK-81-042"
           },
           "type": "Polygon",
           "arcs": [
@@ -8958,7 +10403,12 @@
             "name": "Passara",
             "area_sqkm": 134.59,
             "center_lat": 6.964933,
-            "center_lng": 81.147248
+            "center_lng": 81.147248,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19C",
+            "lg_id": "LK-81-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -8980,7 +10430,12 @@
             "name": "Lunugala",
             "area_sqkm": 143.01,
             "center_lat": 7.037966,
-            "center_lng": 81.186128
+            "center_lng": 81.186128,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19C",
+            "lg_id": "LK-81-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -9000,7 +10455,12 @@
             "name": "Badulla",
             "area_sqkm": 48.85,
             "center_lat": 6.987256,
-            "center_lng": 81.086841
+            "center_lng": 81.086841,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19D",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9018,7 +10478,12 @@
             "name": "Hali-Ela",
             "area_sqkm": 170.05,
             "center_lat": 6.94587,
-            "center_lng": 81.019408
+            "center_lng": 81.019408,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19E",
+            "lg_id": "LK-81-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -9041,7 +10506,12 @@
             "name": "Uvaparanagama",
             "area_sqkm": 137.69,
             "center_lat": 6.966467,
-            "center_lng": 80.917273
+            "center_lng": 80.917273,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19F",
+            "lg_id": "LK-81-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -9061,7 +10531,12 @@
             "name": "Welimada",
             "area_sqkm": 194.0,
             "center_lat": 6.860252,
-            "center_lng": 80.880744
+            "center_lng": 80.880744,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19G",
+            "lg_id": "LK-81-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -9082,7 +10557,12 @@
             "name": "Bandarawela",
             "area_sqkm": 70.9,
             "center_lat": 6.830041,
-            "center_lng": 81.007966
+            "center_lng": 81.007966,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19H",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9103,7 +10583,12 @@
             "name": "Ella",
             "area_sqkm": 109.61,
             "center_lat": 6.868089,
-            "center_lng": 81.066011
+            "center_lng": 81.066011,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19H",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9123,7 +10608,12 @@
             "name": "Haputale",
             "area_sqkm": 69.04,
             "center_lat": 6.792339,
-            "center_lng": 80.962138
+            "center_lng": 80.962138,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19I",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9141,7 +10631,12 @@
             "name": "Haldummulla",
             "area_sqkm": 415.17,
             "center_lat": 6.698806,
-            "center_lng": 80.969558
+            "center_lng": 80.969558,
+            "province_id": "LK-8",
+            "district_id": "LK-81",
+            "ed_id": "EC-19",
+            "pd_id": "EC-19I",
+            "lg_id": "LK-81-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -9165,7 +10660,12 @@
             "name": "Bibile",
             "area_sqkm": 466.05,
             "center_lat": 7.187842,
-            "center_lng": 81.298497
+            "center_lng": 81.298497,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20A",
+            "lg_id": "LK-82-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -9198,7 +10698,12 @@
             "name": "Madulla",
             "area_sqkm": 750.32,
             "center_lat": 7.160153,
-            "center_lng": 81.426163
+            "center_lng": 81.426163,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20A",
+            "lg_id": "LK-82-035"
           },
           "type": "Polygon",
           "arcs": [
@@ -9241,7 +10746,12 @@
             "name": "Medagama",
             "area_sqkm": 240.35,
             "center_lat": 7.053049,
-            "center_lng": 81.292941
+            "center_lng": 81.292941,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20A",
+            "lg_id": "LK-82-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -9261,7 +10771,12 @@
             "name": "Siyambalanduwa",
             "area_sqkm": 1059.94,
             "center_lat": 6.845567,
-            "center_lng": 81.525567
+            "center_lng": 81.525567,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20B",
+            "lg_id": "LK-82-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -9288,7 +10803,12 @@
             "name": "Monaragala",
             "area_sqkm": 290.52,
             "center_lat": 6.832233,
-            "center_lng": 81.353268
+            "center_lng": 81.353268,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20B",
+            "lg_id": "LK-82-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -9308,7 +10828,12 @@
             "name": "Badalkumbura",
             "area_sqkm": 237.09,
             "center_lat": 6.869729,
-            "center_lng": 81.216912
+            "center_lng": 81.216912,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20B",
+            "lg_id": "LK-82-031"
           },
           "type": "Polygon",
           "arcs": [
@@ -9330,7 +10855,12 @@
             "name": "Wellawaya",
             "area_sqkm": 574.94,
             "center_lat": 6.612619,
-            "center_lng": 81.127975
+            "center_lng": 81.127975,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C",
+            "lg_id": "LK-82-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -9353,7 +10883,12 @@
             "name": "Buttala",
             "area_sqkm": 709.86,
             "center_lat": 6.660368,
-            "center_lng": 81.299812
+            "center_lng": 81.299812,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C",
+            "lg_id": "LK-82-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -9373,7 +10908,12 @@
             "name": "Katharagama",
             "area_sqkm": 609.08,
             "center_lat": 6.494507,
-            "center_lng": 81.373695
+            "center_lng": 81.373695,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C",
+            "lg_id": "LK-82-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -9394,7 +10934,12 @@
             "name": "Thanamalwila",
             "area_sqkm": 635.54,
             "center_lat": 6.501944,
-            "center_lng": 80.99412
+            "center_lng": 80.99412,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C",
+            "lg_id": "LK-82-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -9421,7 +10966,12 @@
             "name": "Sevanagala",
             "area_sqkm": 184.3,
             "center_lat": 6.375974,
-            "center_lng": 80.930542
+            "center_lng": 80.930542,
+            "province_id": "LK-8",
+            "district_id": "LK-82",
+            "ed_id": "EC-20",
+            "pd_id": "EC-20C",
+            "lg_id": "LK-82-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -9439,7 +10989,12 @@
             "name": "Eheliyagoda",
             "area_sqkm": 140.97,
             "center_lat": 6.838464,
-            "center_lng": 80.22653
+            "center_lng": 80.22653,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21A",
+            "lg_id": "LK-91-034"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -9467,7 +11022,12 @@
             "name": "Kuruvita",
             "area_sqkm": 171.02,
             "center_lat": 6.79925,
-            "center_lng": 80.354906
+            "center_lng": 80.354906,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": null,
+            "lg_id": "LK-91-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -9493,7 +11053,12 @@
             "name": "Kiriella",
             "area_sqkm": 79.43,
             "center_lat": 6.757653,
-            "center_lng": 80.275398
+            "center_lng": 80.275398,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": null,
+            "lg_id": "LK-91-039"
           },
           "type": "Polygon",
           "arcs": [
@@ -9517,7 +11082,12 @@
             "name": "Ratnapura",
             "area_sqkm": 327.73,
             "center_lat": 6.728669,
-            "center_lng": 80.48182
+            "center_lng": 80.48182,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9543,7 +11113,12 @@
             "name": "Imbulpe",
             "area_sqkm": 255.01,
             "center_lat": 6.714738,
-            "center_lng": 80.736102
+            "center_lng": 80.736102,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21D",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9563,7 +11138,12 @@
             "name": "Balangoda",
             "area_sqkm": 183.45,
             "center_lat": 6.64404,
-            "center_lng": 80.72006
+            "center_lng": 80.72006,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21D",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9584,7 +11164,12 @@
             "name": "Opanayake",
             "area_sqkm": 79.29,
             "center_lat": 6.60947,
-            "center_lng": 80.625148
+            "center_lng": 80.625148,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21E",
+            "lg_id": "LK-91-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -9604,7 +11189,12 @@
             "name": "Pelmadulla",
             "area_sqkm": 146.68,
             "center_lat": 6.635419,
-            "center_lng": 80.509481
+            "center_lng": 80.509481,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21C",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9625,7 +11215,12 @@
             "name": "Elapatha",
             "area_sqkm": 85.61,
             "center_lat": 6.663299,
-            "center_lng": 80.354808
+            "center_lng": 80.354808,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": null,
+            "lg_id": "LK-91-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -9645,7 +11240,12 @@
             "name": "Ayagama",
             "area_sqkm": 163.35,
             "center_lat": 6.650948,
-            "center_lng": 80.291308
+            "center_lng": 80.291308,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21G",
+            "lg_id": "LK-91-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -9669,7 +11269,12 @@
             "name": "Kalawana",
             "area_sqkm": 382.4,
             "center_lat": 6.46448,
-            "center_lng": 80.451221
+            "center_lng": 80.451221,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21G",
+            "lg_id": "LK-91-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -9696,7 +11301,12 @@
             "name": "Nivithigala",
             "area_sqkm": 153.46,
             "center_lat": 6.56935,
-            "center_lng": 80.456325
+            "center_lng": 80.456325,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": null,
+            "lg_id": "LK-91-040"
           },
           "type": "Polygon",
           "arcs": [
@@ -9722,7 +11332,12 @@
             "name": "Kahawattha",
             "area_sqkm": 104.25,
             "center_lat": 6.527983,
-            "center_lng": 80.545154
+            "center_lng": 80.545154,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21F",
+            "lg_id": "LK-91-045"
           },
           "type": "Polygon",
           "arcs": [
@@ -9744,7 +11359,12 @@
             "name": "Godakawela",
             "area_sqkm": 152.12,
             "center_lat": 6.498162,
-            "center_lng": 80.641823
+            "center_lng": 80.641823,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21E",
+            "lg_id": "LK-91-044"
           },
           "type": "Polygon",
           "arcs": [
@@ -9773,7 +11393,12 @@
             "name": "Weligepola",
             "area_sqkm": 198.02,
             "center_lat": 6.541498,
-            "center_lng": 80.740908
+            "center_lng": 80.740908,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21E",
+            "lg_id": "LK-91-043"
           },
           "type": "Polygon",
           "arcs": [
@@ -9800,7 +11425,12 @@
             "name": "Embilipitiya",
             "area_sqkm": 388.82,
             "center_lat": 6.355221,
-            "center_lng": 80.813866
+            "center_lng": 80.813866,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21H",
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9827,7 +11457,12 @@
             "name": "Kolonna",
             "area_sqkm": 177.85,
             "center_lat": 6.391184,
-            "center_lng": 80.678904
+            "center_lng": 80.678904,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21H",
+            "lg_id": "LK-91-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -9854,7 +11489,12 @@
             "name": "Kalthota",
             "area_sqkm": 97.64,
             "center_lat": 6.600378,
-            "center_lng": 80.85587
+            "center_lng": 80.85587,
+            "province_id": "LK-9",
+            "district_id": "LK-91",
+            "ed_id": "EC-21",
+            "pd_id": "EC-21D",
+            "lg_id": "LK-91-033"
           },
           "type": "Polygon",
           "arcs": [
@@ -9873,7 +11513,12 @@
             "name": "Rambukkana",
             "area_sqkm": 127.79,
             "center_lat": 7.324762,
-            "center_lng": 80.386138
+            "center_lng": 80.386138,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22D",
+            "lg_id": "LK-92-037"
           },
           "type": "Polygon",
           "arcs": [
@@ -9896,7 +11541,12 @@
             "name": "Mawanella",
             "area_sqkm": 120.09,
             "center_lat": 7.230038,
-            "center_lng": 80.47224
+            "center_lng": 80.47224,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22E",
+            "lg_id": "LK-92-036"
           },
           "type": "Polygon",
           "arcs": [
@@ -9919,7 +11569,12 @@
             "name": "Aranayake",
             "area_sqkm": 120.09,
             "center_lat": 7.167804,
-            "center_lng": 80.442178
+            "center_lng": 80.442178,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22F",
+            "lg_id": "LK-92-031"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -9946,7 +11601,12 @@
             "name": "Kegalle",
             "area_sqkm": 106.25,
             "center_lat": 7.209156,
-            "center_lng": 80.368156
+            "center_lng": 80.368156,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": null,
+            "lg_id": null
           },
           "type": "Polygon",
           "arcs": [
@@ -9970,7 +11630,12 @@
             "name": "Galigamuwa",
             "area_sqkm": 124.59,
             "center_lat": 7.216127,
-            "center_lng": 80.305524
+            "center_lng": 80.305524,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22B",
+            "lg_id": "LK-92-034"
           },
           "type": "Polygon",
           "arcs": [
@@ -9997,7 +11662,12 @@
             "name": "Warakapola",
             "area_sqkm": 196.98,
             "center_lat": 7.203746,
-            "center_lng": 80.231762
+            "center_lng": 80.231762,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22A",
+            "lg_id": "LK-92-039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -10031,7 +11701,12 @@
             "name": "Ruwanwella",
             "area_sqkm": 140.64,
             "center_lat": 7.064225,
-            "center_lng": 80.218789
+            "center_lng": 80.218789,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22H",
+            "lg_id": "LK-92-038"
           },
           "type": "Polygon",
           "arcs": [
@@ -10054,7 +11729,12 @@
             "name": "Bulathkohipitiya",
             "area_sqkm": 125.27,
             "center_lat": 7.098344,
-            "center_lng": 80.355516
+            "center_lng": 80.355516,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": null,
+            "lg_id": "LK-92-041"
           },
           "type": "Polygon",
           "arcs": [
@@ -10081,7 +11761,12 @@
             "name": "Yatiyantota",
             "area_sqkm": 179.91,
             "center_lat": 7.029854,
-            "center_lng": 80.371683
+            "center_lng": 80.371683,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22G",
+            "lg_id": "LK-92-040"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -10118,7 +11803,12 @@
             "name": "Dehiowita",
             "area_sqkm": 193.95,
             "center_lat": 6.939454,
-            "center_lng": 80.280907
+            "center_lng": 80.280907,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": null,
+            "lg_id": "LK-92-032"
           },
           "type": "Polygon",
           "arcs": [
@@ -10139,7 +11829,12 @@
             "name": "Deraniyagala",
             "area_sqkm": 222.16,
             "center_lat": 6.907025,
-            "center_lng": 80.403181
+            "center_lng": 80.403181,
+            "province_id": "LK-9",
+            "district_id": "LK-92",
+            "ed_id": "EC-22",
+            "pd_id": "EC-22I",
+            "lg_id": "LK-92-033"
           },
           "type": "Polygon",
           "arcs": [
