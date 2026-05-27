@@ -97,4 +97,3 @@ class BuildNonAdminGeo:
                 original_geojson_path,
             )
             BuildGeo.cleanup_big_files()
-            break
