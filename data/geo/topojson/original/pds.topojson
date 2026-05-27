@@ -15,7 +15,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1103",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-011"
+            "lg_id": "LG-11011"
           },
           "type": "Polygon",
           "arcs": [
@@ -41,7 +41,7 @@
             "district_id": "LK-11",
             "dsd_id": "",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-011"
+            "lg_id": "LG-11011"
           },
           "type": "Polygon",
           "arcs": [
@@ -68,7 +68,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1127",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-011"
+            "lg_id": "LG-11011"
           },
           "type": "Polygon",
           "arcs": [
@@ -93,7 +93,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1127",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-011"
+            "lg_id": "LG-11011"
           },
           "type": "Polygon",
           "arcs": [
@@ -125,7 +125,7 @@
             "district_id": "LK-11",
             "dsd_id": "",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-011"
+            "lg_id": "LG-11011"
           },
           "type": "Polygon",
           "arcs": [
@@ -150,7 +150,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1130",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-012"
+            "lg_id": "LG-11012"
           },
           "type": "Polygon",
           "arcs": [
@@ -193,7 +193,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1131",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-012"
+            "lg_id": "LG-11012"
           },
           "type": "Polygon",
           "arcs": [
@@ -251,7 +251,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1124",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-014"
+            "lg_id": "LG-11014"
           },
           "type": "Polygon",
           "arcs": [
@@ -287,7 +287,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1109",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-015"
+            "lg_id": "LG-11015"
           },
           "type": "Polygon",
           "arcs": [
@@ -349,7 +349,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1112",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-031"
+            "lg_id": "LG-11031"
           },
           "type": "Polygon",
           "arcs": [
@@ -383,7 +383,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1121",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-023"
+            "lg_id": "LG-11023"
           },
           "type": "Polygon",
           "arcs": [
@@ -465,7 +465,7 @@
             "district_id": "LK-11",
             "dsd_id": "LK-1133",
             "ed_id": "EC-01",
-            "lg_id": "LK-11-013"
+            "lg_id": "LG-11013"
           },
           "type": "Polygon",
           "arcs": [
@@ -521,7 +521,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1203",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-011"
+            "lg_id": "LG-12011"
           },
           "type": "Polygon",
           "arcs": [
@@ -581,7 +581,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1209",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-033"
+            "lg_id": "LG-12033"
           },
           "type": "Polygon",
           "arcs": [
@@ -610,7 +610,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1212",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-041"
+            "lg_id": "LG-12041"
           },
           "type": "Polygon",
           "arcs": [
@@ -685,7 +685,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1227",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-031"
+            "lg_id": "LG-12031"
           },
           "type": "Polygon",
           "arcs": [
@@ -794,7 +794,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1233",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-039"
+            "lg_id": "LG-12039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -835,7 +835,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1230",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-034"
+            "lg_id": "LG-12034"
           },
           "type": "Polygon",
           "arcs": [
@@ -863,7 +863,7 @@
             "district_id": "LK-12",
             "dsd_id": "LK-1239",
             "ed_id": "EC-02",
-            "lg_id": "LK-12-032"
+            "lg_id": "LG-12032"
           },
           "type": "Polygon",
           "arcs": [
@@ -1220,7 +1220,7 @@
             "district_id": "LK-21",
             "dsd_id": "",
             "ed_id": "EC-04",
-            "lg_id": "LK-21-043"
+            "lg_id": "LG-21043"
           },
           "type": "Polygon",
           "arcs": [
@@ -1369,7 +1369,7 @@
             "district_id": "LK-21",
             "dsd_id": "LK-2127",
             "ed_id": "EC-04",
-            "lg_id": "LK-21-035"
+            "lg_id": "LG-21035"
           },
           "type": "Polygon",
           "arcs": [
@@ -1404,7 +1404,7 @@
             "district_id": "LK-21",
             "dsd_id": "",
             "ed_id": "EC-04",
-            "lg_id": "LK-21-041"
+            "lg_id": "LG-21041"
           },
           "type": "Polygon",
           "arcs": [
@@ -1518,7 +1518,7 @@
             "district_id": "LK-21",
             "dsd_id": "LK-2139",
             "ed_id": "EC-04",
-            "lg_id": "LK-21-046"
+            "lg_id": "LG-21046"
           },
           "type": "Polygon",
           "arcs": [
@@ -1779,7 +1779,7 @@
             "district_id": "LK-23",
             "dsd_id": "",
             "ed_id": "EC-06",
-            "lg_id": "LK-23-033"
+            "lg_id": "LG-23033"
           },
           "type": "Polygon",
           "arcs": [
@@ -1804,7 +1804,7 @@
             "district_id": "LK-23",
             "dsd_id": "",
             "ed_id": "EC-06",
-            "lg_id": "LK-23-032"
+            "lg_id": "LG-23032"
           },
           "type": "Polygon",
           "arcs": [
@@ -1832,7 +1832,7 @@
             "district_id": "LK-23",
             "dsd_id": "",
             "ed_id": "EC-06",
-            "lg_id": "LK-23-035"
+            "lg_id": "LG-23035"
           },
           "type": "Polygon",
           "arcs": [
@@ -1859,7 +1859,7 @@
             "district_id": "LK-31",
             "dsd_id": "LK-3106",
             "ed_id": "EC-07",
-            "lg_id": "LK-31-034"
+            "lg_id": "LG-31034"
           },
           "type": "Polygon",
           "arcs": [
@@ -3403,7 +3403,7 @@
             "district_id": "LK-41",
             "dsd_id": "LK-4136",
             "ed_id": "EC-10",
-            "lg_id": "LK-41-011"
+            "lg_id": "LG-41011"
           },
           "type": "Polygon",
           "arcs": [
@@ -5042,7 +5042,7 @@
             "district_id": "LK-52",
             "dsd_id": "",
             "ed_id": "EC-13",
-            "lg_id": "LK-52-011"
+            "lg_id": "LG-52011"
           },
           "type": "Polygon",
           "arcs": [
@@ -5292,7 +5292,7 @@
             "district_id": "LK-61",
             "dsd_id": "",
             "ed_id": "EC-15",
-            "lg_id": "LK-61-035"
+            "lg_id": "LG-61035"
           },
           "type": "Polygon",
           "arcs": [
@@ -5319,7 +5319,7 @@
             "district_id": "LK-61",
             "dsd_id": "",
             "ed_id": "EC-15",
-            "lg_id": "LK-61-047"
+            "lg_id": "LG-61047"
           },
           "type": "Polygon",
           "arcs": [
@@ -5347,7 +5347,7 @@
             "district_id": "LK-61",
             "dsd_id": "",
             "ed_id": "EC-15",
-            "lg_id": "LK-61-042"
+            "lg_id": "LG-61042"
           },
           "type": "Polygon",
           "arcs": [
@@ -5400,7 +5400,7 @@
             "district_id": "LK-61",
             "dsd_id": "LK-6178",
             "ed_id": "EC-15",
-            "lg_id": "LK-61-043"
+            "lg_id": "LG-61043"
           },
           "type": "Polygon",
           "arcs": [
@@ -5488,7 +5488,7 @@
             "district_id": "LK-61",
             "dsd_id": "",
             "ed_id": "EC-15",
-            "lg_id": "LK-61-044"
+            "lg_id": "LG-61044"
           },
           "type": "Polygon",
           "arcs": [
@@ -5596,7 +5596,7 @@
             "district_id": "LK-61",
             "dsd_id": "LK-6163",
             "ed_id": "EC-15",
-            "lg_id": "LK-61-046"
+            "lg_id": "LG-61046"
           },
           "type": "Polygon",
           "arcs": [
@@ -5818,7 +5818,7 @@
             "district_id": "LK-62",
             "dsd_id": "",
             "ed_id": "EC-16",
-            "lg_id": "LK-62-036"
+            "lg_id": "LG-62036"
           },
           "type": "Polygon",
           "arcs": [
@@ -5844,7 +5844,7 @@
             "district_id": "LK-62",
             "dsd_id": "",
             "ed_id": "EC-16",
-            "lg_id": "LK-62-040"
+            "lg_id": "LG-62040"
           },
           "type": "Polygon",
           "arcs": [
@@ -6309,7 +6309,7 @@
             "district_id": "LK-81",
             "dsd_id": "LK-8124",
             "ed_id": "EC-19",
-            "lg_id": "LK-81-035"
+            "lg_id": "LG-81035"
           },
           "type": "Polygon",
           "arcs": [
@@ -6336,7 +6336,7 @@
             "district_id": "LK-81",
             "dsd_id": "LK-8127",
             "ed_id": "EC-19",
-            "lg_id": "LK-81-043"
+            "lg_id": "LG-81043"
           },
           "type": "Polygon",
           "arcs": [
@@ -6362,7 +6362,7 @@
             "district_id": "LK-81",
             "dsd_id": "LK-8130",
             "ed_id": "EC-19",
-            "lg_id": "LK-81-044"
+            "lg_id": "LG-81044"
           },
           "type": "Polygon",
           "arcs": [
@@ -6785,7 +6785,7 @@
             "district_id": "LK-92",
             "dsd_id": "LK-9218",
             "ed_id": "EC-22",
-            "lg_id": "LK-92-039"
+            "lg_id": "LG-92039"
           },
           "type": "MultiPolygon",
           "arcs": [
@@ -6885,7 +6885,7 @@
             "district_id": "LK-92",
             "dsd_id": "LK-9203",
             "ed_id": "EC-22",
-            "lg_id": "LK-92-037"
+            "lg_id": "LG-92037"
           },
           "type": "Polygon",
           "arcs": [
@@ -6913,7 +6913,7 @@
             "district_id": "LK-92",
             "dsd_id": "LK-9206",
             "ed_id": "EC-22",
-            "lg_id": "LK-92-036"
+            "lg_id": "LG-92036"
           },
           "type": "Polygon",
           "arcs": [

@@ -10,7 +10,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1103",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-011"
+    "lg_id": "LG-11011"
   },
   {
     "id": "EC-01B",
@@ -23,7 +23,7 @@
     "district_id": "LK-11",
     "dsd_id": null,
     "ed_id": "EC-01",
-    "lg_id": "LK-11-011"
+    "lg_id": "LG-11011"
   },
   {
     "id": "EC-01C",
@@ -36,7 +36,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1127",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-011"
+    "lg_id": "LG-11011"
   },
   {
     "id": "EC-01D",
@@ -49,7 +49,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1127",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-011"
+    "lg_id": "LG-11011"
   },
   {
     "id": "EC-01E",
@@ -62,7 +62,7 @@
     "district_id": "LK-11",
     "dsd_id": null,
     "ed_id": "EC-01",
-    "lg_id": "LK-11-011"
+    "lg_id": "LG-11011"
   },
   {
     "id": "EC-01F",
@@ -75,7 +75,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1130",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-012"
+    "lg_id": "LG-11012"
   },
   {
     "id": "EC-01G",
@@ -88,7 +88,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1131",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-012"
+    "lg_id": "LG-11012"
   },
   {
     "id": "EC-01H",
@@ -114,7 +114,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1124",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-014"
+    "lg_id": "LG-11014"
   },
   {
     "id": "EC-01J",
@@ -127,7 +127,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1109",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-015"
+    "lg_id": "LG-11015"
   },
   {
     "id": "EC-01K",
@@ -153,7 +153,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1112",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-031"
+    "lg_id": "LG-11031"
   },
   {
     "id": "EC-01M",
@@ -166,7 +166,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1121",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-023"
+    "lg_id": "LG-11023"
   },
   {
     "id": "EC-01N",
@@ -192,7 +192,7 @@
     "district_id": "LK-11",
     "dsd_id": "LK-1133",
     "ed_id": "EC-01",
-    "lg_id": "LK-11-013"
+    "lg_id": "LG-11013"
   },
   {
     "id": "EC-02A",
@@ -218,7 +218,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1203",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-011"
+    "lg_id": "LG-12011"
   },
   {
     "id": "EC-02C",
@@ -244,7 +244,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1209",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-033"
+    "lg_id": "LG-12033"
   },
   {
     "id": "EC-02E",
@@ -257,7 +257,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1212",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-041"
+    "lg_id": "LG-12041"
   },
   {
     "id": "EC-02F",
@@ -283,7 +283,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1227",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-031"
+    "lg_id": "LG-12031"
   },
   {
     "id": "EC-02H",
@@ -322,7 +322,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1233",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-039"
+    "lg_id": "LG-12039"
   },
   {
     "id": "EC-02K",
@@ -335,7 +335,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1230",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-034"
+    "lg_id": "LG-12034"
   },
   {
     "id": "EC-02L",
@@ -348,7 +348,7 @@
     "district_id": "LK-12",
     "dsd_id": "LK-1239",
     "ed_id": "EC-02",
-    "lg_id": "LK-12-032"
+    "lg_id": "LG-12032"
   },
   {
     "id": "EC-02M",
@@ -478,7 +478,7 @@
     "district_id": "LK-21",
     "dsd_id": null,
     "ed_id": "EC-04",
-    "lg_id": "LK-21-043"
+    "lg_id": "LG-21043"
   },
   {
     "id": "EC-04B",
@@ -543,7 +543,7 @@
     "district_id": "LK-21",
     "dsd_id": "LK-2127",
     "ed_id": "EC-04",
-    "lg_id": "LK-21-035"
+    "lg_id": "LG-21035"
   },
   {
     "id": "EC-04G",
@@ -556,7 +556,7 @@
     "district_id": "LK-21",
     "dsd_id": null,
     "ed_id": "EC-04",
-    "lg_id": "LK-21-041"
+    "lg_id": "LG-21041"
   },
   {
     "id": "EC-04H",
@@ -608,7 +608,7 @@
     "district_id": "LK-21",
     "dsd_id": "LK-2139",
     "ed_id": "EC-04",
-    "lg_id": "LK-21-046"
+    "lg_id": "LG-21046"
   },
   {
     "id": "EC-04L",
@@ -712,7 +712,7 @@
     "district_id": "LK-23",
     "dsd_id": null,
     "ed_id": "EC-06",
-    "lg_id": "LK-23-033"
+    "lg_id": "LG-23033"
   },
   {
     "id": "EC-06C",
@@ -725,7 +725,7 @@
     "district_id": "LK-23",
     "dsd_id": null,
     "ed_id": "EC-06",
-    "lg_id": "LK-23-032"
+    "lg_id": "LG-23032"
   },
   {
     "id": "EC-06D",
@@ -738,7 +738,7 @@
     "district_id": "LK-23",
     "dsd_id": null,
     "ed_id": "EC-06",
-    "lg_id": "LK-23-035"
+    "lg_id": "LG-23035"
   },
   {
     "id": "EC-07A",
@@ -751,7 +751,7 @@
     "district_id": "LK-31",
     "dsd_id": "LK-3106",
     "ed_id": "EC-07",
-    "lg_id": "LK-31-034"
+    "lg_id": "LG-31034"
   },
   {
     "id": "EC-07B",
@@ -1141,7 +1141,7 @@
     "district_id": "LK-41",
     "dsd_id": "LK-4136",
     "ed_id": "EC-10",
-    "lg_id": "LK-41-011"
+    "lg_id": "LG-41011"
   },
   {
     "id": "EC-10K",
@@ -1271,7 +1271,7 @@
     "district_id": "LK-52",
     "dsd_id": null,
     "ed_id": "EC-13",
-    "lg_id": "LK-52-011"
+    "lg_id": "LG-52011"
   },
   {
     "id": "EC-13D",
@@ -1375,7 +1375,7 @@
     "district_id": "LK-61",
     "dsd_id": null,
     "ed_id": "EC-15",
-    "lg_id": "LK-61-035"
+    "lg_id": "LG-61035"
   },
   {
     "id": "EC-15E",
@@ -1388,7 +1388,7 @@
     "district_id": "LK-61",
     "dsd_id": null,
     "ed_id": "EC-15",
-    "lg_id": "LK-61-047"
+    "lg_id": "LG-61047"
   },
   {
     "id": "EC-15F",
@@ -1401,7 +1401,7 @@
     "district_id": "LK-61",
     "dsd_id": null,
     "ed_id": "EC-15",
-    "lg_id": "LK-61-042"
+    "lg_id": "LG-61042"
   },
   {
     "id": "EC-15G",
@@ -1427,7 +1427,7 @@
     "district_id": "LK-61",
     "dsd_id": "LK-6178",
     "ed_id": "EC-15",
-    "lg_id": "LK-61-043"
+    "lg_id": "LG-61043"
   },
   {
     "id": "EC-15I",
@@ -1466,7 +1466,7 @@
     "district_id": "LK-61",
     "dsd_id": null,
     "ed_id": "EC-15",
-    "lg_id": "LK-61-044"
+    "lg_id": "LG-61044"
   },
   {
     "id": "EC-15L",
@@ -1505,7 +1505,7 @@
     "district_id": "LK-61",
     "dsd_id": "LK-6163",
     "ed_id": "EC-15",
-    "lg_id": "LK-61-046"
+    "lg_id": "LG-61046"
   },
   {
     "id": "EC-16A",
@@ -1557,7 +1557,7 @@
     "district_id": "LK-62",
     "dsd_id": null,
     "ed_id": "EC-16",
-    "lg_id": "LK-62-036"
+    "lg_id": "LG-62036"
   },
   {
     "id": "EC-16E",
@@ -1570,7 +1570,7 @@
     "district_id": "LK-62",
     "dsd_id": null,
     "ed_id": "EC-16",
-    "lg_id": "LK-62-040"
+    "lg_id": "LG-62040"
   },
   {
     "id": "EC-17A",
@@ -1765,7 +1765,7 @@
     "district_id": "LK-81",
     "dsd_id": "LK-8124",
     "ed_id": "EC-19",
-    "lg_id": "LK-81-035"
+    "lg_id": "LG-81035"
   },
   {
     "id": "EC-19F",
@@ -1778,7 +1778,7 @@
     "district_id": "LK-81",
     "dsd_id": "LK-8127",
     "ed_id": "EC-19",
-    "lg_id": "LK-81-043"
+    "lg_id": "LG-81043"
   },
   {
     "id": "EC-19G",
@@ -1791,7 +1791,7 @@
     "district_id": "LK-81",
     "dsd_id": "LK-8130",
     "ed_id": "EC-19",
-    "lg_id": "LK-81-044"
+    "lg_id": "LG-81044"
   },
   {
     "id": "EC-19H",
@@ -1973,7 +1973,7 @@
     "district_id": "LK-92",
     "dsd_id": "LK-9218",
     "ed_id": "EC-22",
-    "lg_id": "LK-92-039"
+    "lg_id": "LG-92039"
   },
   {
     "id": "EC-22B",
@@ -2012,7 +2012,7 @@
     "district_id": "LK-92",
     "dsd_id": "LK-9203",
     "ed_id": "EC-22",
-    "lg_id": "LK-92-037"
+    "lg_id": "LG-92037"
   },
   {
     "id": "EC-22E",
@@ -2025,7 +2025,7 @@
     "district_id": "LK-92",
     "dsd_id": "LK-9206",
     "ed_id": "EC-22",
-    "lg_id": "LK-92-036"
+    "lg_id": "LG-92036"
   },
   {
     "id": "EC-22F",

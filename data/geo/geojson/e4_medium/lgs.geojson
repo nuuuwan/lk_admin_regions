@@ -5,7 +5,7 @@
       "id": "feature_000",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-011",
+        "id": "LG-11011",
         "name": "Colombo MC",
         "area_sqkm": "46.87",
         "center_lat": "6.923685",
@@ -1749,7 +1749,7 @@
       "id": "feature_001",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-012",
+        "id": "LG-11012",
         "name": "Dehiwala Mount Lavinia MC",
         "area_sqkm": "21.32",
         "center_lat": "6.839519",
@@ -2525,7 +2525,7 @@
       "id": "feature_002",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-013",
+        "id": "LG-11013",
         "name": "Moratuwa MC",
         "area_sqkm": "19.3",
         "center_lat": "6.782566",
@@ -2997,7 +2997,7 @@
       "id": "feature_003",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-014",
+        "id": "LG-11014",
         "name": "Sri Jayawardanapura Kotte MC",
         "area_sqkm": "16.32",
         "center_lat": "6.891034",
@@ -4025,7 +4025,7 @@
       "id": "feature_004",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-015",
+        "id": "LG-11015",
         "name": "Kaduwela MC",
         "area_sqkm": "86.74",
         "center_lat": "6.903511",
@@ -5957,7 +5957,7 @@
       "id": "feature_005",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-021",
+        "id": "LG-11021",
         "name": "Kolonnawa UC",
         "area_sqkm": "5.12",
         "center_lat": "6.938501",
@@ -6365,7 +6365,7 @@
       "id": "feature_006",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-022",
+        "id": "LG-11022",
         "name": "Seethawakapura UC",
         "area_sqkm": "20.65",
         "center_lat": "6.954033",
@@ -7157,7 +7157,7 @@
       "id": "feature_007",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-023",
+        "id": "LG-11023",
         "name": "Maharagama UC",
         "area_sqkm": "37.8",
         "center_lat": "6.856502",
@@ -9281,7 +9281,7 @@
       "id": "feature_008",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-024",
+        "id": "LG-11024",
         "name": "Kesbewa UC",
         "area_sqkm": "50.54",
         "center_lat": "6.794944",
@@ -10557,7 +10557,7 @@
       "id": "feature_009",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-025",
+        "id": "LG-11025",
         "name": "Boralesgamuwa UC",
         "area_sqkm": "10.87",
         "center_lat": "6.838445",
@@ -11349,7 +11349,7 @@
       "id": "feature_010",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-031",
+        "id": "LG-11031",
         "name": "Homagama PS",
         "area_sqkm": "139.34",
         "center_lat": "6.831555",
@@ -14081,7 +14081,7 @@
       "id": "feature_011",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-033",
+        "id": "LG-11033",
         "name": "Kotikawatta-Mullariyawa PS",
         "area_sqkm": "20.81",
         "center_lat": "6.933354",
@@ -15065,7 +15065,7 @@
       "id": "feature_012",
       "type": "Feature",
       "properties": {
-        "id": "LK-11-034",
+        "id": "LG-11034",
         "name": "Seethawaka PS",
         "area_sqkm": "212.5",
         "center_lat": "6.884347",
@@ -17425,7 +17425,7 @@
       "id": "feature_013",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-011",
+        "id": "LG-12011",
         "name": "Negombo MC",
         "area_sqkm": "30.4",
         "center_lat": "7.21369",
@@ -19365,7 +19365,7 @@
       "id": "feature_014",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-012",
+        "id": "LG-12012",
         "name": "Gampaha MC",
         "area_sqkm": "27.89",
         "center_lat": "7.093769",
@@ -20825,7 +20825,7 @@
       "id": "feature_015",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-022",
+        "id": "LG-12022",
         "name": "Ja- Ela UC",
         "area_sqkm": "7.91",
         "center_lat": "7.071388",
@@ -21257,7 +21257,7 @@
       "id": "feature_016",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-023",
+        "id": "LG-12023",
         "name": "Katunayaka- Seeduwa UC/Katana PS",
         "area_sqkm": "23.44",
         "center_lat": "7.157189",
@@ -22801,7 +22801,7 @@
       "id": "feature_017",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-024",
+        "id": "LG-12024",
         "name": "Minuwangoda UC",
         "area_sqkm": "3.64",
         "center_lat": "7.170623",
@@ -23545,7 +23545,7 @@
       "id": "feature_018",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-025",
+        "id": "LG-12025",
         "name": "Peliyagoda UC",
         "area_sqkm": "3.81",
         "center_lat": "6.963016",
@@ -23813,7 +23813,7 @@
       "id": "feature_019",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-026",
+        "id": "LG-12026",
         "name": "Wattala - Mabola UC",
         "area_sqkm": "3.95",
         "center_lat": "6.989689",
@@ -24393,7 +24393,7 @@
       "id": "feature_020",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-031",
+        "id": "LG-12031",
         "name": "Attanagalla PS",
         "area_sqkm": "154.83",
         "center_lat": "7.114342",
@@ -27871,7 +27871,7 @@
       "id": "feature_021",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-032",
+        "id": "LG-12032",
         "name": "Biyagama PS",
         "area_sqkm": "61.01",
         "center_lat": "6.968689",
@@ -29539,7 +29539,7 @@
       "id": "feature_022",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-033",
+        "id": "LG-12033",
         "name": "Divulapitiya PS",
         "area_sqkm": "203.16",
         "center_lat": "7.253922",
@@ -32387,7 +32387,7 @@
       "id": "feature_023",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-034",
+        "id": "LG-12034",
         "name": "Dompe PS",
         "area_sqkm": "179.18",
         "center_lat": "6.990491",
@@ -34851,7 +34851,7 @@
       "id": "feature_024",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-035",
+        "id": "LG-12035",
         "name": "Gampaha PS",
         "area_sqkm": "63.93",
         "center_lat": "7.06141",
@@ -37511,7 +37511,7 @@
       "id": "feature_025",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-036",
+        "id": "LG-12036",
         "name": "Ja- Ela PS",
         "area_sqkm": "54.54",
         "center_lat": "7.072131",
@@ -39651,7 +39651,7 @@
       "id": "feature_026",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-037",
+        "id": "LG-12037",
         "name": "Katana PS",
         "area_sqkm": "83.15",
         "center_lat": "7.203003",
@@ -42213,7 +42213,7 @@
       "id": "feature_027",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-038",
+        "id": "LG-12038",
         "name": "Kelaniya PS",
         "area_sqkm": "18.13",
         "center_lat": "6.9719",
@@ -43281,7 +43281,7 @@
       "id": "feature_028",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-039",
+        "id": "LG-12039",
         "name": "Mahara PS",
         "area_sqkm": "95.75",
         "center_lat": "7.029309",
@@ -47483,7 +47483,7 @@
       "id": "feature_029",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-040",
+        "id": "LG-12040",
         "name": "Minuwangoda PS",
         "area_sqkm": "128.48",
         "center_lat": "7.154593",
@@ -50861,7 +50861,7 @@
       "id": "feature_030",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-041",
+        "id": "LG-12041",
         "name": "Mirigama PS",
         "area_sqkm": "188.81",
         "center_lat": "7.225181",
@@ -54083,7 +54083,7 @@
       "id": "feature_031",
       "type": "Feature",
       "properties": {
-        "id": "LK-12-042",
+        "id": "LG-12042",
         "name": "Wattala PS",
         "area_sqkm": "53.22",
         "center_lat": "7.038584",
@@ -55655,7 +55655,7 @@
       "id": "feature_032",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-011",
+        "id": "LG-13011",
         "name": "Kalutara MC",
         "area_sqkm": "20.76",
         "center_lat": "6.574697",
@@ -56635,7 +56635,7 @@
       "id": "feature_033",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-021",
+        "id": "LG-13021",
         "name": "Beruwala UC",
         "area_sqkm": "4.73",
         "center_lat": "6.470168",
@@ -57225,7 +57225,7 @@
       "id": "feature_034",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-022",
+        "id": "LG-13022",
         "name": "Horana UC/Horana PS",
         "area_sqkm": "5.01",
         "center_lat": "6.716079",
@@ -57929,7 +57929,7 @@
       "id": "feature_035",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-024",
+        "id": "LG-13024",
         "name": "Panadura UC/Panadura PS",
         "area_sqkm": "7.45",
         "center_lat": "6.714246",
@@ -58767,7 +58767,7 @@
       "id": "feature_036",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-031",
+        "id": "LG-13031",
         "name": "Agalawatta PS",
         "area_sqkm": "92.24",
         "center_lat": "6.515637",
@@ -60947,7 +60947,7 @@
       "id": "feature_037",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-032",
+        "id": "LG-13032",
         "name": "Bandaragama PS",
         "area_sqkm": "57.08",
         "center_lat": "6.718529",
@@ -62579,7 +62579,7 @@
       "id": "feature_038",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-033",
+        "id": "LG-13033",
         "name": "Beruwala PS",
         "area_sqkm": "68.79",
         "center_lat": "6.490077",
@@ -64793,7 +64793,7 @@
       "id": "feature_039",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-034",
+        "id": "LG-13034",
         "name": "Bulathsinhala PS",
         "area_sqkm": "211.03",
         "center_lat": "6.648237",
@@ -66993,7 +66993,7 @@
       "id": "feature_040",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-035",
+        "id": "LG-13035",
         "name": "Dodangoda PS",
         "area_sqkm": "109.85",
         "center_lat": "6.571467",
@@ -70113,7 +70113,7 @@
       "id": "feature_041",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-036",
+        "id": "LG-13036",
         "name": "Horana PS",
         "area_sqkm": "201.04",
         "center_lat": "6.760308",
@@ -73439,7 +73439,7 @@
       "id": "feature_042",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-037",
+        "id": "LG-13037",
         "name": "Kalutara PS",
         "area_sqkm": "54.81",
         "center_lat": "6.637438",
@@ -75159,7 +75159,7 @@
       "id": "feature_043",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-038",
+        "id": "LG-13038",
         "name": "Mathugama PS",
         "area_sqkm": "138.88",
         "center_lat": "6.488",
@@ -77987,7 +77987,7 @@
       "id": "feature_044",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-039",
+        "id": "LG-13039",
         "name": "Panadura PS",
         "area_sqkm": "37.95",
         "center_lat": "6.716098",
@@ -79841,7 +79841,7 @@
       "id": "feature_045",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-040",
+        "id": "LG-13040",
         "name": "Walallawita PS",
         "area_sqkm": "211.65",
         "center_lat": "6.406665",
@@ -81885,7 +81885,7 @@
       "id": "feature_046",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-041",
+        "id": "LG-13041",
         "name": "Madurawala PS",
         "area_sqkm": "62.19",
         "center_lat": "6.651918",
@@ -84001,7 +84001,7 @@
       "id": "feature_047",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-042",
+        "id": "LG-13042",
         "name": "Palindanuwara PS",
         "area_sqkm": "284.12",
         "center_lat": "6.506966",
@@ -86149,7 +86149,7 @@
       "id": "feature_048",
       "type": "Feature",
       "properties": {
-        "id": "LK-13-043",
+        "id": "LG-13043",
         "name": "Millaniya PS",
         "area_sqkm": "79.42",
         "center_lat": "6.658585",
@@ -87849,7 +87849,7 @@
       "id": "feature_049",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-011",
+        "id": "LG-21011",
         "name": "Kandy MC/ Pathadumbara PS",
         "area_sqkm": "29.09",
         "center_lat": "7.292359",
@@ -89489,7 +89489,7 @@
       "id": "feature_050",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-021",
+        "id": "LG-21021",
         "name": "Gampola UC",
         "area_sqkm": "13.92",
         "center_lat": "7.169488",
@@ -91299,7 +91299,7 @@
       "id": "feature_051",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-022",
+        "id": "LG-21022",
         "name": "Kadugannawa UC/Yatinuwara PS",
         "area_sqkm": "7.81",
         "center_lat": "7.262628",
@@ -92215,7 +92215,7 @@
       "id": "feature_052",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-023",
+        "id": "LG-21023",
         "name": "Nawalapitiya UC/Pasbage Korale PS",
         "area_sqkm": "14.54",
         "center_lat": "7.047561",
@@ -93059,7 +93059,7 @@
       "id": "feature_053",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-024",
+        "id": "LG-21024",
         "name": "Wattegama UC/ Pathadumbara PS",
         "area_sqkm": "9.49",
         "center_lat": "7.351362",
@@ -93931,7 +93931,7 @@
       "id": "feature_054",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-025",
+        "id": "LG-21025",
         "name": "Medadumbara PS",
         "area_sqkm": "0.89",
         "center_lat": "7.3365",
@@ -94119,7 +94119,7 @@
       "id": "feature_055",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-031",
+        "id": "LG-21031",
         "name": "Akurana PS",
         "area_sqkm": "29.9",
         "center_lat": "7.391395",
@@ -95187,7 +95187,7 @@
       "id": "feature_056",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-032",
+        "id": "LG-21032",
         "name": "Ganga Ihala Korale",
         "area_sqkm": "96.17",
         "center_lat": "7.112563",
@@ -97217,7 +97217,7 @@
       "id": "feature_057",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-033",
+        "id": "LG-21033",
         "name": "Harispattuwa PS",
         "area_sqkm": "49.04",
         "center_lat": "7.328489",
@@ -98801,7 +98801,7 @@
       "id": "feature_058",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-034",
+        "id": "LG-21034",
         "name": "Kandy Four Graverts &Gangawata Korale PS",
         "area_sqkm": "31.99",
         "center_lat": "7.258323",
@@ -100571,7 +100571,7 @@
       "id": "feature_059",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-035",
+        "id": "LG-21035",
         "name": "Medadumbara PS",
         "area_sqkm": "82.37",
         "center_lat": "7.305974",
@@ -102547,7 +102547,7 @@
       "id": "feature_060",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-036",
+        "id": "LG-21036",
         "name": "Medadumbara PS",
         "area_sqkm": "186.74",
         "center_lat": "7.302292",
@@ -104173,7 +104173,7 @@
       "id": "feature_061",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-037",
+        "id": "LG-21037",
         "name": "Minipe PS",
         "area_sqkm": "249.31",
         "center_lat": "7.348541",
@@ -105737,7 +105737,7 @@
       "id": "feature_062",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-038",
+        "id": "LG-21038",
         "name": "Panvila PS",
         "area_sqkm": "92.63",
         "center_lat": "7.409011",
@@ -107093,7 +107093,7 @@
       "id": "feature_063",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-039",
+        "id": "LG-21039",
         "name": "Pasbage Korale PS",
         "area_sqkm": "107.03",
         "center_lat": "7.014613",
@@ -109265,7 +109265,7 @@
       "id": "feature_064",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-040",
+        "id": "LG-21040",
         "name": "Pathadumbara PS",
         "area_sqkm": "38.49",
         "center_lat": "7.350645",
@@ -111747,7 +111747,7 @@
       "id": "feature_065",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-041",
+        "id": "LG-21041",
         "name": "Pathhewaheta PS",
         "area_sqkm": "133.33",
         "center_lat": "7.212482",
@@ -113095,7 +113095,7 @@
       "id": "feature_066",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-042",
+        "id": "LG-21042",
         "name": "Pujapitiya PS",
         "area_sqkm": "58.6",
         "center_lat": "7.400318",
@@ -114711,7 +114711,7 @@
       "id": "feature_067",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-043",
+        "id": "LG-21043",
         "name": "Thumpane PS",
         "area_sqkm": "114.91",
         "center_lat": "7.346769",
@@ -116259,7 +116259,7 @@
       "id": "feature_068",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-044",
+        "id": "LG-21044",
         "name": "Udadumbara PS",
         "area_sqkm": "277.55",
         "center_lat": "7.328827",
@@ -117751,7 +117751,7 @@
       "id": "feature_069",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-045",
+        "id": "LG-21045",
         "name": "Udapalatha PS",
         "area_sqkm": "173.72",
         "center_lat": "7.145243",
@@ -120141,7 +120141,7 @@
       "id": "feature_070",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-046",
+        "id": "LG-21046",
         "name": "Udunuwara PS",
         "area_sqkm": "68.84",
         "center_lat": "7.222683",
@@ -121405,7 +121405,7 @@
       "id": "feature_071",
       "type": "Feature",
       "properties": {
-        "id": "LK-21-047",
+        "id": "LG-21047",
         "name": "Yatinuwara PS",
         "area_sqkm": "61.3",
         "center_lat": "7.285391",
@@ -123145,7 +123145,7 @@
       "id": "feature_072",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-011",
+        "id": "LG-22011",
         "name": "Matale MC/ Matale PS",
         "area_sqkm": "17.19",
         "center_lat": "7.475768",
@@ -124493,7 +124493,7 @@
       "id": "feature_073",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-012",
+        "id": "LG-22012",
         "name": "Dambulla MC",
         "area_sqkm": "53.98",
         "center_lat": "7.860743",
@@ -125925,7 +125925,7 @@
       "id": "feature_074",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-031",
+        "id": "LG-22031",
         "name": "Ambanganga Korale PS",
         "area_sqkm": "55.38",
         "center_lat": "7.561141",
@@ -127221,7 +127221,7 @@
       "id": "feature_075",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-032",
+        "id": "LG-22032",
         "name": "Dambulla PS",
         "area_sqkm": "399.36",
         "center_lat": "7.877418",
@@ -130501,7 +130501,7 @@
       "id": "feature_076",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-033",
+        "id": "LG-22033",
         "name": "Galewela PS",
         "area_sqkm": "196.94",
         "center_lat": "7.779286",
@@ -132505,7 +132505,7 @@
       "id": "feature_077",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-034",
+        "id": "LG-22034",
         "name": "Laggala-Pallegama PS",
         "area_sqkm": "384.63",
         "center_lat": "7.556101",
@@ -134573,7 +134573,7 @@
       "id": "feature_078",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-035",
+        "id": "LG-22035",
         "name": "Matale PS",
         "area_sqkm": "54.64",
         "center_lat": "7.559794",
@@ -136899,7 +136899,7 @@
       "id": "feature_079",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-036",
+        "id": "LG-22036",
         "name": "Naula PS",
         "area_sqkm": "287.89",
         "center_lat": "7.688935",
@@ -138667,7 +138667,7 @@
       "id": "feature_080",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-037",
+        "id": "LG-22037",
         "name": "Pallepola PS",
         "area_sqkm": "82.9",
         "center_lat": "7.647136",
@@ -140323,7 +140323,7 @@
       "id": "feature_081",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-038",
+        "id": "LG-22038",
         "name": "Rattota PS",
         "area_sqkm": "103.92",
         "center_lat": "7.485932",
@@ -142491,7 +142491,7 @@
       "id": "feature_082",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-039",
+        "id": "LG-22039",
         "name": "Ukuwela PS",
         "area_sqkm": "78.4",
         "center_lat": "7.429686",
@@ -144863,7 +144863,7 @@
       "id": "feature_083",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-040",
+        "id": "LG-22040",
         "name": "Wilgamuwa PS",
         "area_sqkm": "276.13",
         "center_lat": "7.605904",
@@ -146355,7 +146355,7 @@
       "id": "feature_084",
       "type": "Feature",
       "properties": {
-        "id": "LK-22-041",
+        "id": "LG-22041",
         "name": "Yatawatta PS",
         "area_sqkm": "67.39",
         "center_lat": "7.548664",
@@ -147553,7 +147553,7 @@
       "id": "feature_085",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-011",
+        "id": "LG-23011",
         "name": "Nuwara Eliya MC/ Nuwara Eliya PS",
         "area_sqkm": "46.3",
         "center_lat": "6.965875",
@@ -149113,7 +149113,7 @@
       "id": "feature_086",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-021",
+        "id": "LG-23021",
         "name": "Hatton - Dickoya UC/ Ambagamuwa PS",
         "area_sqkm": "16.7",
         "center_lat": "6.886439",
@@ -150137,7 +150137,7 @@
       "id": "feature_087",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-022",
+        "id": "LG-23022",
         "name": "Thalawakale-Lindula UC/ Kotagala PS",
         "area_sqkm": "31.29",
         "center_lat": "6.93989",
@@ -152477,7 +152477,7 @@
       "id": "feature_088",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-031",
+        "id": "LG-23031",
         "name": "Ambagamuwa PS",
         "area_sqkm": "185.13",
         "center_lat": "6.941279",
@@ -154649,7 +154649,7 @@
       "id": "feature_089",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-032",
+        "id": "LG-23032",
         "name": "Hanguranketha PS",
         "area_sqkm": "225.72",
         "center_lat": "7.123265",
@@ -156925,7 +156925,7 @@
       "id": "feature_090",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-033",
+        "id": "LG-23033",
         "name": "Kothmale PS",
         "area_sqkm": "226.79",
         "center_lat": "7.038477",
@@ -159613,7 +159613,7 @@
       "id": "feature_091",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-034",
+        "id": "LG-23034",
         "name": "Nuwara Eliya PS",
         "area_sqkm": "173.84",
         "center_lat": "6.920252",
@@ -163795,7 +163795,7 @@
       "id": "feature_092",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-035",
+        "id": "LG-23035",
         "name": "Walapane PS",
         "area_sqkm": "322.88",
         "center_lat": "7.0925",
@@ -166107,7 +166107,7 @@
       "id": "feature_093",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-036",
+        "id": "LG-23036",
         "name": "Maskeliya PS",
         "area_sqkm": "156.2",
         "center_lat": "6.811348",
@@ -167737,7 +167737,7 @@
       "id": "feature_094",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-037",
+        "id": "LG-23037",
         "name": "Noorwood PS",
         "area_sqkm": "128.8",
         "center_lat": "6.816981",
@@ -169823,7 +169823,7 @@
       "id": "feature_095",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-038",
+        "id": "LG-23038",
         "name": "Agarapathana PS",
         "area_sqkm": "169.09",
         "center_lat": "6.859088",
@@ -172011,7 +172011,7 @@
       "id": "feature_096",
       "type": "Feature",
       "properties": {
-        "id": "LK-23-039",
+        "id": "LG-23039",
         "name": "Kotagala PS",
         "area_sqkm": "62.07",
         "center_lat": "6.943042",
@@ -174301,7 +174301,7 @@
       "id": "feature_097",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-011",
+        "id": "LG-31011",
         "name": "Galle MC",
         "area_sqkm": "17.19",
         "center_lat": "6.048309",
@@ -175613,7 +175613,7 @@
       "id": "feature_098",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-021",
+        "id": "LG-31021",
         "name": "Ambalangoda UC",
         "area_sqkm": "7.23",
         "center_lat": "6.242114",
@@ -176433,7 +176433,7 @@
       "id": "feature_099",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-022",
+        "id": "LG-31022",
         "name": "Hikkaduwa UC",
         "area_sqkm": "13.04",
         "center_lat": "6.128233",
@@ -177551,7 +177551,7 @@
       "id": "feature_100",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-031",
+        "id": "LG-31031",
         "name": "Akmeemana PS",
         "area_sqkm": "71.2",
         "center_lat": "6.059798",
@@ -180143,7 +180143,7 @@
       "id": "feature_101",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-032",
+        "id": "LG-31032",
         "name": "Ambalangoda PS",
         "area_sqkm": "67.37",
         "center_lat": "6.198961",
@@ -182211,7 +182211,7 @@
       "id": "feature_102",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-033",
+        "id": "LG-31033",
         "name": "Baddegama PS",
         "area_sqkm": "112.86",
         "center_lat": "6.136369",
@@ -184799,7 +184799,7 @@
       "id": "feature_103",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-034",
+        "id": "LG-31034",
         "name": "Balapitiya PS",
         "area_sqkm": "54.26",
         "center_lat": "6.314523",
@@ -186599,7 +186599,7 @@
       "id": "feature_104",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-035",
+        "id": "LG-31035",
         "name": "Benthota PS",
         "area_sqkm": "70.97",
         "center_lat": "6.386622",
@@ -188355,7 +188355,7 @@
       "id": "feature_105",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-036",
+        "id": "LG-31036",
         "name": "Bope_Poddala PS",
         "area_sqkm": "33.72",
         "center_lat": "6.081956",
@@ -189603,7 +189603,7 @@
       "id": "feature_106",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-037",
+        "id": "LG-31037",
         "name": "Elpitiya PS",
         "area_sqkm": "150.64",
         "center_lat": "6.290338",
@@ -191863,7 +191863,7 @@
       "id": "feature_107",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-038",
+        "id": "LG-31038",
         "name": "Habaraduwa PS",
         "area_sqkm": "48.81",
         "center_lat": "6.001825",
@@ -194307,7 +194307,7 @@
       "id": "feature_108",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-039",
+        "id": "LG-31039",
         "name": "Rajgama PS",
         "area_sqkm": "50.13",
         "center_lat": "6.142852",
@@ -196273,7 +196273,7 @@
       "id": "feature_109",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-040",
+        "id": "LG-31040",
         "name": "Karandeniya PS",
         "area_sqkm": "88.55",
         "center_lat": "6.301085",
@@ -198313,7 +198313,7 @@
       "id": "feature_110",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-041",
+        "id": "LG-31041",
         "name": "Nagoda PS",
         "area_sqkm": "173.43",
         "center_lat": "6.199194",
@@ -200977,7 +200977,7 @@
       "id": "feature_111",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-042",
+        "id": "LG-31042",
         "name": "Neluwa PS",
         "area_sqkm": "152.51",
         "center_lat": "6.360383",
@@ -202437,7 +202437,7 @@
       "id": "feature_112",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-043",
+        "id": "LG-31043",
         "name": "Niyagama PS",
         "area_sqkm": "104.37",
         "center_lat": "6.302514",
@@ -204473,7 +204473,7 @@
       "id": "feature_113",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-044",
+        "id": "LG-31044",
         "name": "Thawalama PS",
         "area_sqkm": "173.7",
         "center_lat": "6.292952",
@@ -206245,7 +206245,7 @@
       "id": "feature_114",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-045",
+        "id": "LG-31045",
         "name": "Yakkalamulla PS",
         "area_sqkm": "108.68",
         "center_lat": "6.107609",
@@ -208113,7 +208113,7 @@
       "id": "feature_115",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-046",
+        "id": "LG-31046",
         "name": "Imaduwa PS",
         "area_sqkm": "58.36",
         "center_lat": "6.032628",
@@ -209801,7 +209801,7 @@
       "id": "feature_116",
       "type": "Feature",
       "properties": {
-        "id": "LK-31-047",
+        "id": "LG-31047",
         "name": "Welivitiya_Divithura PS",
         "area_sqkm": "56.47",
         "center_lat": "6.206917",
@@ -211761,7 +211761,7 @@
       "id": "feature_117",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-011",
+        "id": "LG-32011",
         "name": "Matara MC",
         "area_sqkm": "23.14",
         "center_lat": "5.952797",
@@ -212905,7 +212905,7 @@
       "id": "feature_118",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-021",
+        "id": "LG-32021",
         "name": "Weligama UC",
         "area_sqkm": "4.93",
         "center_lat": "5.971829",
@@ -213553,7 +213553,7 @@
       "id": "feature_119",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-031",
+        "id": "LG-32031",
         "name": "Akuressa PS",
         "area_sqkm": "150.06",
         "center_lat": "6.135891",
@@ -215973,7 +215973,7 @@
       "id": "feature_120",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-032",
+        "id": "LG-32032",
         "name": "Devinuwara PS",
         "area_sqkm": "38.16",
         "center_lat": "5.977065",
@@ -218531,7 +218531,7 @@
       "id": "feature_121",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-033",
+        "id": "LG-32033",
         "name": "Dickwella PS",
         "area_sqkm": "51.11",
         "center_lat": "5.985368",
@@ -220251,7 +220251,7 @@
       "id": "feature_122",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-034",
+        "id": "LG-32034",
         "name": "Hakmana PS",
         "area_sqkm": "49.52",
         "center_lat": "6.094981",
@@ -221507,7 +221507,7 @@
       "id": "feature_123",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-035",
+        "id": "LG-32035",
         "name": "Kamburupitiya PS",
         "area_sqkm": "110.7",
         "center_lat": "6.039269",
@@ -224679,7 +224679,7 @@
       "id": "feature_124",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-036",
+        "id": "LG-32036",
         "name": "Kotapola PS",
         "area_sqkm": "178.98",
         "center_lat": "6.322503",
@@ -226551,7 +226551,7 @@
       "id": "feature_125",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-037",
+        "id": "LG-32037",
         "name": "Malimbada PS",
         "area_sqkm": "42.86",
         "center_lat": "6.019686",
@@ -228239,7 +228239,7 @@
       "id": "feature_126",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-038",
+        "id": "LG-32038",
         "name": "Matara PS",
         "area_sqkm": "33.49",
         "center_lat": "5.969664",
@@ -229973,7 +229973,7 @@
       "id": "feature_127",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-039",
+        "id": "LG-32039",
         "name": "Mulatiyana PS",
         "area_sqkm": "120.4",
         "center_lat": "6.147335",
@@ -231673,7 +231673,7 @@
       "id": "feature_128",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-040",
+        "id": "LG-32040",
         "name": "Pasgoda PS",
         "area_sqkm": "154.01",
         "center_lat": "6.276173",
@@ -233129,7 +233129,7 @@
       "id": "feature_129",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-042",
+        "id": "LG-32042",
         "name": "Weligama PS",
         "area_sqkm": "107.06",
         "center_lat": "5.99918",
@@ -236071,7 +236071,7 @@
       "id": "feature_130",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-043",
+        "id": "LG-32043",
         "name": "Pitadeddara PS",
         "area_sqkm": "136.99",
         "center_lat": "6.239504",
@@ -238211,7 +238211,7 @@
       "id": "feature_131",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-044",
+        "id": "LG-32044",
         "name": "Athuraliya PS",
         "area_sqkm": "63.05",
         "center_lat": "6.117181",
@@ -239915,7 +239915,7 @@
       "id": "feature_132",
       "type": "Feature",
       "properties": {
-        "id": "LK-32-045",
+        "id": "LG-32045",
         "name": "Kirinda Puhulwella PS",
         "area_sqkm": "41.91",
         "center_lat": "6.046066",
@@ -241451,7 +241451,7 @@
       "id": "feature_133",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-011",
+        "id": "LG-33011",
         "name": "Hambantota MC",
         "area_sqkm": "91.8",
         "center_lat": "6.167139",
@@ -243107,7 +243107,7 @@
       "id": "feature_134",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-021",
+        "id": "LG-33021",
         "name": "Tangalle UC",
         "area_sqkm": "3.18",
         "center_lat": "6.031879",
@@ -243519,7 +243519,7 @@
       "id": "feature_135",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-031",
+        "id": "LG-33031",
         "name": "Ambalantota PS",
         "area_sqkm": "212.81",
         "center_lat": "6.16102",
@@ -245979,7 +245979,7 @@
       "id": "feature_136",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-032",
+        "id": "LG-33032",
         "name": "Angunakolapelessa PS",
         "area_sqkm": "171.85",
         "center_lat": "6.19339",
@@ -248143,7 +248143,7 @@
       "id": "feature_137",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-033",
+        "id": "LG-33033",
         "name": "Beliatta PS",
         "area_sqkm": "102.7",
         "center_lat": "6.050734",
@@ -249987,7 +249987,7 @@
       "id": "feature_138",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-034",
+        "id": "LG-33034",
         "name": "Hambantota PS",
         "area_sqkm": "251.98",
         "center_lat": "6.218205",
@@ -254747,7 +254747,7 @@
       "id": "feature_139",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-035",
+        "id": "LG-33035",
         "name": "Katuwana PS",
         "area_sqkm": "169.07",
         "center_lat": "6.242033",
@@ -256595,7 +256595,7 @@
       "id": "feature_140",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-036",
+        "id": "LG-33036",
         "name": "Lunugamvehera PS",
         "area_sqkm": "284.91",
         "center_lat": "6.33159",
@@ -259633,7 +259633,7 @@
       "id": "feature_141",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-037",
+        "id": "LG-33037",
         "name": "Tangalle PS",
         "area_sqkm": "149.58",
         "center_lat": "6.07345",
@@ -262437,7 +262437,7 @@
       "id": "feature_142",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-038",
+        "id": "LG-33038",
         "name": "Thissamaharama PS",
         "area_sqkm": "792.11",
         "center_lat": "6.362319",
@@ -266677,7 +266677,7 @@
       "id": "feature_143",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-039",
+        "id": "LG-33039",
         "name": "Weeraketiya PS",
         "area_sqkm": "201.41",
         "center_lat": "6.167414",
@@ -269277,7 +269277,7 @@
       "id": "feature_144",
       "type": "Feature",
       "properties": {
-        "id": "LK-33-040",
+        "id": "LG-33040",
         "name": "Sooriyawewa PS",
         "area_sqkm": "193.66",
         "center_lat": "6.29244",
@@ -271677,7 +271677,7 @@
       "id": "feature_145",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-011",
+        "id": "LG-41011",
         "name": "Jaffna MC",
         "area_sqkm": "22.75",
         "center_lat": "9.667866",
@@ -272553,7 +272553,7 @@
       "id": "feature_146",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-021",
+        "id": "LG-41021",
         "name": "Chavakachcheri UC",
         "area_sqkm": "21.72",
         "center_lat": "9.667126",
@@ -273331,7 +273331,7 @@
       "id": "feature_147",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-022",
+        "id": "LG-41022",
         "name": "Point Pedro UC",
         "area_sqkm": "4.91",
         "center_lat": "9.820294",
@@ -273611,7 +273611,7 @@
       "id": "feature_148",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-023",
+        "id": "LG-41023",
         "name": "Valvettiturai UC/ Vadamaradchi South West PS",
         "area_sqkm": "7.93",
         "center_lat": "9.81762",
@@ -274247,7 +274247,7 @@
       "id": "feature_149",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-031",
+        "id": "LG-41031",
         "name": "Chavakachcheri PS",
         "area_sqkm": "214.36",
         "center_lat": "9.678009",
@@ -280165,7 +280165,7 @@
       "id": "feature_150",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-032",
+        "id": "LG-41032",
         "name": "Delft PS",
         "area_sqkm": "48.44",
         "center_lat": "9.513087",
@@ -281711,7 +281711,7 @@
       "id": "feature_151",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-033",
+        "id": "LG-41033",
         "name": "Kayts PS",
         "area_sqkm": "32.47",
         "center_lat": "9.67518",
@@ -283949,7 +283949,7 @@
       "id": "feature_152",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-034",
+        "id": "LG-41034",
         "name": "Nallur PS",
         "area_sqkm": "20.9",
         "center_lat": "9.665127",
@@ -285515,7 +285515,7 @@
       "id": "feature_153",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-035",
+        "id": "LG-41035",
         "name": "Point Pedro PS",
         "area_sqkm": "215.87",
         "center_lat": "9.63596",
@@ -287147,7 +287147,7 @@
       "id": "feature_154",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-036",
+        "id": "LG-41036",
         "name": "Vadamaradchi South West PS",
         "area_sqkm": "86.11",
         "center_lat": "9.775736",
@@ -288527,7 +288527,7 @@
       "id": "feature_155",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-037",
+        "id": "LG-41037",
         "name": "Valikamam East PS",
         "area_sqkm": "108.75",
         "center_lat": "9.736957",
@@ -289999,7 +289999,7 @@
       "id": "feature_156",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-038",
+        "id": "LG-41038",
         "name": "Valikamam North PS",
         "area_sqkm": "61.68",
         "center_lat": "9.789107",
@@ -291599,7 +291599,7 @@
       "id": "feature_157",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-039",
+        "id": "LG-41039",
         "name": "Valikamam South PS",
         "area_sqkm": "34.38",
         "center_lat": "9.744762",
@@ -292891,7 +292891,7 @@
       "id": "feature_158",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-040",
+        "id": "LG-41040",
         "name": "Valikamam South West PS",
         "area_sqkm": "47.65",
         "center_lat": "9.750615",
@@ -294991,7 +294991,7 @@
       "id": "feature_159",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-041",
+        "id": "LG-41041",
         "name": "Valikamam West PS",
         "area_sqkm": "48.94",
         "center_lat": "9.74171",
@@ -296937,7 +296937,7 @@
       "id": "feature_160",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-042",
+        "id": "LG-41042",
         "name": "Velanai PS",
         "area_sqkm": "90.73",
         "center_lat": "9.622153",
@@ -303991,7 +303991,7 @@
       "id": "feature_161",
       "type": "Feature",
       "properties": {
-        "id": "LK-41-043",
+        "id": "LG-41043",
         "name": "Karainagar PS",
         "area_sqkm": "23.64",
         "center_lat": "9.735886",
@@ -305093,7 +305093,7 @@
       "id": "feature_162",
       "type": "Feature",
       "properties": {
-        "id": "LK-42-021",
+        "id": "LG-42021",
         "name": "Mannar UC",
         "area_sqkm": "16.71",
         "center_lat": "8.980788",
@@ -306695,7 +306695,7 @@
       "id": "feature_163",
       "type": "Feature",
       "properties": {
-        "id": "LK-42-031",
+        "id": "LG-42031",
         "name": "Mannar PS",
         "area_sqkm": "203.47",
         "center_lat": "8.992898",
@@ -310733,7 +310733,7 @@
       "id": "feature_164",
       "type": "Feature",
       "properties": {
-        "id": "LK-42-032",
+        "id": "LG-42032",
         "name": "Manthai West PS",
         "area_sqkm": "1084.59",
         "center_lat": "8.958245",
@@ -315347,7 +315347,7 @@
       "id": "feature_165",
       "type": "Feature",
       "properties": {
-        "id": "LK-42-033",
+        "id": "LG-42033",
         "name": "Musali PS",
         "area_sqkm": "463.26",
         "center_lat": "8.677386",
@@ -317703,7 +317703,7 @@
       "id": "feature_166",
       "type": "Feature",
       "properties": {
-        "id": "LK-42-034",
+        "id": "LG-42034",
         "name": "Nanattan PS",
         "area_sqkm": "242.79",
         "center_lat": "8.802894",
@@ -323257,7 +323257,7 @@
       "id": "feature_167",
       "type": "Feature",
       "properties": {
-        "id": "LK-43-011",
+        "id": "LG-43011",
         "name": "Vavuniya MC/ Vavuniya South (Tamil) PS",
         "area_sqkm": "33.57",
         "center_lat": "8.756608",
@@ -324093,7 +324093,7 @@
       "id": "feature_168",
       "type": "Feature",
       "properties": {
-        "id": "LK-43-031",
+        "id": "LG-43031",
         "name": "Vavuniya North PS",
         "area_sqkm": "686.72",
         "center_lat": "9.004658",
@@ -325669,7 +325669,7 @@
       "id": "feature_169",
       "type": "Feature",
       "properties": {
-        "id": "LK-43-032",
+        "id": "LG-43032",
         "name": "Vavuniya South (Sinhala) PS",
         "area_sqkm": "216.25",
         "center_lat": "8.7351",
@@ -330145,7 +330145,7 @@
       "id": "feature_170",
       "type": "Feature",
       "properties": {
-        "id": "LK-43-033",
+        "id": "LG-43033",
         "name": "Vavuniya South (Tamil) PS",
         "area_sqkm": "583.28",
         "center_lat": "8.838244",
@@ -333813,7 +333813,7 @@
       "id": "feature_171",
       "type": "Feature",
       "properties": {
-        "id": "LK-43-034",
+        "id": "LG-43034",
         "name": "Vengalacheddikulam PS",
         "area_sqkm": "415.08",
         "center_lat": "8.692808",
@@ -337231,7 +337231,7 @@
       "id": "feature_172",
       "type": "Feature",
       "properties": {
-        "id": "LK-44-031",
+        "id": "LG-44031",
         "name": "Vavuniya North PS",
         "area_sqkm": "85.77",
         "center_lat": "8.973439",
@@ -338103,7 +338103,7 @@
       "id": "feature_173",
       "type": "Feature",
       "properties": {
-        "id": "LK-44-041",
+        "id": "LG-44041",
         "name": "Manthai East PS",
         "area_sqkm": "485.91",
         "center_lat": "9.06305",
@@ -339495,7 +339495,7 @@
       "id": "feature_174",
       "type": "Feature",
       "properties": {
-        "id": "LK-44-042",
+        "id": "LG-44042",
         "name": "Maritimepattu PS",
         "area_sqkm": "691.21",
         "center_lat": "9.149428",
@@ -342703,7 +342703,7 @@
       "id": "feature_175",
       "type": "Feature",
       "properties": {
-        "id": "LK-44-043",
+        "id": "LG-44043",
         "name": "Puthukudiyiruppu PS",
         "area_sqkm": "1089.07",
         "center_lat": "9.230581",
@@ -345735,7 +345735,7 @@
       "id": "feature_176",
       "type": "Feature",
       "properties": {
-        "id": "LK-44-044",
+        "id": "LG-44044",
         "name": "Thunukkai PS",
         "area_sqkm": "329.19",
         "center_lat": "9.222892",
@@ -346787,7 +346787,7 @@
       "id": "feature_177",
       "type": "Feature",
       "properties": {
-        "id": "LK-45-031",
+        "id": "LG-45031",
         "name": "Karachchi PS",
         "area_sqkm": "669.87",
         "center_lat": "9.394491",
@@ -354091,7 +354091,7 @@
       "id": "feature_178",
       "type": "Feature",
       "properties": {
-        "id": "LK-45-032",
+        "id": "LG-45032",
         "name": "Pachchillaipalli PS",
         "area_sqkm": "176.03",
         "center_lat": "9.590645",
@@ -355437,7 +355437,7 @@
       "id": "feature_179",
       "type": "Feature",
       "properties": {
-        "id": "LK-45-033",
+        "id": "LG-45033",
         "name": "Poonagari PS",
         "area_sqkm": "473.39",
         "center_lat": "9.396612",
@@ -368173,7 +368173,7 @@
       "id": "feature_180",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-001",
+        "id": "LG-51001",
         "name": "Eravur Pattu PS",
         "area_sqkm": "4.76",
         "center_lat": "7.759147",
@@ -368413,7 +368413,7 @@
       "id": "feature_181",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-002",
+        "id": "LG-51002",
         "name": "Eravur Pattu PS",
         "area_sqkm": "6.86",
         "center_lat": "7.781256",
@@ -368637,7 +368637,7 @@
       "id": "feature_182",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-003",
+        "id": "LG-51003",
         "name": "Eravur Pattu PS",
         "area_sqkm": "1.82",
         "center_lat": "7.790749",
@@ -368849,7 +368849,7 @@
       "id": "feature_183",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-004",
+        "id": "LG-51004",
         "name": "Eravur Pattu PS",
         "area_sqkm": "1.15",
         "center_lat": "7.780385",
@@ -368985,7 +368985,7 @@
       "id": "feature_184",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-005",
+        "id": "LG-51005",
         "name": "Koralai Pattu PS",
         "area_sqkm": "4.76",
         "center_lat": "7.90971",
@@ -369923,7 +369923,7 @@
       "id": "feature_185",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-006",
+        "id": "LG-51006",
         "name": "Koralai Pattu PS",
         "area_sqkm": "19.75",
         "center_lat": "7.861704",
@@ -371093,7 +371093,7 @@
       "id": "feature_186",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-007",
+        "id": "LG-51007",
         "name": "Koralai Pattu PS",
         "area_sqkm": "16.63",
         "center_lat": "7.84243",
@@ -371763,7 +371763,7 @@
       "id": "feature_187",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-008",
+        "id": "LG-51008",
         "name": "Eravur Pattu PS",
         "area_sqkm": "0.86",
         "center_lat": "7.821029",
@@ -371883,7 +371883,7 @@
       "id": "feature_188",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-009",
+        "id": "LG-51009",
         "name": "Eravur Pattu PS",
         "area_sqkm": "2.1",
         "center_lat": "7.813881",
@@ -372059,7 +372059,7 @@
       "id": "feature_189",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-010",
+        "id": "LG-51010",
         "name": "Koralai Pattu PS",
         "area_sqkm": "13.56",
         "center_lat": "7.823293",
@@ -373653,7 +373653,7 @@
       "id": "feature_190",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-011",
+        "id": "LG-51011",
         "name": "Koralai Pattu PS",
         "area_sqkm": "77.48",
         "center_lat": "7.764301",
@@ -377211,7 +377211,7 @@
       "id": "feature_191",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-012",
+        "id": "LG-51012",
         "name": "Eravur Pattu PS",
         "area_sqkm": "4.45",
         "center_lat": "7.791113",
@@ -377539,7 +377539,7 @@
       "id": "feature_192",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-013",
+        "id": "LG-51013",
         "name": "Eravur Pattu PS",
         "area_sqkm": "1.9",
         "center_lat": "7.779962",
@@ -377931,7 +377931,7 @@
       "id": "feature_193",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-014",
+        "id": "LG-51014",
         "name": "Eravur Pattu PS",
         "area_sqkm": "79.22",
         "center_lat": "7.739319",
@@ -380291,7 +380291,7 @@
       "id": "feature_194",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-015",
+        "id": "LG-51015",
         "name": "Eravur Pattu PS",
         "area_sqkm": "226.89",
         "center_lat": "7.739272",
@@ -384407,7 +384407,7 @@
       "id": "feature_195",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-016",
+        "id": "LG-51016",
         "name": "Eravur Pattu PS",
         "area_sqkm": "88.65",
         "center_lat": "7.676967",
@@ -386663,7 +386663,7 @@
       "id": "feature_196",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-017",
+        "id": "LG-51017",
         "name": "Eravur Pattu PS",
         "area_sqkm": "109.67",
         "center_lat": "7.595566",
@@ -387791,7 +387791,7 @@
       "id": "feature_197",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-018",
+        "id": "LG-51018",
         "name": "Eravur Pattu PS",
         "area_sqkm": "15.11",
         "center_lat": "7.522429",
@@ -388063,7 +388063,7 @@
       "id": "feature_198",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-021",
+        "id": "LG-51021",
         "name": "Kattankudy UC",
         "area_sqkm": "3.88",
         "center_lat": "7.6829",
@@ -388263,7 +388263,7 @@
       "id": "feature_199",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-022",
+        "id": "LG-51022",
         "name": "Eravur UC",
         "area_sqkm": "1.86",
         "center_lat": "7.775874",
@@ -388423,7 +388423,7 @@
       "id": "feature_200",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-034",
+        "id": "LG-51034",
         "name": "Koralai Pattu PS",
         "area_sqkm": "507.41",
         "center_lat": "7.852806",
@@ -394101,7 +394101,7 @@
       "id": "feature_201",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-035",
+        "id": "LG-51035",
         "name": "Koralai Pattu North PS",
         "area_sqkm": "515.82",
         "center_lat": "8.088082",
@@ -398045,7 +398045,7 @@
       "id": "feature_202",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-036",
+        "id": "LG-51036",
         "name": "Koralai Pattu West PS",
         "area_sqkm": "121.61",
         "center_lat": "7.925529",
@@ -401279,7 +401279,7 @@
       "id": "feature_203",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-037",
+        "id": "LG-51037",
         "name": "Manmunaipattu PS",
         "area_sqkm": "25.45",
         "center_lat": "7.639195",
@@ -401967,7 +401967,7 @@
       "id": "feature_204",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-038",
+        "id": "LG-51038",
         "name": "Manmunai South & Eruvil Pattu PS",
         "area_sqkm": "43.92",
         "center_lat": "7.522348",
@@ -403733,7 +403733,7 @@
       "id": "feature_205",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-039",
+        "id": "LG-51039",
         "name": "Manmunai South-West PS",
         "area_sqkm": "145.14",
         "center_lat": "7.567598",
@@ -406795,7 +406795,7 @@
       "id": "feature_206",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-040",
+        "id": "LG-51040",
         "name": "Manmunai West (Vavunativu) PS",
         "area_sqkm": "280.58",
         "center_lat": "7.632937",
@@ -410849,7 +410849,7 @@
       "id": "feature_207",
       "type": "Feature",
       "properties": {
-        "id": "LK-51-041",
+        "id": "LG-51041",
         "name": "Porativepattu PS",
         "area_sqkm": "159.21",
         "center_lat": "7.497825",
@@ -413247,7 +413247,7 @@
       "id": "feature_208",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-011",
+        "id": "LG-52011",
         "name": "Kalmunai MC",
         "area_sqkm": "24.26",
         "center_lat": "7.41718",
@@ -413647,7 +413647,7 @@
       "id": "feature_209",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-012",
+        "id": "LG-52012",
         "name": "Akkaraipattu MC",
         "area_sqkm": "7.34",
         "center_lat": "7.22736",
@@ -413875,7 +413875,7 @@
       "id": "feature_210",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-021",
+        "id": "LG-52021",
         "name": "Ampara UC/ Namaloya PS",
         "area_sqkm": "43.44",
         "center_lat": "7.293568",
@@ -415551,7 +415551,7 @@
       "id": "feature_211",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-031",
+        "id": "LG-52031",
         "name": "Addalachchanai PS",
         "area_sqkm": "74.4",
         "center_lat": "7.264536",
@@ -416895,7 +416895,7 @@
       "id": "feature_212",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-032",
+        "id": "LG-52032",
         "name": "Alayadiwembu PS",
         "area_sqkm": "69.69",
         "center_lat": "7.170789",
@@ -418295,7 +418295,7 @@
       "id": "feature_213",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-033",
+        "id": "LG-52033",
         "name": "Damana PS",
         "area_sqkm": "478.17",
         "center_lat": "7.133109",
@@ -421575,7 +421575,7 @@
       "id": "feature_214",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-034",
+        "id": "LG-52034",
         "name": "Dehiattakandiya PS",
         "area_sqkm": "374.18",
         "center_lat": "7.626104",
@@ -425047,7 +425047,7 @@
       "id": "feature_215",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-036",
+        "id": "LG-52036",
         "name": "Akkaraipattu PS",
         "area_sqkm": "46.34",
         "center_lat": "7.210244",
@@ -426357,7 +426357,7 @@
       "id": "feature_216",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-037",
+        "id": "LG-52037",
         "name": "Lahugala PS",
         "area_sqkm": "815.3",
         "center_lat": "6.743613",
@@ -428401,7 +428401,7 @@
       "id": "feature_217",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-038",
+        "id": "LG-52038",
         "name": "Mahaoya PS",
         "area_sqkm": "680.41",
         "center_lat": "7.55649",
@@ -432577,7 +432577,7 @@
       "id": "feature_218",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-039",
+        "id": "LG-52039",
         "name": "Namaloya PS",
         "area_sqkm": "107.44",
         "center_lat": "7.267299",
@@ -435331,7 +435331,7 @@
       "id": "feature_219",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-040",
+        "id": "LG-52040",
         "name": "Ninthavur PS",
         "area_sqkm": "35.94",
         "center_lat": "7.326839",
@@ -436003,7 +436003,7 @@
       "id": "feature_220",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-041",
+        "id": "LG-52041",
         "name": "Padiyathalawa  PS",
         "area_sqkm": "388.23",
         "center_lat": "7.422272",
@@ -439059,7 +439059,7 @@
       "id": "feature_221",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-042",
+        "id": "LG-52042",
         "name": "Pothuvil  PS",
         "area_sqkm": "309.36",
         "center_lat": "6.949757",
@@ -440387,7 +440387,7 @@
       "id": "feature_222",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-043",
+        "id": "LG-52043",
         "name": "Sammanthurai PS",
         "area_sqkm": "108.91",
         "center_lat": "7.329298",
@@ -442175,7 +442175,7 @@
       "id": "feature_223",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-044",
+        "id": "LG-52044",
         "name": "Thirukkovili PS",
         "area_sqkm": "218.5",
         "center_lat": "7.079586",
@@ -443971,7 +443971,7 @@
       "id": "feature_224",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-045",
+        "id": "LG-52045",
         "name": "Uhana PS",
         "area_sqkm": "535.55",
         "center_lat": "7.401039",
@@ -446815,7 +446815,7 @@
       "id": "feature_225",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-046",
+        "id": "LG-52046",
         "name": "Karathivu PS",
         "area_sqkm": "10.15",
         "center_lat": "7.372969",
@@ -447107,7 +447107,7 @@
       "id": "feature_226",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-047",
+        "id": "LG-52047",
         "name": "Navithanveli PS",
         "area_sqkm": "79.81",
         "center_lat": "7.419463",
@@ -448087,7 +448087,7 @@
       "id": "feature_227",
       "type": "Feature",
       "properties": {
-        "id": "LK-52-048",
+        "id": "LG-52048",
         "name": "Irakkamam PS",
         "area_sqkm": "67.23",
         "center_lat": "7.2411",
@@ -449675,7 +449675,7 @@
       "id": "feature_228",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-011",
+        "id": "LG-53011",
         "name": "Trincomalee MC",
         "area_sqkm": "14.03",
         "center_lat": "8.57326",
@@ -451203,7 +451203,7 @@
       "id": "feature_229",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-022",
+        "id": "LG-53022",
         "name": "Kinniya UC",
         "area_sqkm": "7.6",
         "center_lat": "8.486597",
@@ -451519,7 +451519,7 @@
       "id": "feature_230",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-031",
+        "id": "LG-53031",
         "name": "Gomarankadawala PS",
         "area_sqkm": "307.33",
         "center_lat": "8.749348",
@@ -454071,7 +454071,7 @@
       "id": "feature_231",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-032",
+        "id": "LG-53032",
         "name": "Kanthale PS",
         "area_sqkm": "412.73",
         "center_lat": "8.342622",
@@ -456979,7 +456979,7 @@
       "id": "feature_232",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-033",
+        "id": "LG-53033",
         "name": "Kinniya PS",
         "area_sqkm": "143.95",
         "center_lat": "8.433257",
@@ -459243,7 +459243,7 @@
       "id": "feature_233",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-034",
+        "id": "LG-53034",
         "name": "Kuchchaveli PS",
         "area_sqkm": "446.97",
         "center_lat": "8.813051",
@@ -462015,7 +462015,7 @@
       "id": "feature_234",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-035",
+        "id": "LG-53035",
         "name": "Morawewa PS",
         "area_sqkm": "278.14",
         "center_lat": "8.625746",
@@ -463959,7 +463959,7 @@
       "id": "feature_235",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-036",
+        "id": "LG-53036",
         "name": "Muttur PS",
         "area_sqkm": "194.19",
         "center_lat": "8.431494",
@@ -466139,7 +466139,7 @@
       "id": "feature_236",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-037",
+        "id": "LG-53037",
         "name": "Padavi Sri Pura PS",
         "area_sqkm": "113.33",
         "center_lat": "8.915208",
@@ -467811,7 +467811,7 @@
       "id": "feature_237",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-038",
+        "id": "LG-53038",
         "name": "Seruvila PS",
         "area_sqkm": "293.32",
         "center_lat": "8.287808",
@@ -470615,7 +470615,7 @@
       "id": "feature_238",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-039",
+        "id": "LG-53039",
         "name": "Thambalagamuwa PS",
         "area_sqkm": "274.19",
         "center_lat": "8.509573",
@@ -473023,7 +473023,7 @@
       "id": "feature_239",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-040",
+        "id": "LG-53040",
         "name": "Trincomalee Town and Gravets  PS",
         "area_sqkm": "115.79",
         "center_lat": "8.583752",
@@ -475943,7 +475943,7 @@
       "id": "feature_240",
       "type": "Feature",
       "properties": {
-        "id": "LK-53-041",
+        "id": "LG-53041",
         "name": "Verugal PS",
         "area_sqkm": "90.54",
         "center_lat": "8.318232",
@@ -477219,7 +477219,7 @@
       "id": "feature_241",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-011",
+        "id": "LG-61011",
         "name": "Kurunegala MC",
         "area_sqkm": "11.14",
         "center_lat": "7.487294",
@@ -477755,7 +477755,7 @@
       "id": "feature_242",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-021",
+        "id": "LG-61021",
         "name": "Kuliyapitiya UC/ Kuliyapitiya PS",
         "area_sqkm": "4.55",
         "center_lat": "7.469177",
@@ -478831,7 +478831,7 @@
       "id": "feature_243",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-031",
+        "id": "LG-61031",
         "name": "Alawwa PS",
         "area_sqkm": "130.25",
         "center_lat": "7.32858",
@@ -480443,7 +480443,7 @@
       "id": "feature_244",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-032",
+        "id": "LG-61032",
         "name": "Bingiriya PS",
         "area_sqkm": "193.62",
         "center_lat": "7.607565",
@@ -482959,7 +482959,7 @@
       "id": "feature_245",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-033",
+        "id": "LG-61033",
         "name": "Galgamuwa PS",
         "area_sqkm": "444.72",
         "center_lat": "7.998266",
@@ -486931,7 +486931,7 @@
       "id": "feature_246",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-034",
+        "id": "LG-61034",
         "name": "Giribawa PS",
         "area_sqkm": "205.37",
         "center_lat": "8.103672",
@@ -488451,7 +488451,7 @@
       "id": "feature_247",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-035",
+        "id": "LG-61035",
         "name": "Ibbagamuwa PS",
         "area_sqkm": "367.43",
         "center_lat": "7.633648",
@@ -492087,7 +492087,7 @@
       "id": "feature_248",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-036",
+        "id": "LG-61036",
         "name": "Kobeigane PS",
         "area_sqkm": "130.28",
         "center_lat": "7.684376",
@@ -493835,7 +493835,7 @@
       "id": "feature_249",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-037",
+        "id": "LG-61037",
         "name": "Kuliyapitiya PS",
         "area_sqkm": "274.72",
         "center_lat": "7.471199",
@@ -498657,7 +498657,7 @@
       "id": "feature_250",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-038",
+        "id": "LG-61038",
         "name": "Kurunegala PS",
         "area_sqkm": "232.17",
         "center_lat": "7.511441",
@@ -502747,7 +502747,7 @@
       "id": "feature_251",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-039",
+        "id": "LG-61039",
         "name": "Maho PS",
         "area_sqkm": "401.73",
         "center_lat": "7.841195",
@@ -506187,7 +506187,7 @@
       "id": "feature_252",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-040",
+        "id": "LG-61040",
         "name": "Mawathagama PS",
         "area_sqkm": "108.43",
         "center_lat": "7.424469",
@@ -508247,7 +508247,7 @@
       "id": "feature_253",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-041",
+        "id": "LG-61041",
         "name": "Nikaweratiya PS",
         "area_sqkm": "465.44",
         "center_lat": "7.80567",
@@ -510907,7 +510907,7 @@
       "id": "feature_254",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-042",
+        "id": "LG-61042",
         "name": "Panduwasnuwara PS",
         "area_sqkm": "283.47",
         "center_lat": "7.584134",
@@ -514079,7 +514079,7 @@
       "id": "feature_255",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-043",
+        "id": "LG-61043",
         "name": "Pannala PS",
         "area_sqkm": "282.22",
         "center_lat": "7.362153",
@@ -516755,7 +516755,7 @@
       "id": "feature_256",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-044",
+        "id": "LG-61044",
         "name": "Polgahawela PS",
         "area_sqkm": "188.4",
         "center_lat": "7.419139",
@@ -519335,7 +519335,7 @@
       "id": "feature_257",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-045",
+        "id": "LG-61045",
         "name": "Polpithigama PS",
         "area_sqkm": "415.64",
         "center_lat": "7.803271",
@@ -522231,7 +522231,7 @@
       "id": "feature_258",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-046",
+        "id": "LG-61046",
         "name": "Rideegama PS",
         "area_sqkm": "225.15",
         "center_lat": "7.517219",
@@ -524675,7 +524675,7 @@
       "id": "feature_259",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-047",
+        "id": "LG-61047",
         "name": "Wariyapola PS",
         "area_sqkm": "312.53",
         "center_lat": "7.621927",
@@ -528275,7 +528275,7 @@
       "id": "feature_260",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-048",
+        "id": "LG-61048",
         "name": "Udubaddawa PS",
         "area_sqkm": "119.9",
         "center_lat": "7.480501",
@@ -529571,7 +529571,7 @@
       "id": "feature_261",
       "type": "Feature",
       "properties": {
-        "id": "LK-61-049",
+        "id": "LG-61049",
         "name": "Narammala PS",
         "area_sqkm": "108.53",
         "center_lat": "7.397099",
@@ -531791,7 +531791,7 @@
       "id": "feature_262",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-011",
+        "id": "LG-62011",
         "name": "Puttalam MC",
         "area_sqkm": "23.51",
         "center_lat": "8.033618",
@@ -532211,7 +532211,7 @@
       "id": "feature_263",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-021",
+        "id": "LG-62021",
         "name": "Chilaw UC",
         "area_sqkm": "6.53",
         "center_lat": "7.581366",
@@ -532627,7 +532627,7 @@
       "id": "feature_264",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-031",
+        "id": "LG-62031",
         "name": "Anamaduwa PS",
         "area_sqkm": "528.15",
         "center_lat": "7.853184",
@@ -536235,7 +536235,7 @@
       "id": "feature_265",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-032",
+        "id": "LG-62032",
         "name": "Arachchikattuwa PS",
         "area_sqkm": "213.46",
         "center_lat": "7.697364",
@@ -537659,7 +537659,7 @@
       "id": "feature_266",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-033",
+        "id": "LG-62033",
         "name": "Chilaw PS",
         "area_sqkm": "179.38",
         "center_lat": "7.547642",
@@ -539419,7 +539419,7 @@
       "id": "feature_267",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-034",
+        "id": "LG-62034",
         "name": "Kalpitiya PS",
         "area_sqkm": "253.75",
         "center_lat": "8.037997",
@@ -546801,7 +546801,7 @@
       "id": "feature_268",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-035",
+        "id": "LG-62035",
         "name": "Karuwalagaswewa PS",
         "area_sqkm": "499.76",
         "center_lat": "8.119648",
@@ -549825,7 +549825,7 @@
       "id": "feature_269",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-036",
+        "id": "LG-62036",
         "name": "Nattandiya PS",
         "area_sqkm": "150.97",
         "center_lat": "7.424983",
@@ -551557,7 +551557,7 @@
       "id": "feature_270",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-037",
+        "id": "LG-62037",
         "name": "Nawagattegama PS",
         "area_sqkm": "171.5",
         "center_lat": "8.013076",
@@ -552861,7 +552861,7 @@
       "id": "feature_271",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-038",
+        "id": "LG-62038",
         "name": "Puttalam PS",
         "area_sqkm": "251.5",
         "center_lat": "7.96573",
@@ -556401,7 +556401,7 @@
       "id": "feature_272",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-039",
+        "id": "LG-62039",
         "name": "Vanathawilluwa PS",
         "area_sqkm": "737.44",
         "center_lat": "8.340926",
@@ -560663,7 +560663,7 @@
       "id": "feature_273",
       "type": "Feature",
       "properties": {
-        "id": "LK-62-040",
+        "id": "LG-62040",
         "name": "Wennappuwa PS",
         "area_sqkm": "117.92",
         "center_lat": "7.321939",
@@ -561927,7 +561927,7 @@
       "id": "feature_274",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-011",
+        "id": "LG-71011",
         "name": "Anuradhapura MC/ Nuwaragam Palatha Central PS",
         "area_sqkm": "61.81",
         "center_lat": "8.33876",
@@ -563319,7 +563319,7 @@
       "id": "feature_275",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-031",
+        "id": "LG-71031",
         "name": "Galenbindunuwewa PS",
         "area_sqkm": "292.54",
         "center_lat": "8.268046",
@@ -566095,7 +566095,7 @@
       "id": "feature_276",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-032",
+        "id": "LG-71032",
         "name": "Galnewa PS",
         "area_sqkm": "138.58",
         "center_lat": "8.019713",
@@ -567947,7 +567947,7 @@
       "id": "feature_277",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-033",
+        "id": "LG-71033",
         "name": "Horowpothana PS",
         "area_sqkm": "832.95",
         "center_lat": "8.5158",
@@ -571279,7 +571279,7 @@
       "id": "feature_278",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-034",
+        "id": "LG-71034",
         "name": "Ipalogama PS",
         "area_sqkm": "141.67",
         "center_lat": "8.085235",
@@ -573091,7 +573091,7 @@
       "id": "feature_279",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-035",
+        "id": "LG-71035",
         "name": "Kahatagasdigiliya PS",
         "area_sqkm": "370.25",
         "center_lat": "8.423981",
@@ -575811,7 +575811,7 @@
       "id": "feature_280",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-036",
+        "id": "LG-71036",
         "name": "Kebithigollewa PS",
         "area_sqkm": "613.68",
         "center_lat": "8.712242",
@@ -578991,7 +578991,7 @@
       "id": "feature_281",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-037",
+        "id": "LG-71037",
         "name": "Kekirawa PS",
         "area_sqkm": "552.37",
         "center_lat": "8.06761",
@@ -582983,7 +582983,7 @@
       "id": "feature_282",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-038",
+        "id": "LG-71038",
         "name": "Medawachchiya PS",
         "area_sqkm": "489.19",
         "center_lat": "8.588785",
@@ -585511,7 +585511,7 @@
       "id": "feature_283",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-039",
+        "id": "LG-71039",
         "name": "Mihinthale PS",
         "area_sqkm": "226.79",
         "center_lat": "8.348944",
@@ -588147,7 +588147,7 @@
       "id": "feature_284",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-040",
+        "id": "LG-71040",
         "name": "Nochchiyagama PS",
         "area_sqkm": "838.29",
         "center_lat": "8.333933",
@@ -592703,7 +592703,7 @@
       "id": "feature_285",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-041",
+        "id": "LG-71041",
         "name": "Nuwaragam Palatha Central PS",
         "area_sqkm": "987.69",
         "center_lat": "8.497419",
@@ -597931,7 +597931,7 @@
       "id": "feature_286",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-042",
+        "id": "LG-71042",
         "name": "Nuwaragam Palatha East PS",
         "area_sqkm": "145.8",
         "center_lat": "8.276082",
@@ -600243,7 +600243,7 @@
       "id": "feature_287",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-043",
+        "id": "LG-71043",
         "name": "Padaviya PS",
         "area_sqkm": "247.26",
         "center_lat": "8.84868",
@@ -602135,7 +602135,7 @@
       "id": "feature_288",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-044",
+        "id": "LG-71044",
         "name": "Palagala PS",
         "area_sqkm": "225.47",
         "center_lat": "7.90556",
@@ -604123,7 +604123,7 @@
       "id": "feature_289",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-045",
+        "id": "LG-71045",
         "name": "Rajanganaya PS",
         "area_sqkm": "105.84",
         "center_lat": "8.185818",
@@ -606727,7 +606727,7 @@
       "id": "feature_290",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-046",
+        "id": "LG-71046",
         "name": "Rambewa PS",
         "area_sqkm": "306.11",
         "center_lat": "8.475597",
@@ -609839,7 +609839,7 @@
       "id": "feature_291",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-047",
+        "id": "LG-71047",
         "name": "Thalawa PS",
         "area_sqkm": "342.09",
         "center_lat": "8.174185",
@@ -614503,7 +614503,7 @@
       "id": "feature_292",
       "type": "Feature",
       "properties": {
-        "id": "LK-71-048",
+        "id": "LG-71048",
         "name": "Nuwaragam Palatha East PS",
         "area_sqkm": "299.91",
         "center_lat": "8.209425",
@@ -618091,7 +618091,7 @@
       "id": "feature_293",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-011",
+        "id": "LG-72011",
         "name": "Polonnaruwa MC",
         "area_sqkm": "32.57",
         "center_lat": "7.940122",
@@ -619643,7 +619643,7 @@
       "id": "feature_294",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-031",
+        "id": "LG-72031",
         "name": "Dimbulagala PS",
         "area_sqkm": "585.9",
         "center_lat": "7.785366",
@@ -624671,7 +624671,7 @@
       "id": "feature_295",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-032",
+        "id": "LG-72032",
         "name": "Elahera PS",
         "area_sqkm": "366.09",
         "center_lat": "7.815875",
@@ -626483,7 +626483,7 @@
       "id": "feature_296",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-033",
+        "id": "LG-72033",
         "name": "Hingurakgoda PS",
         "area_sqkm": "705.23",
         "center_lat": "8.114004",
@@ -630587,7 +630587,7 @@
       "id": "feature_297",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-034",
+        "id": "LG-72034",
         "name": "Lankapura PS",
         "area_sqkm": "197.47",
         "center_lat": "8.058699",
@@ -634255,7 +634255,7 @@
       "id": "feature_298",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-035",
+        "id": "LG-72035",
         "name": "Medirigiriya PS",
         "area_sqkm": "573.26",
         "center_lat": "8.185489",
@@ -638999,7 +638999,7 @@
       "id": "feature_299",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-037",
+        "id": "LG-72037",
         "name": "Welikanda PS",
         "area_sqkm": "574.33",
         "center_lat": "8.05135",
@@ -642271,7 +642271,7 @@
       "id": "feature_300",
       "type": "Feature",
       "properties": {
-        "id": "LK-72-038",
+        "id": "LG-72038",
         "name": "Polonnaruwa PS",
         "area_sqkm": "434.88",
         "center_lat": "7.878585",
@@ -646573,7 +646573,7 @@
       "id": "feature_301",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-011",
+        "id": "LG-81011",
         "name": "Badulla MC",
         "area_sqkm": "10.4",
         "center_lat": "6.989484",
@@ -647465,7 +647465,7 @@
       "id": "feature_302",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-012",
+        "id": "LG-81012",
         "name": "Bandarawela MC/ Bandarawela  PS",
         "area_sqkm": "23.05",
         "center_lat": "6.840506",
@@ -649377,7 +649377,7 @@
       "id": "feature_303",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-022",
+        "id": "LG-81022",
         "name": "Haputale  UC/ Haputale  PS",
         "area_sqkm": "12.4",
         "center_lat": "6.781026",
@@ -650281,7 +650281,7 @@
       "id": "feature_304",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-031",
+        "id": "LG-81031",
         "name": "Badulla PS",
         "area_sqkm": "38.45",
         "center_lat": "6.986654",
@@ -651273,7 +651273,7 @@
       "id": "feature_305",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-032",
+        "id": "LG-81032",
         "name": "Bandarawela  PS",
         "area_sqkm": "49.91",
         "center_lat": "6.825827",
@@ -653543,7 +653543,7 @@
       "id": "feature_306",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-033",
+        "id": "LG-81033",
         "name": "Ella  PS",
         "area_sqkm": "107.55",
         "center_lat": "6.868532",
@@ -655251,7 +655251,7 @@
       "id": "feature_307",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-034",
+        "id": "LG-81034",
         "name": "Haldummulla  PS",
         "area_sqkm": "415.17",
         "center_lat": "6.698806",
@@ -658095,7 +658095,7 @@
       "id": "feature_308",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-035",
+        "id": "LG-81035",
         "name": "Hali-Ela  PS",
         "area_sqkm": "170.05",
         "center_lat": "6.94587",
@@ -660831,7 +660831,7 @@
       "id": "feature_309",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-036",
+        "id": "LG-81036",
         "name": "Haputale  PS",
         "area_sqkm": "56.64",
         "center_lat": "6.794815",
@@ -662981,7 +662981,7 @@
       "id": "feature_310",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-037",
+        "id": "LG-81037",
         "name": "Kandaketiya PS",
         "area_sqkm": "150.72",
         "center_lat": "7.129609",
@@ -664761,7 +664761,7 @@
       "id": "feature_311",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-038",
+        "id": "LG-81038",
         "name": "Mahiyanganaya PS",
         "area_sqkm": "601.88",
         "center_lat": "7.43385",
@@ -668749,7 +668749,7 @@
       "id": "feature_312",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-039",
+        "id": "LG-81039",
         "name": "Meegahaivula PS",
         "area_sqkm": "108.82",
         "center_lat": "7.126719",
@@ -670501,7 +670501,7 @@
       "id": "feature_313",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-040",
+        "id": "LG-81040",
         "name": "Passara PS",
         "area_sqkm": "134.59",
         "center_lat": "6.964933",
@@ -672829,7 +672829,7 @@
       "id": "feature_314",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-041",
+        "id": "LG-81041",
         "name": "Rideemaliyadda PS",
         "area_sqkm": "437.14",
         "center_lat": "7.274411",
@@ -676173,7 +676173,7 @@
       "id": "feature_315",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-042",
+        "id": "LG-81042",
         "name": "Soranathota PS",
         "area_sqkm": "80.5",
         "center_lat": "7.045305",
@@ -677725,7 +677725,7 @@
       "id": "feature_316",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-043",
+        "id": "LG-81043",
         "name": "Uva Paranagama  PS",
         "area_sqkm": "137.69",
         "center_lat": "6.966467",
@@ -679297,7 +679297,7 @@
       "id": "feature_317",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-044",
+        "id": "LG-81044",
         "name": "Welimada  PS",
         "area_sqkm": "194.0",
         "center_lat": "6.860252",
@@ -681193,7 +681193,7 @@
       "id": "feature_318",
       "type": "Feature",
       "properties": {
-        "id": "LK-81-045",
+        "id": "LG-81045",
         "name": "Lunugala PS",
         "area_sqkm": "143.01",
         "center_lat": "7.037966",
@@ -683053,7 +683053,7 @@
       "id": "feature_319",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-031",
+        "id": "LG-82031",
         "name": "Badalkumbura PS",
         "area_sqkm": "237.09",
         "center_lat": "6.869729",
@@ -685169,7 +685169,7 @@
       "id": "feature_320",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-032",
+        "id": "LG-82032",
         "name": "Bibila PS",
         "area_sqkm": "466.05",
         "center_lat": "7.187842",
@@ -688585,7 +688585,7 @@
       "id": "feature_321",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-033",
+        "id": "LG-82033",
         "name": "Buttala PS",
         "area_sqkm": "709.86",
         "center_lat": "6.660368",
@@ -691985,7 +691985,7 @@
       "id": "feature_322",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-034",
+        "id": "LG-82034",
         "name": "Katharagama PS",
         "area_sqkm": "609.08",
         "center_lat": "6.494507",
@@ -694681,7 +694681,7 @@
       "id": "feature_323",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-035",
+        "id": "LG-82035",
         "name": "Madulla PS",
         "area_sqkm": "750.32",
         "center_lat": "7.160153",
@@ -701453,7 +701453,7 @@
       "id": "feature_324",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-036",
+        "id": "LG-82036",
         "name": "Medagama PS",
         "area_sqkm": "240.35",
         "center_lat": "7.053049",
@@ -703429,7 +703429,7 @@
       "id": "feature_325",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-037",
+        "id": "LG-82037",
         "name": "Moneragala PS",
         "area_sqkm": "290.52",
         "center_lat": "6.832233",
@@ -705833,7 +705833,7 @@
       "id": "feature_326",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-038",
+        "id": "LG-82038",
         "name": "Siyambalanduwa PS",
         "area_sqkm": "1059.94",
         "center_lat": "6.845567",
@@ -711513,7 +711513,7 @@
       "id": "feature_327",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-039",
+        "id": "LG-82039",
         "name": "Thanamalvila PS",
         "area_sqkm": "819.84",
         "center_lat": "6.473626",
@@ -715289,7 +715289,7 @@
       "id": "feature_328",
       "type": "Feature",
       "properties": {
-        "id": "LK-82-040",
+        "id": "LG-82040",
         "name": "Wellawaya PS",
         "area_sqkm": "574.94",
         "center_lat": "6.612619",
@@ -718581,7 +718581,7 @@
       "id": "feature_329",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-011",
+        "id": "LG-91011",
         "name": "Ratnapura MC/ Ratnapura PS",
         "area_sqkm": "36.65",
         "center_lat": "6.687164",
@@ -719969,7 +719969,7 @@
       "id": "feature_330",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-021",
+        "id": "LG-91021",
         "name": "Balangoda UC/ Imbulpe PS",
         "area_sqkm": "39.21",
         "center_lat": "6.643726",
@@ -722047,7 +722047,7 @@
       "id": "feature_331",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-022",
+        "id": "LG-91022",
         "name": "Embilipitiya UC",
         "area_sqkm": "54.82",
         "center_lat": "6.326504",
@@ -723463,7 +723463,7 @@
       "id": "feature_332",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-032",
+        "id": "LG-91032",
         "name": "Ayagama PS",
         "area_sqkm": "163.35",
         "center_lat": "6.650948",
@@ -725583,7 +725583,7 @@
       "id": "feature_333",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-033",
+        "id": "LG-91033",
         "name": "Balangoda PS",
         "area_sqkm": "244.24",
         "center_lat": "6.626862",
@@ -729947,7 +729947,7 @@
       "id": "feature_334",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-034",
+        "id": "LG-91034",
         "name": "Eheliyagoda PS",
         "area_sqkm": "140.97",
         "center_lat": "6.838464",
@@ -731833,7 +731833,7 @@
       "id": "feature_335",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-035",
+        "id": "LG-91035",
         "name": "Embilipitiya PS",
         "area_sqkm": "333.99",
         "center_lat": "6.359934",
@@ -736409,7 +736409,7 @@
       "id": "feature_336",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-036",
+        "id": "LG-91036",
         "name": "Imbulpe PS",
         "area_sqkm": "252.64",
         "center_lat": "6.715183",
@@ -738541,7 +738541,7 @@
       "id": "feature_337",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-037",
+        "id": "LG-91037",
         "name": "Kalawana PS",
         "area_sqkm": "382.4",
         "center_lat": "6.46448",
@@ -741153,7 +741153,7 @@
       "id": "feature_338",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-038",
+        "id": "LG-91038",
         "name": "Kolonna PS",
         "area_sqkm": "177.85",
         "center_lat": "6.391184",
@@ -743405,7 +743405,7 @@
       "id": "feature_339",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-039",
+        "id": "LG-91039",
         "name": "Kuruvita PS",
         "area_sqkm": "250.44",
         "center_lat": "6.786058",
@@ -746527,7 +746527,7 @@
       "id": "feature_340",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-040",
+        "id": "LG-91040",
         "name": "Nivithigala PS",
         "area_sqkm": "239.06",
         "center_lat": "6.602993",
@@ -749883,7 +749883,7 @@
       "id": "feature_341",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-041",
+        "id": "LG-91041",
         "name": "Pelmadulla PS",
         "area_sqkm": "142.4",
         "center_lat": "6.634808",
@@ -753243,7 +753243,7 @@
       "id": "feature_342",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-042",
+        "id": "LG-91042",
         "name": "Ratnapura PS",
         "area_sqkm": "295.36",
         "center_lat": "6.732763",
@@ -756973,7 +756973,7 @@
       "id": "feature_343",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-043",
+        "id": "LG-91043",
         "name": "Weligepola PS",
         "area_sqkm": "277.3",
         "center_lat": "6.560933",
@@ -759677,7 +759677,7 @@
       "id": "feature_344",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-044",
+        "id": "LG-91044",
         "name": "Godakawela PS",
         "area_sqkm": "152.12",
         "center_lat": "6.498162",
@@ -762345,7 +762345,7 @@
       "id": "feature_345",
       "type": "Feature",
       "properties": {
-        "id": "LK-91-045",
+        "id": "LG-91045",
         "name": "Kahawatta PS",
         "area_sqkm": "104.25",
         "center_lat": "6.527983",
@@ -764369,7 +764369,7 @@
       "id": "feature_346",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-011",
+        "id": "LG-92011",
         "name": "Kegalle MC",
         "area_sqkm": "7.42",
         "center_lat": "7.251102",
@@ -765245,7 +765245,7 @@
       "id": "feature_347",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-031",
+        "id": "LG-92031",
         "name": "Aranayaka  PS",
         "area_sqkm": "120.09",
         "center_lat": "7.167804",
@@ -767487,7 +767487,7 @@
       "id": "feature_348",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-032",
+        "id": "LG-92032",
         "name": "Dehiovita PS",
         "area_sqkm": "193.95",
         "center_lat": "6.939454",
@@ -769767,7 +769767,7 @@
       "id": "feature_349",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-033",
+        "id": "LG-92033",
         "name": "Deraniyagala PS",
         "area_sqkm": "222.16",
         "center_lat": "6.907025",
@@ -771575,7 +771575,7 @@
       "id": "feature_350",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-034",
+        "id": "LG-92034",
         "name": "Galigamuwa PS",
         "area_sqkm": "124.59",
         "center_lat": "7.216127",
@@ -773907,7 +773907,7 @@
       "id": "feature_351",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-035",
+        "id": "LG-92035",
         "name": "Kegalle PS",
         "area_sqkm": "98.83",
         "center_lat": "7.206006",
@@ -777031,7 +777031,7 @@
       "id": "feature_352",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-036",
+        "id": "LG-92036",
         "name": "Mawanella PS",
         "area_sqkm": "120.09",
         "center_lat": "7.230038",
@@ -779411,7 +779411,7 @@
       "id": "feature_353",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-037",
+        "id": "LG-92037",
         "name": "Rambukkana PS",
         "area_sqkm": "127.79",
         "center_lat": "7.324762",
@@ -781443,7 +781443,7 @@
       "id": "feature_354",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-038",
+        "id": "LG-92038",
         "name": "Ruwanwella  PS",
         "area_sqkm": "140.64",
         "center_lat": "7.064225",
@@ -782835,7 +782835,7 @@
       "id": "feature_355",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-039",
+        "id": "LG-92039",
         "name": "Warakapola PS",
         "area_sqkm": "196.98",
         "center_lat": "7.203746",
@@ -784949,7 +784949,7 @@
       "id": "feature_356",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-040",
+        "id": "LG-92040",
         "name": "Yatiyanthota PS",
         "area_sqkm": "179.91",
         "center_lat": "7.029854",
@@ -787483,7 +787483,7 @@
       "id": "feature_357",
       "type": "Feature",
       "properties": {
-        "id": "LK-92-041",
+        "id": "LG-92041",
         "name": "Bulathkohupitiya PS",
         "area_sqkm": "125.27",
         "center_lat": "7.098344",
