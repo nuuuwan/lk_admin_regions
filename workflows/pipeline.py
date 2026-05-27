@@ -1,8 +1,14 @@
 import os
 
-from lk_admin_regions import (BuildEnts, BuildGeo, BuildGNDEnt,
-                              BuildNonAdminGeo, CombineDCSAndHumData,
-                              DistrictHistory, GNDListFinalXLSX)
+from lk_admin_regions import (
+    BuildEnts,
+    BuildGeo,
+    BuildGNDEnt,
+    BuildNonAdminGeo,
+    CombineDCSAndHumData,
+    DistrictHistory,
+    GNDListFinalXLSX,
+)
 
 
 def main():
@@ -12,7 +18,6 @@ def main():
     BuildGNDEnt.build()
     BuildEnts.build_all()
     BuildGeo.build_all()
-
     BuildNonAdminGeo.build_all()
 
     DistrictHistory.build_all()
