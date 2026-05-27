@@ -44,7 +44,7 @@ class GNDListFinalXLSX:
             d["lg_name"] = d["LGD_Name"]
             dcs_lg_code_raw = str(d["lg_code"]).replace("*", "")
             lg_code = f'{int(dcs_lg_code_raw.split("/")[0].strip()):03d}'
-            lg_id = f"{d["district_id"]}-{lg_code}"
+            lg_id = f"LG-{d["district_id"][3:]}{lg_code}"
             d["lg_id"] = lg_id
             d["lg_level"] = d["lg_name"].split(" ")[-1]
             if d["lg_level"] not in ["MC", "UC", "PS"]:
