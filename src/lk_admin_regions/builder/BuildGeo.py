@@ -16,7 +16,7 @@ log = Log("BuildGeo")
 class BuildGeo:
     DIR_DATA = "data"
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
-    GEO_PRECISION_DECIMAL_PLACES = 4
+    GEO_PRECISION_DECIMAL_PLACES = 6
 
     MAX_FILE_SIZE_M = 25
 
@@ -161,7 +161,10 @@ class BuildGeo:
         )
 
         cls.build_image(
-            ent_type_name, precision_label, simplified_geojson_file.path
+            ent_type_name,
+            precision_label,
+            compression_p,
+            simplified_geojson_file.path,
         )
 
     @classmethod
@@ -199,7 +202,9 @@ class BuildGeo:
         log.info(f"✅ Wrote {n_written} raw JSON files to {dir_raw}")
 
     @classmethod
-    def build_image(cls, ent_type_name, prevision_level, geojson_path):
+    def build_image(
+        cls, ent_type_name, prevision_level, compression_p, geojson_path
+    ):
 
         geojson_data = JSONFile(geojson_path).read()
 
@@ -241,7 +246,10 @@ class BuildGeo:
                     )
 
         ax.set_aspect("equal")
-        ax.set_title(f"{ent_type_name} ({n})")
+        ax.set_title(
+            f"{ent_type_name} ({n} regions) - {prevision_level}"
+            + f" ({compression_p:.1%} of original geojson)"
+        )
         ax.axis("off")
 
         fig.savefig(image_path, dpi=150, bbox_inches="tight")
@@ -256,17 +264,17 @@ class BuildGeo:
         original_geojson_path,
     ):
 
-        cls.build_image(ent_type_name, "original", original_geojson_path)
+        cls.build_image(ent_type_name, "original", 1, original_geojson_path)
         cls.build_raw_json(ent_type_name, original_geojson_path)
 
         topojson_file = cls.build_topojson(
             ent_type_name, original_geojson_path
         )
         for tolerance, precision_label in [
-            [0.0001, "e4_large"],
-            [0.001, "e3_medium"],
-            [0.01, "e2_small"],
-            [0.1, "e1_tiny"],
+            [0.00001, "e5_large"],
+            [0.0001, "e4_medium"],
+            [0.001, "e3_small"],
+            [0.01, "e2_tiny"],
         ]:
 
             simplified_topojson = cls.build_simplified_topojson_for_size_spec(
@@ -376,10 +384,10 @@ class BuildGeo:
             ent_type_name,
             level,
         ) in [
-            ["province", 1],
-            ["district", 2],
+            # ["province", 1],
+            # ["district", 2],
             ["dsd", 3],
-            ["gnd", 4],
+            # ["gnd", 4],
         ]:
             cls.build_all_for_ent(
                 ent_type_name,
