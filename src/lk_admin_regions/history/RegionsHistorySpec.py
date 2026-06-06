@@ -156,4 +156,113 @@ class RegionsHistorySpec:
         return dict(
             district=cls._build_snapshots(cls._DISTRICT_DELTAS),
             dsd=cls._build_snapshots(cls._DSD_DELTAS),
+            province=cls._build_snapshots(cls._PROVINCE_DELTAS),
         )
+
+    _PROVINCE_DELTAS = [
+        # 1889: Sabaragamuwa (LK-9) carved from Southern (LK-3) and Western (LK-1)
+        dict(
+            year="1889",
+            aux_region_types=["district"],
+            modified=[
+                dict(
+                    id="LK-1",
+                    current_ids=["LK-1", "LK-92"],
+                    year_last_modified="1889",
+                ),  # Western absorbed Kegalle district (→ Sabaragamuwa)
+                dict(
+                    id="LK-3",
+                    current_ids=["LK-3", "LK-91"],
+                    year_last_modified="1889",
+                ),  # Southern absorbed Ratnapura district (→ Sabaragamuwa)
+            ],
+            deleted=[dict(id="LK-9")],
+        ),
+        # 1886: Uva (LK-8) carved from Southern (LK-3) and Eastern (LK-5)
+        dict(
+            year="1886",
+            aux_region_types=["district"],
+            modified=[
+                dict(
+                    id="LK-3",
+                    current_ids=["LK-3", "LK-81", "LK-91"],
+                    year_last_modified="1886",
+                ),  # Southern absorbed Badulla (→ Uva) and still held Ratnapura
+                dict(
+                    id="LK-5",
+                    current_ids=["LK-5", "LK-82"],
+                    year_last_modified="1886",
+                ),  # Eastern absorbed Monaragala (→ Uva)
+            ],
+            deleted=[dict(id="LK-8")],
+        ),
+        # 1873: North Central (LK-7) carved from Northern (LK-4) and Eastern (LK-5)
+        dict(
+            year="1873",
+            aux_region_types=["district"],
+            modified=[
+                dict(
+                    id="LK-4",
+                    current_ids=["LK-4", "LK-71"],
+                    year_last_modified="1873",
+                ),  # Northern absorbed Anuradhapura district (→ North Central)
+                dict(
+                    id="LK-5",
+                    current_ids=["LK-5", "LK-72", "LK-82"],
+                    year_last_modified="1873",
+                ),  # Eastern absorbed Polonnaruwa + Monaragala districts (→ North Central/Uva)
+            ],
+            deleted=[dict(id="LK-7")],
+        ),
+        # 1845: North Western (LK-6) carved from Western (LK-1)
+        dict(
+            year="1845",
+            aux_region_types=["district"],
+            modified=[
+                dict(
+                    id="LK-1",
+                    current_ids=["LK-1", "LK-6", "LK-92"],
+                    year_last_modified="1845",
+                ),  # Western held full NW territory (LK-6) + Kegalle (LK-92)
+            ],
+            deleted=[dict(id="LK-6")],
+        ),
+        # 1833: Colebrooke-Cameron Reforms – original 5 provinces
+        dict(
+            year="1833",
+            aux_region_types=["district"],
+            modified=[
+                dict(
+                    id="LK-1",
+                    current_ids=["LK-1", "LK-6", "LK-92"],
+                    year_last_modified="1833",
+                ),  # Western Province (incl. full NW territory + Kegalle)
+                dict(
+                    id="LK-2",
+                    current_ids=["LK-2"],
+                    year_last_modified="1833",
+                ),  # Central Province
+                dict(
+                    id="LK-3",
+                    current_ids=["LK-3", "LK-81", "LK-91"],
+                    year_last_modified="1833",
+                ),  # Southern Province (incl. Badulla + Ratnapura)
+                dict(
+                    id="LK-4",
+                    current_ids=["LK-4", "LK-71"],
+                    year_last_modified="1833",
+                ),  # Northern Province (incl. Anuradhapura)
+                dict(
+                    id="LK-5",
+                    current_ids=["LK-5", "LK-72", "LK-82"],
+                    year_last_modified="1833",
+                ),  # Eastern Province (incl. Polonnaruwa + Monaragala)
+            ],
+            deleted=[
+                dict(id="LK-6"),
+                dict(id="LK-7"),
+                dict(id="LK-8"),
+                dict(id="LK-9"),
+            ],
+        ),
+    ]
