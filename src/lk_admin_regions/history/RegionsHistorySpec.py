@@ -181,7 +181,7 @@ class RegionsHistorySpec:
         # 1886: Uva (LK-8) carved from Southern (LK-3) and Eastern (LK-5)
         dict(
             year="1886",
-            aux_region_types=["district"],
+            aux_region_types=["district", "dsd"],
             modified=[
                 dict(
                     id="LK-2",
@@ -200,7 +200,7 @@ class RegionsHistorySpec:
                         "LK-8233",
                     ],
                     year_last_modified="1886",
-                ),
+                ),  # Southern absorbed Badulla (→ Uva) and still held Ratnapura
                 dict(
                     id="LK-5",
                     current_ids=[
