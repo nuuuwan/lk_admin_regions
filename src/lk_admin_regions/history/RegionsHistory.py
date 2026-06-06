@@ -54,16 +54,11 @@ class RegionsHistory:
         return new_regions
 
     @classmethod
-    def build_region(cls, region_type_name):
+    def build_region(cls, region_type_name, split_info_list):
         os.makedirs(cls.DIR_DATA_ENTS_HISTORY, exist_ok=True)
         regions = BuildEnts.read(region_type_name)
 
-        for year, old_id, new_id in [
-            ("1984", "LK-41", "LK-45"),
-            ("1978", "LK-11", "LK-12"),
-            ("1961", "LK-51", "LK-52"),
-            ("1959", "LK-81", "LK-82"),
-        ]:
+        for year, old_id, new_id in split_info_list:
             regions = cls.split(regions, year, old_id, new_id)
             regions_path_base = os.path.join(
                 cls.DIR_DATA_ENTS_HISTORY, f"{region_type_name}s-pre{year}"
@@ -76,5 +71,12 @@ class RegionsHistory:
 
     @classmethod
     def build_all(cls):
-        for region_type_name in ["district"]:
-            cls.build_region(region_type_name)
+        for region_type_name, split_info_list in {
+            "district": [
+                ("1984", "LK-41", "LK-45"),
+                ("1978", "LK-11", "LK-12"),
+                ("1961", "LK-51", "LK-52"),
+                ("1959", "LK-81", "LK-82"),
+            ]
+        }.items():
+            cls.build_region(region_type_name, split_info_list)
