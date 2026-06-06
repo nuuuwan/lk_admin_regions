@@ -47,8 +47,9 @@ class RegionsHistory:
             del region_idx[new_id]
 
         d_old["id"] = f"{old_id}-pre{year}"
-        if old_name:
-            d_old["name"] = old_name
+        d_old["name"] = (
+            old_name if old_name else f"{d_old['name']} (pre {year})"
+        )
         region_idx[old_id] = d_old
         new_regions = list(region_idx.values())
         new_regions.sort(key=lambda d: d["id"])

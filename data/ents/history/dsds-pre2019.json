@@ -722,7 +722,7 @@
   },
   {
     "id": "LK-2306-pre2019",
-    "name": "Hanguranketa",
+    "name": "Hanguranketa (pre 2019)",
     "area_sqkm": 225.72,
     "center_lat": 7.123264859649122,
     "center_lng": 80.77650702339182,
@@ -733,7 +733,7 @@
   },
   {
     "id": "LK-2309-pre2019",
-    "name": "Walapane",
+    "name": "Walapane (pre 2019)",
     "area_sqkm": 322.89,
     "center_lat": 7.092499937842609,
     "center_lng": 80.88686560382794,
@@ -744,7 +744,7 @@
   },
   {
     "id": "LK-2312-pre2019",
-    "name": "Nuwara Eliya",
+    "name": "Nuwara Eliya (pre 2019)",
     "area_sqkm": 482.58,
     "center_lat": 6.90740315069004,
     "center_lng": 80.73234947059555,
@@ -846,7 +846,7 @@
   },
   {
     "id": "LK-3127-pre2019",
-    "name": "Baddegama",
+    "name": "Baddegama (pre 2019)",
     "area_sqkm": 112.86000000000001,
     "center_lat": 6.136369578415736,
     "center_lng": 80.2201539803296,
@@ -887,7 +887,7 @@
   },
   {
     "id": "LK-3136-pre2019",
-    "name": "Hikkaduwa",
+    "name": "Hikkaduwa (pre 2019)",
     "area_sqkm": 63.17,
     "center_lat": 6.139839807978471,
     "center_lng": 80.12257799620072,
@@ -3089,7 +3089,7 @@
   },
   {
     "id": "LK-9118-pre2019",
-    "name": "Balangoda",
+    "name": "Balangoda (pre 2019)",
     "area_sqkm": 281.09,
     "center_lat": 6.628873477960796,
     "center_lng": 80.76723524067026,
