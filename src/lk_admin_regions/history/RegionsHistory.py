@@ -12,7 +12,9 @@ class RegionsHistory:
     DIR_DATA_ENTS_HISTORY = os.path.join(BuildGNDEnt.DIR_DATA_ENTS, "history")
 
     @classmethod
-    def apply_changes(cls, regions, year, modified_list, deleted_list):
+    def apply_changes(
+        cls, regions, aux_region_idx, year, modified_list, deleted_list
+    ):
         region_idx = {
             d["id"]: dict(
                 id=d["id"],
@@ -34,7 +36,13 @@ class RegionsHistory:
             for cid in current_ids:
                 if cid == base_id:
                     continue
-                d_other = region_idx[cid]
+                if cid in region_idx:
+                    d_other = region_idx[cid]
+                elif cid in aux_region_idx:
+                    d_other = aux_region_idx[cid]
+                else:
+                    log.warning(f"ID {cid} not found in any region type")
+                    continue
                 total_area = d_base["area_sqkm"] + d_other["area_sqkm"]
                 d_base["center_lat"] = (
                     d_base["center_lat"] * d_base["area_sqkm"]
@@ -71,8 +79,20 @@ class RegionsHistory:
         for year_info in year_info_list:
             year = year_info["year"]
             regions = BuildEnts.read(region_type_name)
+            aux_region_idx = {
+                d["id"]: dict(
+                    id=d["id"],
+                    name=d["name"],
+                    area_sqkm=float(d["area_sqkm"]),
+                    center_lat=float(d["center_lat"]),
+                    center_lng=float(d["center_lng"]),
+                )
+                for aux_type in year_info.get("aux_region_types", [])
+                for d in BuildEnts.read(aux_type)
+            }
             regions = cls.apply_changes(
                 regions,
+                aux_region_idx,
                 year,
                 year_info.get("modified", []),
                 year_info.get("deleted", []),
@@ -106,34 +126,67 @@ class RegionsHistory:
                 ),
                 dict(
                     year="1978",
+                    aux_region_types=["dsd"],
                     modified=[
                         dict(
                             id="LK-41",
-                            current_ids=["LK-41", "LK-45"],
-                            year_last_modified="1984",
+                            current_ids=["LK-41", "LK-45", "LK-4409"],
+                            year_last_modified="1978",
+                        ),  # Jaffna absorbed Puthukkudiyiruppu DSD (→ Mullaitivu)
+                        dict(
+                            id="LK-11",
+                            current_ids=["LK-11", "LK-12"],
+                            year_last_modified="1978",
+                        ),
+                        dict(
+                            id="LK-42",
+                            current_ids=["LK-42", "LK-4403", "LK-4406"],
+                            year_last_modified="1978",
+                        ),  # Mannar absorbed Thunukkai + Manthai East DSDs (→ Mullaitivu)
+                        dict(
+                            id="LK-43",
+                            current_ids=[
+                                "LK-43",
+                                "LK-4412",
+                                "LK-4415",
+                                "LK-4418",
+                            ],
+                            year_last_modified="1978",
+                        ),  # Vavuniya absorbed Oddusuddan + Maritimepattu + Welioya DSDs (→ Mullaitivu)
+                    ],
+                    deleted=[
+                        dict(id="LK-45"),
+                        dict(id="LK-12"),
+                        dict(id="LK-44"),  # Mullaitivu did not exist pre-1978
+                    ],
+                ),
+                dict(
+                    year="1961",
+                    aux_region_types=["dsd"],
+                    modified=[
+                        dict(
+                            id="LK-41",
+                            current_ids=["LK-41", "LK-45", "LK-4409"],
+                            year_last_modified="1978",
                         ),
                         dict(
                             id="LK-11",
                             current_ids=["LK-11", "LK-12"],
                             year_last_modified="1978",
                         ),
-                    ],
-                    deleted=[
-                        dict(id="LK-45"),
-                        dict(id="LK-12"),
-                    ],
-                ),
-                dict(
-                    year="1961",
-                    modified=[
                         dict(
-                            id="LK-41",
-                            current_ids=["LK-41", "LK-45"],
-                            year_last_modified="1984",
+                            id="LK-42",
+                            current_ids=["LK-42", "LK-4403", "LK-4406"],
+                            year_last_modified="1978",
                         ),
                         dict(
-                            id="LK-11",
-                            current_ids=["LK-11", "LK-12"],
+                            id="LK-43",
+                            current_ids=[
+                                "LK-43",
+                                "LK-4412",
+                                "LK-4415",
+                                "LK-4418",
+                            ],
                             year_last_modified="1978",
                         ),
                         dict(
@@ -145,20 +198,37 @@ class RegionsHistory:
                     deleted=[
                         dict(id="LK-45"),
                         dict(id="LK-12"),
+                        dict(id="LK-44"),
                         dict(id="LK-52"),
                     ],
                 ),
                 dict(
                     year="1959",
+                    aux_region_types=["dsd"],
                     modified=[
                         dict(
                             id="LK-41",
-                            current_ids=["LK-41", "LK-45"],
-                            year_last_modified="1984",
+                            current_ids=["LK-41", "LK-45", "LK-4409"],
+                            year_last_modified="1978",
                         ),
                         dict(
                             id="LK-11",
                             current_ids=["LK-11", "LK-12"],
+                            year_last_modified="1978",
+                        ),
+                        dict(
+                            id="LK-42",
+                            current_ids=["LK-42", "LK-4403", "LK-4406"],
+                            year_last_modified="1978",
+                        ),
+                        dict(
+                            id="LK-43",
+                            current_ids=[
+                                "LK-43",
+                                "LK-4412",
+                                "LK-4415",
+                                "LK-4418",
+                            ],
                             year_last_modified="1978",
                         ),
                         dict(
@@ -175,6 +245,7 @@ class RegionsHistory:
                     deleted=[
                         dict(id="LK-45"),
                         dict(id="LK-12"),
+                        dict(id="LK-44"),
                         dict(id="LK-52"),
                         dict(id="LK-82"),
                     ],

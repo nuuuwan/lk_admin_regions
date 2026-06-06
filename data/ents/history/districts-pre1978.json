@@ -81,44 +81,40 @@
     ]
   },
   {
-    "id": "LK-41-pre1984",
-    "name": "Jaffna (pre 1984)",
-    "area_sqkm": 2410.53,
-    "center_lat": 9.542045,
-    "center_lng": 80.221895,
+    "id": "LK-41-pre1978",
+    "name": "Jaffna (pre 1978)",
+    "area_sqkm": 2737.06,
+    "center_lat": 9.514875,
+    "center_lng": 80.271468,
     "current_ids": [
       "LK-41",
+      "LK-4409",
       "LK-45"
     ]
   },
   {
-    "id": "LK-42",
-    "name": "Mannar",
-    "area_sqkm": 2010.83,
-    "center_lat": 8.878476,
-    "center_lng": 80.091433,
+    "id": "LK-42-pre1978",
+    "name": "Mannar (pre 1978)",
+    "area_sqkm": 2825.93,
+    "center_lat": 8.950334,
+    "center_lng": 80.151473,
     "current_ids": [
-      "LK-42"
+      "LK-42",
+      "LK-4403",
+      "LK-4406"
     ]
   },
   {
-    "id": "LK-43",
-    "name": "Vavuniya",
-    "area_sqkm": 1934.91,
-    "center_lat": 8.853162,
-    "center_lng": 80.470869,
+    "id": "LK-43-pre1978",
+    "name": "Vavuniya (pre 1978)",
+    "area_sqkm": 3474.42,
+    "center_lat": 8.990036,
+    "center_lng": 80.558565,
     "current_ids": [
-      "LK-43"
-    ]
-  },
-  {
-    "id": "LK-44",
-    "name": "Mullaitivu",
-    "area_sqkm": 2681.15,
-    "center_lat": 9.170128,
-    "center_lng": 80.552726,
-    "current_ids": [
-      "LK-44"
+      "LK-43",
+      "LK-4412",
+      "LK-4415",
+      "LK-4418"
     ]
   },
   {
