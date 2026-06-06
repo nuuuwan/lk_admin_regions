@@ -9,10 +9,10 @@ Before British colonial unification, Sri Lanka was divided into three distinct a
 Following the recommendations of the Colebrooke-Cameron Commission, five provinces under one administration came into being. This marked the first unified administrative system across the entire island, integrating both the former maritime provinces and the Kandyan territories:
 
 - Western Province (LK-1, LK-6, LK-92) – The maritime districts of Colombo, Chilaw and Puttalam, and the Kandyan provinces of Three Korales, Four Korales, Seven Korales and Lower Bulathgama.
-- Central Province (LK-2) – The central Kandyan Provinces.
-- Southern Province (LK-3, LK-81, LK-91) – The maritime districts of Galle, Hambantota, Matara and Tangalle, and the Kandyan provinces of Lower Uva, Saffragam and Wellassa.
+- Central Province (LK-2, LK-81) – The central Kandyan Provinces.
+- Southern Province (LK-3, parts of LK-82, LK-91) – The maritime districts of Galle, Hambantota, Matara and Tangalle, and the Kandyan provinces of Lower Uva, Saffragam and Wellassa.
 - Northern Province (LK-4, LK-71) – The maritime districts of Jaffna, Mannar and Vanni, and the Kandyan province of Nuwara Kalawiya.
-- Eastern Province (LK-5, LK-72, LK-82) – The maritime districts of Batticaloa and Trincomalee, and the Kandyan provinces of Bintenna and Tamankaduwa.
+- Eastern Province (LK-5, LK-72, parts of LK-82) – The maritime districts of Batticaloa and Trincomalee, and the Kandyan provinces of Bintenna and Tamankaduwa.
 
 ## 1845 to 1889: Provincial Expansion
 
