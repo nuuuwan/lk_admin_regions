@@ -46,6 +46,9 @@ class RegionsHistory:
                 ) / total_area
                 d_base["area_sqkm"] = total_area
             d_base["current_ids"] = sorted(set(current_ids))
+            d_base["area_sqkm"] = round(d_base["area_sqkm"], 2)
+            d_base["center_lat"] = round(d_base["center_lat"], 6)
+            d_base["center_lng"] = round(d_base["center_lng"], 6)
             d_base["id"] = f"{base_id}-pre{mod_year}"
             d_base["name"] = (
                 name if name else f"{d_base['name']} (pre {mod_year})"

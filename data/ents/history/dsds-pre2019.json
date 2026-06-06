@@ -712,9 +712,9 @@
   {
     "id": "LK-2303-pre2019",
     "name": "Kotmale",
-    "area_sqkm": 226.79000000000002,
-    "center_lat": 7.038476592662816,
-    "center_lng": 80.65609588650294,
+    "area_sqkm": 226.79,
+    "center_lat": 7.038477,
+    "center_lng": 80.656096,
     "current_ids": [
       "LK-2302",
       "LK-2303"
@@ -724,8 +724,8 @@
     "id": "LK-2306-pre2019",
     "name": "Hanguranketa (pre 2019)",
     "area_sqkm": 225.72,
-    "center_lat": 7.123264859649122,
-    "center_lng": 80.77650702339182,
+    "center_lat": 7.123265,
+    "center_lng": 80.776507,
     "current_ids": [
       "LK-2306",
       "LK-2307"
@@ -735,8 +735,8 @@
     "id": "LK-2309-pre2019",
     "name": "Walapane (pre 2019)",
     "area_sqkm": 322.89,
-    "center_lat": 7.092499937842609,
-    "center_lng": 80.88686560382794,
+    "center_lat": 7.0925,
+    "center_lng": 80.886866,
     "current_ids": [
       "LK-2309",
       "LK-2310"
@@ -746,8 +746,8 @@
     "id": "LK-2312-pre2019",
     "name": "Nuwara Eliya (pre 2019)",
     "area_sqkm": 482.58,
-    "center_lat": 6.90740315069004,
-    "center_lng": 80.73234947059555,
+    "center_lat": 6.907403,
+    "center_lng": 80.732349,
     "current_ids": [
       "LK-2312",
       "LK-2313"
@@ -756,9 +756,9 @@
   {
     "id": "LK-2315-pre2019",
     "name": "Ambagamuwa",
-    "area_sqkm": 486.84000000000003,
-    "center_lat": 6.864824609296689,
-    "center_lng": 80.56906837542108,
+    "area_sqkm": 486.84,
+    "center_lat": 6.864825,
+    "center_lng": 80.569068,
     "current_ids": [
       "LK-2314",
       "LK-2315"
@@ -847,9 +847,9 @@
   {
     "id": "LK-3127-pre2019",
     "name": "Baddegama (pre 2019)",
-    "area_sqkm": 112.86000000000001,
-    "center_lat": 6.136369578415736,
-    "center_lng": 80.2201539803296,
+    "area_sqkm": 112.86,
+    "center_lat": 6.13637,
+    "center_lng": 80.220154,
     "current_ids": [
       "LK-3127",
       "LK-3128"
@@ -889,8 +889,8 @@
     "id": "LK-3136-pre2019",
     "name": "Hikkaduwa (pre 2019)",
     "area_sqkm": 63.17,
-    "center_lat": 6.139839807978471,
-    "center_lng": 80.12257799620072,
+    "center_lat": 6.13984,
+    "center_lng": 80.122578,
     "current_ids": [
       "LK-3135",
       "LK-3136",
@@ -3091,8 +3091,8 @@
     "id": "LK-9118-pre2019",
     "name": "Balangoda (pre 2019)",
     "area_sqkm": 281.09,
-    "center_lat": 6.628873477960796,
-    "center_lng": 80.76723524067026,
+    "center_lat": 6.628873,
+    "center_lng": 80.767235,
     "current_ids": [
       "LK-9118",
       "LK-9119"

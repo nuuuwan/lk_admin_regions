@@ -3,8 +3,8 @@
     "id": "LK-11-pre1978",
     "name": "Colombo (pre 1978)",
     "area_sqkm": 2073.4,
-    "center_lat": 7.039240425928426,
-    "center_lng": 80.0182992650574,
+    "center_lat": 7.03924,
+    "center_lng": 80.018299,
     "current_ids": [
       "LK-11",
       "LK-12"
@@ -83,9 +83,9 @@
   {
     "id": "LK-41-pre1984",
     "name": "Jaffna (pre 1984)",
-    "area_sqkm": 2410.5299999999997,
-    "center_lat": 9.542044696178849,
-    "center_lng": 80.22189536820534,
+    "area_sqkm": 2410.53,
+    "center_lat": 9.542045,
+    "center_lng": 80.221895,
     "current_ids": [
       "LK-41",
       "LK-45"
@@ -125,8 +125,8 @@
     "id": "LK-51-pre1961",
     "name": "Batticaloa (pre 1961)",
     "area_sqkm": 6955.16,
-    "center_lat": 7.433752474315472,
-    "center_lng": 81.52713416716222,
+    "center_lat": 7.433752,
+    "center_lng": 81.527134,
     "current_ids": [
       "LK-51",
       "LK-52"
@@ -186,8 +186,8 @@
     "id": "LK-81-pre1959",
     "name": "Badulla (pre 1959)",
     "area_sqkm": 8629.95,
-    "center_lat": 6.882411624431195,
-    "center_lng": 81.21632894451879,
+    "center_lat": 6.882412,
+    "center_lng": 81.216329,
     "current_ids": [
       "LK-81",
       "LK-82"
