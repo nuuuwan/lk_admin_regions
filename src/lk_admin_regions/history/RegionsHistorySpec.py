@@ -227,42 +227,4 @@ class RegionsHistorySpec:
             ],
             deleted=[dict(id="LK-6")],
         ),
-        # 1833: Colebrooke-Cameron Reforms – original 5 provinces
-        dict(
-            year="1833",
-            aux_region_types=["district"],
-            modified=[
-                dict(
-                    id="LK-1",
-                    current_ids=["LK-1", "LK-6", "LK-92"],
-                    year_last_modified="1833",
-                ),  # Western Province (incl. full NW territory + Kegalle)
-                dict(
-                    id="LK-2",
-                    current_ids=["LK-2"],
-                    year_last_modified="1833",
-                ),  # Central Province
-                dict(
-                    id="LK-3",
-                    current_ids=["LK-3", "LK-81", "LK-91"],
-                    year_last_modified="1833",
-                ),  # Southern Province (incl. Badulla + Ratnapura)
-                dict(
-                    id="LK-4",
-                    current_ids=["LK-4", "LK-71"],
-                    year_last_modified="1833",
-                ),  # Northern Province (incl. Anuradhapura)
-                dict(
-                    id="LK-5",
-                    current_ids=["LK-5", "LK-72", "LK-82"],
-                    year_last_modified="1833",
-                ),  # Eastern Province (incl. Polonnaruwa + Monaragala)
-            ],
-            deleted=[
-                dict(id="LK-6"),
-                dict(id="LK-7"),
-                dict(id="LK-8"),
-                dict(id="LK-9"),
-            ],
-        ),
     ]

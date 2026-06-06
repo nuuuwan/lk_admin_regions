@@ -1,0 +1,68 @@
+[
+  {
+    "id": "LK-1-pre1889",
+    "name": "Western (pre 1889)",
+    "area_sqkm": 5378.12,
+    "center_lat": 6.917793,
+    "center_lng": 80.15183,
+    "current_ids": [
+      "LK-1",
+      "LK-92"
+    ]
+  },
+  {
+    "id": "LK-2",
+    "name": "Central",
+    "area_sqkm": 5731.25,
+    "center_lat": 7.324022,
+    "center_lng": 80.717397,
+    "current_ids": [
+      "LK-2"
+    ]
+  },
+  {
+    "id": "LK-3-pre1886",
+    "name": "Southern (pre 1886)",
+    "area_sqkm": 11703.96,
+    "center_lat": 6.531815,
+    "center_lng": 80.754974,
+    "current_ids": [
+      "LK-3",
+      "LK-81",
+      "LK-91"
+    ]
+  },
+  {
+    "id": "LK-4-pre1873",
+    "name": "Northern (pre 1873)",
+    "area_sqkm": 16255.71,
+    "center_lat": 8.805978,
+    "center_lng": 80.41928,
+    "current_ids": [
+      "LK-4",
+      "LK-71"
+    ]
+  },
+  {
+    "id": "LK-5-pre1873",
+    "name": "Eastern (pre 1873)",
+    "area_sqkm": 18874.98,
+    "center_lat": 7.499274,
+    "center_lng": 81.304571,
+    "current_ids": [
+      "LK-5",
+      "LK-72",
+      "LK-82"
+    ]
+  },
+  {
+    "id": "LK-6",
+    "name": "North Western",
+    "area_sqkm": 8039.59,
+    "center_lat": 7.785644,
+    "center_lng": 80.109754,
+    "current_ids": [
+      "LK-6"
+    ]
+  }
+]
