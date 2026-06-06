@@ -58,10 +58,16 @@ class RegionsHistory:
         os.makedirs(cls.DIR_DATA_ENTS_HISTORY, exist_ok=True)
         regions = BuildEnts.read(region_type_name)
 
-        for year, old_id, new_id in split_info_list:
-            regions = cls.split(regions, year, old_id, new_id)
+        for split_info in split_info_list:
+            regions = cls.split(
+                regions,
+                split_info["year"],
+                split_info["old_id"],
+                split_info["new_id"],
+            )
             regions_path_base = os.path.join(
-                cls.DIR_DATA_ENTS_HISTORY, f"{region_type_name}s-pre{year}"
+                cls.DIR_DATA_ENTS_HISTORY,
+                f"{region_type_name}s-pre{split_info['year']}",
             )
             log.info(
                 f"Writing {len(regions)} {region_type_name}s"
@@ -71,12 +77,12 @@ class RegionsHistory:
 
     @classmethod
     def build_all(cls):
-        for region_type_name, split_info_list in {
-            "district": [
-                ("1984", "LK-41", "LK-45"),
-                ("1978", "LK-11", "LK-12"),
-                ("1961", "LK-51", "LK-52"),
-                ("1959", "LK-81", "LK-82"),
+        for region_type_name, split_info_list in dict(
+            district=[
+                dict(year="1984", old_id="LK-41", new_id="LK-45"),
+                dict(year="1978", old_id="LK-11", new_id="LK-12"),
+                dict(year="1961", old_id="LK-51", new_id="LK-52"),
+                dict(year="1959", old_id="LK-81", new_id="LK-82"),
             ]
-        }.items():
+        ).items():
             cls.build_region(region_type_name, split_info_list)
