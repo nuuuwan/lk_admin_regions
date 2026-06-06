@@ -46,8 +46,18 @@ Between 1959 and 1984, five new districts were created:
 - Monaragala (LK-82) – 1959, from Badulla District.
 - Ampara (LK-52) – 1961, from Batticaloa District.
 - Gampaha (LK-12) – 1978, from Colombo District.
-- Mullaitivu (LK-44) – 1978, from parts of Jaffna, Mannar, and Vavuniya districts.
+- Mullaitivu (LK-44) – 1978, from parts of Jaffna, Mannar, and Vavuniya districts (See Below).
 - Kilinochchi (LK-45) – 1984, from Jaffna District.
+
+### Mullaitivu (LK-44) - 1978
+
+The new Mullaitivu District was constructed as follows:
+
+- Jaffna District (LK-41) - Puthukkudiyiruppu (LK-4409)
+- Mannar District (LK-42) - Thunukkai (LK-4403), Manthai East (LK-4406)
+- Vavuniya District (LK-43) - Oddusuddan (LK-4412), Maritimepattu (LK-4415), Welioya (LK-4418)
+
+## Since 1984
 
 No new districts have been created since 1984, bringing the total to 25 districts.
 
