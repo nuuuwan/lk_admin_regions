@@ -184,15 +184,36 @@ class RegionsHistorySpec:
             aux_region_types=["district"],
             modified=[
                 dict(
-                    id="LK-3",
-                    current_ids=["LK-3", "LK-81", "LK-91"],
+                    id="LK-2",
+                    current_ids=["LK-2", "LK-81"],
                     year_last_modified="1886",
-                ),  # Southern absorbed Badulla (→ Uva) and still held Ratnapura
+                ),
+                dict(
+                    id="LK-3",
+                    current_ids=[
+                        "LK-3",
+                        "LK-91",
+                        "LK-8221",
+                        "LK-8224",
+                        "LK-8227",
+                        "LK-8230",
+                        "LK-8233",
+                    ],
+                    year_last_modified="1886",
+                ),
                 dict(
                     id="LK-5",
-                    current_ids=["LK-5", "LK-82"],
+                    current_ids=[
+                        "LK-5",
+                        "LK-8218",
+                        "LK-8215",
+                        "LK-8212",
+                        "LK-8209",
+                        "LK-8206",
+                        "LK-8203",
+                    ],
                     year_last_modified="1886",
-                ),  # Eastern absorbed Monaragala (→ Uva)
+                ),
             ],
             deleted=[dict(id="LK-8")],
         ),
