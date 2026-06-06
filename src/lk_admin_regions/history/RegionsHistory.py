@@ -12,7 +12,7 @@ class RegionsHistory:
     DIR_DATA_ENTS_HISTORY = os.path.join(BuildGNDEnt.DIR_DATA_ENTS, "history")
 
     @classmethod
-    def split(cls, regions, year, old_id, new_ids, old_name=None):
+    def apply_changes(cls, regions, year, modified_list, deleted_list):
         region_idx = {
             d["id"]: dict(
                 id=d["id"],
@@ -24,52 +24,56 @@ class RegionsHistory:
             )
             for d in regions
         }
-        d_old = region_idx[old_id]
 
-        for new_id in new_ids:
-            d_new = region_idx[new_id]
-            total_area = d_old["area_sqkm"] + d_new["area_sqkm"]
-            d_old["center_lat"] = (
-                d_old["center_lat"] * d_old["area_sqkm"]
-                + d_new["center_lat"] * d_new["area_sqkm"]
-            ) / total_area
-            d_old["center_lng"] = (
-                d_old["center_lng"] * d_old["area_sqkm"]
-                + d_new["center_lng"] * d_new["area_sqkm"]
-            ) / total_area
-            d_old["area_sqkm"] = total_area
-            current_ids = (
-                [old_id, new_id]
-                + d_new.get("current_ids", [])
-                + d_old.get("current_ids", [])
+        for mod in modified_list:
+            base_id = mod["id"]
+            current_ids = mod["current_ids"]
+            name = mod.get("name")
+            mod_year = mod.get("year_last_modified", year)
+            d_base = region_idx[base_id]
+            for cid in current_ids:
+                if cid == base_id:
+                    continue
+                d_other = region_idx[cid]
+                total_area = d_base["area_sqkm"] + d_other["area_sqkm"]
+                d_base["center_lat"] = (
+                    d_base["center_lat"] * d_base["area_sqkm"]
+                    + d_other["center_lat"] * d_other["area_sqkm"]
+                ) / total_area
+                d_base["center_lng"] = (
+                    d_base["center_lng"] * d_base["area_sqkm"]
+                    + d_other["center_lng"] * d_other["area_sqkm"]
+                ) / total_area
+                d_base["area_sqkm"] = total_area
+            d_base["current_ids"] = sorted(set(current_ids))
+            d_base["id"] = f"{base_id}-pre{mod_year}"
+            d_base["name"] = (
+                name if name else f"{d_base['name']} (pre {mod_year})"
             )
-            d_old["current_ids"] = sorted(set(current_ids))
-            del region_idx[new_id]
+            region_idx[base_id] = d_base
 
-        d_old["id"] = f"{old_id}-pre{year}"
-        d_old["name"] = (
-            old_name if old_name else f"{d_old['name']} (pre {year})"
-        )
-        region_idx[old_id] = d_old
+        for del_item in deleted_list:
+            del_id = del_item["id"]
+            if del_id in region_idx:
+                del region_idx[del_id]
+
         new_regions = list(region_idx.values())
         new_regions.sort(key=lambda d: d["id"])
         return new_regions
 
     @classmethod
-    def build_region(cls, region_type_name, split_info_list):
+    def build_region(cls, region_type_name, year_info_list):
         os.makedirs(cls.DIR_DATA_ENTS_HISTORY, exist_ok=True)
-        regions = BuildEnts.read(region_type_name)
 
-        for year_info in split_info_list:
+        for year_info in year_info_list:
             year = year_info["year"]
-            for split in year_info["splits"]:
-                regions = cls.split(
-                    regions,
-                    year,
-                    split["old_id"],
-                    split["new_ids"],
-                    split.get("old_name"),
-                )
+            regions = BuildEnts.read(region_type_name)
+            regions = cls.apply_changes(
+                regions,
+                year,
+                year_info.get("modified", []),
+                year_info.get("deleted", []),
+            )
             regions_path_base = os.path.join(
                 cls.DIR_DATA_ENTS_HISTORY,
                 f"{region_type_name}s-pre{year}",
@@ -82,23 +86,95 @@ class RegionsHistory:
 
     @classmethod
     def build_all(cls):
-        for region_type_name, split_info_list in dict(
+        for region_type_name, year_info_list in dict(
             district=[
                 dict(
                     year="1984",
-                    splits=[dict(old_id="LK-41", new_ids=["LK-45"])],
+                    modified=[
+                        dict(
+                            id="LK-41",
+                            current_ids=["LK-41", "LK-45"],
+                            year_last_modified="1984",
+                        ),
+                    ],
+                    deleted=[
+                        dict(id="LK-45"),
+                    ],
                 ),
                 dict(
                     year="1978",
-                    splits=[dict(old_id="LK-11", new_ids=["LK-12"])],
+                    modified=[
+                        dict(
+                            id="LK-41",
+                            current_ids=["LK-41", "LK-45"],
+                            year_last_modified="1984",
+                        ),
+                        dict(
+                            id="LK-11",
+                            current_ids=["LK-11", "LK-12"],
+                            year_last_modified="1978",
+                        ),
+                    ],
+                    deleted=[
+                        dict(id="LK-45"),
+                        dict(id="LK-12"),
+                    ],
                 ),
                 dict(
                     year="1961",
-                    splits=[dict(old_id="LK-51", new_ids=["LK-52"])],
+                    modified=[
+                        dict(
+                            id="LK-41",
+                            current_ids=["LK-41", "LK-45"],
+                            year_last_modified="1984",
+                        ),
+                        dict(
+                            id="LK-11",
+                            current_ids=["LK-11", "LK-12"],
+                            year_last_modified="1978",
+                        ),
+                        dict(
+                            id="LK-51",
+                            current_ids=["LK-51", "LK-52"],
+                            year_last_modified="1961",
+                        ),
+                    ],
+                    deleted=[
+                        dict(id="LK-45"),
+                        dict(id="LK-12"),
+                        dict(id="LK-52"),
+                    ],
                 ),
                 dict(
                     year="1959",
-                    splits=[dict(old_id="LK-81", new_ids=["LK-82"])],
+                    modified=[
+                        dict(
+                            id="LK-41",
+                            current_ids=["LK-41", "LK-45"],
+                            year_last_modified="1984",
+                        ),
+                        dict(
+                            id="LK-11",
+                            current_ids=["LK-11", "LK-12"],
+                            year_last_modified="1978",
+                        ),
+                        dict(
+                            id="LK-51",
+                            current_ids=["LK-51", "LK-52"],
+                            year_last_modified="1961",
+                        ),
+                        dict(
+                            id="LK-81",
+                            current_ids=["LK-81", "LK-82"],
+                            year_last_modified="1959",
+                        ),
+                    ],
+                    deleted=[
+                        dict(id="LK-45"),
+                        dict(id="LK-12"),
+                        dict(id="LK-52"),
+                        dict(id="LK-82"),
+                    ],
                 ),
             ],
             dsd=[
@@ -106,37 +182,62 @@ class RegionsHistory:
                 # Nuwara-Eliya, Galle, Ratnapura splits
                 dict(
                     year="2019",
-                    splits=[
+                    modified=[
                         dict(
-                            old_id="LK-2303",
-                            old_name="Kotmale",
-                            new_ids=["LK-2302"],
+                            id="LK-2303",
+                            current_ids=["LK-2302", "LK-2303"],
+                            name="Kotmale",
+                            year_last_modified="2019",
                         ),  # Kothmale → Kothmale East + Kothmale West
                         dict(
-                            old_id="LK-2306", new_ids=["LK-2307"]
+                            id="LK-2306",
+                            current_ids=["LK-2306", "LK-2307"],
+                            year_last_modified="2019",
                         ),  # Hanguranketha → Hanguranketha + Mathurata
                         dict(
-                            old_id="LK-2309", new_ids=["LK-2310"]
+                            id="LK-2309",
+                            current_ids=["LK-2309", "LK-2310"],
+                            year_last_modified="2019",
                         ),  # Walapane → Walapane + Niladandahinna
                         dict(
-                            old_id="LK-2312", new_ids=["LK-2313"]
+                            id="LK-2312",
+                            current_ids=["LK-2312", "LK-2313"],
+                            year_last_modified="2019",
                         ),  # Nuwara-Eliya → Nuwara-Eliya + Thalawakelle
                         dict(
-                            old_id="LK-2315",
-                            old_name="Ambagamuwa",
-                            new_ids=["LK-2314"],
+                            id="LK-2315",
+                            current_ids=["LK-2314", "LK-2315"],
+                            name="Ambagamuwa",
+                            year_last_modified="2019",
                         ),  # Ambagamuwa → Ambagamuwa Korale + Norwood
                         dict(
-                            old_id="LK-3136", new_ids=["LK-3137", "LK-3135"]
+                            id="LK-3136",
+                            current_ids=["LK-3135", "LK-3136", "LK-3137"],
+                            year_last_modified="2019",
                         ),  # Hikkaduwa → Hikkaduwa + Rathgama + Madampagama
                         dict(
-                            old_id="LK-3127", new_ids=["LK-3128"]
+                            id="LK-3127",
+                            current_ids=["LK-3127", "LK-3128"],
+                            year_last_modified="2019",
                         ),  # Baddegama → Baddegama + Wanduramba
                         dict(
-                            old_id="LK-9118", new_ids=["LK-9119"]
+                            id="LK-9118",
+                            current_ids=["LK-9118", "LK-9119"],
+                            year_last_modified="2019",
                         ),  # Balangoda → Balangoda + Kaltota
+                    ],
+                    deleted=[
+                        dict(id="LK-2302"),
+                        dict(id="LK-2307"),
+                        dict(id="LK-2310"),
+                        dict(id="LK-2313"),
+                        dict(id="LK-2314"),
+                        dict(id="LK-3135"),
+                        dict(id="LK-3137"),
+                        dict(id="LK-3128"),
+                        dict(id="LK-9119"),
                     ],
                 ),
             ],
         ).items():
-            cls.build_region(region_type_name, split_info_list)
+            cls.build_region(region_type_name, year_info_list)
