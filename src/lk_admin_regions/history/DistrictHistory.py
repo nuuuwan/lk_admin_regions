@@ -57,7 +57,7 @@ class DistrictHistory:
         ]:
             districts = cls.split(districts, year, old_id, new_id)
             districts_path_base = os.path.join(
-                cls.DIR_DATA_ENTS_HISTORY, f"district-pre{year}"
+                cls.DIR_DATA_ENTS_HISTORY, f"districts-pre{year}"
             )
             log.info(
                 f"Writing {len(districts)} districts"
