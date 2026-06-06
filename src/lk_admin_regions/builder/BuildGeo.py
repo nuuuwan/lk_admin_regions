@@ -18,7 +18,7 @@ class BuildGeo:
     DIR_DATA_GEO = os.path.join(DIR_DATA, "geo")
     GEO_PRECISION_DECIMAL_PLACES = 6
 
-    MAX_FILE_SIZE_M = 25
+    MAX_FILE_SIZE_M = 50
 
     @staticmethod
     def round_geojson(geojson_data, ndigits):
@@ -376,7 +376,7 @@ class BuildGeo:
 
     @classmethod
     def cleanup_big_files(cls):
-        os.system("find data -type f -size +20M -delete")
+        os.system(f"find data -type f -size +{cls.MAX_FILE_SIZE_M}M -delete")
 
     @classmethod
     def build_all(cls):
