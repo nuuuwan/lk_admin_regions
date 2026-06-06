@@ -1,8 +1,14 @@
 import os
 
-from lk_admin_regions import (BuildEnts, BuildGeo, BuildGNDEnt,
-                              BuildNonAdminGeo, CombineDCSAndHumData,
-                              DistrictHistory, GNDListFinalXLSX)
+from lk_admin_regions import (
+    BuildEnts,
+    BuildGeo,
+    BuildGNDEnt,
+    BuildNonAdminGeo,
+    CombineDCSAndHumData,
+    GNDListFinalXLSX,
+    RegionsHistory,
+)
 
 
 def main():
@@ -14,7 +20,7 @@ def main():
     BuildGeo.build_all()
     BuildNonAdminGeo.build_all()
 
-    DistrictHistory.build_all()
+    RegionsHistory.build_all()
 
     os.system("find data -type f -size +25M -delete")
 

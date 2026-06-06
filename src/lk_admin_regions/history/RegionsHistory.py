@@ -5,15 +5,15 @@ from utils import Log
 from lk_admin_regions.builder.BuildEnts import BuildEnts
 from lk_admin_regions.builder.BuildGNDEnt import BuildGNDEnt
 
-log = Log("DistrictHistory")
+log = Log("RegionsHistory")
 
 
-class DistrictHistory:
+class RegionsHistory:
     DIR_DATA_ENTS_HISTORY = os.path.join(BuildGNDEnt.DIR_DATA_ENTS, "history")
 
     @classmethod
-    def split(cls, districts, year, old_id, new_id):
-        district_idx = {
+    def split(cls, regions, year, old_id, new_id):
+        region_idx = {
             d["id"]: dict(
                 id=d["id"],
                 name=d["name"],
@@ -22,10 +22,10 @@ class DistrictHistory:
                 center_lng=float(d["center_lng"]),
                 current_ids=d.get("current_ids", [d["id"]]),
             )
-            for d in districts
+            for d in regions
         }
-        d_old = district_idx[old_id]
-        d_new = district_idx[new_id]
+        d_old = region_idx[old_id]
+        d_new = region_idx[new_id]
 
         d_old["center_lat"], d_old["center_lng"] = (
             d_old["center_lat"] * d_old["area_sqkm"]
@@ -47,16 +47,16 @@ class DistrictHistory:
         current_ids = sorted(set(current_ids))
         d_old["current_ids"] = current_ids
 
-        district_idx[old_id] = d_old
-        del district_idx[new_id]
-        new_districts = list(district_idx.values())
-        new_districts.sort(key=lambda d: d["id"])
-        return new_districts
+        region_idx[old_id] = d_old
+        del region_idx[new_id]
+        new_regions = list(region_idx.values())
+        new_regions.sort(key=lambda d: d["id"])
+        return new_regions
 
     @classmethod
-    def build_all(cls):
+    def build_region(cls, region_type_name):
         os.makedirs(cls.DIR_DATA_ENTS_HISTORY, exist_ok=True)
-        districts = BuildEnts.read("district")
+        regions = BuildEnts.read(region_type_name)
 
         for year, old_id, new_id in [
             ("1984", "LK-41", "LK-45"),
@@ -64,16 +64,17 @@ class DistrictHistory:
             ("1961", "LK-51", "LK-52"),
             ("1959", "LK-81", "LK-82"),
         ]:
-            districts = cls.split(districts, year, old_id, new_id)
-            districts_path_base = os.path.join(
-                cls.DIR_DATA_ENTS_HISTORY, f"districts-pre{year}"
+            regions = cls.split(regions, year, old_id, new_id)
+            regions_path_base = os.path.join(
+                cls.DIR_DATA_ENTS_HISTORY, f"{region_type_name}s-pre{year}"
             )
             log.info(
-                f"Writing {len(districts)} districts"
-                + f" to {districts_path_base}.[json|tsv]"
+                f"Writing {len(regions)} {region_type_name}s"
+                + f" to {regions_path_base}.[json|tsv]"
             )
-            BuildGNDEnt.write_all_types(districts, districts_path_base)
+            BuildGNDEnt.write_all_types(regions, regions_path_base)
 
-
-if __name__ == "__main__":
-    DistrictHistory.build_all()
+    @classmethod
+    def build_all(cls):
+        for region_type_name in ["district"]:
+            cls.build_region(region_type_name)
