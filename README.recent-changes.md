@@ -20,11 +20,11 @@ Kalmunai North (the Tamil Division) was never cleanly merged or abolished — it
 
 **Nuwara-Eliya (`LK-23`)**
 
-- Kothmale (`LK-2303`) → Kothmale East (`LK-2303`) + Kothmale West (`LK-2304`)
+- Kothmale (`LK-2303`) → Kothmale East (`LK-2303`) + Kothmale West (`LK-2302`)
 - Hanguranketha (`LK-2306`) → Hanguranketha (`LK-2306`) + Mathurata (`LK-2307`)
 - Walapane (`LK-2309`) → Walapane (`LK-2309`) + Niladandahinna (`LK-2310`)
 - Nuwara-Eliya (`LK-2312`) → Nuwara-Eliya (`LK-2312`) + Thalawakelle (`LK-2313`)
-- Ambagamuwa (`LK-2315`) → Ambagamuwa Korale (`LK-2315`) + Norwood (`LK-2316`)
+- Ambagamuwa (`LK-2315`) → Ambagamuwa Korale (`LK-2315`) + Norwood (`LK-2314`)
 
 **Galle (`LK-31`)**
 

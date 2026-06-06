@@ -1,0 +1,2650 @@
+[
+  {
+    "id": "LK-1103",
+    "name": "Colombo",
+    "area_sqkm": 24.54,
+    "center_lat": 6.945084,
+    "center_lng": 79.856234,
+    "current_ids": ["LK-1103"]
+  },
+  {
+    "id": "LK-1106",
+    "name": "Kolonnawa",
+    "area_sqkm": 25.93,
+    "center_lat": 6.93437,
+    "center_lng": 79.915175,
+    "current_ids": ["LK-1106"]
+  },
+  {
+    "id": "LK-1109",
+    "name": "Kaduwela",
+    "area_sqkm": 86.74,
+    "center_lat": 6.903511,
+    "center_lng": 79.977309,
+    "current_ids": ["LK-1109"]
+  },
+  {
+    "id": "LK-1112",
+    "name": "Homagama",
+    "area_sqkm": 120.32,
+    "center_lat": 6.833595,
+    "center_lng": 80.015498,
+    "current_ids": ["LK-1112"]
+  },
+  {
+    "id": "LK-1115",
+    "name": "Seethawaka",
+    "area_sqkm": 145.98,
+    "center_lat": 6.922503,
+    "center_lng": 80.147335,
+    "current_ids": ["LK-1115"]
+  },
+  {
+    "id": "LK-1118",
+    "name": "Padukka",
+    "area_sqkm": 106.19,
+    "center_lat": 6.833676,
+    "center_lng": 80.121779,
+    "current_ids": ["LK-1118"]
+  },
+  {
+    "id": "LK-1121",
+    "name": "Maharagama",
+    "area_sqkm": 37.8,
+    "center_lat": 6.856502,
+    "center_lng": 79.941942,
+    "current_ids": ["LK-1121"]
+  },
+  {
+    "id": "LK-1124",
+    "name": "Sri Jayawardanapura Kotte",
+    "area_sqkm": 16.32,
+    "center_lat": 6.891034,
+    "center_lng": 79.898428,
+    "current_ids": ["LK-1124"]
+  },
+  {
+    "id": "LK-1127",
+    "name": "Thimbirigasyaya",
+    "area_sqkm": 22.33,
+    "center_lat": 6.90017,
+    "center_lng": 79.869891,
+    "current_ids": ["LK-1127"]
+  },
+  {
+    "id": "LK-1130",
+    "name": "Dehiwala",
+    "area_sqkm": 8.46,
+    "center_lat": 6.858462,
+    "center_lng": 79.875429,
+    "current_ids": ["LK-1130"]
+  },
+  {
+    "id": "LK-1131",
+    "name": "Ratmalana",
+    "area_sqkm": 12.86,
+    "center_lat": 6.827061,
+    "center_lng": 79.877974,
+    "current_ids": ["LK-1131"]
+  },
+  {
+    "id": "LK-1133",
+    "name": "Moratuwa",
+    "area_sqkm": 19.3,
+    "center_lat": 6.782566,
+    "center_lng": 79.890891,
+    "current_ids": ["LK-1133"]
+  },
+  {
+    "id": "LK-1136",
+    "name": "Kesbewa",
+    "area_sqkm": 61.41,
+    "center_lat": 6.802645,
+    "center_lng": 79.928334,
+    "current_ids": ["LK-1136"]
+  },
+  {
+    "id": "LK-1203",
+    "name": "Negombo",
+    "area_sqkm": 29.19,
+    "center_lat": 7.212174,
+    "center_lng": 79.844401,
+    "current_ids": ["LK-1203"]
+  },
+  {
+    "id": "LK-1206",
+    "name": "Katana",
+    "area_sqkm": 107.8,
+    "center_lat": 7.193574,
+    "center_lng": 79.889949,
+    "current_ids": ["LK-1206"]
+  },
+  {
+    "id": "LK-1209",
+    "name": "Divulapitiya",
+    "area_sqkm": 203.16,
+    "center_lat": 7.253922,
+    "center_lng": 80.006882,
+    "current_ids": ["LK-1209"]
+  },
+  {
+    "id": "LK-1212",
+    "name": "Mirigama",
+    "area_sqkm": 188.81,
+    "center_lat": 7.225181,
+    "center_lng": 80.12288,
+    "current_ids": ["LK-1212"]
+  },
+  {
+    "id": "LK-1215",
+    "name": "Minuwangoda",
+    "area_sqkm": 132.12,
+    "center_lat": 7.155035,
+    "center_lng": 79.979044,
+    "current_ids": ["LK-1215"]
+  },
+  {
+    "id": "LK-1218",
+    "name": "Wattala",
+    "area_sqkm": 57.17,
+    "center_lat": 7.035208,
+    "center_lng": 79.88109,
+    "current_ids": ["LK-1218"]
+  },
+  {
+    "id": "LK-1221",
+    "name": "Ja Ela",
+    "area_sqkm": 62.45,
+    "center_lat": 7.072037,
+    "center_lng": 79.90888,
+    "current_ids": ["LK-1221"]
+  },
+  {
+    "id": "LK-1224",
+    "name": "Gampaha",
+    "area_sqkm": 91.82,
+    "center_lat": 7.07124,
+    "center_lng": 79.994244,
+    "current_ids": ["LK-1224"]
+  },
+  {
+    "id": "LK-1227",
+    "name": "Attanagalla",
+    "area_sqkm": 154.83,
+    "center_lat": 7.114342,
+    "center_lng": 80.109868,
+    "current_ids": ["LK-1227"]
+  },
+  {
+    "id": "LK-1230",
+    "name": "Dompe",
+    "area_sqkm": 179.18,
+    "center_lat": 6.990491,
+    "center_lng": 80.098929,
+    "current_ids": ["LK-1230"]
+  },
+  {
+    "id": "LK-1233",
+    "name": "Mahara",
+    "area_sqkm": 95.75,
+    "center_lat": 7.029309,
+    "center_lng": 80.01439,
+    "current_ids": ["LK-1233"]
+  },
+  {
+    "id": "LK-1236",
+    "name": "Kelaniya",
+    "area_sqkm": 21.94,
+    "center_lat": 6.970356,
+    "center_lng": 79.909863,
+    "current_ids": ["LK-1236"]
+  },
+  {
+    "id": "LK-1239",
+    "name": "Biyagama",
+    "area_sqkm": 61.01,
+    "center_lat": 6.968689,
+    "center_lng": 79.978247,
+    "current_ids": ["LK-1239"]
+  },
+  {
+    "id": "LK-1303",
+    "name": "Panadura",
+    "area_sqkm": 45.4,
+    "center_lat": 6.715794,
+    "center_lng": 79.923102,
+    "current_ids": ["LK-1303"]
+  },
+  {
+    "id": "LK-1306",
+    "name": "Bandaragama",
+    "area_sqkm": 57.08,
+    "center_lat": 6.718529,
+    "center_lng": 79.975934,
+    "current_ids": ["LK-1306"]
+  },
+  {
+    "id": "LK-1309",
+    "name": "Horana",
+    "area_sqkm": 111.36,
+    "center_lat": 6.756429,
+    "center_lng": 80.055471,
+    "current_ids": ["LK-1309"]
+  },
+  {
+    "id": "LK-1310",
+    "name": "Ingiriya",
+    "area_sqkm": 94.69,
+    "center_lat": 6.762529,
+    "center_lng": 80.15212,
+    "current_ids": ["LK-1310"]
+  },
+  {
+    "id": "LK-1312",
+    "name": "Bulathsinhala",
+    "area_sqkm": 211.03,
+    "center_lat": 6.648237,
+    "center_lng": 80.174565,
+    "current_ids": ["LK-1312"]
+  },
+  {
+    "id": "LK-1315",
+    "name": "Madurawala",
+    "area_sqkm": 62.19,
+    "center_lat": 6.651918,
+    "center_lng": 80.093422,
+    "current_ids": ["LK-1315"]
+  },
+  {
+    "id": "LK-1318",
+    "name": "Millaniya",
+    "area_sqkm": 79.42,
+    "center_lat": 6.658585,
+    "center_lng": 80.031028,
+    "current_ids": ["LK-1318"]
+  },
+  {
+    "id": "LK-1321",
+    "name": "Kalutara",
+    "area_sqkm": 75.57,
+    "center_lat": 6.620205,
+    "center_lng": 79.971212,
+    "current_ids": ["LK-1321"]
+  },
+  {
+    "id": "LK-1324",
+    "name": "Beruwala",
+    "area_sqkm": 73.52,
+    "center_lat": 6.488797,
+    "center_lng": 80.004738,
+    "current_ids": ["LK-1324"]
+  },
+  {
+    "id": "LK-1327",
+    "name": "Dodangoda",
+    "area_sqkm": 109.85,
+    "center_lat": 6.571467,
+    "center_lng": 80.044831,
+    "current_ids": ["LK-1327"]
+  },
+  {
+    "id": "LK-1330",
+    "name": "Matugama",
+    "area_sqkm": 138.88,
+    "center_lat": 6.488,
+    "center_lng": 80.090993,
+    "current_ids": ["LK-1330"]
+  },
+  {
+    "id": "LK-1333",
+    "name": "Agalawatta",
+    "area_sqkm": 92.24,
+    "center_lat": 6.515637,
+    "center_lng": 80.174536,
+    "current_ids": ["LK-1333"]
+  },
+  {
+    "id": "LK-1336",
+    "name": "Palindanuwara",
+    "area_sqkm": 284.12,
+    "center_lat": 6.506966,
+    "center_lng": 80.274635,
+    "current_ids": ["LK-1336"]
+  },
+  {
+    "id": "LK-1339",
+    "name": "Walallawita",
+    "area_sqkm": 211.65,
+    "center_lat": 6.406665,
+    "center_lng": 80.187579,
+    "current_ids": ["LK-1339"]
+  },
+  {
+    "id": "LK-2103",
+    "name": "Tumpane",
+    "area_sqkm": 50.92,
+    "center_lat": 7.365458,
+    "center_lng": 80.514548,
+    "current_ids": ["LK-2103"]
+  },
+  {
+    "id": "LK-2106",
+    "name": "Poojapitiya",
+    "area_sqkm": 58.6,
+    "center_lat": 7.400318,
+    "center_lng": 80.56578,
+    "current_ids": ["LK-2106"]
+  },
+  {
+    "id": "LK-2109",
+    "name": "Akurana",
+    "area_sqkm": 29.9,
+    "center_lat": 7.391395,
+    "center_lng": 80.617968,
+    "current_ids": ["LK-2109"]
+  },
+  {
+    "id": "LK-2112",
+    "name": "Pathadumbara",
+    "area_sqkm": 49.0,
+    "center_lat": 7.350373,
+    "center_lng": 80.661335,
+    "current_ids": ["LK-2112"]
+  },
+  {
+    "id": "LK-2115",
+    "name": "Panvila",
+    "area_sqkm": 92.63,
+    "center_lat": 7.409011,
+    "center_lng": 80.742498,
+    "current_ids": ["LK-2115"]
+  },
+  {
+    "id": "LK-2118",
+    "name": "Ududumbara",
+    "area_sqkm": 277.55,
+    "center_lat": 7.328827,
+    "center_lng": 80.874486,
+    "current_ids": ["LK-2118"]
+  },
+  {
+    "id": "LK-2121",
+    "name": "Minipe",
+    "area_sqkm": 249.31,
+    "center_lat": 7.348541,
+    "center_lng": 80.949201,
+    "current_ids": ["LK-2121"]
+  },
+  {
+    "id": "LK-2124",
+    "name": "Medadumbara",
+    "area_sqkm": 188.81,
+    "center_lat": 7.302731,
+    "center_lng": 80.800121,
+    "current_ids": ["LK-2124"]
+  },
+  {
+    "id": "LK-2127",
+    "name": "Kundasale",
+    "area_sqkm": 81.19,
+    "center_lat": 7.305382,
+    "center_lng": 80.708789,
+    "current_ids": ["LK-2127"]
+  },
+  {
+    "id": "LK-2130",
+    "name": "Gangawata Korale",
+    "area_sqkm": 59.61,
+    "center_lat": 7.273186,
+    "center_lng": 80.638555,
+    "current_ids": ["LK-2130"]
+  },
+  {
+    "id": "LK-2133",
+    "name": "Harispattuwa",
+    "area_sqkm": 49.5,
+    "center_lat": 7.328456,
+    "center_lng": 80.588236,
+    "current_ids": ["LK-2133"]
+  },
+  {
+    "id": "LK-2134",
+    "name": "Hatharaliyadda",
+    "area_sqkm": 63.99,
+    "center_lat": 7.331897,
+    "center_lng": 80.479684,
+    "current_ids": ["LK-2134"]
+  },
+  {
+    "id": "LK-2136",
+    "name": "Yatinuwara",
+    "area_sqkm": 69.11,
+    "center_lat": 7.282819,
+    "center_lng": 80.538023,
+    "current_ids": ["LK-2136"]
+  },
+  {
+    "id": "LK-2139",
+    "name": "Udunuwara",
+    "area_sqkm": 68.84,
+    "center_lat": 7.222683,
+    "center_lng": 80.559451,
+    "current_ids": ["LK-2139"]
+  },
+  {
+    "id": "LK-2142",
+    "name": "Doluwa",
+    "area_sqkm": 93.52,
+    "center_lat": 7.167758,
+    "center_lng": 80.647739,
+    "current_ids": ["LK-2142"]
+  },
+  {
+    "id": "LK-2145",
+    "name": "Pathahewaheta",
+    "area_sqkm": 83.84,
+    "center_lat": 7.229869,
+    "center_lng": 80.705347,
+    "current_ids": ["LK-2145"]
+  },
+  {
+    "id": "LK-2148",
+    "name": "Deltota",
+    "area_sqkm": 49.49,
+    "center_lat": 7.18303,
+    "center_lng": 80.700227,
+    "current_ids": ["LK-2148"]
+  },
+  {
+    "id": "LK-2151",
+    "name": "Udapalatha",
+    "area_sqkm": 94.12,
+    "center_lat": 7.126456,
+    "center_lng": 80.604496,
+    "current_ids": ["LK-2151"]
+  },
+  {
+    "id": "LK-2154",
+    "name": "Ganga Ihala Korale",
+    "area_sqkm": 96.17,
+    "center_lat": 7.112563,
+    "center_lng": 80.512388,
+    "current_ids": ["LK-2154"]
+  },
+  {
+    "id": "LK-2157",
+    "name": "Pasbagekorale",
+    "area_sqkm": 121.57,
+    "center_lat": 7.018554,
+    "center_lng": 80.53675,
+    "current_ids": ["LK-2157"]
+  },
+  {
+    "id": "LK-2203",
+    "name": "Galewela",
+    "area_sqkm": 196.94,
+    "center_lat": 7.779286,
+    "center_lng": 80.570693,
+    "current_ids": ["LK-2203"]
+  },
+  {
+    "id": "LK-2206",
+    "name": "Dambulla",
+    "area_sqkm": 453.33,
+    "center_lat": 7.875433,
+    "center_lng": 80.717938,
+    "current_ids": ["LK-2206"]
+  },
+  {
+    "id": "LK-2209",
+    "name": "Naula",
+    "area_sqkm": 287.89,
+    "center_lat": 7.688935,
+    "center_lng": 80.707889,
+    "current_ids": ["LK-2209"]
+  },
+  {
+    "id": "LK-2212",
+    "name": "Pallepola",
+    "area_sqkm": 82.9,
+    "center_lat": 7.647136,
+    "center_lng": 80.599248,
+    "current_ids": ["LK-2212"]
+  },
+  {
+    "id": "LK-2215",
+    "name": "Yatawatta",
+    "area_sqkm": 67.39,
+    "center_lat": 7.548664,
+    "center_lng": 80.588859,
+    "current_ids": ["LK-2215"]
+  },
+  {
+    "id": "LK-2218",
+    "name": "Matale",
+    "area_sqkm": 70.76,
+    "center_lat": 7.541057,
+    "center_lng": 80.629591,
+    "current_ids": ["LK-2218"]
+  },
+  {
+    "id": "LK-2221",
+    "name": "Ambanganga",
+    "area_sqkm": 55.38,
+    "center_lat": 7.561141,
+    "center_lng": 80.678754,
+    "current_ids": ["LK-2221"]
+  },
+  {
+    "id": "LK-2224",
+    "name": "Laggala",
+    "area_sqkm": 369.93,
+    "center_lat": 7.556182,
+    "center_lng": 80.807964,
+    "current_ids": ["LK-2224"]
+  },
+  {
+    "id": "LK-2227",
+    "name": "Wilgamuwa",
+    "area_sqkm": 290.84,
+    "center_lat": 7.603284,
+    "center_lng": 80.929334,
+    "current_ids": ["LK-2227"]
+  },
+  {
+    "id": "LK-2230",
+    "name": "Rattota",
+    "area_sqkm": 103.92,
+    "center_lat": 7.485932,
+    "center_lng": 80.685504,
+    "current_ids": ["LK-2230"]
+  },
+  {
+    "id": "LK-2233",
+    "name": "Ukuwela",
+    "area_sqkm": 79.47,
+    "center_lat": 7.429945,
+    "center_lng": 80.63884,
+    "current_ids": ["LK-2233"]
+  },
+  {
+    "id": "LK-2303-pre2019",
+    "name": "Kothmale East",
+    "area_sqkm": 226.79000000000002,
+    "center_lat": 7.038476592662816,
+    "center_lng": 80.65609588650294,
+    "current_ids": ["LK-2302", "LK-2303"]
+  },
+  {
+    "id": "LK-2306-pre2019",
+    "name": "Hanguranketa",
+    "area_sqkm": 225.72,
+    "center_lat": 7.123264859649122,
+    "center_lng": 80.77650702339182,
+    "current_ids": ["LK-2306", "LK-2307"]
+  },
+  {
+    "id": "LK-2309-pre2019",
+    "name": "Walapane",
+    "area_sqkm": 322.89,
+    "center_lat": 7.092499937842609,
+    "center_lng": 80.88686560382794,
+    "current_ids": ["LK-2309", "LK-2310"]
+  },
+  {
+    "id": "LK-2312-pre2019",
+    "name": "Nuwara Eliya",
+    "area_sqkm": 482.58,
+    "center_lat": 6.90740315069004,
+    "center_lng": 80.73234947059555,
+    "current_ids": ["LK-2312", "LK-2313"]
+  },
+  {
+    "id": "LK-2315-pre2019",
+    "name": "Ambagamuwa Korale",
+    "area_sqkm": 486.84000000000003,
+    "center_lat": 6.864824609296689,
+    "center_lng": 80.56906837542108,
+    "current_ids": ["LK-2314", "LK-2315"]
+  },
+  {
+    "id": "LK-3103",
+    "name": "Bentota",
+    "area_sqkm": 70.97,
+    "center_lat": 6.386622,
+    "center_lng": 80.055626,
+    "current_ids": ["LK-3103"]
+  },
+  {
+    "id": "LK-3106",
+    "name": "Balapitiya",
+    "area_sqkm": 54.26,
+    "center_lat": 6.314523,
+    "center_lng": 80.050593,
+    "current_ids": ["LK-3106"]
+  },
+  {
+    "id": "LK-3109",
+    "name": "Karandeniya",
+    "area_sqkm": 88.55,
+    "center_lat": 6.301085,
+    "center_lng": 80.100581,
+    "current_ids": ["LK-3109"]
+  },
+  {
+    "id": "LK-3112",
+    "name": "Elpitiya",
+    "area_sqkm": 150.64,
+    "center_lat": 6.290338,
+    "center_lng": 80.185674,
+    "current_ids": ["LK-3112"]
+  },
+  {
+    "id": "LK-3115",
+    "name": "Niyagama",
+    "area_sqkm": 104.37,
+    "center_lat": 6.302514,
+    "center_lng": 80.251476,
+    "current_ids": ["LK-3115"]
+  },
+  {
+    "id": "LK-3118",
+    "name": "Thawalama",
+    "area_sqkm": 173.7,
+    "center_lat": 6.292952,
+    "center_lng": 80.354998,
+    "current_ids": ["LK-3118"]
+  },
+  {
+    "id": "LK-3121",
+    "name": "Neluwa",
+    "area_sqkm": 152.51,
+    "center_lat": 6.360383,
+    "center_lng": 80.409622,
+    "current_ids": ["LK-3121"]
+  },
+  {
+    "id": "LK-3124",
+    "name": "Nagoda",
+    "area_sqkm": 173.43,
+    "center_lat": 6.199194,
+    "center_lng": 80.313741,
+    "current_ids": ["LK-3124"]
+  },
+  {
+    "id": "LK-3127-pre2019",
+    "name": "Baddegama",
+    "area_sqkm": 112.86000000000001,
+    "center_lat": 6.136369578415736,
+    "center_lng": 80.2201539803296,
+    "current_ids": ["LK-3127", "LK-3128"]
+  },
+  {
+    "id": "LK-3130",
+    "name": "Welivitiya-Divitura",
+    "area_sqkm": 56.47,
+    "center_lat": 6.206917,
+    "center_lng": 80.180778,
+    "current_ids": ["LK-3130"]
+  },
+  {
+    "id": "LK-3133",
+    "name": "Ambalangoda",
+    "area_sqkm": 49.22,
+    "center_lat": 6.222263,
+    "center_lng": 80.101832,
+    "current_ids": ["LK-3133"]
+  },
+  {
+    "id": "LK-3134",
+    "name": "Gonapinuwala",
+    "area_sqkm": 25.39,
+    "center_lat": 6.16609,
+    "center_lng": 80.131284,
+    "current_ids": ["LK-3134"]
+  },
+  {
+    "id": "LK-3136-pre2019",
+    "name": "Hikkaduwa",
+    "area_sqkm": 63.17,
+    "center_lat": 6.139839807978471,
+    "center_lng": 80.12257799620072,
+    "current_ids": ["LK-3135", "LK-3136", "LK-3137"]
+  },
+  {
+    "id": "LK-3139",
+    "name": "Galle 4 Gravets",
+    "area_sqkm": 22.3,
+    "center_lat": 6.053635,
+    "center_lng": 80.207916,
+    "current_ids": ["LK-3139"]
+  },
+  {
+    "id": "LK-3142",
+    "name": "Bope-Poddala",
+    "area_sqkm": 28.61,
+    "center_lat": 6.083812,
+    "center_lng": 80.216468,
+    "current_ids": ["LK-3142"]
+  },
+  {
+    "id": "LK-3145",
+    "name": "Akmeemana",
+    "area_sqkm": 71.2,
+    "center_lat": 6.059798,
+    "center_lng": 80.284577,
+    "current_ids": ["LK-3145"]
+  },
+  {
+    "id": "LK-3148",
+    "name": "Yakkalamulla",
+    "area_sqkm": 108.68,
+    "center_lat": 6.107609,
+    "center_lng": 80.360034,
+    "current_ids": ["LK-3148"]
+  },
+  {
+    "id": "LK-3151",
+    "name": "Imaduwa",
+    "area_sqkm": 58.36,
+    "center_lat": 6.032628,
+    "center_lng": 80.358504,
+    "current_ids": ["LK-3151"]
+  },
+  {
+    "id": "LK-3154",
+    "name": "Habaraduwa",
+    "area_sqkm": 48.81,
+    "center_lat": 6.001825,
+    "center_lng": 80.320646,
+    "current_ids": ["LK-3154"]
+  },
+  {
+    "id": "LK-3203",
+    "name": "Pitabaddara",
+    "area_sqkm": 136.99,
+    "center_lat": 6.239504,
+    "center_lng": 80.473365,
+    "current_ids": ["LK-3203"]
+  },
+  {
+    "id": "LK-3206",
+    "name": "Kotapola",
+    "area_sqkm": 178.98,
+    "center_lat": 6.322503,
+    "center_lng": 80.538487,
+    "current_ids": ["LK-3206"]
+  },
+  {
+    "id": "LK-3209",
+    "name": "Pasgoda",
+    "area_sqkm": 154.01,
+    "center_lat": 6.276173,
+    "center_lng": 80.608151,
+    "current_ids": ["LK-3209"]
+  },
+  {
+    "id": "LK-3212",
+    "name": "Mulatiyana",
+    "area_sqkm": 120.4,
+    "center_lat": 6.147335,
+    "center_lng": 80.586973,
+    "current_ids": ["LK-3212"]
+  },
+  {
+    "id": "LK-3215",
+    "name": "Athuraliya",
+    "area_sqkm": 63.05,
+    "center_lat": 6.117181,
+    "center_lng": 80.509603,
+    "current_ids": ["LK-3215"]
+  },
+  {
+    "id": "LK-3218",
+    "name": "Akuressa",
+    "area_sqkm": 150.06,
+    "center_lat": 6.135891,
+    "center_lng": 80.440469,
+    "current_ids": ["LK-3218"]
+  },
+  {
+    "id": "LK-3221",
+    "name": "Welipitiya",
+    "area_sqkm": 69.3,
+    "center_lat": 6.016747,
+    "center_lng": 80.439249,
+    "current_ids": ["LK-3221"]
+  },
+  {
+    "id": "LK-3224",
+    "name": "Malimbada",
+    "area_sqkm": 42.86,
+    "center_lat": 6.019686,
+    "center_lng": 80.49915,
+    "current_ids": ["LK-3224"]
+  },
+  {
+    "id": "LK-3227",
+    "name": "Kaburupitiya",
+    "area_sqkm": 57.89,
+    "center_lat": 6.06571,
+    "center_lng": 80.560668,
+    "current_ids": ["LK-3227"]
+  },
+  {
+    "id": "LK-3230",
+    "name": "Hakmana",
+    "area_sqkm": 49.52,
+    "center_lat": 6.094981,
+    "center_lng": 80.649031,
+    "current_ids": ["LK-3230"]
+  },
+  {
+    "id": "LK-3233",
+    "name": "Kirinda Puhulwella",
+    "area_sqkm": 41.91,
+    "center_lat": 6.046066,
+    "center_lng": 80.636112,
+    "current_ids": ["LK-3233"]
+  },
+  {
+    "id": "LK-3236",
+    "name": "Thihagoda",
+    "area_sqkm": 52.81,
+    "center_lat": 6.010286,
+    "center_lng": 80.560316,
+    "current_ids": ["LK-3236"]
+  },
+  {
+    "id": "LK-3239",
+    "name": "Weligama",
+    "area_sqkm": 42.69,
+    "center_lat": 5.967502,
+    "center_lng": 80.445057,
+    "current_ids": ["LK-3239"]
+  },
+  {
+    "id": "LK-3242",
+    "name": "Matara Four Gravets",
+    "area_sqkm": 56.63,
+    "center_lat": 5.962773,
+    "center_lng": 80.563249,
+    "current_ids": ["LK-3242"]
+  },
+  {
+    "id": "LK-3245",
+    "name": "Devinuwara",
+    "area_sqkm": 38.16,
+    "center_lat": 5.977065,
+    "center_lng": 80.614856,
+    "current_ids": ["LK-3245"]
+  },
+  {
+    "id": "LK-3248",
+    "name": "Dikwella",
+    "area_sqkm": 51.11,
+    "center_lat": 5.985368,
+    "center_lng": 80.673372,
+    "current_ids": ["LK-3248"]
+  },
+  {
+    "id": "LK-3303",
+    "name": "Sooriyawewa",
+    "area_sqkm": 193.66,
+    "center_lat": 6.29244,
+    "center_lng": 81.015794,
+    "current_ids": ["LK-3303"]
+  },
+  {
+    "id": "LK-3306",
+    "name": "Lunugamwehera",
+    "area_sqkm": 284.91,
+    "center_lat": 6.33159,
+    "center_lng": 81.162489,
+    "current_ids": ["LK-3306"]
+  },
+  {
+    "id": "LK-3309",
+    "name": "Thissamaharama",
+    "area_sqkm": 792.11,
+    "center_lat": 6.362319,
+    "center_lng": 81.429386,
+    "current_ids": ["LK-3309"]
+  },
+  {
+    "id": "LK-3312",
+    "name": "Hambantota",
+    "area_sqkm": 343.78,
+    "center_lat": 6.204568,
+    "center_lng": 81.122853,
+    "current_ids": ["LK-3312"]
+  },
+  {
+    "id": "LK-3315",
+    "name": "Ambalantota",
+    "area_sqkm": 212.81,
+    "center_lat": 6.16102,
+    "center_lng": 80.96355,
+    "current_ids": ["LK-3315"]
+  },
+  {
+    "id": "LK-3318",
+    "name": "Angunakolapelessa",
+    "area_sqkm": 171.85,
+    "center_lat": 6.19339,
+    "center_lng": 80.851244,
+    "current_ids": ["LK-3318"]
+  },
+  {
+    "id": "LK-3321",
+    "name": "Weeraketiya",
+    "area_sqkm": 114.68,
+    "center_lat": 6.172607,
+    "center_lng": 80.771748,
+    "current_ids": ["LK-3321"]
+  },
+  {
+    "id": "LK-3324",
+    "name": "Katuwana",
+    "area_sqkm": 105.09,
+    "center_lat": 6.263752,
+    "center_lng": 80.715498,
+    "current_ids": ["LK-3324"]
+  },
+  {
+    "id": "LK-3325",
+    "name": "Walasmulla",
+    "area_sqkm": 108.56,
+    "center_lat": 6.199373,
+    "center_lng": 80.681779,
+    "current_ids": ["LK-3325"]
+  },
+  {
+    "id": "LK-3327",
+    "name": "Okewela",
+    "area_sqkm": 42.14,
+    "center_lat": 6.130071,
+    "center_lng": 80.693395,
+    "current_ids": ["LK-3327"]
+  },
+  {
+    "id": "LK-3330",
+    "name": "Beliatta",
+    "area_sqkm": 102.7,
+    "center_lat": 6.050734,
+    "center_lng": 80.720383,
+    "current_ids": ["LK-3330"]
+  },
+  {
+    "id": "LK-3333",
+    "name": "Tangalle",
+    "area_sqkm": 152.77,
+    "center_lat": 6.072584,
+    "center_lng": 80.826452,
+    "current_ids": ["LK-3333"]
+  },
+  {
+    "id": "LK-4103",
+    "name": "Islands North (Kayts)",
+    "area_sqkm": 32.47,
+    "center_lat": 9.67518,
+    "center_lng": 79.850124,
+    "current_ids": ["LK-4103"]
+  },
+  {
+    "id": "LK-4104",
+    "name": "Karainagar",
+    "area_sqkm": 23.64,
+    "center_lat": 9.735886,
+    "center_lng": 79.874717,
+    "current_ids": ["LK-4104"]
+  },
+  {
+    "id": "LK-4106",
+    "name": "Valikamam West (Chankanai)",
+    "area_sqkm": 48.94,
+    "center_lat": 9.74171,
+    "center_lng": 79.945292,
+    "current_ids": ["LK-4106"]
+  },
+  {
+    "id": "LK-4109",
+    "name": "Valikamam South West (Sandilipay)",
+    "area_sqkm": 47.65,
+    "center_lat": 9.750615,
+    "center_lng": 79.981145,
+    "current_ids": ["LK-4109"]
+  },
+  {
+    "id": "LK-4112",
+    "name": "Valikamam North (Thllippalai)",
+    "area_sqkm": 61.68,
+    "center_lat": 9.789107,
+    "center_lng": 80.042169,
+    "current_ids": ["LK-4112"]
+  },
+  {
+    "id": "LK-4115",
+    "name": "Valikamam South (Uduvil)",
+    "area_sqkm": 34.38,
+    "center_lat": 9.744762,
+    "center_lng": 80.034763,
+    "current_ids": ["LK-4115"]
+  },
+  {
+    "id": "LK-4118",
+    "name": "Valikamam East (Kopay)",
+    "area_sqkm": 108.75,
+    "center_lat": 9.736957,
+    "center_lng": 80.097029,
+    "current_ids": ["LK-4118"]
+  },
+  {
+    "id": "LK-4121",
+    "name": "Vadamaradchchi South-West (Karaveddy)",
+    "area_sqkm": 86.46,
+    "center_lat": 9.775903,
+    "center_lng": 80.183361,
+    "current_ids": ["LK-4121"]
+  },
+  {
+    "id": "LK-4124",
+    "name": "Vadamaradchchi East",
+    "area_sqkm": 189.15,
+    "center_lat": 9.612378,
+    "center_lng": 80.410335,
+    "current_ids": ["LK-4124"]
+  },
+  {
+    "id": "LK-4127",
+    "name": "Vadamaradchi North (Point Pedro)",
+    "area_sqkm": 39.2,
+    "center_lat": 9.807963,
+    "center_lng": 80.218427,
+    "current_ids": ["LK-4127"]
+  },
+  {
+    "id": "LK-4130",
+    "name": "Thenmaradchi (Chavakachcheri)",
+    "area_sqkm": 236.07,
+    "center_lat": 9.677007,
+    "center_lng": 80.189642,
+    "current_ids": ["LK-4130"]
+  },
+  {
+    "id": "LK-4133",
+    "name": "Nallur",
+    "area_sqkm": 32.67,
+    "center_lat": 9.667633,
+    "center_lng": 80.049097,
+    "current_ids": ["LK-4133"]
+  },
+  {
+    "id": "LK-4136",
+    "name": "Jaffna",
+    "area_sqkm": 10.98,
+    "center_lat": 9.663344,
+    "center_lng": 80.021463,
+    "current_ids": ["LK-4136"]
+  },
+  {
+    "id": "LK-4139",
+    "name": "Islands South (Velanai)",
+    "area_sqkm": 90.73,
+    "center_lat": 9.622153,
+    "center_lng": 79.891398,
+    "current_ids": ["LK-4139"]
+  },
+  {
+    "id": "LK-4142",
+    "name": "Delft",
+    "area_sqkm": 48.44,
+    "center_lat": 9.513087,
+    "center_lng": 79.690805,
+    "current_ids": ["LK-4142"]
+  },
+  {
+    "id": "LK-4203",
+    "name": "Mannar Town",
+    "area_sqkm": 220.18,
+    "center_lat": 8.991979,
+    "center_lng": 79.887564,
+    "current_ids": ["LK-4203"]
+  },
+  {
+    "id": "LK-4206",
+    "name": "Manthai West",
+    "area_sqkm": 614.98,
+    "center_lat": 9.026464,
+    "center_lng": 80.112292,
+    "current_ids": ["LK-4206"]
+  },
+  {
+    "id": "LK-4209",
+    "name": "Madhu",
+    "area_sqkm": 565.01,
+    "center_lat": 8.849314,
+    "center_lng": 80.231202,
+    "current_ids": ["LK-4209"]
+  },
+  {
+    "id": "LK-4212",
+    "name": "Nanaddan",
+    "area_sqkm": 147.4,
+    "center_lat": 8.835289,
+    "center_lng": 79.993633,
+    "current_ids": ["LK-4212"]
+  },
+  {
+    "id": "LK-4215",
+    "name": "Musali",
+    "area_sqkm": 463.26,
+    "center_lat": 8.677386,
+    "center_lng": 80.021293,
+    "current_ids": ["LK-4215"]
+  },
+  {
+    "id": "LK-4303",
+    "name": "Vavuniya North",
+    "area_sqkm": 686.72,
+    "center_lat": 9.004658,
+    "center_lng": 80.576682,
+    "current_ids": ["LK-4303"]
+  },
+  {
+    "id": "LK-4306",
+    "name": "Vavuniya South",
+    "area_sqkm": 216.25,
+    "center_lat": 8.7351,
+    "center_lng": 80.513638,
+    "current_ids": ["LK-4306"]
+  },
+  {
+    "id": "LK-4309",
+    "name": "Vavuniya",
+    "area_sqkm": 616.85,
+    "center_lat": 8.833801,
+    "center_lng": 80.456699,
+    "current_ids": ["LK-4309"]
+  },
+  {
+    "id": "LK-4312",
+    "name": "Vengalacheddikulam",
+    "area_sqkm": 415.08,
+    "center_lat": 8.692808,
+    "center_lng": 80.294587,
+    "current_ids": ["LK-4312"]
+  },
+  {
+    "id": "LK-4403",
+    "name": "Thunukkai",
+    "area_sqkm": 329.19,
+    "center_lat": 9.222892,
+    "center_lng": 80.286117,
+    "current_ids": ["LK-4403"]
+  },
+  {
+    "id": "LK-4406",
+    "name": "Manthai East",
+    "area_sqkm": 485.91,
+    "center_lat": 9.06305,
+    "center_lng": 80.308719,
+    "current_ids": ["LK-4406"]
+  },
+  {
+    "id": "LK-4409",
+    "name": "Puthukkudiyiruppu",
+    "area_sqkm": 326.53,
+    "center_lat": 9.3143,
+    "center_lng": 80.637424,
+    "current_ids": ["LK-4409"]
+  },
+  {
+    "id": "LK-4412",
+    "name": "Oddusuddan",
+    "area_sqkm": 762.54,
+    "center_lat": 9.194731,
+    "center_lng": 80.534922,
+    "current_ids": ["LK-4412"]
+  },
+  {
+    "id": "LK-4415",
+    "name": "Maritimepattu",
+    "area_sqkm": 612.64,
+    "center_lat": 9.169164,
+    "center_lng": 80.801013,
+    "current_ids": ["LK-4415"]
+  },
+  {
+    "id": "LK-4418",
+    "name": "Welioya",
+    "area_sqkm": 164.33,
+    "center_lat": 8.984002,
+    "center_lng": 80.796983,
+    "current_ids": ["LK-4418"]
+  },
+  {
+    "id": "LK-4503",
+    "name": "Pachchilaipalli",
+    "area_sqkm": 176.03,
+    "center_lat": 9.590645,
+    "center_lng": 80.359079,
+    "current_ids": ["LK-4503"]
+  },
+  {
+    "id": "LK-4506",
+    "name": "Kandavalai",
+    "area_sqkm": 274.3,
+    "center_lat": 9.445569,
+    "center_lng": 80.484949,
+    "current_ids": ["LK-4506"]
+  },
+  {
+    "id": "LK-4509",
+    "name": "Karachchi",
+    "area_sqkm": 395.57,
+    "center_lat": 9.359072,
+    "center_lng": 80.333852,
+    "current_ids": ["LK-4509"]
+  },
+  {
+    "id": "LK-4512",
+    "name": "Poonakary",
+    "area_sqkm": 473.39,
+    "center_lat": 9.396612,
+    "center_lng": 80.168652,
+    "current_ids": ["LK-4512"]
+  },
+  {
+    "id": "LK-5103",
+    "name": "Koralai Pattu North",
+    "area_sqkm": 515.5,
+    "center_lat": 8.088188,
+    "center_lng": 81.37461,
+    "current_ids": ["LK-5103"]
+  },
+  {
+    "id": "LK-5104",
+    "name": "Koralai Pattu Central",
+    "area_sqkm": 8.04,
+    "center_lat": 7.928343,
+    "center_lng": 81.517588,
+    "current_ids": ["LK-5104"]
+  },
+  {
+    "id": "LK-5106",
+    "name": "Koralai Pattu West",
+    "area_sqkm": 22.94,
+    "center_lat": 7.917486,
+    "center_lng": 81.494041,
+    "current_ids": ["LK-5106"]
+  },
+  {
+    "id": "LK-5109",
+    "name": "Koralai Pattu",
+    "area_sqkm": 30.69,
+    "center_lat": 7.906709,
+    "center_lng": 81.546148,
+    "current_ids": ["LK-5109"]
+  },
+  {
+    "id": "LK-5110",
+    "name": "Koralai Pattu South",
+    "area_sqkm": 598.36,
+    "center_lat": 7.864123,
+    "center_lng": 81.376528,
+    "current_ids": ["LK-5110"]
+  },
+  {
+    "id": "LK-5112",
+    "name": "Eravur Pattu",
+    "area_sqkm": 599.22,
+    "center_lat": 7.705871,
+    "center_lng": 81.453462,
+    "current_ids": ["LK-5112"]
+  },
+  {
+    "id": "LK-5115",
+    "name": "Eravur Town",
+    "area_sqkm": 1.86,
+    "center_lat": 7.775874,
+    "center_lng": 81.608206,
+    "current_ids": ["LK-5115"]
+  },
+  {
+    "id": "LK-5118",
+    "name": "Manmunai North",
+    "area_sqkm": 45.7,
+    "center_lat": 7.726202,
+    "center_lng": 81.684938,
+    "current_ids": ["LK-5118"]
+  },
+  {
+    "id": "LK-5121",
+    "name": "Manmunai West",
+    "area_sqkm": 280.58,
+    "center_lat": 7.632937,
+    "center_lng": 81.598993,
+    "current_ids": ["LK-5121"]
+  },
+  {
+    "id": "LK-5124",
+    "name": "Kattankudy",
+    "area_sqkm": 3.88,
+    "center_lat": 7.6829,
+    "center_lng": 81.732091,
+    "current_ids": ["LK-5124"]
+  },
+  {
+    "id": "LK-5127",
+    "name": "Manmunai Pattu",
+    "area_sqkm": 25.45,
+    "center_lat": 7.639195,
+    "center_lng": 81.753752,
+    "current_ids": ["LK-5127"]
+  },
+  {
+    "id": "LK-5130",
+    "name": "Manmunai South West",
+    "area_sqkm": 145.14,
+    "center_lat": 7.567598,
+    "center_lng": 81.661919,
+    "current_ids": ["LK-5130"]
+  },
+  {
+    "id": "LK-5133",
+    "name": "Porativu Pattu",
+    "area_sqkm": 159.21,
+    "center_lat": 7.497825,
+    "center_lng": 81.704155,
+    "current_ids": ["LK-5133"]
+  },
+  {
+    "id": "LK-5136",
+    "name": "Manmunai South & Eruvil Pattu",
+    "area_sqkm": 43.92,
+    "center_lat": 7.522348,
+    "center_lng": 81.791102,
+    "current_ids": ["LK-5136"]
+  },
+  {
+    "id": "LK-5203",
+    "name": "Dehiattakandiya",
+    "area_sqkm": 374.18,
+    "center_lat": 7.626104,
+    "center_lng": 81.073565,
+    "current_ids": ["LK-5203"]
+  },
+  {
+    "id": "LK-5206",
+    "name": "Padiyathalawa",
+    "area_sqkm": 388.23,
+    "center_lat": 7.422272,
+    "center_lng": 81.261851,
+    "current_ids": ["LK-5206"]
+  },
+  {
+    "id": "LK-5209",
+    "name": "Mahaoya",
+    "area_sqkm": 680.41,
+    "center_lat": 7.55649,
+    "center_lng": 81.350833,
+    "current_ids": ["LK-5209"]
+  },
+  {
+    "id": "LK-5212",
+    "name": "Uhana",
+    "area_sqkm": 535.55,
+    "center_lat": 7.401039,
+    "center_lng": 81.592516,
+    "current_ids": ["LK-5212"]
+  },
+  {
+    "id": "LK-5215",
+    "name": "Ampara",
+    "area_sqkm": 139.52,
+    "center_lat": 7.275779,
+    "center_lng": 81.59961,
+    "current_ids": ["LK-5215"]
+  },
+  {
+    "id": "LK-5216",
+    "name": "Navithanveli",
+    "area_sqkm": 79.81,
+    "center_lat": 7.419463,
+    "center_lng": 81.762775,
+    "current_ids": ["LK-5216"]
+  },
+  {
+    "id": "LK-5218",
+    "name": "Sammanthurai",
+    "area_sqkm": 108.91,
+    "center_lat": 7.329298,
+    "center_lng": 81.767875,
+    "current_ids": ["LK-5218"]
+  },
+  {
+    "id": "LK-5221",
+    "name": "Kalmunai",
+    "area_sqkm": 8.22,
+    "center_lat": 7.415778,
+    "center_lng": 81.821081,
+    "current_ids": ["LK-5221"]
+  },
+  {
+    "id": "LK-5224",
+    "name": "Kalmunai",
+    "area_sqkm": 12.7,
+    "center_lat": 7.424716,
+    "center_lng": 81.81138,
+    "current_ids": ["LK-5224"]
+  },
+  {
+    "id": "LK-5225",
+    "name": "Sainthamaruthu",
+    "area_sqkm": 3.35,
+    "center_lat": 7.392063,
+    "center_lng": 81.833112,
+    "current_ids": ["LK-5225"]
+  },
+  {
+    "id": "LK-5227",
+    "name": "Karaitivu",
+    "area_sqkm": 10.15,
+    "center_lat": 7.372969,
+    "center_lng": 81.833667,
+    "current_ids": ["LK-5227"]
+  },
+  {
+    "id": "LK-5230",
+    "name": "Nintavur",
+    "area_sqkm": 35.94,
+    "center_lat": 7.326839,
+    "center_lng": 81.839824,
+    "current_ids": ["LK-5230"]
+  },
+  {
+    "id": "LK-5233",
+    "name": "Addalaichenai",
+    "area_sqkm": 74.4,
+    "center_lat": 7.264536,
+    "center_lng": 81.812687,
+    "current_ids": ["LK-5233"]
+  },
+  {
+    "id": "LK-5234",
+    "name": "Irakkamam",
+    "area_sqkm": 67.23,
+    "center_lat": 7.2411,
+    "center_lng": 81.722174,
+    "current_ids": ["LK-5234"]
+  },
+  {
+    "id": "LK-5236",
+    "name": "Akkaraipattu",
+    "area_sqkm": 53.68,
+    "center_lat": 7.212584,
+    "center_lng": 81.798189,
+    "current_ids": ["LK-5236"]
+  },
+  {
+    "id": "LK-5239",
+    "name": "Alayadivembu",
+    "area_sqkm": 69.69,
+    "center_lat": 7.170789,
+    "center_lng": 81.807373,
+    "current_ids": ["LK-5239"]
+  },
+  {
+    "id": "LK-5242",
+    "name": "Damana",
+    "area_sqkm": 489.54,
+    "center_lat": 7.136138,
+    "center_lng": 81.629472,
+    "current_ids": ["LK-5242"]
+  },
+  {
+    "id": "LK-5245",
+    "name": "Tirukkovil",
+    "area_sqkm": 218.5,
+    "center_lat": 7.079586,
+    "center_lng": 81.794782,
+    "current_ids": ["LK-5245"]
+  },
+  {
+    "id": "LK-5248",
+    "name": "Pottuvil",
+    "area_sqkm": 309.36,
+    "center_lat": 6.949757,
+    "center_lng": 81.797796,
+    "current_ids": ["LK-5248"]
+  },
+  {
+    "id": "LK-5251",
+    "name": "Lahugala",
+    "area_sqkm": 815.3,
+    "center_lat": 6.743613,
+    "center_lng": 81.698939,
+    "current_ids": ["LK-5251"]
+  },
+  {
+    "id": "LK-5303",
+    "name": "Padavi Sri Pura",
+    "area_sqkm": 113.33,
+    "center_lat": 8.915208,
+    "center_lng": 80.855145,
+    "current_ids": ["LK-5303"]
+  },
+  {
+    "id": "LK-5306",
+    "name": "Kuchchaweli",
+    "area_sqkm": 446.97,
+    "center_lat": 8.813051,
+    "center_lng": 81.047186,
+    "current_ids": ["LK-5306"]
+  },
+  {
+    "id": "LK-5309",
+    "name": "Gomarankadawala",
+    "area_sqkm": 307.33,
+    "center_lat": 8.749348,
+    "center_lng": 80.966816,
+    "current_ids": ["LK-5309"]
+  },
+  {
+    "id": "LK-5312",
+    "name": "Morawewa",
+    "area_sqkm": 278.14,
+    "center_lat": 8.625746,
+    "center_lng": 81.019771,
+    "current_ids": ["LK-5312"]
+  },
+  {
+    "id": "LK-5315",
+    "name": "Town & Gravets",
+    "area_sqkm": 129.82,
+    "center_lat": 8.582618,
+    "center_lng": 81.174705,
+    "current_ids": ["LK-5315"]
+  },
+  {
+    "id": "LK-5318",
+    "name": "Thambalagamuwa",
+    "area_sqkm": 274.19,
+    "center_lat": 8.509573,
+    "center_lng": 81.042854,
+    "current_ids": ["LK-5318"]
+  },
+  {
+    "id": "LK-5321",
+    "name": "Kantale",
+    "area_sqkm": 412.73,
+    "center_lat": 8.342622,
+    "center_lng": 81.055903,
+    "current_ids": ["LK-5321"]
+  },
+  {
+    "id": "LK-5324",
+    "name": "Kinniya",
+    "area_sqkm": 151.55,
+    "center_lat": 8.435933,
+    "center_lng": 81.160269,
+    "current_ids": ["LK-5324"]
+  },
+  {
+    "id": "LK-5327",
+    "name": "Muthur",
+    "area_sqkm": 194.19,
+    "center_lat": 8.431494,
+    "center_lng": 81.291319,
+    "current_ids": ["LK-5327"]
+  },
+  {
+    "id": "LK-5330",
+    "name": "Seruvila",
+    "area_sqkm": 293.32,
+    "center_lat": 8.287808,
+    "center_lng": 81.25641,
+    "current_ids": ["LK-5330"]
+  },
+  {
+    "id": "LK-5333",
+    "name": "Verugal",
+    "area_sqkm": 90.54,
+    "center_lat": 8.318232,
+    "center_lng": 81.363485,
+    "current_ids": ["LK-5333"]
+  },
+  {
+    "id": "LK-6103",
+    "name": "Giribawa",
+    "area_sqkm": 205.37,
+    "center_lat": 8.103672,
+    "center_lng": 80.183754,
+    "current_ids": ["LK-6103"]
+  },
+  {
+    "id": "LK-6106",
+    "name": "Galgamuwa",
+    "area_sqkm": 273.2,
+    "center_lat": 8.01942,
+    "center_lng": 80.261519,
+    "current_ids": ["LK-6106"]
+  },
+  {
+    "id": "LK-6109",
+    "name": "Ehetuwewa",
+    "area_sqkm": 171.52,
+    "center_lat": 7.964571,
+    "center_lng": 80.356533,
+    "current_ids": ["LK-6109"]
+  },
+  {
+    "id": "LK-6112",
+    "name": "Ambanpola",
+    "area_sqkm": 140.33,
+    "center_lat": 7.907793,
+    "center_lng": 80.223831,
+    "current_ids": ["LK-6112"]
+  },
+  {
+    "id": "LK-6115",
+    "name": "Kotawehera",
+    "area_sqkm": 189.56,
+    "center_lat": 7.86602,
+    "center_lng": 80.12381,
+    "current_ids": ["LK-6115"]
+  },
+  {
+    "id": "LK-6118",
+    "name": "Rasnayakapura",
+    "area_sqkm": 124.56,
+    "center_lat": 7.765388,
+    "center_lng": 80.02517,
+    "current_ids": ["LK-6118"]
+  },
+  {
+    "id": "LK-6121",
+    "name": "Nikaweratiya",
+    "area_sqkm": 151.32,
+    "center_lat": 7.763229,
+    "center_lng": 80.145972,
+    "current_ids": ["LK-6121"]
+  },
+  {
+    "id": "LK-6124",
+    "name": "Maho",
+    "area_sqkm": 261.4,
+    "center_lat": 7.805441,
+    "center_lng": 80.291121,
+    "current_ids": ["LK-6124"]
+  },
+  {
+    "id": "LK-6127",
+    "name": "Polpitigama",
+    "area_sqkm": 415.64,
+    "center_lat": 7.803271,
+    "center_lng": 80.428893,
+    "current_ids": ["LK-6127"]
+  },
+  {
+    "id": "LK-6130",
+    "name": "Ibbagamuwa",
+    "area_sqkm": 217.17,
+    "center_lat": 7.617703,
+    "center_lng": 80.471158,
+    "current_ids": ["LK-6130"]
+  },
+  {
+    "id": "LK-6133",
+    "name": "Ganewatta",
+    "area_sqkm": 150.26,
+    "center_lat": 7.656692,
+    "center_lng": 80.37097,
+    "current_ids": ["LK-6133"]
+  },
+  {
+    "id": "LK-6136",
+    "name": "Wariyapola",
+    "area_sqkm": 201.99,
+    "center_lat": 7.662389,
+    "center_lng": 80.238951,
+    "current_ids": ["LK-6136"]
+  },
+  {
+    "id": "LK-6139",
+    "name": "Kobeigane",
+    "area_sqkm": 130.28,
+    "center_lat": 7.684376,
+    "center_lng": 80.100321,
+    "current_ids": ["LK-6139"]
+  },
+  {
+    "id": "LK-6142",
+    "name": "Bingiriya",
+    "area_sqkm": 193.62,
+    "center_lat": 7.607565,
+    "center_lng": 79.968083,
+    "current_ids": ["LK-6142"]
+  },
+  {
+    "id": "LK-6145",
+    "name": "Panduwasnuwara West",
+    "area_sqkm": 180.97,
+    "center_lat": 7.59967,
+    "center_lng": 80.078262,
+    "current_ids": ["LK-6145"]
+  },
+  {
+    "id": "LK-6148",
+    "name": "Panduwasnuwara East",
+    "area_sqkm": 102.5,
+    "center_lat": 7.556704,
+    "center_lng": 80.142781,
+    "current_ids": ["LK-6148"]
+  },
+  {
+    "id": "LK-6149",
+    "name": "Bamunakotuwa",
+    "area_sqkm": 110.54,
+    "center_lat": 7.547987,
+    "center_lng": 80.253693,
+    "current_ids": ["LK-6149"]
+  },
+  {
+    "id": "LK-6151",
+    "name": "Maspotha",
+    "area_sqkm": 66.36,
+    "center_lat": 7.558038,
+    "center_lng": 80.324834,
+    "current_ids": ["LK-6151"]
+  },
+  {
+    "id": "LK-6154",
+    "name": "Kurunegala",
+    "area_sqkm": 97.71,
+    "center_lat": 7.512057,
+    "center_lng": 80.353824,
+    "current_ids": ["LK-6154"]
+  },
+  {
+    "id": "LK-6157",
+    "name": "Mallawapitiya",
+    "area_sqkm": 79.25,
+    "center_lat": 7.468271,
+    "center_lng": 80.390824,
+    "current_ids": ["LK-6157"]
+  },
+  {
+    "id": "LK-6160",
+    "name": "Mawathagama",
+    "area_sqkm": 108.43,
+    "center_lat": 7.424469,
+    "center_lng": 80.444918,
+    "current_ids": ["LK-6160"]
+  },
+  {
+    "id": "LK-6163",
+    "name": "Rideegama",
+    "area_sqkm": 225.15,
+    "center_lat": 7.517219,
+    "center_lng": 80.518459,
+    "current_ids": ["LK-6163"]
+  },
+  {
+    "id": "LK-6166",
+    "name": "Weerabugedara",
+    "area_sqkm": 91.83,
+    "center_lat": 7.465802,
+    "center_lng": 80.271741,
+    "current_ids": ["LK-6166"]
+  },
+  {
+    "id": "LK-6169",
+    "name": "Kuliyapitiya East",
+    "area_sqkm": 113.78,
+    "center_lat": 7.469028,
+    "center_lng": 80.168506,
+    "current_ids": ["LK-6169"]
+  },
+  {
+    "id": "LK-6172",
+    "name": "Kuliyapitiya West",
+    "area_sqkm": 165.49,
+    "center_lat": 7.472637,
+    "center_lng": 80.055086,
+    "current_ids": ["LK-6172"]
+  },
+  {
+    "id": "LK-6175",
+    "name": "Udubaddawa",
+    "area_sqkm": 119.9,
+    "center_lat": 7.480501,
+    "center_lng": 79.947547,
+    "current_ids": ["LK-6175"]
+  },
+  {
+    "id": "LK-6178",
+    "name": "Pannala",
+    "area_sqkm": 282.22,
+    "center_lat": 7.362153,
+    "center_lng": 80.030535,
+    "current_ids": ["LK-6178"]
+  },
+  {
+    "id": "LK-6181",
+    "name": "Narammala",
+    "area_sqkm": 108.53,
+    "center_lat": 7.397099,
+    "center_lng": 80.193118,
+    "current_ids": ["LK-6181"]
+  },
+  {
+    "id": "LK-6184",
+    "name": "Alawwa",
+    "area_sqkm": 130.25,
+    "center_lat": 7.32858,
+    "center_lng": 80.217429,
+    "current_ids": ["LK-6184"]
+  },
+  {
+    "id": "LK-6187",
+    "name": "Polgahawela",
+    "area_sqkm": 96.57,
+    "center_lat": 7.374765,
+    "center_lng": 80.309654,
+    "current_ids": ["LK-6187"]
+  },
+  {
+    "id": "LK-6203",
+    "name": "Kalpitiya",
+    "area_sqkm": 162.65,
+    "center_lat": 8.121529,
+    "center_lng": 79.741752,
+    "current_ids": ["LK-6203"]
+  },
+  {
+    "id": "LK-6206",
+    "name": "Vanathavilluwa",
+    "area_sqkm": 737.44,
+    "center_lat": 8.340926,
+    "center_lng": 79.896228,
+    "current_ids": ["LK-6206"]
+  },
+  {
+    "id": "LK-6209",
+    "name": "Karuwalagaswewa",
+    "area_sqkm": 499.76,
+    "center_lat": 8.119648,
+    "center_lng": 79.999768,
+    "current_ids": ["LK-6209"]
+  },
+  {
+    "id": "LK-6212",
+    "name": "Nawagattegama",
+    "area_sqkm": 171.5,
+    "center_lat": 8.013076,
+    "center_lng": 80.088937,
+    "current_ids": ["LK-6212"]
+  },
+  {
+    "id": "LK-6215",
+    "name": "Puttalam",
+    "area_sqkm": 173.97,
+    "center_lat": 8.02708,
+    "center_lng": 79.863353,
+    "current_ids": ["LK-6215"]
+  },
+  {
+    "id": "LK-6218",
+    "name": "Mundel",
+    "area_sqkm": 220.37,
+    "center_lat": 7.865608,
+    "center_lng": 79.813679,
+    "current_ids": ["LK-6218"]
+  },
+  {
+    "id": "LK-6221",
+    "name": "Mahakumbukkadawala",
+    "area_sqkm": 185.05,
+    "center_lat": 7.848981,
+    "center_lng": 79.903955,
+    "current_ids": ["LK-6221"]
+  },
+  {
+    "id": "LK-6224",
+    "name": "Anamaduwa",
+    "area_sqkm": 248.63,
+    "center_lat": 7.905754,
+    "center_lng": 80.000002,
+    "current_ids": ["LK-6224"]
+  },
+  {
+    "id": "LK-6227",
+    "name": "Pallama",
+    "area_sqkm": 121.21,
+    "center_lat": 7.729777,
+    "center_lng": 79.934735,
+    "current_ids": ["LK-6227"]
+  },
+  {
+    "id": "LK-6230",
+    "name": "Arachchikattuwa",
+    "area_sqkm": 158.5,
+    "center_lat": 7.677875,
+    "center_lng": 79.849622,
+    "current_ids": ["LK-6230"]
+  },
+  {
+    "id": "LK-6233",
+    "name": "Chilaw",
+    "area_sqkm": 92.88,
+    "center_lat": 7.57962,
+    "center_lng": 79.838381,
+    "current_ids": ["LK-6233"]
+  },
+  {
+    "id": "LK-6236",
+    "name": "Madampe",
+    "area_sqkm": 93.03,
+    "center_lat": 7.518084,
+    "center_lng": 79.864026,
+    "current_ids": ["LK-6236"]
+  },
+  {
+    "id": "LK-6239",
+    "name": "Mahawewa",
+    "area_sqkm": 73.16,
+    "center_lat": 7.45504,
+    "center_lng": 79.850756,
+    "current_ids": ["LK-6239"]
+  },
+  {
+    "id": "LK-6242",
+    "name": "Nattandiya",
+    "area_sqkm": 77.81,
+    "center_lat": 7.396723,
+    "center_lng": 79.874381,
+    "current_ids": ["LK-6242"]
+  },
+  {
+    "id": "LK-6245",
+    "name": "Wennappuwa",
+    "area_sqkm": 41.25,
+    "center_lat": 7.323434,
+    "center_lng": 79.854768,
+    "current_ids": ["LK-6245"]
+  },
+  {
+    "id": "LK-6248",
+    "name": "Dankotuwa",
+    "area_sqkm": 76.68,
+    "center_lat": 7.321135,
+    "center_lng": 79.905767,
+    "current_ids": ["LK-6248"]
+  },
+  {
+    "id": "LK-7103",
+    "name": "Padaviya",
+    "area_sqkm": 247.26,
+    "center_lat": 8.84868,
+    "center_lng": 80.78417,
+    "current_ids": ["LK-7103"]
+  },
+  {
+    "id": "LK-7106",
+    "name": "Kebithigollewa",
+    "area_sqkm": 613.68,
+    "center_lat": 8.712242,
+    "center_lng": 80.715528,
+    "current_ids": ["LK-7106"]
+  },
+  {
+    "id": "LK-7109",
+    "name": "Medawachchiya",
+    "area_sqkm": 489.19,
+    "center_lat": 8.588785,
+    "center_lng": 80.496936,
+    "current_ids": ["LK-7109"]
+  },
+  {
+    "id": "LK-7112",
+    "name": "Mahawilachchiya",
+    "area_sqkm": 616.94,
+    "center_lat": 8.543334,
+    "center_lng": 80.170555,
+    "current_ids": ["LK-7112"]
+  },
+  {
+    "id": "LK-7115",
+    "name": "Nuwaragam Palatha Central",
+    "area_sqkm": 401.16,
+    "center_lat": 8.415737,
+    "center_lng": 80.352384,
+    "current_ids": ["LK-7115"]
+  },
+  {
+    "id": "LK-7118",
+    "name": "Rambewa",
+    "area_sqkm": 306.11,
+    "center_lat": 8.475597,
+    "center_lng": 80.550939,
+    "current_ids": ["LK-7118"]
+  },
+  {
+    "id": "LK-7121",
+    "name": "Kahatagasdigiliya",
+    "area_sqkm": 370.25,
+    "center_lat": 8.423981,
+    "center_lng": 80.711353,
+    "current_ids": ["LK-7121"]
+  },
+  {
+    "id": "LK-7124",
+    "name": "Horowpathana",
+    "area_sqkm": 832.95,
+    "center_lat": 8.5158,
+    "center_lng": 80.852802,
+    "current_ids": ["LK-7124"]
+  },
+  {
+    "id": "LK-7127",
+    "name": "Galenbidunuwewa",
+    "area_sqkm": 292.54,
+    "center_lat": 8.268046,
+    "center_lng": 80.708793,
+    "current_ids": ["LK-7127"]
+  },
+  {
+    "id": "LK-7130",
+    "name": "Mihinthale",
+    "area_sqkm": 229.44,
+    "center_lat": 8.348988,
+    "center_lng": 80.544542,
+    "current_ids": ["LK-7130"]
+  },
+  {
+    "id": "LK-7133",
+    "name": "Nuwaragam Palatha East",
+    "area_sqkm": 92.04,
+    "center_lat": 8.308879,
+    "center_lng": 80.446024,
+    "current_ids": ["LK-7133"]
+  },
+  {
+    "id": "LK-7136",
+    "name": "Nachchaduwa",
+    "area_sqkm": 110.03,
+    "center_lat": 8.251842,
+    "center_lng": 80.423925,
+    "current_ids": ["LK-7136"]
+  },
+  {
+    "id": "LK-7139",
+    "name": "Nochchiyagama",
+    "area_sqkm": 838.29,
+    "center_lat": 8.333933,
+    "center_lng": 80.125586,
+    "current_ids": ["LK-7139"]
+  },
+  {
+    "id": "LK-7142",
+    "name": "Rajanganaya",
+    "area_sqkm": 105.84,
+    "center_lat": 8.185818,
+    "center_lng": 80.180922,
+    "current_ids": ["LK-7142"]
+  },
+  {
+    "id": "LK-7145",
+    "name": "Thambuththegama",
+    "area_sqkm": 113.34,
+    "center_lat": 8.155242,
+    "center_lng": 80.316891,
+    "current_ids": ["LK-7145"]
+  },
+  {
+    "id": "LK-7148",
+    "name": "Thalawa",
+    "area_sqkm": 228.75,
+    "center_lat": 8.183572,
+    "center_lng": 80.380368,
+    "current_ids": ["LK-7148"]
+  },
+  {
+    "id": "LK-7151",
+    "name": "Thirappane",
+    "area_sqkm": 272.37,
+    "center_lat": 8.206458,
+    "center_lng": 80.557149,
+    "current_ids": ["LK-7151"]
+  },
+  {
+    "id": "LK-7154",
+    "name": "Kekirawa",
+    "area_sqkm": 346.75,
+    "center_lat": 8.059565,
+    "center_lng": 80.624469,
+    "current_ids": ["LK-7154"]
+  },
+  {
+    "id": "LK-7157",
+    "name": "Palugaswewa",
+    "area_sqkm": 205.62,
+    "center_lat": 8.081177,
+    "center_lng": 80.718542,
+    "current_ids": ["LK-7157"]
+  },
+  {
+    "id": "LK-7160",
+    "name": "Ipalogama",
+    "area_sqkm": 141.67,
+    "center_lat": 8.085235,
+    "center_lng": 80.507736,
+    "current_ids": ["LK-7160"]
+  },
+  {
+    "id": "LK-7163",
+    "name": "Galnewa",
+    "area_sqkm": 138.58,
+    "center_lat": 8.019713,
+    "center_lng": 80.450037,
+    "current_ids": ["LK-7163"]
+  },
+  {
+    "id": "LK-7166",
+    "name": "Palagala",
+    "area_sqkm": 225.47,
+    "center_lat": 7.90556,
+    "center_lng": 80.537532,
+    "current_ids": ["LK-7166"]
+  },
+  {
+    "id": "LK-7203",
+    "name": "Higurakgoda",
+    "area_sqkm": 705.23,
+    "center_lat": 8.114004,
+    "center_lng": 80.865402,
+    "current_ids": ["LK-7203"]
+  },
+  {
+    "id": "LK-7206",
+    "name": "Medirigiriya",
+    "area_sqkm": 573.26,
+    "center_lat": 8.185489,
+    "center_lng": 81.040095,
+    "current_ids": ["LK-7206"]
+  },
+  {
+    "id": "LK-7209",
+    "name": "Lankapura",
+    "area_sqkm": 197.47,
+    "center_lat": 8.058699,
+    "center_lng": 81.098071,
+    "current_ids": ["LK-7209"]
+  },
+  {
+    "id": "LK-7210",
+    "name": "Welikanda",
+    "area_sqkm": 574.33,
+    "center_lat": 8.05135,
+    "center_lng": 81.240046,
+    "current_ids": ["LK-7210"]
+  },
+  {
+    "id": "LK-7212",
+    "name": "Dimbulagala",
+    "area_sqkm": 585.9,
+    "center_lat": 7.785366,
+    "center_lng": 81.126323,
+    "current_ids": ["LK-7212"]
+  },
+  {
+    "id": "LK-7215",
+    "name": "Thamankaduwa",
+    "area_sqkm": 467.45,
+    "center_lat": 7.882873,
+    "center_lng": 80.990104,
+    "current_ids": ["LK-7215"]
+  },
+  {
+    "id": "LK-7218",
+    "name": "Elahera",
+    "area_sqkm": 366.09,
+    "center_lat": 7.815875,
+    "center_lng": 80.845529,
+    "current_ids": ["LK-7218"]
+  },
+  {
+    "id": "LK-8103",
+    "name": "Mahiyanganaya",
+    "area_sqkm": 601.88,
+    "center_lat": 7.43385,
+    "center_lng": 81.081405,
+    "current_ids": ["LK-8103"]
+  },
+  {
+    "id": "LK-8106",
+    "name": "Rideemaliyadda",
+    "area_sqkm": 437.14,
+    "center_lat": 7.274411,
+    "center_lng": 81.128186,
+    "current_ids": ["LK-8106"]
+  },
+  {
+    "id": "LK-8109",
+    "name": "Meegahakiula",
+    "area_sqkm": 108.82,
+    "center_lat": 7.126719,
+    "center_lng": 81.081054,
+    "current_ids": ["LK-8109"]
+  },
+  {
+    "id": "LK-8112",
+    "name": "Kandeketiya",
+    "area_sqkm": 150.72,
+    "center_lat": 7.129609,
+    "center_lng": 80.994256,
+    "current_ids": ["LK-8112"]
+  },
+  {
+    "id": "LK-8115",
+    "name": "Soranathota",
+    "area_sqkm": 80.5,
+    "center_lat": 7.045305,
+    "center_lng": 81.050182,
+    "current_ids": ["LK-8115"]
+  },
+  {
+    "id": "LK-8118",
+    "name": "Passara",
+    "area_sqkm": 134.59,
+    "center_lat": 6.964933,
+    "center_lng": 81.147248,
+    "current_ids": ["LK-8118"]
+  },
+  {
+    "id": "LK-8119",
+    "name": "Lunugala",
+    "area_sqkm": 143.01,
+    "center_lat": 7.037966,
+    "center_lng": 81.186128,
+    "current_ids": ["LK-8119"]
+  },
+  {
+    "id": "LK-8121",
+    "name": "Badulla",
+    "area_sqkm": 48.85,
+    "center_lat": 6.987256,
+    "center_lng": 81.086841,
+    "current_ids": ["LK-8121"]
+  },
+  {
+    "id": "LK-8124",
+    "name": "Hali-Ela",
+    "area_sqkm": 170.05,
+    "center_lat": 6.94587,
+    "center_lng": 81.019408,
+    "current_ids": ["LK-8124"]
+  },
+  {
+    "id": "LK-8127",
+    "name": "Uvaparanagama",
+    "area_sqkm": 137.69,
+    "center_lat": 6.966467,
+    "center_lng": 80.917273,
+    "current_ids": ["LK-8127"]
+  },
+  {
+    "id": "LK-8130",
+    "name": "Welimada",
+    "area_sqkm": 194.0,
+    "center_lat": 6.860252,
+    "center_lng": 80.880744,
+    "current_ids": ["LK-8130"]
+  },
+  {
+    "id": "LK-8133",
+    "name": "Bandarawela",
+    "area_sqkm": 70.9,
+    "center_lat": 6.830041,
+    "center_lng": 81.007966,
+    "current_ids": ["LK-8133"]
+  },
+  {
+    "id": "LK-8136",
+    "name": "Ella",
+    "area_sqkm": 109.61,
+    "center_lat": 6.868089,
+    "center_lng": 81.066011,
+    "current_ids": ["LK-8136"]
+  },
+  {
+    "id": "LK-8139",
+    "name": "Haputale",
+    "area_sqkm": 69.04,
+    "center_lat": 6.792339,
+    "center_lng": 80.962138,
+    "current_ids": ["LK-8139"]
+  },
+  {
+    "id": "LK-8142",
+    "name": "Haldummulla",
+    "area_sqkm": 415.17,
+    "center_lat": 6.698806,
+    "center_lng": 80.969558,
+    "current_ids": ["LK-8142"]
+  },
+  {
+    "id": "LK-8203",
+    "name": "Bibile",
+    "area_sqkm": 466.05,
+    "center_lat": 7.187842,
+    "center_lng": 81.298497,
+    "current_ids": ["LK-8203"]
+  },
+  {
+    "id": "LK-8206",
+    "name": "Madulla",
+    "area_sqkm": 750.32,
+    "center_lat": 7.160153,
+    "center_lng": 81.426163,
+    "current_ids": ["LK-8206"]
+  },
+  {
+    "id": "LK-8209",
+    "name": "Medagama",
+    "area_sqkm": 240.35,
+    "center_lat": 7.053049,
+    "center_lng": 81.292941,
+    "current_ids": ["LK-8209"]
+  },
+  {
+    "id": "LK-8212",
+    "name": "Siyambalanduwa",
+    "area_sqkm": 1059.94,
+    "center_lat": 6.845567,
+    "center_lng": 81.525567,
+    "current_ids": ["LK-8212"]
+  },
+  {
+    "id": "LK-8215",
+    "name": "Monaragala",
+    "area_sqkm": 290.52,
+    "center_lat": 6.832233,
+    "center_lng": 81.353268,
+    "current_ids": ["LK-8215"]
+  },
+  {
+    "id": "LK-8218",
+    "name": "Badalkumbura",
+    "area_sqkm": 237.09,
+    "center_lat": 6.869729,
+    "center_lng": 81.216912,
+    "current_ids": ["LK-8218"]
+  },
+  {
+    "id": "LK-8221",
+    "name": "Wellawaya",
+    "area_sqkm": 574.94,
+    "center_lat": 6.612619,
+    "center_lng": 81.127975,
+    "current_ids": ["LK-8221"]
+  },
+  {
+    "id": "LK-8224",
+    "name": "Buttala",
+    "area_sqkm": 709.86,
+    "center_lat": 6.660368,
+    "center_lng": 81.299812,
+    "current_ids": ["LK-8224"]
+  },
+  {
+    "id": "LK-8227",
+    "name": "Katharagama",
+    "area_sqkm": 609.08,
+    "center_lat": 6.494507,
+    "center_lng": 81.373695,
+    "current_ids": ["LK-8227"]
+  },
+  {
+    "id": "LK-8230",
+    "name": "Thanamalwila",
+    "area_sqkm": 635.54,
+    "center_lat": 6.501944,
+    "center_lng": 80.99412,
+    "current_ids": ["LK-8230"]
+  },
+  {
+    "id": "LK-8233",
+    "name": "Sevanagala",
+    "area_sqkm": 184.3,
+    "center_lat": 6.375974,
+    "center_lng": 80.930542,
+    "current_ids": ["LK-8233"]
+  },
+  {
+    "id": "LK-9103",
+    "name": "Eheliyagoda",
+    "area_sqkm": 140.97,
+    "center_lat": 6.838464,
+    "center_lng": 80.22653,
+    "current_ids": ["LK-9103"]
+  },
+  {
+    "id": "LK-9106",
+    "name": "Kuruvita",
+    "area_sqkm": 171.02,
+    "center_lat": 6.79925,
+    "center_lng": 80.354906,
+    "current_ids": ["LK-9106"]
+  },
+  {
+    "id": "LK-9109",
+    "name": "Kiriella",
+    "area_sqkm": 79.43,
+    "center_lat": 6.757653,
+    "center_lng": 80.275398,
+    "current_ids": ["LK-9109"]
+  },
+  {
+    "id": "LK-9112",
+    "name": "Ratnapura",
+    "area_sqkm": 327.73,
+    "center_lat": 6.728669,
+    "center_lng": 80.48182,
+    "current_ids": ["LK-9112"]
+  },
+  {
+    "id": "LK-9115",
+    "name": "Imbulpe",
+    "area_sqkm": 255.01,
+    "center_lat": 6.714738,
+    "center_lng": 80.736102,
+    "current_ids": ["LK-9115"]
+  },
+  {
+    "id": "LK-9118-pre2019",
+    "name": "Balangoda",
+    "area_sqkm": 281.09,
+    "center_lat": 6.628873477960796,
+    "center_lng": 80.76723524067026,
+    "current_ids": ["LK-9118", "LK-9119"]
+  },
+  {
+    "id": "LK-9121",
+    "name": "Opanayake",
+    "area_sqkm": 79.29,
+    "center_lat": 6.60947,
+    "center_lng": 80.625148,
+    "current_ids": ["LK-9121"]
+  },
+  {
+    "id": "LK-9124",
+    "name": "Pelmadulla",
+    "area_sqkm": 146.68,
+    "center_lat": 6.635419,
+    "center_lng": 80.509481,
+    "current_ids": ["LK-9124"]
+  },
+  {
+    "id": "LK-9127",
+    "name": "Elapatha",
+    "area_sqkm": 85.61,
+    "center_lat": 6.663299,
+    "center_lng": 80.354808,
+    "current_ids": ["LK-9127"]
+  },
+  {
+    "id": "LK-9130",
+    "name": "Ayagama",
+    "area_sqkm": 163.35,
+    "center_lat": 6.650948,
+    "center_lng": 80.291308,
+    "current_ids": ["LK-9130"]
+  },
+  {
+    "id": "LK-9133",
+    "name": "Kalawana",
+    "area_sqkm": 382.4,
+    "center_lat": 6.46448,
+    "center_lng": 80.451221,
+    "current_ids": ["LK-9133"]
+  },
+  {
+    "id": "LK-9136",
+    "name": "Nivithigala",
+    "area_sqkm": 153.46,
+    "center_lat": 6.56935,
+    "center_lng": 80.456325,
+    "current_ids": ["LK-9136"]
+  },
+  {
+    "id": "LK-9139",
+    "name": "Kahawattha",
+    "area_sqkm": 104.25,
+    "center_lat": 6.527983,
+    "center_lng": 80.545154,
+    "current_ids": ["LK-9139"]
+  },
+  {
+    "id": "LK-9142",
+    "name": "Godakawela",
+    "area_sqkm": 152.12,
+    "center_lat": 6.498162,
+    "center_lng": 80.641823,
+    "current_ids": ["LK-9142"]
+  },
+  {
+    "id": "LK-9145",
+    "name": "Weligepola",
+    "area_sqkm": 198.02,
+    "center_lat": 6.541498,
+    "center_lng": 80.740908,
+    "current_ids": ["LK-9145"]
+  },
+  {
+    "id": "LK-9148",
+    "name": "Embilipitiya",
+    "area_sqkm": 388.82,
+    "center_lat": 6.355221,
+    "center_lng": 80.813866,
+    "current_ids": ["LK-9148"]
+  },
+  {
+    "id": "LK-9151",
+    "name": "Kolonna",
+    "area_sqkm": 177.85,
+    "center_lat": 6.391184,
+    "center_lng": 80.678904,
+    "current_ids": ["LK-9151"]
+  },
+  {
+    "id": "LK-9203",
+    "name": "Rambukkana",
+    "area_sqkm": 127.79,
+    "center_lat": 7.324762,
+    "center_lng": 80.386138,
+    "current_ids": ["LK-9203"]
+  },
+  {
+    "id": "LK-9206",
+    "name": "Mawanella",
+    "area_sqkm": 120.09,
+    "center_lat": 7.230038,
+    "center_lng": 80.47224,
+    "current_ids": ["LK-9206"]
+  },
+  {
+    "id": "LK-9209",
+    "name": "Aranayake",
+    "area_sqkm": 120.09,
+    "center_lat": 7.167804,
+    "center_lng": 80.442178,
+    "current_ids": ["LK-9209"]
+  },
+  {
+    "id": "LK-9212",
+    "name": "Kegalle",
+    "area_sqkm": 106.25,
+    "center_lat": 7.209156,
+    "center_lng": 80.368156,
+    "current_ids": ["LK-9212"]
+  },
+  {
+    "id": "LK-9215",
+    "name": "Galigamuwa",
+    "area_sqkm": 124.59,
+    "center_lat": 7.216127,
+    "center_lng": 80.305524,
+    "current_ids": ["LK-9215"]
+  },
+  {
+    "id": "LK-9218",
+    "name": "Warakapola",
+    "area_sqkm": 196.98,
+    "center_lat": 7.203746,
+    "center_lng": 80.231762,
+    "current_ids": ["LK-9218"]
+  },
+  {
+    "id": "LK-9221",
+    "name": "Ruwanwella",
+    "area_sqkm": 140.64,
+    "center_lat": 7.064225,
+    "center_lng": 80.218789,
+    "current_ids": ["LK-9221"]
+  },
+  {
+    "id": "LK-9224",
+    "name": "Bulathkohipitiya",
+    "area_sqkm": 125.27,
+    "center_lat": 7.098344,
+    "center_lng": 80.355516,
+    "current_ids": ["LK-9224"]
+  },
+  {
+    "id": "LK-9227",
+    "name": "Yatiyantota",
+    "area_sqkm": 179.91,
+    "center_lat": 7.029854,
+    "center_lng": 80.371683,
+    "current_ids": ["LK-9227"]
+  },
+  {
+    "id": "LK-9230",
+    "name": "Dehiowita",
+    "area_sqkm": 193.95,
+    "center_lat": 6.939454,
+    "center_lng": 80.280907,
+    "current_ids": ["LK-9230"]
+  },
+  {
+    "id": "LK-9233",
+    "name": "Deraniyagala",
+    "area_sqkm": 222.16,
+    "center_lat": 6.907025,
+    "center_lng": 80.403181,
+    "current_ids": ["LK-9233"]
+  }
+]
