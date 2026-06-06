@@ -12,7 +12,7 @@ class RegionsHistory:
     DIR_DATA_ENTS_HISTORY = os.path.join(BuildGNDEnt.DIR_DATA_ENTS, "history")
 
     @classmethod
-    def split(cls, regions, year, old_id, new_ids):
+    def split(cls, regions, year, old_id, new_ids, old_name=None):
         region_idx = {
             d["id"]: dict(
                 id=d["id"],
@@ -47,6 +47,8 @@ class RegionsHistory:
             del region_idx[new_id]
 
         d_old["id"] = f"{old_id}-pre{year}"
+        if old_name:
+            d_old["name"] = old_name
         region_idx[old_id] = d_old
         new_regions = list(region_idx.values())
         new_regions.sort(key=lambda d: d["id"])
@@ -61,7 +63,11 @@ class RegionsHistory:
             year = year_info["year"]
             for split in year_info["splits"]:
                 regions = cls.split(
-                    regions, year, split["old_id"], split["new_ids"]
+                    regions,
+                    year,
+                    split["old_id"],
+                    split["new_ids"],
+                    split.get("old_name"),
                 )
             regions_path_base = os.path.join(
                 cls.DIR_DATA_ENTS_HISTORY,
@@ -101,7 +107,9 @@ class RegionsHistory:
                     year="2019",
                     splits=[
                         dict(
-                            old_id="LK-2303", new_ids=["LK-2302"]
+                            old_id="LK-2303",
+                            old_name="Kotmale",
+                            new_ids=["LK-2302"],
                         ),  # Kothmale → Kothmale East + Kothmale West
                         dict(
                             old_id="LK-2306", new_ids=["LK-2307"]
@@ -113,7 +121,9 @@ class RegionsHistory:
                             old_id="LK-2312", new_ids=["LK-2313"]
                         ),  # Nuwara-Eliya → Nuwara-Eliya + Thalawakelle
                         dict(
-                            old_id="LK-2315", new_ids=["LK-2314"]
+                            old_id="LK-2315",
+                            old_name="Ambagamuwa",
+                            new_ids=["LK-2314"],
                         ),  # Ambagamuwa → Ambagamuwa Korale + Norwood
                         dict(
                             old_id="LK-3136", new_ids=["LK-3137", "LK-3135"]
