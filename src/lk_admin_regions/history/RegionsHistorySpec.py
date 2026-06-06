@@ -229,7 +229,16 @@ class RegionsHistorySpec:
                 ),  # Northern absorbed Anuradhapura district (→ North Central)
                 dict(
                     id="LK-5",
-                    current_ids=["LK-5", "LK-72", "LK-82"],
+                    current_ids=[
+                        "LK-5",
+                        "LK-72",
+                        "LK-8218",
+                        "LK-8215",
+                        "LK-8212",
+                        "LK-8209",
+                        "LK-8206",
+                        "LK-8203",
+                    ],
                     year_last_modified="1873",
                 ),  # Eastern absorbed Polonnaruwa + Monaragala districts (→ North Central/Uva)
             ],

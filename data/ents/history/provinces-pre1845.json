@@ -52,13 +52,18 @@
   {
     "id": "LK-5-pre1873",
     "name": "Eastern (pre 1873)",
-    "area_sqkm": 18874.98,
-    "center_lat": 7.499274,
-    "center_lng": 81.304571,
+    "area_sqkm": 16161.26,
+    "center_lat": 7.657561,
+    "center_lng": 81.324931,
     "current_ids": [
       "LK-5",
       "LK-72",
-      "LK-82"
+      "LK-8203",
+      "LK-8206",
+      "LK-8209",
+      "LK-8212",
+      "LK-8215",
+      "LK-8218"
     ]
   }
 ]
