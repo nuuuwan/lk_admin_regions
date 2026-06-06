@@ -172,7 +172,15 @@ class RegionsHistorySpec:
                 ),  # Western absorbed Kegalle district (→ Sabaragamuwa)
                 dict(
                     id="LK-3",
-                    current_ids=["LK-3", "LK-91"],
+                    current_ids=[
+                        "LK-3",
+                        "LK-91",
+                        "LK-8221",
+                        "LK-8224",
+                        "LK-8227",
+                        "LK-8230",
+                        "LK-8233",
+                    ],
                     year_last_modified="1889",
                 ),  # Southern absorbed Ratnapura district (→ Sabaragamuwa)
             ],
