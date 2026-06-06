@@ -20,6 +20,7 @@ class DistrictHistory:
                 area_sqkm=float(d["area_sqkm"]),
                 center_lat=float(d["center_lat"]),
                 center_lng=float(d["center_lng"]),
+                current_ids=d.get("current_ids", [d["id"]]),
             )
             for d in districts
         }
@@ -37,6 +38,14 @@ class DistrictHistory:
         )
         d_old["area_sqkm"] += d_new["area_sqkm"]
         d_old["id"] = f"{old_id}-pre{year}"
+
+        current_ids = (
+            [old_id, new_id]
+            + d_new.get("current_ids", [])
+            + d_old.get("current_ids", [])
+        )
+        current_ids = sorted(set(current_ids))
+        d_old["current_ids"] = current_ids
 
         district_idx[old_id] = d_old
         del district_idx[new_id]
