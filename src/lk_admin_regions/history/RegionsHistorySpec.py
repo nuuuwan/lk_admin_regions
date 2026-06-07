@@ -198,13 +198,10 @@ class RegionsHistorySpec:
                     id="LK-2",
                     current_ids=[
                         "LK-2",
-                        "LK-8103",
-                        "LK-8106",
                         "LK-8109",
                         "LK-8112",
                         "LK-8115",
                         "LK-8118",
-                        "LK-8119",
                         "LK-8121",
                         "LK-8124",
                         "LK-8127",
@@ -233,6 +230,9 @@ class RegionsHistorySpec:
                     id="LK-5",
                     current_ids=[
                         "LK-5",
+                        "LK-8103",
+                        "LK-8106",
+                        "LK-8119",
                         "LK-8218",
                         "LK-8215",
                         "LK-8212",
@@ -283,6 +283,9 @@ class RegionsHistorySpec:
                         "LK-5",
                         "LK-72",
                         "LK-7124",
+                        "LK-8103",
+                        "LK-8106",
+                        "LK-8119",
                         "LK-8218",
                         "LK-8215",
                         "LK-8212",
@@ -295,7 +298,6 @@ class RegionsHistorySpec:
             ],
             deleted=[dict(id="LK-7")],
         ),
-        # 1845: North Western (LK-6) carved from Western (LK-1)
         dict(
             year="1845",
             aux_region_types=["district", "dsd"],
