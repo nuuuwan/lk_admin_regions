@@ -264,6 +264,7 @@ class RegionsHistorySpec:
                     current_ids=[
                         "LK-1",
                         "LK-92",
+                        "LK-61",
                         "LK-6203",
                         "LK-6209",
                         "LK-6212",
