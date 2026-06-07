@@ -29,7 +29,9 @@ class RegionsHistorySpec:
                     id="LK-42",
                     current_ids=["LK-42", "LK-4403", "LK-4406"],
                     year_last_modified="1978",
-                ),  # Mannar absorbed Thunukkai + Manthai East DSDs (→ Mullaitivu)
+                    # Mannar absorbed Thunukkai + Manthai East DSDs (→
+                    # Mullaitivu)
+                ),
                 dict(
                     id="LK-43",
                     current_ids=["LK-43", "LK-4412", "LK-4415", "LK-4418"],
@@ -130,7 +132,8 @@ class RegionsHistorySpec:
         # deltas: ordered most-recent year first.
         # For snapshot at index i, accumulate deltas[0..i].
         # Processing order is most-recent → oldest; older entries overwrite newer
-        # ones (last-write wins), ensuring the correct year_last_modified is used.
+        # ones (last-write wins), ensuring the correct year_last_modified is
+        # used.
         snapshots = []
         for i, delta in enumerate(deltas):
             merged_modified = {}
@@ -160,7 +163,8 @@ class RegionsHistorySpec:
         )
 
     _PROVINCE_DELTAS = [
-        # 1889: Sabaragamuwa (LK-9) carved from Southern (LK-3) and Western (LK-1)
+        # 1889: Sabaragamuwa (LK-9) carved from Southern (LK-3) and Western
+        # (LK-1)
         dict(
             year="1889",
             aux_region_types=["district"],
@@ -169,7 +173,7 @@ class RegionsHistorySpec:
                     id="LK-1",
                     current_ids=["LK-1", "LK-92"],
                     year_last_modified="1889",
-                ),  # Western absorbed Kegalle district (→ Sabaragamuwa)
+                ),
                 dict(
                     id="LK-3",
                     current_ids=[
@@ -182,11 +186,10 @@ class RegionsHistorySpec:
                         "LK-8233",
                     ],
                     year_last_modified="1889",
-                ),  # Southern absorbed Ratnapura district (→ Sabaragamuwa)
+                ),
             ],
             deleted=[dict(id="LK-9")],
         ),
-        # 1886: Uva (LK-8) carved from Southern (LK-3) and Eastern (LK-5)
         dict(
             year="1886",
             aux_region_types=["district", "dsd"],
@@ -208,7 +211,7 @@ class RegionsHistorySpec:
                         "LK-8233",
                     ],
                     year_last_modified="1886",
-                ),  # Southern absorbed Badulla (→ Uva) and still held Ratnapura
+                ),
                 dict(
                     id="LK-5",
                     current_ids=[
@@ -225,7 +228,6 @@ class RegionsHistorySpec:
             ],
             deleted=[dict(id="LK-8")],
         ),
-        # 1873: North Central (LK-7) carved from Northern (LK-4) and Eastern (LK-5)
         dict(
             year="1873",
             aux_region_types=["district"],
@@ -234,7 +236,7 @@ class RegionsHistorySpec:
                     id="LK-4",
                     current_ids=["LK-4", "LK-71"],
                     year_last_modified="1873",
-                ),  # Northern absorbed Anuradhapura district (→ North Central)
+                ),
                 dict(
                     id="LK-5",
                     current_ids=[
@@ -248,7 +250,7 @@ class RegionsHistorySpec:
                         "LK-8203",
                     ],
                     year_last_modified="1873",
-                ),  # Eastern absorbed Polonnaruwa + Monaragala districts (→ North Central/Uva)
+                ),
             ],
             deleted=[dict(id="LK-7")],
         ),
@@ -259,9 +261,32 @@ class RegionsHistorySpec:
             modified=[
                 dict(
                     id="LK-1",
-                    current_ids=["LK-1", "LK-6", "LK-92"],
+                    current_ids=[
+                        "LK-1",
+                        "LK-92",
+                        "LK-6203",
+                        "LK-6209",
+                        "LK-6212",
+                        "LK-6215",
+                        "LK-6218",
+                        "LK-6221",
+                        "LK-6224",
+                        "LK-6227",
+                        "LK-6230",
+                        "LK-6233",
+                        "LK-6236",
+                        "LK-6239",
+                        "LK-6242",
+                        "LK-6245",
+                        "LK-6248",
+                    ],
                     year_last_modified="1845",
-                ),  # Western held full NW territory (LK-6) + Kegalle (LK-92)
+                ),
+                dict(
+                    id="LK-4",
+                    current_ids=["LK-4", "LK-71", "LK-6206"],
+                    year_last_modified="1845",
+                ),
             ],
             deleted=[dict(id="LK-6")],
         ),

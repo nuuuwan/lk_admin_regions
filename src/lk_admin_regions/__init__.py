@@ -8,4 +8,4 @@ from lk_admin_regions.corrections import (CombineDCSAndHumData,
                                           ID_CORRECTION_MAP_gnd)
 from lk_admin_regions.ground_truth import (GNDListFinalXLSX,
                                            LKAAdminBoundariesXLSX)
-from lk_admin_regions.history import RegionsHistory
+from lk_admin_regions.history import RegionsHistory, RegionsHistorySpec
