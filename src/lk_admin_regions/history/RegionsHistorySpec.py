@@ -257,7 +257,7 @@ class RegionsHistorySpec:
         # 1845: North Western (LK-6) carved from Western (LK-1)
         dict(
             year="1845",
-            aux_region_types=["district"],
+            aux_region_types=["district", "dsd"],
             modified=[
                 dict(
                     id="LK-1",
