@@ -2,12 +2,26 @@
   {
     "id": "LK-1-pre1845",
     "name": "Western (pre 1845)",
-    "area_sqkm": 13417.71,
-    "center_lat": 7.43779,
-    "center_lng": 80.126619,
+    "area_sqkm": 7774.57,
+    "center_lat": 7.209065,
+    "center_lng": 80.078946,
     "current_ids": [
       "LK-1",
-      "LK-6",
+      "LK-6203",
+      "LK-6209",
+      "LK-6212",
+      "LK-6215",
+      "LK-6218",
+      "LK-6221",
+      "LK-6224",
+      "LK-6227",
+      "LK-6230",
+      "LK-6233",
+      "LK-6236",
+      "LK-6239",
+      "LK-6242",
+      "LK-6245",
+      "LK-6248",
       "LK-92"
     ]
   },
@@ -39,13 +53,14 @@
     ]
   },
   {
-    "id": "LK-4-pre1873",
-    "name": "Northern (pre 1873)",
-    "area_sqkm": 16255.71,
-    "center_lat": 8.805978,
-    "center_lng": 80.41928,
+    "id": "LK-4-pre1845",
+    "name": "Northern (pre 1845)",
+    "area_sqkm": 16993.15,
+    "center_lat": 8.785796,
+    "center_lng": 80.396582,
     "current_ids": [
       "LK-4",
+      "LK-6206",
       "LK-71"
     ]
   },
