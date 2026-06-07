@@ -196,7 +196,23 @@ class RegionsHistorySpec:
             modified=[
                 dict(
                     id="LK-2",
-                    current_ids=["LK-2", "LK-81"],
+                    current_ids=[
+                        "LK-2",
+                        "LK-8103",
+                        "LK-8106",
+                        "LK-8109",
+                        "LK-8112",
+                        "LK-8115",
+                        "LK-8118",
+                        "LK-8119",
+                        "LK-8121",
+                        "LK-8124",
+                        "LK-8127",
+                        "LK-8130",
+                        "LK-8133",
+                        "LK-8136",
+                        "LK-8139",
+                    ],
                     year_last_modified="1886",
                 ),
                 dict(
@@ -204,6 +220,7 @@ class RegionsHistorySpec:
                     current_ids=[
                         "LK-3",
                         "LK-91",
+                        "LK-8142",
                         "LK-8221",
                         "LK-8224",
                         "LK-8227",

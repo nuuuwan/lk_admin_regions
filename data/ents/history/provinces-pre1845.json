@@ -27,22 +27,36 @@
   {
     "id": "LK-2-pre1886",
     "name": "Central (pre 1886)",
-    "area_sqkm": 8603.21,
-    "center_lat": 7.240418,
-    "center_lng": 80.826734,
+    "area_sqkm": 8188.05,
+    "center_lat": 7.26788,
+    "center_lng": 80.819493,
     "current_ids": [
       "LK-2",
-      "LK-81"
+      "LK-8103",
+      "LK-8106",
+      "LK-8109",
+      "LK-8112",
+      "LK-8115",
+      "LK-8118",
+      "LK-8119",
+      "LK-8121",
+      "LK-8124",
+      "LK-8127",
+      "LK-8130",
+      "LK-8133",
+      "LK-8136",
+      "LK-8139"
     ]
   },
   {
     "id": "LK-3-pre1886",
     "name": "Southern (pre 1886)",
-    "area_sqkm": 11545.72,
-    "center_lat": 6.40288,
-    "center_lng": 80.783528,
+    "area_sqkm": 11960.89,
+    "center_lat": 6.413152,
+    "center_lng": 80.789985,
     "current_ids": [
       "LK-3",
+      "LK-8142",
       "LK-8221",
       "LK-8224",
       "LK-8227",
