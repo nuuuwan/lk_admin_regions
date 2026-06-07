@@ -253,8 +253,6 @@ class RegionsHistorySpec:
                     id="LK-4",
                     current_ids=[
                         "LK-4",
-                        "LK-7103",
-                        "LK-7106",
                         "LK-7109",
                         "LK-7112",
                         "LK-7115",
@@ -282,6 +280,8 @@ class RegionsHistorySpec:
                     current_ids=[
                         "LK-5",
                         "LK-72",
+                        "LK-7103",
+                        "LK-7106",
                         "LK-7124",
                         "LK-8103",
                         "LK-8106",
@@ -362,8 +362,6 @@ class RegionsHistorySpec:
                         "LK-6206",
                         "LK-6209",
                         "LK-6212",
-                        "LK-7103",
-                        "LK-7106",
                         "LK-7109",
                         "LK-7112",
                         "LK-7115",
