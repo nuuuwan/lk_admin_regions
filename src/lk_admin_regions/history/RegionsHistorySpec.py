@@ -266,8 +266,6 @@ class RegionsHistorySpec:
                         "LK-92",
                         "LK-61",
                         "LK-6203",
-                        "LK-6209",
-                        "LK-6212",
                         "LK-6215",
                         "LK-6218",
                         "LK-6221",
@@ -285,7 +283,13 @@ class RegionsHistorySpec:
                 ),
                 dict(
                     id="LK-4",
-                    current_ids=["LK-4", "LK-71", "LK-6206"],
+                    current_ids=[
+                        "LK-4",
+                        "LK-71",
+                        "LK-6206",
+                        "LK-6209",
+                        "LK-6212",
+                    ],
                     year_last_modified="1845",
                 ),
             ],
