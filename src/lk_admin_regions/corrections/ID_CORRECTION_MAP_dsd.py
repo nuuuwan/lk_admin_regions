@@ -26,7 +26,6 @@ ID_CORRECTION_MAP_dsd = {
     # --------
     # LK-5
     # --------
-    "LK-5221": "LK-5224",  # MANUAL: Kalmunai
     "LK-5115": "LK-5112",  # MANUAL: Eravur Pattu
     "LK-5139": "LK-5115",  # MANUAL: Eravur Town
     # --------

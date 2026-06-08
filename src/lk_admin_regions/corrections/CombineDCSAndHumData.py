@@ -4,13 +4,16 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import File, JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.ID_CORRECTION_MAP_dsd import \
-    ID_CORRECTION_MAP_dsd
-from lk_admin_regions.corrections.ID_CORRECTION_MAP_gnd import \
-    ID_CORRECTION_MAP_gnd
+from lk_admin_regions.corrections.ID_CORRECTION_MAP_dsd import (
+    ID_CORRECTION_MAP_dsd,
+)
+from lk_admin_regions.corrections.ID_CORRECTION_MAP_gnd import (
+    ID_CORRECTION_MAP_gnd,
+)
 from lk_admin_regions.ground_truth.dcs.GNDListFinalXLSX import GNDListFinalXLSX
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
-    LKAAdminBoundariesXLSX
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
+    LKAAdminBoundariesXLSX,
+)
 
 log = Log("CombineDCSAndHumData")
 
@@ -103,8 +106,6 @@ class CombineDCSAndHumData:
         parent_id_to_hum_ids = {}
         for hum_id in hum_minus_dcs:
             parent_region_id = hum_id[:-3]
-            if parent_region_id in ["LK-5221", "LK-5224"]:
-                parent_region_id = "LK-5221/5224"
 
             if parent_region_id not in parent_id_to_hum_ids:
                 parent_id_to_hum_ids[parent_region_id] = []
@@ -112,8 +113,6 @@ class CombineDCSAndHumData:
         parent_id_to_dcs_ids = {}
         for dcs_id in dcs_minus_hum:
             parent_region_id = dcs_id[:-3]
-            if parent_region_id in ["LK-5221", "LK-5224"]:
-                parent_region_id = "LK-5221/5224"
             if parent_region_id not in parent_id_to_dcs_ids:
                 parent_id_to_dcs_ids[parent_region_id] = []
             parent_id_to_dcs_ids[parent_region_id].append(dcs_id)
@@ -349,4 +348,18 @@ class CombineDCSAndHumData:
             d["hum_adm4_pcode"][: id_len - 1]: d["dcs_gnd_id"][:id_len]
             for d in data_list
         }
+
+        idx = {}
+        for d in data_list:
+            hum_id = d["hum_adm4_pcode"][: id_len - 1]
+            dcs_id = d["dcs_gnd_id"][:id_len]
+
+            if hum_id in idx:
+                if idx[hum_id] != dcs_id:
+                    log.warning(
+                        f"Duplicate HUM ID {hum_id} with different DCS IDs: "
+                        + f"{idx[hum_id]} and {dcs_id}"
+                    )
+            else:
+                idx[hum_id] = dcs_id
         return idx

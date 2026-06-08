@@ -5,10 +5,12 @@ import matplotlib.pyplot as plt
 import topojson as tp
 from utils import File, JSONFile, Log
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
-from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import \
-    LKAAdminBoundariesXLSX
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
+from lk_admin_regions.ground_truth.humdata.LKAAdminBoundariesXLSX import (
+    LKAAdminBoundariesXLSX,
+)
 
 log = Log("BuildGeo")
 
@@ -72,9 +74,7 @@ class BuildGeo:
         return topojson_data
 
     @classmethod
-    def get_ent_xjson_path(
-        cls, json_type, dir_name_simplified, ent_type_name
-    ):
+    def get_ent_xjson_path(cls, json_type, dir_name_simplified, ent_type_name):
         dir_geo = os.path.join(
             cls.DIR_DATA_GEO, json_type, dir_name_simplified
         )
@@ -351,9 +351,7 @@ class BuildGeo:
             geojson_data, cls.GEO_PRECISION_DECIMAL_PLACES
         )  # round here
 
-        JSONFile(new_geojson_path).write(
-            geojson_data
-        )  # write instead of copy
+        JSONFile(new_geojson_path).write(geojson_data)  # write instead of copy
         log.info(f"✅ Wrote {File(new_geojson_path)}")
 
         return new_geojson_path
@@ -384,10 +382,10 @@ class BuildGeo:
             ent_type_name,
             level,
         ) in [
-            ["province", 1],
-            ["district", 2],
+            # ["province", 1],
+            # ["district", 2],
             ["dsd", 3],
-            ["gnd", 4],
+            # ["gnd", 4],
         ]:
             cls.build_all_for_ent(
                 ent_type_name,

@@ -44,7 +44,7 @@ def make_feature(base_props, pcode, name, coordinates):
     props["adm3_name"] = name
     props["adm3_pcode"] = pcode
     # Clear Sinhala/Tamil/other name fields – unknown for new entries
-    props["adm3_name1"] = None
+    props["adm3_name1"] = name
     props["adm3_name2"] = None
     props["adm3_name3"] = None
     # Area and centroid are not recalculated here
