@@ -382,10 +382,10 @@ class BuildGeo:
             ent_type_name,
             level,
         ) in [
-            # ["province", 1],
-            # ["district", 2],
+            ["province", 1],
+            ["district", 2],
             ["dsd", 3],
-            # ["gnd", 4],
+            ["gnd", 4],
         ]:
             cls.build_all_for_ent(
                 ent_type_name,
