@@ -362,4 +362,8 @@ class CombineDCSAndHumData:
                     )
             else:
                 idx[hum_id] = dcs_id
+
+        # Manual corrections for Kalmunai
+        idx["LK5221"] = "LK-5221"
+        idx["LK5224"] = "LK-5224"
         return idx
