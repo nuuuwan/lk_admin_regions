@@ -25,6 +25,12 @@ class LKAAdminBoundariesXLSX:
 
     @classmethod
     def get_ground_truth_geojson_path(cls, level):
+        if level == 3:
+            return os.path.join(
+                "data_temp",
+                "lka_admin3.kalmunai.geojson",
+            )
+
         return os.path.join(
             "data_ground_truth",
             "humdata_cod_ab_lka",
