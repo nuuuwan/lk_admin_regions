@@ -4,8 +4,9 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildGNDEnt")
 
@@ -152,6 +153,9 @@ class BuildGNDEnt:
 
         ed_id = district_to_ed[d["dcs_district_id"]]
         ed_name = ed_idx[ed_id]["name"]
+
+        if d["dcs_dsd_id"] == "LK-5221":
+            d["hum_adm3_name"] = "Kalmunai North"
 
         return dict(
             # gnd
