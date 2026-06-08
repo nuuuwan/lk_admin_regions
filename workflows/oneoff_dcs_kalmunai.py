@@ -17,7 +17,7 @@ PATH_GEOJSON = os.path.join(
     DIR_REPO,
     "data_ground_truth",
     "humdata_cod_ab_lka",
-    "lka_admin_boundaries",
+    "lka_admin_boundaries.geojson",
     "lka_admin3.geojson",
 )
 PATH_DCS_5221 = os.path.join(
@@ -28,10 +28,8 @@ PATH_DCS_5224 = os.path.join(
 )
 PATH_OUT = os.path.join(
     DIR_REPO,
-    "data_ground_truth",
-    "humdata_cod_ab_lka",
-    "lka_admin_boundaries",
-    "lka_admin3.geojson",
+    "data_temp",
+    "lka_admin3.kalmunai.geojson",
 )
 
 
