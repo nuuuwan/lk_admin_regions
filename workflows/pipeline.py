@@ -1,8 +1,12 @@
-import os
-
-from lk_admin_regions import (BuildEnts, BuildGeo, BuildGNDEnt,
-                              BuildNonAdminGeo, CombineDCSAndHumData,
-                              GNDListFinalXLSX, RegionsHistory)
+from lk_admin_regions import (
+    BuildEnts,
+    BuildGeo,
+    BuildGNDEnt,
+    BuildNonAdminGeo,
+    CombineDCSAndHumData,
+    GNDListFinalXLSX,
+    RegionsHistory,
+)
 
 
 def main():
@@ -16,7 +20,7 @@ def main():
 
     RegionsHistory.build_all()
 
-    os.system("find data -type f -size +25M -delete")
+    BuildGeo.cleanup_big_files()
 
 
 if __name__ == "__main__":
