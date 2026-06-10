@@ -96,7 +96,54 @@ class BuildNonAdminToAdminMap:
         print("a_diff_b", a_diff_b)
         print("b_diff_a", b_diff_a)
 
+    @staticmethod
+    def similar_not_same():
+        idx = BuildNonAdminToAdminMap.build_parent_to_gnd_map()
+        for admin_type, non_admin_type in [
+            ["district", "ed"],
+            ["dsd", "pd"],
+        ]:
+            log.info(f"Comparing {admin_type} vs. {non_admin_type}")
+            for admin_id, admin_gnds in sorted(
+                idx[admin_type].items(), key=lambda x: x[0]
+            ):
+                for non_admin_id, non_admin_gnds in sorted(
+                    idx[non_admin_type].items(), key=lambda x: x[0]
+                ):
+                    if admin_gnds == non_admin_gnds:
+                        continue
+
+                    common_gnds = admin_gnds & non_admin_gnds
+                    if not common_gnds:
+                        continue
+
+                    admin_diff_non_admin = admin_gnds - non_admin_gnds
+                    non_admin_diff_admin = non_admin_gnds - admin_gnds
+                    uncommon_gnds = (
+                        admin_diff_non_admin | non_admin_diff_admin
+                    )
+
+                    if (
+                        len(common_gnds) > 5
+                        and len(uncommon_gnds) < 5
+                        and non_admin_diff_admin
+                    ):
+                        log.info(
+                            f"{admin_id} vs. {non_admin_id}: "
+                            + f" {len(common_gnds)} common"
+                            + f" {len(uncommon_gnds)} uncommon"
+                        )
+                        log.debug(
+                            "\tadmin_diff_non_admin = "
+                            + ",".join(admin_diff_non_admin)
+                        )
+                        log.debug(
+                            "\tnon_admin_diff_admin = "
+                            + ",".join(non_admin_diff_admin)
+                        )
+
 
 if __name__ == "__main__":
-    BuildNonAdminToAdminMap.build()
+    # BuildNonAdminToAdminMap.build()
     # BuildNonAdminToAdminMap.compare("pd", "EC-11C", "district", "LK-44")
+    BuildNonAdminToAdminMap.similar_not_same()
