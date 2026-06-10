@@ -217,10 +217,11 @@ class BuildGNDEnt:
 
     @classmethod
     def build_gnd(cls, denormalized_gnd):
+        gnd_id = denormalized_gnd["gnd_id"]
         # hack to fix Mullaitivu (LK-44) GNDs falling into
         # Vavuniya PD (EC-11B) instead of Mullaitivu PD (EC-11C)
         pd_id = denormalized_gnd["pd_id"]
-        if denormalized_gnd["gnd_id"] in [
+        if gnd_id in [
             "LK-4418010",
             "LK-4418040",
             "LK-4418005",
@@ -229,9 +230,14 @@ class BuildGNDEnt:
         ]:
             pd_id = "EC-11C"
 
+        # hack: All other GNDs in the Kegalle DSD (LK-9212) are in the Kegalle
+        # PD (EC-22C)
+        if gnd_id == "LK-9212305":  # Ganthuna Pallegama South
+            pd_id = "EC-22C"
+
         return dict(
             # standard fields
-            id=denormalized_gnd["gnd_id"],
+            id=gnd_id,
             name=denormalized_gnd["gnd_name"],
             area_sqkm=round(float(denormalized_gnd["area_sqkm"]), 2),
             center_lat=round(float(denormalized_gnd["center_lat"]), 6),
