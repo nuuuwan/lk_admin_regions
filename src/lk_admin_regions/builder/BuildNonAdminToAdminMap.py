@@ -30,7 +30,7 @@ class BuildNonAdminToAdminMap:
         return idx
 
     @staticmethod
-    def build():
+    def build_non_admin_map():
         idx = BuildNonAdminToAdminMap.build_parent_to_gnd_map()
         for non_admin_type in ["pd", "ed", "lg"]:
             d_list = {}
@@ -142,8 +142,46 @@ class BuildNonAdminToAdminMap:
                             + ",".join(non_admin_diff_admin)
                         )
 
+    @staticmethod
+    def build_partial_maps():
+        idx = BuildNonAdminToAdminMap.build_parent_to_gnd_map()
+        for non_admin_type, admin_type in [
+            ("pd", "dsd"),
+            ("ed", "district"),
+            ("lg", "dsd"),
+        ]:
+            log.info(f"Comparing {non_admin_type} vs. {admin_type}")
+            d_list = []
+            for non_admin_id, non_admin_gnds in sorted(
+                idx[non_admin_type].items(), key=lambda x: x[0]
+            ):
+                partial_map = {}
+                for admin_id, admin_gnds in sorted(
+                    idx[admin_type].items(), key=lambda x: x[0]
+                ):
+                    common_gnds = admin_gnds & non_admin_gnds
+                    if not common_gnds:
+                        continue
+                    p_admin = round(len(common_gnds) / len(admin_gnds), 4)
+                    partial_map[admin_id] = p_admin
 
-if __name__ == "__main__":
-    # BuildNonAdminToAdminMap.build()
-    # BuildNonAdminToAdminMap.compare("pd", "EC-11C", "district", "LK-44")
-    BuildNonAdminToAdminMap.similar_not_same()
+                d = dict(
+                    id=non_admin_id,
+                    partial_map=partial_map,
+                )
+                d_list.append(d)
+
+            partial_map_json_file = JSONFile(
+                os.path.join(
+                    "data_temp",
+                    "partial_maps",
+                    f"{non_admin_type}_to_{admin_type}.json",
+                )
+            )
+            partial_map_json_file.write(d_list)
+            log.info(f"Wrote {partial_map_json_file}")
+
+    @staticmethod
+    def build_all():
+        BuildNonAdminToAdminMap.build_non_admin_map()
+        BuildNonAdminToAdminMap.build_partial_maps()
