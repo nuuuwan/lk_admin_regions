@@ -218,6 +218,18 @@ class BuildGNDEnt:
 
     @classmethod
     def build_gnd(cls, denormalized_gnd):
+        # hack to fix Mullaitivu (LK-44) GNDs falling into
+        # Vavuniya PD (EC-11B) instead of Mullaitivu PD (EC-11C)
+        pd_id = denormalized_gnd["pd_id"]
+        if denormalized_gnd["gnd_id"] in [
+            "LK-4418010",
+            "LK-4418040",
+            "LK-4418005",
+            "LK-4418035",
+            "LK-4418045",
+        ]:
+            pd_id = "EC-11C"
+
         return dict(
             # standard fields
             id=denormalized_gnd["gnd_id"],
@@ -233,7 +245,7 @@ class BuildGNDEnt:
             district_id=denormalized_gnd["district_id"],
             dsd_id=denormalized_gnd["dsd_id"],
             ed_id=denormalized_gnd["ed_id"],
-            pd_id=denormalized_gnd["pd_id"],
+            pd_id=pd_id,
             lg_id=denormalized_gnd["lg_id"],
         )
 
