@@ -87,164 +87,117 @@
   "EC-01F": {
     "id": "EC-01F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1130"
-    ]
+    "child_ids": ["LK-1130"]
   },
   "EC-01G": {
     "id": "EC-01G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1131"
-    ]
+    "child_ids": ["LK-1131"]
   },
   "EC-01H": {
     "id": "EC-01H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1106"
-    ]
+    "child_ids": ["LK-1106"]
   },
   "EC-01I": {
     "id": "EC-01I",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1124"
-    ]
+    "child_ids": ["LK-1124"]
   },
   "EC-01J": {
     "id": "EC-01J",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1109"
-    ]
+    "child_ids": ["LK-1109"]
   },
   "EC-01K": {
     "id": "EC-01K",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1115",
-      "LK-1118"
-    ]
+    "child_ids": ["LK-1115", "LK-1118"]
   },
   "EC-01L": {
     "id": "EC-01L",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1112"
-    ]
+    "child_ids": ["LK-1112"]
   },
   "EC-01M": {
     "id": "EC-01M",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1121"
-    ]
+    "child_ids": ["LK-1121"]
   },
   "EC-01N": {
     "id": "EC-01N",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1136"
-    ]
+    "child_ids": ["LK-1136"]
   },
   "EC-01O": {
     "id": "EC-01O",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1133"
-    ]
+    "child_ids": ["LK-1133"]
   },
   "EC-02A": {
     "id": "EC-02A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1218"
-    ]
+    "child_ids": ["LK-1218"]
   },
   "EC-02B": {
     "id": "EC-02B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1203"
-    ]
+    "child_ids": ["LK-1203"]
   },
   "EC-02C": {
     "id": "EC-02C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1206"
-    ]
+    "child_ids": ["LK-1206"]
   },
   "EC-02D": {
     "id": "EC-02D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1209"
-    ]
+    "child_ids": ["LK-1209"]
   },
   "EC-02E": {
     "id": "EC-02E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1212"
-    ]
+    "child_ids": ["LK-1212"]
   },
   "EC-02F": {
     "id": "EC-02F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1215"
-    ]
+    "child_ids": ["LK-1215"]
   },
   "EC-02G": {
     "id": "EC-02G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1227"
-    ]
+    "child_ids": ["LK-1227"]
   },
   "EC-02H": {
     "id": "EC-02H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1224"
-    ]
+    "child_ids": ["LK-1224"]
   },
   "EC-02I": {
     "id": "EC-02I",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1221"
-    ]
+    "child_ids": ["LK-1221"]
   },
   "EC-02J": {
     "id": "EC-02J",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1233"
-    ]
+    "child_ids": ["LK-1233"]
   },
   "EC-02K": {
     "id": "EC-02K",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1230"
-    ]
+    "child_ids": ["LK-1230"]
   },
   "EC-02L": {
     "id": "EC-02L",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1239"
-    ]
+    "child_ids": ["LK-1239"]
   },
   "EC-02M": {
     "id": "EC-02M",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1236"
-    ]
+    "child_ids": ["LK-1236"]
   },
   "EC-03A": {
     "id": "EC-03A",
@@ -335,10 +288,7 @@
   "EC-03C": {
     "id": "EC-03C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1309",
-      "LK-1310"
-    ]
+    "child_ids": ["LK-1309", "LK-1310"]
   },
   "EC-03D": {
     "id": "EC-03D",
@@ -361,24 +311,17 @@
   "EC-03E": {
     "id": "EC-03E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1327",
-      "LK-1330"
-    ]
+    "child_ids": ["LK-1327", "LK-1330"]
   },
   "EC-03F": {
     "id": "EC-03F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1321"
-    ]
+    "child_ids": ["LK-1321"]
   },
   "EC-03G": {
     "id": "EC-03G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-1324"
-    ]
+    "child_ids": ["LK-1324"]
   },
   "EC-03H": {
     "id": "EC-03H",
@@ -415,19 +358,12 @@
   "EC-04A": {
     "id": "EC-04A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2103",
-      "LK-2134"
-    ]
+    "child_ids": ["LK-2103", "LK-2134"]
   },
   "EC-04B": {
     "id": "EC-04B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2106",
-      "LK-2109",
-      "LK-2133"
-    ]
+    "child_ids": ["LK-2106", "LK-2109", "LK-2133"]
   },
   "EC-04C": {
     "id": "EC-04C",
@@ -490,32 +426,22 @@
   "EC-04D": {
     "id": "EC-04D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2118",
-      "LK-2121"
-    ]
+    "child_ids": ["LK-2118", "LK-2121"]
   },
   "EC-04E": {
     "id": "EC-04E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2124"
-    ]
+    "child_ids": ["LK-2124"]
   },
   "EC-04F": {
     "id": "EC-04F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2127"
-    ]
+    "child_ids": ["LK-2127"]
   },
   "EC-04G": {
     "id": "EC-04G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2145",
-      "LK-2148"
-    ]
+    "child_ids": ["LK-2145", "LK-2148"]
   },
   "EC-04H": {
     "id": "EC-04H",
@@ -597,16 +523,12 @@
   "EC-04J": {
     "id": "EC-04J",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2136"
-    ]
+    "child_ids": ["LK-2136"]
   },
   "EC-04K": {
     "id": "EC-04K",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2139"
-    ]
+    "child_ids": ["LK-2139"]
   },
   "EC-04L": {
     "id": "EC-04L",
@@ -675,31 +597,17 @@
   "EC-05A": {
     "id": "EC-05A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2203",
-      "LK-2206",
-      "LK-2212"
-    ]
+    "child_ids": ["LK-2203", "LK-2206", "LK-2212"]
   },
   "EC-05B": {
     "id": "EC-05B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2209",
-      "LK-2221",
-      "LK-2224",
-      "LK-2227"
-    ]
+    "child_ids": ["LK-2209", "LK-2221", "LK-2224", "LK-2227"]
   },
   "EC-05C": {
     "id": "EC-05C",
     "min_child_admin_type": "gnd",
-    "child_ids": [
-      "LK-2215",
-      "LK-2218",
-      "LK-2233100",
-      "LK-2233105"
-    ]
+    "child_ids": ["LK-2215", "LK-2218", "LK-2233100", "LK-2233105"]
   },
   "EC-05D": {
     "id": "EC-05D",
@@ -782,43 +690,27 @@
   "EC-06A": {
     "id": "EC-06A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2312",
-      "LK-2313",
-      "LK-2314",
-      "LK-2315"
-    ]
+    "child_ids": ["LK-2312", "LK-2313", "LK-2314", "LK-2315"]
   },
   "EC-06B": {
     "id": "EC-06B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2302",
-      "LK-2303"
-    ]
+    "child_ids": ["LK-2302", "LK-2303"]
   },
   "EC-06C": {
     "id": "EC-06C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2306",
-      "LK-2307"
-    ]
+    "child_ids": ["LK-2306", "LK-2307"]
   },
   "EC-06D": {
     "id": "EC-06D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-2309",
-      "LK-2310"
-    ]
+    "child_ids": ["LK-2309", "LK-2310"]
   },
   "EC-07A": {
     "id": "EC-07A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3106"
-    ]
+    "child_ids": ["LK-3106"]
   },
   "EC-07B": {
     "id": "EC-07B",
@@ -849,18 +741,12 @@
   "EC-07C": {
     "id": "EC-07C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3109",
-      "LK-3130"
-    ]
+    "child_ids": ["LK-3109", "LK-3130"]
   },
   "EC-07D": {
     "id": "EC-07D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3103",
-      "LK-3112"
-    ]
+    "child_ids": ["LK-3103", "LK-3112"]
   },
   "EC-07E": {
     "id": "EC-07E",
@@ -965,34 +851,22 @@
   "EC-07G": {
     "id": "EC-07G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3135",
-      "LK-3136",
-      "LK-3137"
-    ]
+    "child_ids": ["LK-3135", "LK-3136", "LK-3137"]
   },
   "EC-07H": {
     "id": "EC-07H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3139"
-    ]
+    "child_ids": ["LK-3139"]
   },
   "EC-07I": {
     "id": "EC-07I",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3142",
-      "LK-3145"
-    ]
+    "child_ids": ["LK-3142", "LK-3145"]
   },
   "EC-07J": {
     "id": "EC-07J",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3151",
-      "LK-3154"
-    ]
+    "child_ids": ["LK-3151", "LK-3154"]
   },
   "EC-08A": {
     "id": "EC-08A",
@@ -1082,11 +956,7 @@
   "EC-08C": {
     "id": "EC-08C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3215",
-      "LK-3218",
-      "LK-3224"
-    ]
+    "child_ids": ["LK-3215", "LK-3218", "LK-3224"]
   },
   "EC-08D": {
     "id": "EC-08D",
@@ -1107,25 +977,17 @@
   "EC-08E": {
     "id": "EC-08E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3245",
-      "LK-3248"
-    ]
+    "child_ids": ["LK-3245", "LK-3248"]
   },
   "EC-08F": {
     "id": "EC-08F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3242"
-    ]
+    "child_ids": ["LK-3242"]
   },
   "EC-08G": {
     "id": "EC-08G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-3221",
-      "LK-3239"
-    ]
+    "child_ids": ["LK-3221", "LK-3239"]
   },
   "EC-09A": {
     "id": "EC-09A",
@@ -1405,11 +1267,7 @@
   "EC-10A": {
     "id": "EC-10A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-4103",
-      "LK-4139",
-      "LK-4142"
-    ]
+    "child_ids": ["LK-4103", "LK-4139", "LK-4142"]
   },
   "EC-10B": {
     "id": "EC-10B",
@@ -1490,12 +1348,7 @@
   "EC-10E": {
     "id": "EC-10E",
     "min_child_admin_type": "gnd",
-    "child_ids": [
-      "LK-4118",
-      "LK-4115130",
-      "LK-4115135",
-      "LK-4115140"
-    ]
+    "child_ids": ["LK-4118", "LK-4115130", "LK-4115135", "LK-4115140"]
   },
   "EC-10F": {
     "id": "EC-10F",
@@ -1583,51 +1436,37 @@
   "EC-10H": {
     "id": "EC-10H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-4130"
-    ]
+    "child_ids": ["LK-4130"]
   },
   "EC-10I": {
     "id": "EC-10I",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-4133"
-    ]
+    "child_ids": ["LK-4133"]
   },
   "EC-10J": {
     "id": "EC-10J",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-4136"
-    ]
+    "child_ids": ["LK-4136"]
   },
   "EC-10K": {
     "id": "EC-10K",
     "min_child_admin_type": "district",
-    "child_ids": [
-      "LK-45"
-    ]
+    "child_ids": ["LK-45"]
   },
   "EC-11A": {
     "id": "EC-11A",
     "min_child_admin_type": "district",
-    "child_ids": [
-      "LK-42"
-    ]
+    "child_ids": ["LK-42"]
   },
   "EC-11B": {
     "id": "EC-11B",
     "min_child_admin_type": "district",
-    "child_ids": [
-      "LK-43"
-    ]
+    "child_ids": ["LK-43"]
   },
   "EC-11C": {
     "id": "EC-11C",
     "min_child_admin_type": "district",
-    "child_ids": [
-      "LK-44"
-    ]
+    "child_ids": ["LK-44"]
   },
   "EC-12A": {
     "id": "EC-12A",
@@ -1701,11 +1540,7 @@
   "EC-12C": {
     "id": "EC-12C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-5130",
-      "LK-5133",
-      "LK-5136"
-    ]
+    "child_ids": ["LK-5130", "LK-5133", "LK-5136"]
   },
   "EC-13A": {
     "id": "EC-13A",
@@ -1763,11 +1598,7 @@
   "EC-13C": {
     "id": "EC-13C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-5221",
-      "LK-5224",
-      "LK-5225"
-    ]
+    "child_ids": ["LK-5221", "LK-5224", "LK-5225"]
   },
   "EC-13D": {
     "id": "EC-13D",
@@ -1883,12 +1714,7 @@
   "EC-15B": {
     "id": "EC-15B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6115",
-      "LK-6118",
-      "LK-6121",
-      "LK-6139"
-    ]
+    "child_ids": ["LK-6115", "LK-6118", "LK-6121", "LK-6139"]
   },
   "EC-15C": {
     "id": "EC-15C",
@@ -1962,88 +1788,57 @@
   "EC-15D": {
     "id": "EC-15D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6130",
-      "LK-6133"
-    ]
+    "child_ids": ["LK-6130", "LK-6133"]
   },
   "EC-15E": {
     "id": "EC-15E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6136",
-      "LK-6149"
-    ]
+    "child_ids": ["LK-6136", "LK-6149"]
   },
   "EC-15F": {
     "id": "EC-15F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6145",
-      "LK-6148"
-    ]
+    "child_ids": ["LK-6145", "LK-6148"]
   },
   "EC-15G": {
     "id": "EC-15G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6142",
-      "LK-6175"
-    ]
+    "child_ids": ["LK-6142", "LK-6175"]
   },
   "EC-15H": {
     "id": "EC-15H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6178"
-    ]
+    "child_ids": ["LK-6178"]
   },
   "EC-15I": {
     "id": "EC-15I",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6169",
-      "LK-6172"
-    ]
+    "child_ids": ["LK-6169", "LK-6172"]
   },
   "EC-15J": {
     "id": "EC-15J",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6181",
-      "LK-6184"
-    ]
+    "child_ids": ["LK-6181", "LK-6184"]
   },
   "EC-15K": {
     "id": "EC-15K",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6166",
-      "LK-6187"
-    ]
+    "child_ids": ["LK-6166", "LK-6187"]
   },
   "EC-15L": {
     "id": "EC-15L",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6151",
-      "LK-6154"
-    ]
+    "child_ids": ["LK-6151", "LK-6154"]
   },
   "EC-15M": {
     "id": "EC-15M",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6157",
-      "LK-6160"
-    ]
+    "child_ids": ["LK-6157", "LK-6160"]
   },
   "EC-15N": {
     "id": "EC-15N",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6163"
-    ]
+    "child_ids": ["LK-6163"]
   },
   "EC-16A": {
     "id": "EC-16A",
@@ -2115,27 +1910,17 @@
   "EC-16C": {
     "id": "EC-16C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6230",
-      "LK-6233",
-      "LK-6236"
-    ]
+    "child_ids": ["LK-6230", "LK-6233", "LK-6236"]
   },
   "EC-16D": {
     "id": "EC-16D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6239",
-      "LK-6242"
-    ]
+    "child_ids": ["LK-6239", "LK-6242"]
   },
   "EC-16E": {
     "id": "EC-16E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-6245",
-      "LK-6248"
-    ]
+    "child_ids": ["LK-6245", "LK-6248"]
   },
   "EC-17A": {
     "id": "EC-17A",
@@ -2575,125 +2360,77 @@
   "EC-18A": {
     "id": "EC-18A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-7203",
-      "LK-7218"
-    ]
+    "child_ids": ["LK-7203", "LK-7218"]
   },
   "EC-18B": {
     "id": "EC-18B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-7206",
-      "LK-7209"
-    ]
+    "child_ids": ["LK-7206", "LK-7209"]
   },
   "EC-18C": {
     "id": "EC-18C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-7210",
-      "LK-7212",
-      "LK-7215"
-    ]
+    "child_ids": ["LK-7210", "LK-7212", "LK-7215"]
   },
   "EC-19A": {
     "id": "EC-19A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8103",
-      "LK-8106"
-    ]
+    "child_ids": ["LK-8103", "LK-8106"]
   },
   "EC-19B": {
     "id": "EC-19B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8109",
-      "LK-8112",
-      "LK-8115"
-    ]
+    "child_ids": ["LK-8109", "LK-8112", "LK-8115"]
   },
   "EC-19C": {
     "id": "EC-19C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8118",
-      "LK-8119"
-    ]
+    "child_ids": ["LK-8118", "LK-8119"]
   },
   "EC-19D": {
     "id": "EC-19D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8121"
-    ]
+    "child_ids": ["LK-8121"]
   },
   "EC-19E": {
     "id": "EC-19E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8124"
-    ]
+    "child_ids": ["LK-8124"]
   },
   "EC-19F": {
     "id": "EC-19F",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8127"
-    ]
+    "child_ids": ["LK-8127"]
   },
   "EC-19G": {
     "id": "EC-19G",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8130"
-    ]
+    "child_ids": ["LK-8130"]
   },
   "EC-19H": {
     "id": "EC-19H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8133",
-      "LK-8136"
-    ]
+    "child_ids": ["LK-8133", "LK-8136"]
   },
   "EC-19I": {
     "id": "EC-19I",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8139",
-      "LK-8142"
-    ]
+    "child_ids": ["LK-8139", "LK-8142"]
   },
   "EC-20A": {
     "id": "EC-20A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8203",
-      "LK-8206",
-      "LK-8209"
-    ]
+    "child_ids": ["LK-8203", "LK-8206", "LK-8209"]
   },
   "EC-20B": {
     "id": "EC-20B",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8212",
-      "LK-8215",
-      "LK-8218"
-    ]
+    "child_ids": ["LK-8212", "LK-8215", "LK-8218"]
   },
   "EC-20C": {
     "id": "EC-20C",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-8221",
-      "LK-8224",
-      "LK-8227",
-      "LK-8230",
-      "LK-8233"
-    ]
+    "child_ids": ["LK-8221", "LK-8224", "LK-8227", "LK-8230", "LK-8233"]
   },
   "EC-21A": {
     "id": "EC-21A",
@@ -2827,20 +2564,12 @@
   "EC-21D": {
     "id": "EC-21D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-9115",
-      "LK-9118",
-      "LK-9119"
-    ]
+    "child_ids": ["LK-9115", "LK-9118", "LK-9119"]
   },
   "EC-21E": {
     "id": "EC-21E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-9121",
-      "LK-9142",
-      "LK-9145"
-    ]
+    "child_ids": ["LK-9121", "LK-9142", "LK-9145"]
   },
   "EC-21F": {
     "id": "EC-21F",
@@ -2904,17 +2633,12 @@
   "EC-21H": {
     "id": "EC-21H",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-9148",
-      "LK-9151"
-    ]
+    "child_ids": ["LK-9148", "LK-9151"]
   },
   "EC-22A": {
     "id": "EC-22A",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-9218"
-    ]
+    "child_ids": ["LK-9218"]
   },
   "EC-22B": {
     "id": "EC-22B",
@@ -2999,24 +2723,17 @@
   "EC-22D": {
     "id": "EC-22D",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-9203"
-    ]
+    "child_ids": ["LK-9203"]
   },
   "EC-22E": {
     "id": "EC-22E",
     "min_child_admin_type": "dsd",
-    "child_ids": [
-      "LK-9206"
-    ]
+    "child_ids": ["LK-9206"]
   },
   "EC-22F": {
     "id": "EC-22F",
     "min_child_admin_type": "gnd",
-    "child_ids": [
-      "LK-9209",
-      "LK-9212305"
-    ]
+    "child_ids": ["LK-9209", "LK-9212305"]
   },
   "EC-22G": {
     "id": "EC-22G",
