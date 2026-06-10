@@ -1,6 +1,7 @@
 from lk_admin_regions import (BuildEnts, BuildGeo, BuildGNDEnt,
-                              BuildNonAdminGeo, CombineDCSAndHumData,
-                              GNDListFinalXLSX, RegionsHistory)
+                              BuildNonAdminGeo, BuildNonAdminToAdminMap,
+                              CombineDCSAndHumData, GNDListFinalXLSX,
+                              RegionsHistory)
 
 
 def main():
@@ -9,6 +10,8 @@ def main():
 
     BuildGNDEnt.build()
     BuildEnts.build_all()
+    BuildNonAdminToAdminMap.build_all()
+
     BuildGeo.build_all()
     BuildNonAdminGeo.build_all()
 
