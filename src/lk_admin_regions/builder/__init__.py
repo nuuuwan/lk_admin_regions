@@ -5,3 +5,5 @@ from lk_admin_regions.builder.BuildEnts import BuildEnts
 from lk_admin_regions.builder.BuildGeo import BuildGeo
 from lk_admin_regions.builder.BuildGNDEnt import BuildGNDEnt
 from lk_admin_regions.builder.BuildNonAdminGeo import BuildNonAdminGeo
+from lk_admin_regions.builder.BuildNonAdminToAdminMap import \
+    BuildNonAdminToAdminMap

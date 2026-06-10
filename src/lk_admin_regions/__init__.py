@@ -2,7 +2,8 @@
 # flake8: noqa: F408
 
 from lk_admin_regions.builder import (BuildEnts, BuildGeo, BuildGNDEnt,
-                                      BuildNonAdminGeo)
+                                      BuildNonAdminGeo,
+                                      BuildNonAdminToAdminMap)
 from lk_admin_regions.corrections import (CombineDCSAndHumData,
                                           ID_CORRECTION_MAP_dsd,
                                           ID_CORRECTION_MAP_gnd)
