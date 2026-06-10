@@ -1,0 +1,137 @@
+[
+  {
+    "id": "EC-01",
+    "partial_map": {
+      "LK-11": 1.0
+    }
+  },
+  {
+    "id": "EC-02",
+    "partial_map": {
+      "LK-12": 1.0
+    }
+  },
+  {
+    "id": "EC-03",
+    "partial_map": {
+      "LK-13": 1.0
+    }
+  },
+  {
+    "id": "EC-04",
+    "partial_map": {
+      "LK-21": 1.0
+    }
+  },
+  {
+    "id": "EC-05",
+    "partial_map": {
+      "LK-22": 1.0
+    }
+  },
+  {
+    "id": "EC-06",
+    "partial_map": {
+      "LK-23": 1.0
+    }
+  },
+  {
+    "id": "EC-07",
+    "partial_map": {
+      "LK-31": 1.0
+    }
+  },
+  {
+    "id": "EC-08",
+    "partial_map": {
+      "LK-32": 1.0
+    }
+  },
+  {
+    "id": "EC-09",
+    "partial_map": {
+      "LK-33": 1.0
+    }
+  },
+  {
+    "id": "EC-10",
+    "partial_map": {
+      "LK-41": 1.0,
+      "LK-45": 1.0
+    }
+  },
+  {
+    "id": "EC-11",
+    "partial_map": {
+      "LK-42": 1.0,
+      "LK-43": 1.0,
+      "LK-44": 1.0
+    }
+  },
+  {
+    "id": "EC-12",
+    "partial_map": {
+      "LK-51": 1.0
+    }
+  },
+  {
+    "id": "EC-13",
+    "partial_map": {
+      "LK-52": 1.0
+    }
+  },
+  {
+    "id": "EC-14",
+    "partial_map": {
+      "LK-53": 1.0
+    }
+  },
+  {
+    "id": "EC-15",
+    "partial_map": {
+      "LK-61": 1.0
+    }
+  },
+  {
+    "id": "EC-16",
+    "partial_map": {
+      "LK-62": 1.0
+    }
+  },
+  {
+    "id": "EC-17",
+    "partial_map": {
+      "LK-71": 1.0
+    }
+  },
+  {
+    "id": "EC-18",
+    "partial_map": {
+      "LK-72": 1.0
+    }
+  },
+  {
+    "id": "EC-19",
+    "partial_map": {
+      "LK-81": 1.0
+    }
+  },
+  {
+    "id": "EC-20",
+    "partial_map": {
+      "LK-82": 1.0
+    }
+  },
+  {
+    "id": "EC-21",
+    "partial_map": {
+      "LK-91": 1.0
+    }
+  },
+  {
+    "id": "EC-22",
+    "partial_map": {
+      "LK-92": 1.0
+    }
+  }
+]

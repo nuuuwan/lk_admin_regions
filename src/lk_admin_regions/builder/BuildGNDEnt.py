@@ -4,8 +4,9 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildGNDEnt")
 
@@ -156,10 +157,15 @@ class BuildGNDEnt:
         if d["dcs_dsd_id"] == "LK-5221":
             d["hum_adm3_name"] = "Kalmunai North"
 
+        if d["hum_adm4_name"] and str(d["hum_adm4_name"]) != "nan":
+            gnd_name = d["hum_adm4_name"]
+        else:
+            gnd_name = d["dcs_gnd_name"]
+
         return dict(
             # gnd
             gnd_id=d["dcs_gnd_id"],
-            gnd_name=d["hum_adm4_name"] or d["dcs_gnd_name"],
+            gnd_name=gnd_name,
             gnd_num=d["dcs_gnd_num"],
             area_sqkm=d["hum_area_sqkm"],
             center_lat=d["hum_center_lat"],
