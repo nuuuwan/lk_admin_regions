@@ -115159,7 +115159,7 @@
         {
           "properties": {
             "id": "LK-2206125",
-            "name": "nan",
+            "name": "Kandalama",
             "area_sqkm": 2.69,
             "center_lat": 7.778939,
             "center_lng": 80.668917,
@@ -120761,7 +120761,7 @@
         {
           "properties": {
             "id": "LK-2215150",
-            "name": "nan",
+            "name": "Aluthwatta",
             "area_sqkm": 1.76,
             "center_lat": 7.548333,
             "center_lng": 80.562547,
@@ -122324,7 +122324,7 @@
         {
           "properties": {
             "id": "LK-2218120",
-            "name": "nan",
+            "name": "Kirigalpotta",
             "area_sqkm": 1.8,
             "center_lat": 7.513286,
             "center_lng": 80.616806,
@@ -122923,7 +122923,7 @@
         {
           "properties": {
             "id": "LK-2221090",
-            "name": "nan",
+            "name": "Aluthwela",
             "area_sqkm": 4.45,
             "center_lat": 7.547537,
             "center_lng": 80.650737,
@@ -216814,7 +216814,7 @@
         {
           "properties": {
             "id": "LK-4130000",
-            "name": "nan",
+            "name": "Kaithady North",
             "area_sqkm": 0.93,
             "center_lat": 9.619476,
             "center_lng": 80.257965,
@@ -238739,7 +238739,7 @@
         {
           "properties": {
             "id": "LK-5104002",
-            "name": "nan",
+            "name": "Punanai East ",
             "area_sqkm": 0.14,
             "center_lat": 7.913337,
             "center_lng": 81.532042,
@@ -238769,7 +238769,7 @@
         {
           "properties": {
             "id": "LK-5104003",
-            "name": "nan",
+            "name": "Punanai East ",
             "area_sqkm": 0.01,
             "center_lat": 7.919604,
             "center_lng": 81.530725,
@@ -238796,7 +238796,7 @@
         {
           "properties": {
             "id": "LK-5104004",
-            "name": "nan",
+            "name": "Punanai East ",
             "area_sqkm": 0.02,
             "center_lat": 7.926961,
             "center_lng": 81.529266,
@@ -238823,7 +238823,7 @@
         {
           "properties": {
             "id": "LK-5104005",
-            "name": "nan",
+            "name": "Punanai East ",
             "area_sqkm": 0.04,
             "center_lat": 7.909567,
             "center_lng": 81.532387,
@@ -238882,7 +238882,7 @@
         {
           "properties": {
             "id": "LK-5104013",
-            "name": "nan",
+            "name": "Punanai East ",
             "area_sqkm": 0.02,
             "center_lat": 7.918156,
             "center_lng": 81.531174,
@@ -239510,7 +239510,7 @@
         {
           "properties": {
             "id": "LK-5109012",
-            "name": "nan",
+            "name": "Nasivanthivu",
             "area_sqkm": 0.01,
             "center_lat": 7.90213,
             "center_lng": 81.517384,
@@ -239598,7 +239598,7 @@
         {
           "properties": {
             "id": "LK-5109021",
-            "name": "nan",
+            "name": "Nasivanthivu",
             "area_sqkm": 0.17,
             "center_lat": 7.902228,
             "center_lng": 81.530107,
@@ -239630,7 +239630,7 @@
         {
           "properties": {
             "id": "LK-5109022",
-            "name": "nan",
+            "name": "Nasivanthivu",
             "area_sqkm": 0.09,
             "center_lat": 7.896258,
             "center_lng": 81.529952,
@@ -239916,7 +239916,7 @@
         {
           "properties": {
             "id": "LK-5109065",
-            "name": "nan",
+            "name": "Nasivanthivu",
             "area_sqkm": 0.54,
             "center_lat": 7.897505,
             "center_lng": 81.524634,
@@ -240521,7 +240521,7 @@
         {
           "properties": {
             "id": "LK-5112006",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 0.87,
             "center_lat": 7.798223,
             "center_lng": 81.620795,
@@ -240576,7 +240576,7 @@
         {
           "properties": {
             "id": "LK-5112014",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 0.39,
             "center_lat": 7.789386,
             "center_lng": 81.605642,
@@ -240638,7 +240638,7 @@
         {
           "properties": {
             "id": "LK-5112016",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 0.15,
             "center_lat": 7.79531,
             "center_lng": 81.606313,
@@ -241763,7 +241763,7 @@
         {
           "properties": {
             "id": "LK-5112200",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 0.33,
             "center_lat": 7.782865,
             "center_lng": 81.598353,
@@ -241794,7 +241794,7 @@
         {
           "properties": {
             "id": "LK-5112210",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 0.18,
             "center_lat": 7.78147,
             "center_lng": 81.601416,
@@ -241822,7 +241822,7 @@
         {
           "properties": {
             "id": "LK-5112215",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 1.08,
             "center_lat": 7.790254,
             "center_lng": 81.627327,
@@ -241878,7 +241878,7 @@
         {
           "properties": {
             "id": "LK-5112235",
-            "name": "nan",
+            "name": "Sittandy 3",
             "area_sqkm": 0.45,
             "center_lat": 7.776349,
             "center_lng": 81.60046,
@@ -244112,7 +244112,7 @@
         {
           "properties": {
             "id": "LK-5124009",
-            "name": "nan",
+            "name": "Kattankudy Division 1",
             "area_sqkm": 0.02,
             "center_lat": 7.676588,
             "center_lng": 81.736167,
@@ -244198,7 +244198,7 @@
         {
           "properties": {
             "id": "LK-5124017",
-            "name": "nan",
+            "name": "Kattankudy Division 1",
             "area_sqkm": 0.03,
             "center_lat": 7.676133,
             "center_lng": 81.73902,
@@ -244762,7 +244762,7 @@
         {
           "properties": {
             "id": "LK-5127018",
-            "name": "nan",
+            "name": "Kirankulam North",
             "area_sqkm": 0.23,
             "center_lat": 7.675781,
             "center_lng": 81.742827,
@@ -245548,7 +245548,7 @@
         {
           "properties": {
             "id": "LK-5130011",
-            "name": "nan",
+            "name": "Munaikkadu West",
             "area_sqkm": 1.25,
             "center_lat": 7.557732,
             "center_lng": 81.693734,
@@ -246344,7 +246344,7 @@
         {
           "properties": {
             "id": "LK-5133019",
-            "name": "nan",
+            "name": "Selvapuram",
             "area_sqkm": 2.65,
             "center_lat": 7.496799,
             "center_lng": 81.656932,
@@ -248971,7 +248971,7 @@
         {
           "properties": {
             "id": "LK-5136230",
-            "name": "nan",
+            "name": "Kurukkalamadam North",
             "area_sqkm": 0.83,
             "center_lat": 7.596143,
             "center_lng": 81.771739,
@@ -248999,7 +248999,7 @@
         {
           "properties": {
             "id": "LK-5136235",
-            "name": "nan",
+            "name": "Kurukkalamadam North",
             "area_sqkm": 1.08,
             "center_lat": 7.43606,
             "center_lng": 81.803244,
@@ -249030,7 +249030,7 @@
         {
           "properties": {
             "id": "LK-5115007",
-            "name": "nan",
+            "name": "Eravur 03",
             "area_sqkm": 0.05,
             "center_lat": 7.779605,
             "center_lng": 81.602816,
@@ -256396,7 +256396,7 @@
         {
           "properties": {
             "id": "LK-5221005",
-            "name": "nan",
+            "name": "Periyaneelavanai  01B",
             "area_sqkm": 0.32,
             "center_lat": 7.439184,
             "center_lng": 81.815821,
@@ -256424,7 +256424,7 @@
         {
           "properties": {
             "id": "LK-5221010",
-            "name": "nan",
+            "name": "Periyaneelavanai  01A",
             "area_sqkm": 0.13,
             "center_lat": 7.440767,
             "center_lng": 81.820395,
@@ -256452,7 +256452,7 @@
         {
           "properties": {
             "id": "LK-5221015",
-            "name": "nan",
+            "name": "Periyaneelavanai  01",
             "area_sqkm": 0.14,
             "center_lat": 7.438291,
             "center_lng": 81.817873,
@@ -256482,7 +256482,7 @@
         {
           "properties": {
             "id": "LK-5221020",
-            "name": "nan",
+            "name": "Periyaneelavanai  02",
             "area_sqkm": 0.22,
             "center_lat": 7.436625,
             "center_lng": 81.811786,
@@ -256509,7 +256509,7 @@
         {
           "properties": {
             "id": "LK-5221025",
-            "name": "nan",
+            "name": "Chenaikudiyiruppu 01A",
             "area_sqkm": 0.72,
             "center_lat": 7.433477,
             "center_lng": 81.810312,
@@ -256539,7 +256539,7 @@
         {
           "properties": {
             "id": "LK-5221030",
-            "name": "nan",
+            "name": "Pandiruppu 01",
             "area_sqkm": 0.32,
             "center_lat": 7.430998,
             "center_lng": 81.809394,
@@ -256568,7 +256568,7 @@
         {
           "properties": {
             "id": "LK-5221035",
-            "name": "nan",
+            "name": "Pandiruppu 01B",
             "area_sqkm": 0.35,
             "center_lat": 7.429229,
             "center_lng": 81.809962,
@@ -256595,7 +256595,7 @@
         {
           "properties": {
             "id": "LK-5221040",
-            "name": "nan",
+            "name": "Pandiruppu 01C",
             "area_sqkm": 0.52,
             "center_lat": 7.428965,
             "center_lng": 81.812261,
@@ -256627,7 +256627,7 @@
         {
           "properties": {
             "id": "LK-5221045",
-            "name": "nan",
+            "name": "Pandiruppu 01A",
             "area_sqkm": 0.32,
             "center_lat": 7.420599,
             "center_lng": 81.808296,
@@ -256657,7 +256657,7 @@
         {
           "properties": {
             "id": "LK-5221050",
-            "name": "nan",
+            "name": "Pandiruppu 02_x000D_",
             "area_sqkm": 0.17,
             "center_lat": 7.420337,
             "center_lng": 81.811859,
@@ -256685,7 +256685,7 @@
         {
           "properties": {
             "id": "LK-5221055",
-            "name": "nan",
+            "name": "Pandiruppu 02B",
             "area_sqkm": 0.09,
             "center_lat": 7.418581,
             "center_lng": 81.812484,
@@ -256714,7 +256714,7 @@
         {
           "properties": {
             "id": "LK-5221060",
-            "name": "nan",
+            "name": "Pandiruppu 02C",
             "area_sqkm": 0.17,
             "center_lat": 7.412582,
             "center_lng": 81.809428,
@@ -256745,7 +256745,7 @@
         {
           "properties": {
             "id": "LK-5221065",
-            "name": "nan",
+            "name": "Pandiruppu 02A",
             "area_sqkm": 0.25,
             "center_lat": 7.413347,
             "center_lng": 81.807364,
@@ -256775,7 +256775,7 @@
         {
           "properties": {
             "id": "LK-5221070",
-            "name": "nan",
+            "name": "Kalmunai  01D",
             "area_sqkm": 0.59,
             "center_lat": 7.416728,
             "center_lng": 81.828384,
@@ -256805,7 +256805,7 @@
         {
           "properties": {
             "id": "LK-5221075",
-            "name": "nan",
+            "name": "Kalmunai  01B",
             "area_sqkm": 0.23,
             "center_lat": 7.410684,
             "center_lng": 81.835742,
@@ -256835,7 +256835,7 @@
         {
           "properties": {
             "id": "LK-5221080",
-            "name": "nan",
+            "name": "Kalmunai  01A",
             "area_sqkm": 0.66,
             "center_lat": 7.405707,
             "center_lng": 81.825942,
@@ -256865,7 +256865,7 @@
         {
           "properties": {
             "id": "LK-5221085",
-            "name": "nan",
+            "name": "Kalmunai  01",
             "area_sqkm": 0.73,
             "center_lat": 7.403715,
             "center_lng": 81.827103,
@@ -256897,7 +256897,7 @@
         {
           "properties": {
             "id": "LK-5221090",
-            "name": "nan",
+            "name": "Natpiddimunai (T.P ) 03",
             "area_sqkm": 0.08,
             "center_lat": 7.409777,
             "center_lng": 81.838215,
@@ -256925,7 +256925,7 @@
         {
           "properties": {
             "id": "LK-5221095",
-            "name": "nan",
+            "name": "Natpiddimunai (T.P ) 02",
             "area_sqkm": 0.05,
             "center_lat": 7.408466,
             "center_lng": 81.83818,
@@ -256954,7 +256954,7 @@
         {
           "properties": {
             "id": "LK-5221100",
-            "name": "nan",
+            "name": "Natpiddimunai (T.P ) 01",
             "area_sqkm": 0.11,
             "center_lat": 7.40728,
             "center_lng": 81.837977,
@@ -256982,7 +256982,7 @@
         {
           "properties": {
             "id": "LK-5221105",
-            "name": "nan",
+            "name": "Chenaikudiyiruppu 01B",
             "area_sqkm": 0.08,
             "center_lat": 7.406373,
             "center_lng": 81.837745,
@@ -257011,7 +257011,7 @@
         {
           "properties": {
             "id": "LK-5221110",
-            "name": "nan",
+            "name": "Chenaikudiyiruppu 01",
             "area_sqkm": 0.07,
             "center_lat": 7.405155,
             "center_lng": 81.837895,
@@ -257040,7 +257040,7 @@
         {
           "properties": {
             "id": "LK-5221115",
-            "name": "nan",
+            "name": "Kalmunai  01C",
             "area_sqkm": 0.17,
             "center_lat": 7.404275,
             "center_lng": 81.836524,
@@ -257069,7 +257069,7 @@
         {
           "properties": {
             "id": "LK-5221120",
-            "name": "nan",
+            "name": "Kalmunai  01E",
             "area_sqkm": 0.08,
             "center_lat": 7.405802,
             "center_lng": 81.838294,
@@ -257096,7 +257096,7 @@
         {
           "properties": {
             "id": "LK-5221125",
-            "name": "nan",
+            "name": "Kalmunai  02B",
             "area_sqkm": 0.53,
             "center_lat": 7.400329,
             "center_lng": 81.82565,
@@ -257128,7 +257128,7 @@
         {
           "properties": {
             "id": "LK-5221130",
-            "name": "nan",
+            "name": "Kalmunai  02A",
             "area_sqkm": 0.09,
             "center_lat": 7.402857,
             "center_lng": 81.832948,
@@ -257156,7 +257156,7 @@
         {
           "properties": {
             "id": "LK-5221135",
-            "name": "nan",
+            "name": "Kalmunai  02",
             "area_sqkm": 0.08,
             "center_lat": 7.40198,
             "center_lng": 81.838049,
@@ -257184,7 +257184,7 @@
         {
           "properties": {
             "id": "LK-5221140",
-            "name": "nan",
+            "name": "Kalmunai  03",
             "area_sqkm": 0.12,
             "center_lat": 7.401178,
             "center_lng": 81.837422,
@@ -257212,7 +257212,7 @@
         {
           "properties": {
             "id": "LK-5221145",
-            "name": "nan",
+            "name": "Kalmunai  03A",
             "area_sqkm": 0.84,
             "center_lat": 7.397981,
             "center_lng": 81.825129,
@@ -293391,7 +293391,7 @@
         {
           "properties": {
             "id": "LK-6145226",
-            "name": "nan",
+            "name": "Moragolla",
             "area_sqkm": 2.34,
             "center_lat": 7.588891,
             "center_lng": 80.123481,
@@ -293419,7 +293419,7 @@
         {
           "properties": {
             "id": "LK-6145227",
-            "name": "nan",
+            "name": "Rideekanda",
             "area_sqkm": 2.42,
             "center_lat": 7.583627,
             "center_lng": 80.1077,
@@ -293449,7 +293449,7 @@
         {
           "properties": {
             "id": "LK-6145228",
-            "name": "nan",
+            "name": "Thengodagedara",
             "area_sqkm": 2.12,
             "center_lat": 7.584619,
             "center_lng": 80.097027,
@@ -390467,7 +390467,7 @@
         {
           "properties": {
             "id": "LK-8215105",
-            "name": "nan",
+            "name": "Horombuwa",
             "area_sqkm": 30.51,
             "center_lat": 6.796933,
             "center_lng": 81.328992,
@@ -391697,7 +391697,7 @@
         {
           "properties": {
             "id": "LK-8218090",
-            "name": "nan",
+            "name": "Pussellawa",
             "area_sqkm": 2.97,
             "center_lat": 6.900702,
             "center_lng": 81.255964,
@@ -396113,7 +396113,7 @@
         {
           "properties": {
             "id": "LK-9106080",
-            "name": "nan",
+            "name": "Ekneligoda North",
             "area_sqkm": 3.19,
             "center_lat": 6.794229,
             "center_lng": 80.373504,
@@ -400702,7 +400702,7 @@
         {
           "properties": {
             "id": "LK-9118005",
-            "name": "nan",
+            "name": "Egoda Waleboda",
             "area_sqkm": 6.33,
             "center_lat": 6.721134,
             "center_lng": 80.606566,
