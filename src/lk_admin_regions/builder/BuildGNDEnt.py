@@ -4,8 +4,9 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import \
-    CombineDCSAndHumData
+from lk_admin_regions.corrections.CombineDCSAndHumData import (
+    CombineDCSAndHumData,
+)
 
 log = Log("BuildGNDEnt")
 
@@ -167,6 +168,14 @@ class BuildGNDEnt:
         return ",".join(unique_cleaned_name_list)
 
     @classmethod
+    def _pick_name(cls, name1, name2):
+        if name1 and str(name1) != "nan":
+            return name1
+        if name2 and str(name2) != "nan":
+            return name2
+        raise ValueError(f"Both names are empty: '{name1}' vs. '{name2}'")
+
+    @classmethod
     def build_denormalized_gnd(
         cls, d, district_to_ed, pd_code_to_data, ed_idx
     ):
@@ -181,7 +190,7 @@ class BuildGNDEnt:
         return dict(
             # gnd
             gnd_id=d["dcs_gnd_id"],
-            gnd_name=d["hum_adm4_name"] or d["dcs_gnd_name"],
+            gnd_name=cls._pick_name(d["hum_adm4_name"], d["dcs_gnd_name"]),
             other_gnd_names=cls._combine_names(
                 [
                     d["hum_adm4_name"],
@@ -197,7 +206,7 @@ class BuildGNDEnt:
             center_lng=d["hum_center_lon"],
             # country
             country_id="LK",
-            country_name=d["hum_adm0_name"] or "Sri Lanka",
+            country_name=cls._pick_name(d["hum_adm0_name"], "Sri Lanka"),
             other_country_names=cls._combine_names(
                 [
                     d["hum_adm0_name"],
@@ -209,7 +218,9 @@ class BuildGNDEnt:
             ),
             # province
             province_id=d["dcs_province_id"],
-            province_name=d["hum_adm1_name"] or d["dcs_Province_Name"],
+            province_name=cls._pick_name(
+                d["hum_adm1_name"], d["dcs_Province_Name"]
+            ),
             other_province_names=cls._combine_names(
                 [
                     d["hum_adm1_name"],
@@ -221,7 +232,9 @@ class BuildGNDEnt:
             ),
             # district
             district_id=d["dcs_district_id"],
-            district_name=d["hum_adm2_name"] or d["dcs_District_Name"],
+            district_name=cls._pick_name(
+                d["hum_adm2_name"], d["dcs_District_Name"]
+            ),
             other_district_names=cls._combine_names(
                 [
                     d["hum_adm2_name"],
@@ -233,7 +246,7 @@ class BuildGNDEnt:
             ),
             # dsd
             dsd_id=d["dcs_dsd_id"],
-            dsd_name=d["hum_adm3_name"] or d["dcs_DSD_Name"],
+            dsd_name=cls._pick_name(d["hum_adm3_name"], d["dcs_DSD_Name"]),
             other_dsd_names=cls._combine_names(
                 [
                     d["hum_adm3_name"],
