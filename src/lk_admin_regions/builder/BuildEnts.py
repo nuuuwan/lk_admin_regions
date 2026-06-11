@@ -39,6 +39,7 @@ class BuildEnts:
         parents = []
         for parent_id, gnds_for_parent in gnds_by_parent.items():
             parent_name = gnds_for_parent[0][name_key]
+            other_names = gnds_for_parent[0][f"other_{parent_label}_names"]
 
             w_area_sqkm = 0
             w_center_lat = 0
@@ -58,6 +59,7 @@ class BuildEnts:
                 area_sqkm=round(w_area_sqkm, 2),
                 center_lat=round(center_lat, 6),
                 center_lng=round(center_lng, 6),
+                other_names=other_names,
             )
             if extra_fields:
                 for k in extra_fields:

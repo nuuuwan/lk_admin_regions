@@ -4,9 +4,8 @@ from functools import cache
 from fuzzywuzzy import fuzz
 from utils import JSONFile, Log, TSVFile
 
-from lk_admin_regions.corrections.CombineDCSAndHumData import (
-    CombineDCSAndHumData,
-)
+from lk_admin_regions.corrections.CombineDCSAndHumData import \
+    CombineDCSAndHumData
 
 log = Log("BuildGNDEnt")
 
@@ -146,6 +145,28 @@ class BuildGNDEnt:
         log.info(f"\tWrote {tsv_file}")
 
     @classmethod
+    def _combine_names(cls, name_list):
+        selected_name = None
+        for name in name_list:
+            if not name or str(name) == "nan":
+                break
+            selected_name = name
+            break
+
+        name_list = [name for name in name_list if name != selected_name]
+
+        def clean(name):
+            name = name.strip()
+            if not name or str(name) == "nan":
+                return None
+            return name
+
+        cleaned_name_list = [clean(name) for name in name_list]
+        cleaned_name_list = [name for name in cleaned_name_list if name]
+        unique_cleaned_name_list = list(sorted(set(cleaned_name_list)))
+        return ",".join(unique_cleaned_name_list)
+
+    @classmethod
     def build_denormalized_gnd(
         cls, d, district_to_ed, pd_code_to_data, ed_idx
     ):
@@ -157,15 +178,19 @@ class BuildGNDEnt:
         if d["dcs_dsd_id"] == "LK-5221":
             d["hum_adm3_name"] = "Kalmunai North"
 
-        if d["hum_adm4_name"] and str(d["hum_adm4_name"]) != "nan":
-            gnd_name = d["hum_adm4_name"]
-        else:
-            gnd_name = d["dcs_gnd_name"]
-
         return dict(
             # gnd
             gnd_id=d["dcs_gnd_id"],
-            gnd_name=gnd_name,
+            gnd_name=d["hum_adm4_name"] or d["dcs_gnd_name"],
+            other_gnd_names=cls._combine_names(
+                [
+                    d["hum_adm4_name"],
+                    d["dcs_gnd_name"],
+                    d["hum_adm4_name1"],
+                    d["hum_adm4_name2"],
+                    d["hum_adm4_name3"],
+                ],
+            ),
             gnd_num=d["dcs_gnd_num"],
             area_sqkm=d["hum_area_sqkm"],
             center_lat=d["hum_center_lat"],
@@ -173,27 +198,66 @@ class BuildGNDEnt:
             # country
             country_id="LK",
             country_name=d["hum_adm0_name"] or "Sri Lanka",
+            other_country_names=cls._combine_names(
+                [
+                    d["hum_adm0_name"],
+                    "Sri Lanka",
+                    d["hum_adm0_name1"],
+                    d["hum_adm0_name2"],
+                    d["hum_adm0_name3"],
+                ]
+            ),
             # province
             province_id=d["dcs_province_id"],
-            province_name=d["hum_adm1_name"] or d["dcs_province_name"],
+            province_name=d["hum_adm1_name"] or d["dcs_Province_Name"],
+            other_province_names=cls._combine_names(
+                [
+                    d["hum_adm1_name"],
+                    d["dcs_Province_Name"],
+                    d["hum_adm1_name1"],
+                    d["hum_adm1_name2"],
+                    d["hum_adm1_name3"],
+                ]
+            ),
             # district
             district_id=d["dcs_district_id"],
-            district_name=d["hum_adm2_name"] or d["dcs_district_name"],
+            district_name=d["hum_adm2_name"] or d["dcs_District_Name"],
+            other_district_names=cls._combine_names(
+                [
+                    d["hum_adm2_name"],
+                    d["dcs_District_Name"],
+                    d["hum_adm2_name1"],
+                    d["hum_adm2_name2"],
+                    d["hum_adm2_name3"],
+                ]
+            ),
             # dsd
             dsd_id=d["dcs_dsd_id"],
-            dsd_name=d["hum_adm3_name"] or d["dcs_dsd_name"],
+            dsd_name=d["hum_adm3_name"] or d["dcs_DSD_Name"],
+            other_dsd_names=cls._combine_names(
+                [
+                    d["hum_adm3_name"],
+                    d["dcs_DSD_Name"],
+                    d["hum_adm3_name1"],
+                    d["hum_adm3_name2"],
+                    d["hum_adm3_name3"],
+                ]
+            ),
             # ed
             ed_id=ed_id,
             ed_name=ed_name,
+            other_ed_names="",
             # pd
             pd_id=pd_data["id"],
             pd_name=pd_data["name"],
             pd_code=d["dcs_pd_code"],
+            other_pd_names="",
             # lg
             lg_id=d["dcs_lg_id"],
             lg_name=d["dcs_lg_name"],
             lg_code=d["dcs_lg_code"],
             lg_level=d["dcs_lg_level"],
+            other_lg_names="",
             # geo
             hum_adm0_pcode=d["hum_adm0_pcode"],
             hum_adm1_pcode=d["hum_adm1_pcode"],
@@ -248,6 +312,7 @@ class BuildGNDEnt:
             area_sqkm=round(float(denormalized_gnd["area_sqkm"]), 2),
             center_lat=round(float(denormalized_gnd["center_lat"]), 6),
             center_lng=round(float(denormalized_gnd["center_lng"]), 6),
+            other_names=denormalized_gnd["other_gnd_names"],
             # additional vars
             num=denormalized_gnd["gnd_num"],
             # parents
