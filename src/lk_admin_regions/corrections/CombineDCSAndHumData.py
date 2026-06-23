@@ -295,6 +295,9 @@ class CombineDCSAndHumData:
         # GROUP 2 - HUM - DCS
         for region_id in hum_minus_dcs:
             data_hum = region_id_to_data_hum[region_id]
+            gnd_name = str(data_hum["adm4_name"]).strip()
+            if gnd_name in ['nan', 'None']:
+                continue
             gnd_id = data_hum["gnd_id"]
             dsd_id = gnd_id[:7]
             dcs_data_candidate = dsd_id_to_combined_d_list[dsd_id][0]
