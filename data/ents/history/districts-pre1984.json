@@ -92,9 +92,9 @@
   {
     "id": "LK-41-pre1984",
     "name": "Jaffna (pre 1984)",
-    "area_sqkm": 2410.53,
-    "center_lat": 9.542045,
-    "center_lng": 80.221895,
+    "area_sqkm": 2409.6,
+    "center_lat": 9.542015,
+    "center_lng": 80.221882,
     "current_ids": [
       "LK-41",
       "LK-45"
@@ -133,9 +133,9 @@
   {
     "id": "LK-51",
     "name": "Batticaloa",
-    "area_sqkm": 2480.5,
-    "center_lat": 7.795426,
-    "center_lng": 81.478872,
+    "area_sqkm": 2469.9,
+    "center_lat": 7.79607,
+    "center_lng": 81.47809,
     "current_ids": [
       "LK-51"
     ]

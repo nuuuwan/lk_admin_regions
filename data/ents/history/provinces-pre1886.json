@@ -51,9 +51,9 @@
   {
     "id": "LK-4",
     "name": "Northern",
-    "area_sqkm": 9037.42,
-    "center_lat": 9.136573,
-    "center_lng": 80.344321,
+    "area_sqkm": 9036.49,
+    "center_lat": 9.136524,
+    "center_lng": 80.34433,
     "current_ids": [
       "LK-4"
     ]
@@ -61,9 +61,9 @@
   {
     "id": "LK-5-pre1886",
     "name": "Eastern (pre 1886)",
-    "area_sqkm": 13873.57,
-    "center_lat": 7.545203,
-    "center_lng": 81.380927,
+    "area_sqkm": 13862.96,
+    "center_lat": 7.545126,
+    "center_lng": 81.380713,
     "current_ids": [
       "LK-5",
       "LK-8103",

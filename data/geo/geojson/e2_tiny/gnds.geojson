@@ -405704,20 +405704,7 @@
       "id": "feature_07111",
       "type": "Feature",
       "properties": {
-        "id": "LK-4130000",
-        "name": "Kaithady North",
-        "area_sqkm": 0.93,
-        "center_lat": 9.619476,
-        "center_lng": 80.257965,
-        "other_names": "Kaithady North",
-        "num": "J/288",
-        "country_id": "LK",
-        "province_id": "LK-4",
-        "district_id": "LK-41",
-        "dsd_id": "LK-4130",
-        "ed_id": "EC-10",
-        "pd_id": "EC-10H",
-        "lg_id": "LG-41031"
+        "hum_id": "LK4130000"
       },
       "geometry": {
         "type": "Polygon",
@@ -452852,20 +452839,7 @@
       "id": "feature_07777",
       "type": "Feature",
       "properties": {
-        "id": "LK-5104002",
-        "name": "Punanai East ",
-        "area_sqkm": 0.14,
-        "center_lat": 7.913337,
-        "center_lng": 81.532042,
-        "other_names": "Punanai East",
-        "num": "211B",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5104",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51035"
+        "hum_id": "LK5104002"
       },
       "geometry": {
         "type": "Polygon",
@@ -452907,20 +452881,7 @@
       "id": "feature_07778",
       "type": "Feature",
       "properties": {
-        "id": "LK-5104003",
-        "name": "Punanai East ",
-        "area_sqkm": 0.01,
-        "center_lat": 7.919604,
-        "center_lng": 81.530725,
-        "other_names": "Punanai East",
-        "num": "211B",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5104",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51035"
+        "hum_id": "LK5104003"
       },
       "geometry": {
         "type": "Polygon",
@@ -452950,20 +452911,7 @@
       "id": "feature_07779",
       "type": "Feature",
       "properties": {
-        "id": "LK-5104004",
-        "name": "Punanai East ",
-        "area_sqkm": 0.02,
-        "center_lat": 7.926961,
-        "center_lng": 81.529266,
-        "other_names": "Punanai East",
-        "num": "211B",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5104",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51035"
+        "hum_id": "LK5104004"
       },
       "geometry": {
         "type": "Polygon",
@@ -453099,20 +453047,7 @@
       "id": "feature_07782",
       "type": "Feature",
       "properties": {
-        "id": "LK-5104013",
-        "name": "Punanai East ",
-        "area_sqkm": 0.02,
-        "center_lat": 7.918156,
-        "center_lng": 81.531174,
-        "other_names": "Punanai East",
-        "num": "211B",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5104",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51035"
+        "hum_id": "LK5104013"
       },
       "geometry": {
         "type": "Polygon",
@@ -454350,20 +454285,7 @@
       "id": "feature_07801",
       "type": "Feature",
       "properties": {
-        "id": "LK-5109012",
-        "name": "Nasivanthivu",
-        "area_sqkm": 0.01,
-        "center_lat": 7.90213,
-        "center_lng": 81.517384,
-        "other_names": "Nasivanthivu",
-        "num": "205C",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5109",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51005"
+        "hum_id": "LK5109012"
       },
       "geometry": {
         "type": "Polygon",
@@ -454507,20 +454429,7 @@
       "id": "feature_07804",
       "type": "Feature",
       "properties": {
-        "id": "LK-5109021",
-        "name": "Nasivanthivu",
-        "area_sqkm": 0.17,
-        "center_lat": 7.902228,
-        "center_lng": 81.530107,
-        "other_names": "Nasivanthivu",
-        "num": "205C",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5109",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51005"
+        "hum_id": "LK5109021"
       },
       "geometry": {
         "type": "Polygon",
@@ -454570,20 +454479,7 @@
       "id": "feature_07805",
       "type": "Feature",
       "properties": {
-        "id": "LK-5109022",
-        "name": "Nasivanthivu",
-        "area_sqkm": 0.09,
-        "center_lat": 7.896258,
-        "center_lng": 81.529952,
-        "other_names": "Nasivanthivu",
-        "num": "205C",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5109",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51005"
+        "hum_id": "LK5109022"
       },
       "geometry": {
         "type": "Polygon",
@@ -455117,20 +455013,7 @@
       "id": "feature_07814",
       "type": "Feature",
       "properties": {
-        "id": "LK-5109065",
-        "name": "Nasivanthivu",
-        "area_sqkm": 0.54,
-        "center_lat": 7.897505,
-        "center_lng": 81.524634,
-        "other_names": "Nasivanthivu",
-        "num": "205C",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5109",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51005"
+        "hum_id": "LK5109065"
       },
       "geometry": {
         "type": "Polygon",
@@ -456347,20 +456230,7 @@
       "id": "feature_07834",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112006",
-        "name": "Sittandy 3",
-        "area_sqkm": 0.87,
-        "center_lat": 7.798223,
-        "center_lng": 81.620795,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115006"
       },
       "geometry": {
         "type": "Polygon",
@@ -456437,20 +456307,7 @@
       "id": "feature_07836",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112014",
-        "name": "Sittandy 3",
-        "area_sqkm": 0.39,
-        "center_lat": 7.789386,
-        "center_lng": 81.605642,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115014"
       },
       "geometry": {
         "type": "Polygon",
@@ -456555,20 +456412,7 @@
       "id": "feature_07838",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112016",
-        "name": "Sittandy 3",
-        "area_sqkm": 0.15,
-        "center_lat": 7.79531,
-        "center_lng": 81.606313,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115016"
       },
       "geometry": {
         "type": "Polygon",
@@ -458742,20 +458586,7 @@
       "id": "feature_07875",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112200",
-        "name": "Sittandy 3",
-        "area_sqkm": 0.33,
-        "center_lat": 7.782865,
-        "center_lng": 81.598353,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115200"
       },
       "geometry": {
         "type": "Polygon",
@@ -458801,20 +458632,7 @@
       "id": "feature_07876",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112210",
-        "name": "Sittandy 3",
-        "area_sqkm": 0.18,
-        "center_lat": 7.78147,
-        "center_lng": 81.601416,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115210"
       },
       "geometry": {
         "type": "Polygon",
@@ -458848,20 +458666,7 @@
       "id": "feature_07877",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112215",
-        "name": "Sittandy 3",
-        "area_sqkm": 1.08,
-        "center_lat": 7.790254,
-        "center_lng": 81.627327,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115215"
       },
       "geometry": {
         "type": "Polygon",
@@ -458942,20 +458747,7 @@
       "id": "feature_07879",
       "type": "Feature",
       "properties": {
-        "id": "LK-5112235",
-        "name": "Sittandy 3",
-        "area_sqkm": 0.45,
-        "center_lat": 7.776349,
-        "center_lng": 81.60046,
-        "other_names": "Sittandy 3",
-        "num": "201 - 3",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5112",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12A",
-        "lg_id": "LG-51010"
+        "hum_id": "LK5115235"
       },
       "geometry": {
         "type": "Polygon",
@@ -463076,20 +462868,7 @@
       "id": "feature_07953",
       "type": "Feature",
       "properties": {
-        "id": "LK-5124009",
-        "name": "Kattankudy Division 1",
-        "area_sqkm": 0.02,
-        "center_lat": 7.676588,
-        "center_lng": 81.736167,
-        "other_names": "Kattankudy Division 1",
-        "num": "167",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5124",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12B",
-        "lg_id": "LG-51021"
+        "hum_id": "LK5124009"
       },
       "geometry": {
         "type": "Polygon",
@@ -463225,20 +463004,7 @@
       "id": "feature_07956",
       "type": "Feature",
       "properties": {
-        "id": "LK-5124017",
-        "name": "Kattankudy Division 1",
-        "area_sqkm": 0.03,
-        "center_lat": 7.676133,
-        "center_lng": 81.73902,
-        "other_names": "Kattankudy Division 1",
-        "num": "167",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5124",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12B",
-        "lg_id": "LG-51021"
+        "hum_id": "LK5124017"
       },
       "geometry": {
         "type": "Polygon",
@@ -464246,20 +464012,7 @@
       "id": "feature_07975",
       "type": "Feature",
       "properties": {
-        "id": "LK-5127018",
-        "name": "Kirankulam North",
-        "area_sqkm": 0.23,
-        "center_lat": 7.675781,
-        "center_lng": 81.742827,
-        "other_names": "Kirankulam North",
-        "num": "150",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5127",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12B",
-        "lg_id": "LG-51037"
+        "hum_id": "LK5127018"
       },
       "geometry": {
         "type": "Polygon",
@@ -465635,20 +465388,7 @@
       "id": "feature_08002",
       "type": "Feature",
       "properties": {
-        "id": "LK-5130011",
-        "name": "Munaikkadu West",
-        "area_sqkm": 1.25,
-        "center_lat": 7.557732,
-        "center_lng": 81.693734,
-        "other_names": "Munaikkadu West",
-        "num": "133A",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5130",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12C",
-        "lg_id": "LG-51039"
+        "hum_id": "LK5130011"
       },
       "geometry": {
         "type": "Polygon",
@@ -467141,20 +466881,7 @@
       "id": "feature_08028",
       "type": "Feature",
       "properties": {
-        "id": "LK-5133019",
-        "name": "Selvapuram",
-        "area_sqkm": 2.65,
-        "center_lat": 7.496799,
-        "center_lng": 81.656932,
-        "other_names": "Selvapuram",
-        "num": "107F",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5133",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12C",
-        "lg_id": "LG-51041"
+        "hum_id": "LK5133019"
       },
       "geometry": {
         "type": "Polygon",
@@ -471969,20 +471696,7 @@
       "id": "feature_08114",
       "type": "Feature",
       "properties": {
-        "id": "LK-5136230",
-        "name": "Kurukkalamadam North",
-        "area_sqkm": 0.83,
-        "center_lat": 7.596143,
-        "center_lng": 81.771739,
-        "other_names": "Kurukkalamadam North",
-        "num": "126C",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5136",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12C",
-        "lg_id": "LG-51038"
+        "hum_id": "LK5136230"
       },
       "geometry": {
         "type": "Polygon",
@@ -472016,20 +471730,7 @@
       "id": "feature_08115",
       "type": "Feature",
       "properties": {
-        "id": "LK-5136235",
-        "name": "Kurukkalamadam North",
-        "area_sqkm": 1.08,
-        "center_lat": 7.43606,
-        "center_lng": 81.803244,
-        "other_names": "Kurukkalamadam North",
-        "num": "126C",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5136",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12C",
-        "lg_id": "LG-51038"
+        "hum_id": "LK5136235"
       },
       "geometry": {
         "type": "Polygon",
@@ -472075,20 +471776,7 @@
       "id": "feature_08116",
       "type": "Feature",
       "properties": {
-        "id": "LK-5115007",
-        "name": "Eravur 03",
-        "area_sqkm": 0.05,
-        "center_lat": 7.779605,
-        "center_lng": 81.602816,
-        "other_names": "Eravur 03",
-        "num": "192",
-        "country_id": "LK",
-        "province_id": "LK-5",
-        "district_id": "LK-51",
-        "dsd_id": "LK-5115",
-        "ed_id": "EC-12",
-        "pd_id": "EC-12B",
-        "lg_id": "LG-51022"
+        "hum_id": "LK5139007"
       },
       "geometry": {
         "type": "Polygon",

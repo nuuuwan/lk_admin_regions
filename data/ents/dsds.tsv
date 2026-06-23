@@ -140,7 +140,7 @@ LK-4118	Valikamam East (Kopay)	108.75	9.736957	80.097029	கோப்பாய�
 LK-4121	Vadamaradchchi South-West (Karaveddy)	86.46	9.775903	80.183361	Vadamaradchi South-West (Karaveddy),கரவெட்டி,වඩමාරච්චි නිරිත (ක	LK-4	LK-41	EC-10		
 LK-4124	Vadamaradchchi East	189.15	9.612378	80.410335	Vadamaradchy East,மருதங்கேணி,වඩමාරච්චි නැගෙනහි	LK-4	LK-41	EC-10	EC-10G	LG-41035
 LK-4127	Vadamaradchi North (Point Pedro)	39.2	9.807963	80.218427	பருத்தித்துறை,වඩමාරච්චි උතුර (පේ	LK-4	LK-41	EC-10		
-LK-4130	Thenmaradchi (Chavakachcheri)	236.07	9.677007	80.189642	Thenmaradchi,சாவகச்சேரி,තේන්මාරච්චි (ජාවකච	LK-4	LK-41	EC-10	EC-10H	
+LK-4130	Thenmaradchi (Chavakachcheri)	235.15	9.677235	80.189372	Thenmaradchi,சாவகச்சேரி,තේන්මාරච්චි (ජාවකච	LK-4	LK-41	EC-10	EC-10H	
 LK-4133	Nallur	32.67	9.667633	80.049097	நல்லூர்,නල්ලූර්	LK-4	LK-41	EC-10	EC-10I	
 LK-4136	Jaffna	10.98	9.663344	80.021463	யாழ்ப்பாணம்,යාපනය	LK-4	LK-41	EC-10	EC-10J	LG-41011
 LK-4139	Islands South (Velanai)	90.73	9.622153	79.891398	Island South (Velanai),வேலணை,දුපත දකුණ (වෙලනයි)	LK-4	LK-41	EC-10	EC-10A	LG-41042
@@ -165,19 +165,19 @@ LK-4506	Kandavalai	274.3	9.445569	80.484949	Kandawalai,கண்டாவளை,
 LK-4509	Karachchi	395.57	9.359072	80.333852	கரைச்சி,කරච්චි	LK-4	LK-45	EC-10	EC-10K	LG-45031
 LK-4512	Poonakary	473.39	9.396612	80.168652	பூநகரி,පුනරීන්	LK-4	LK-45	EC-10	EC-10K	LG-45033
 LK-5103	Koralai Pattu North	515.5	8.088188	81.37461	Koralai Pattu North (Vaharai),கோறளைப் பற்று வடக்,කෝරළේ පත්තු උතුර	LK-5	LK-51	EC-12	EC-12A	LG-51035
-LK-5104	Koralai Pattu Central	8.04	7.928343	81.517588	கோரலைபத்து மத்திய,කෝරලේපත්තු මධ්‍යම	LK-5	LK-51	EC-12	EC-12A	
+LK-5104	Koralai Pattu Central	7.85	7.928654	81.517248	கோரலைபத்து மத்திய,කෝරලේපත්තු මධ්‍යම	LK-5	LK-51	EC-12	EC-12A	
 LK-5106	Koralai Pattu West	22.94	7.917486	81.494041	Koralaipattu West (Oddamavadi),கோறளைப் பற்று மேற்,කෝරළේ පත්තු බටහිර	LK-5	LK-51	EC-12	EC-12A	LG-51036
-LK-5109	Koralai Pattu	30.69	7.906709	81.546148	Koralai Pattu(Valachchenai),கோறளைப் பற்று,කෝරළේ පත්තු	LK-5	LK-51	EC-12	EC-12A	
+LK-5109	Koralai Pattu	29.89	7.906932	81.546683	Koralai Pattu(Valachchenai),கோறளைப் பற்று,කෝරළේ පත්තු	LK-5	LK-51	EC-12	EC-12A	
 LK-5110	Koralai Pattu South	598.36	7.864123	81.376528	Koralai Pattu South (Kiran),கோறளைப் பற்று தெற்,කෝරළේ පත්තු දකුණ	LK-5	LK-51	EC-12	EC-12A	
-LK-5112	Eravur Pattu	599.22	7.705871	81.453462	ஏறாவூர்ப் பற்று,එරාවූර් පත්තු	LK-5	LK-51	EC-12		
-LK-5115	Eravur Town	1.86	7.775874	81.608206	ஏறாவூர் நகரம்,එරාවූර් නගර	LK-5	LK-51	EC-12	EC-12B	LG-51022
+LK-5112	Eravur Pattu	595.76	7.705386	81.452526	ஏறாவூர்ப் பற்று,එරාවූර් පත්තු	LK-5	LK-51	EC-12		
+LK-5115	Eravur Town	1.81	7.775767	81.608359	ஏறாவூர் நகரம்,එරාවූර් නගර	LK-5	LK-51	EC-12	EC-12B	LG-51022
 LK-5118	Manmunai North	45.7	7.726202	81.684938	மண்முனை வடக்கு,මාන්මුනේ උතුර	LK-5	LK-51	EC-12	EC-12B	LG-51011
 LK-5121	Manmunai West	280.58	7.632937	81.598993	மண்முனை மேற்கு,මාන්මුනේ බටහිර	LK-5	LK-51	EC-12	EC-12B	LG-51040
-LK-5124	Kattankudy	3.88	7.6829	81.732091	காத்தான்குடி,කාත්තන්කුඩි	LK-5	LK-51	EC-12	EC-12B	LG-51021
-LK-5127	Manmunai Pattu	25.45	7.639195	81.753752	Manmunai Pattu(Araipattai),மண்முனைப் பற்று,මාන්මුනේ පත්තු	LK-5	LK-51	EC-12	EC-12B	LG-51037
-LK-5130	Manmunai South West	145.14	7.567598	81.661919	Manmunai South-West,மண்முனை தென் மேற்க,මාන්මුනේ නිරිත	LK-5	LK-51	EC-12	EC-12C	LG-51039
-LK-5133	Porativu Pattu	159.21	7.497825	81.704155	Poratheevu Pattu,போரதீவுப்பற்று,පොරතිවු පත්තු	LK-5	LK-51	EC-12	EC-12C	LG-51041
-LK-5136	Manmunai South & Eruvil Pattu	43.92	7.522348	81.791102	Manmunai South & Eruvil pattu,மண்முனை தெற்கும் எ,මාන්මුනේ දකුණ සහ එ	LK-5	LK-51	EC-12	EC-12C	LG-51038
+LK-5124	Kattankudy	3.82	7.682997	81.732007	காத்தான்குடி,කාත්තන්කුඩි	LK-5	LK-51	EC-12	EC-12B	LG-51021
+LK-5127	Manmunai Pattu	25.22	7.638865	81.75385	Manmunai Pattu(Araipattai),மண்முனைப் பற்று,මාන්මුනේ පත්තු	LK-5	LK-51	EC-12	EC-12B	LG-51037
+LK-5130	Manmunai South West	143.89	7.567683	81.661643	Manmunai South-West,மண்முனை தென் மேற்க,මාන්මුනේ නිරිත	LK-5	LK-51	EC-12	EC-12C	LG-51039
+LK-5133	Porativu Pattu	156.56	7.497842	81.704954	Poratheevu Pattu,போரதீவுப்பற்று,පොරතිවු පත්තු	LK-5	LK-51	EC-12	EC-12C	LG-51041
+LK-5136	Manmunai South & Eruvil Pattu	42.01	7.5231	81.791174	Manmunai South & Eruvil pattu,மண்முனை தெற்கும் எ,මාන්මුනේ දකුණ සහ එ	LK-5	LK-51	EC-12	EC-12C	LG-51038
 LK-5203	Dehiattakandiya	374.18	7.626104	81.073565	தெகியத்தகண்டிய,දෙහිඅත්තකණ්ඩිය	LK-5	LK-52	EC-13	EC-13A	LG-52034
 LK-5206	Padiyathalawa	388.23	7.422272	81.261851	பதியத்தலாவை,පදියතලාව	LK-5	LK-52	EC-13	EC-13A	LG-52041
 LK-5209	Mahaoya	680.41	7.55649	81.350833	மகா ஓயா,මහඔය	LK-5	LK-52	EC-13	EC-13A	LG-52038

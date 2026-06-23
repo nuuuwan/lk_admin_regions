@@ -57104,9 +57104,9 @@
       "properties": {
         "id": "EC-10",
         "name": "Jaffna",
-        "area_sqkm": "2410.53",
-        "center_lat": "9.542044",
-        "center_lng": "80.221895",
+        "area_sqkm": "2409.6",
+        "center_lat": "9.542014",
+        "center_lng": "80.221882",
         "other_names": "",
         "province_id": "LK-4",
         "district_id": ""
@@ -114966,9 +114966,9 @@
       "properties": {
         "id": "EC-12",
         "name": "Batticaloa",
-        "area_sqkm": "2480.5",
-        "center_lat": "7.795426",
-        "center_lng": "81.478872",
+        "area_sqkm": "2469.9",
+        "center_lat": "7.79607",
+        "center_lng": "81.47809",
         "other_names": "",
         "province_id": "LK-5",
         "district_id": "LK-51"

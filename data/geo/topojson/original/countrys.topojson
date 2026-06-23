@@ -7,9 +7,9 @@
           "properties": {
             "id": "LK",
             "name": "Sri Lanka",
-            "area_sqkm": "65983.58",
-            "center_lat": "7.621863",
-            "center_lng": "80.698448",
+            "area_sqkm": "65972.05",
+            "center_lat": "7.621831",
+            "center_lng": "80.6983",
             "other_names": "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8,\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf"
           },
           "type": "MultiPolygon",
