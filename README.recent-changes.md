@@ -1,6 +1,8 @@
 # Recent Changes to Administrative Regions
 
-## 2024-07-16 — Extraordinary Gazette No. 2393/12
+## Divisional Secretariat Divisions
+
+### 2024-07-16 — Extraordinary Gazette No. 2393/12
 
 **Source:** [doc.pdf](https://github.com/nuuuwan/lk_legal_docs/blob/data_lk_extraordinary_gazettes_2020s/data/lk_extraordinary_gazettes_2020s/2020s/2024/2024-07-16-2024-07-16-2393-12-en/doc.pdf)
 
@@ -12,7 +14,7 @@
 
 Kalmunai North (the "Tamil" Division) was never cleanly merged or abolished — it was created without the land and financial powers other DSDs hold. The imbalance traces to 1987 (Gazette 453/19), when Kalmunai's councils were amalgamated with the Muslim sub-office controlling land and finance, and to 1993, when Kalmunai North was nominally upgraded to DSD status but blocked from exercising those powers by political decisions. The grievance flared again in March 2024, when a government move to formally subordinate it under Kalmunai South triggered protests. So the subordination dates to inception (1987/1993) rather than any single later event. [By @nuuuwan]
 
-## 2019-10-02 — Extraordinary Gazette No. 2147/28
+### 2019-10-02 — Extraordinary Gazette No. 2147/28
 
 **Source:** [doc.pdf](https://github.com/nuuuwan/lk_legal_docs/blob/data_lk_extraordinary_gazettes_2010s/data/lk_extraordinary_gazettes_2010s/2010s/2019/2019-10-29-2019-10-29-2147-28-en/doc.pdf)
 
@@ -34,3 +36,44 @@ Kalmunai North (the "Tamil" Division) was never cleanly merged or abolished — 
 **Ratnapura (`LK-91`)**
 
 - Balangoda (`LK-9118`) → Balangoda (`LK-9118`) + Kaltota (`LK-9119`)
+
+### Related Note from the *[Census of Population and Housing - 2024 - Report](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Preliminary_Report.pdf)*
+
+>> "In the 2012 census, 331 Divisional Secretariat Divisions were established, while in the 2024 census, the number of Divisional Secretariat Divisions reported as 340. The change in the number of Divisional Secretariat Divisions has been made in accordance with the amendments made by the **Extraordinary Gazette of the Democratic Socialist Republic of Sri Lanka No. 2147/28** issued on 29th October 2019.
+
+>> "Accordingly, the five previous Divisional Secretariat Divisions in **Nuwara Eliya District** have been established as ten Divisional Secretariat Divisions, Hikkaduwa Divisional Secretariat Division in **Galle District** has been divided into three Divisional Secretariat Divisions, Baddegama Divisional Secretariat Division in Galle District has been divided into two Divisional Secretariat Divisions and Balangoda Divisional Secretariat Division in **Ratnapura District** has been divided into two Divisional Secretariat Divisions."
+
+>> "Furthermore, the total number of Divisional Secretariat Divisions in **Ampara District** (20) has also included the Kalmunai North Sub-Divisional Secretariat. Accordingly, the total number of Divisional Secretariat Divisions in the country has become 340."
+
+Source: <https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Preliminary_Report.pdf>
+
+## Grama Niladhari Divisions
+
+### Moragahakanda and Kaluganga Projects
+
+The **Naula DSD (LK-2209)** lost 5 GNDs:
+
+- Medapihilla (LK-2209125)
+- Kadawatha (LK-2209130)
+- Galporugolla (LK-2209135)
+- Elagamuwa (LK-2209140)
+- Kongahawela (LK-2209260)
+
+The **Laggala-Pallegama DSD (LK-2224)** lost 8 GNDs:
+
+- Ganga Henwala (LK-2224100)
+- Karadamulla (LK-2224105)
+- Gonawala (LK-2224110)
+- Laggala-Pallegama (LK-2224115)
+- Miniranketiya (LK-2224120)
+- Rawanagama (LK-2224125)
+- Imaduwa (LK-2224150)
+- Rambukoluwa (LK-2224155)
+
+### Related Note from the *[Census of Population and Housing - 2024 - Report](https://www.statistics.gov.lk/Resource/en/Population/CPH_2024/CPH2024_Preliminary_Report.pdf)*
+
+>> "The number of Grama Niladhari Divisions at the time of the 2012 census was 14,021. However, this number has been revised with the changes in the terrain due to various projects implemented in the country and the current number of Grama Niladhari Divisions in the country (in 2024) has been 14,008.
+
+>> Specifically, the Moragahakanda project led to the submergence of five Grama Niladhari Divisions in the **Naula Divisional Secretariat Division** of Matale District."
+
+>> "Similarly, the Kaluganga project caused the submergence of eight Grama Niladhari Divisions in the **Laggala Pallegama Divisional Secretariat Division** of the same district. As a result, the number of Grama Niladhari Divisions in Matale District was adjusted from 545 to 532.
